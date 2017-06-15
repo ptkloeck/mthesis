@@ -1,0 +1,41 @@
+are/VBP either/RB (\w+)/VBN or/CC (\w+)/VB ,/, "/''	1
+to/TO (\w+)/VB --/: or/CC (\w+)/VB an/DT	1
+been/VBN threatening/JJ ,/, (\w+)/VB or/CC (\w+)/VB ,/,	1
+few/JJ competitors/NNS (\w+)/VB and/CC (\w+)/VB	1
+Prime/NNP ministers/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+several/JJ times/NNS to/TO (\w+)/VB dollars/NNS and/CC (\w+)/VB yen/NNS	4
+(\w+)/VB and/CC (\w+)/VB can/MD get/VB	1
+When/WRB you/PRP (\w+)/VB or/CC (\w+)/VB stock/NN	1
+to/TO (\w+)/VB to/TO (\w+)/VB vaccination/NN against/IN	1
+"/'' presume/VBP to/TO (\w+)/VB or/CC (\w+)/VB careers/NNS	1
+Territories/NNPS is/VBZ (\w+)/VBN to/TO (\w+)/VB	1
+seek/VB to/TO (\w+)/VB low/JJ and/CC (\w+)/VB high/JJ	1
+Should/VBZ they/PRP (\w+)/VB the/DT scrimmage/NN inside/RB and/CC (\w+)/VB out/RP of/IN the/DT	1
+seen/VBN him/PRP (\w+)/VB and/CC (\w+)/VB multiple/JJ	2
+said/VBD they/PRP (\w+)/VBP to/TO (\w+)/VB endorsements/NNS	1
+those/DT who/WP (\w+)/VBP to/TO (\w+)/VB anyone/NN outside/NN of/IN	1
+going/VBG to/TO (\w+)/VB it/PRP ,/, (\w+)/VB	1
+style/NN that/IN we/PRP (\w+)/VBP with/IN and/CC do/VBP n't/RB (\w+)/VB ./.	1
+taxes/NNS rarely/RB (\w+)/VB or/CC (\w+)/VB a/DT	1
+,/, (\w+)/VB to/TO school/NN ,/, (\w+)/VB home/NN ,/,	1
+If/IN I/PRP (\w+)/VBP to/TO (\w+)/VB (/JJ games/NNS	1
+you/PRP just/RB (\w+)/VBP to/TO hope/VB you/PRP (\w+)/VB it/PRP he/PRP stated/VBD	1
+to/TO (\w+)/VB enough/JJ to/TO (\w+)/VB	1
+will/MD (\w+)/VB ,/, register/VB and/CC (\w+)/VB new/JJ pharmaceutical/JJ products/NNS	2
+investors/NNS to/TO (\w+)/VB and/CC (\w+)/VB a/DT wide/JJ	1
+three/CD spaceships/NNS would/MD (\w+)/VB and/CC (\w+)/VB	1
+and/CC (\w+)/VB ,/, and/CC false/JJ hope/NN (\w+)/VBP out/RP	1
+says/VBZ builders/NNS can/MD (\w+)/VB deadlines/NNS and/CC owners/NNS (\w+)/VB	2
+can/MD even/RB (\w+)/VB and/CC (\w+)/VB the/DT seeds/NNS (/VBZ	2
+(\w+)/VBP or/CC (\w+)/VBP either/DT operating/VBG	1
+will/MD (\w+)/VB today/NN and/CC (\w+)/VB on/IN	1
+enough/JJ to/TO (\w+)/VB Accorsi/NNP (\w+)/VB out/RP in/IN a/DT	1
+index/NN fund/NN will/MD (\w+)/VB and/CC (\w+)/VB 100/CD	1
+(\w+)/VB or/CC (\w+)/VB overall/JJ tax/NN	1
+to/TO (\w+)/VB routines/NNS that/WDT often/RB (\w+)/VBP	1
+forced/VBN to/TO (\w+)/VB on/IN apple/NN crates/NNS or/CC (\w+)/VB for/IN 100/CD minutes/NNS	1
+(\w+)/VBP one/CD brand/NN name/NN may/MD (\w+)/VB	1
+lets/VBZ customers/NNS (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB to/TO us/PRP ,/, we/PRP (\w+)/VBP	1
+that/WDT do/VBP n't/RB (\w+)/VB and/CC (\w+)/VB as/RB much/JJ	1
+lose/VB two/CD ,/, (\w+)/VB two/CD ,/, (\w+)/VB one/CD	1

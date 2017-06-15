@@ -1,0 +1,68 @@
+'''
+Created on Apr 27, 2016
+
+@author: peter
+'''
+import nltk
+from _collections import defaultdict
+import os
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), os.pardir, os.pardir))
+
+from anton import config
+from anton.util import util
+from anton.learn import learn
+
+def gre_to_classifier_tsv():
+    
+    wsj = nltk.corpus.brown.tagged_words(tagset="universal")
+    cfd = nltk.ConditionalFreqDist(wsj)
+
+    with open(config.path_to_res("gre_testset"), 'r') as gre_raw:
+        with open(config.path_to_res("gre_testset").replace(".txt", ".tsv"), 'w') as gre_data:
+            
+            gre_data.write("\tpos_tag\n")
+            for line in gre_raw:
+                line = line.rstrip('\n')
+                
+                parts = line.split(':')
+
+                target = parts[0]
+                choices = parts[1].strip().split(' ')
+
+                words = []
+                words.append(target)
+                words.extend(choices)
+   
+                pos = most_probable_pos_tag(words, cfd)
+            
+                for choice in choices:
+                    pair = util.order_pair((target, choice))
+                    index_key = util.ordered_pair_to_index_key(pair)
+                    gre_data.write(index_key + '\t' + pos + '\n')
+                
+def most_probable_pos_tag(words, cfd):
+    
+    tag_to_freq = defaultdict(int)
+    for word in words:
+        for tag_freq in cfd[word].most_common():
+            pos = tag_freq[0]
+            freq = tag_freq[1]
+            tag_to_freq[pos] += freq
+    
+    max_freq = 0 
+    most_frequent_tag = "default"                      
+    for tag, freq in tag_to_freq.items():
+        if freq >= max_freq:
+            max_freq = freq
+            most_frequent_tag = tag
+            
+    return most_frequent_tag.lower()
+
+def accuracy_on_gre():
+    
+   
+if __name__ == "__main__":
+    
+    gre_to_classifier_tsv()

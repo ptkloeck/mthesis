@@ -1,0 +1,31 @@
+City/NNP cabdrivers/NNS frequently/RB (\w+)/VBP to/TO (\w+)/VB	2
+they/PRP (\w+)/VBP in/RP ,/, they/PRP (\w+)/VBP out/RP ,/,	1
+(\w+)/VB ,/, but/CC (\w+)/VB seats/NNS	5
+to/TO (\w+)/VB and/CC (\w+)/VB ,/, that/IN	1
+us/PRP (\w+)/VBP and/CC (\w+)/VBP schedules/NNS and/CC	1
+to/TO (\w+)/VB some/DT radios/NNS and/CC (\w+)/VB them/PRP to/TO	1
+(\w+)/VB and/CC (\w+)/VB commodities/NNS for/IN their/PRP$	1
+for/IN someone/NN to/TO (\w+)/VB out/RP and/CC (\w+)/VB	1
+spinach/JJ pies/NNS ,/, (\w+)/VB or/CC (\w+)/VB the/DT few/JJ that/WDT	1
+can/MD (\w+)/VB to/TO (\w+)/VB on/IN that/DT one/NN	1
+,/, (\w+)/VB themselves/PRP and/CC (\w+)/VB themselves/PRP	1
+to/TO (\w+)/VB on/IN Thursday/NNP and/CC (\w+)/VB on/IN	1
+(\w+)/VB 14/CD games/NNS ,/, (\w+)/VBP forced/VBN the/DT	2
+,/, so/CC please/VB (\w+)/VB the/DT chance/NN to/TO (\w+)/VB	1
+to/TO (\w+)/VB a/DT step/NN back/RB and/CC (\w+)/VB myself/PRP time/NN to/TO	4
+they/PRP (\w+)/VBP it/PRP and/CC I/PRP (\w+)/VBP it/PRP ./.	1
+but/CC to/TO (\w+)/VB or/CC (\w+)/VB various/JJ	1
+help/VB clients/NNS (\w+)/VB risk/NN and/CC (\w+)/VB productivity/NN	1
+static/JJ pages/NNS that/WDT (\w+)/VBP search/NN functions/NNS ,/, (\w+)/VBP nonworking/JJ links/NNS	1
+(\w+)/VB a/DT dog/NN and/CC instead/RB (\w+)/VBD two/CD other/JJ vehicles/NNS	1
+(\w+)/VBP today/NN ,/, do/VBP n't/RB (\w+)/VB a/DT playoff/NN	1
+Congress/NNP must/MD (\w+)/VB or/CC (\w+)/VB the/DT whole/JJ	2
+to/TO (\w+)/VB one/CD thing/NN and/CC (\w+)/VB short/RB	2
+line/NN ,/, (\w+)/VB an/DT afterthought/NN ,/, (\w+)/VB a/DT feeling/NN	1
+n't/RB (\w+)/VB long/RB for/IN someone/NN to/TO (\w+)/VB	1
+will/MD lease/VB ,/, (\w+)/VB ,/, (\w+)/VB and/CC maintain/VB	1
+(\w+)/VB computers/NNS and/CC would/MD (\w+)/VB	1
+same/JJ :/: (/NNP (\w+)/VB ital/JJ )/NNS really/RB (/JJ (\w+)/VB ital/JJ )/NNP	1
+(\w+)/VB his/PRP$ decision/NN to/TO (\w+)/VB Iraq/NNP from/IN criticism/NN	1
+spots/NNS can/MD (\w+)/VB suddenly/RB and/CC (\w+)/VB fast/RB ,/,	2
+bank/VBP decisions/NNS to/TO (\w+)/VB or/CC (\w+)/VB gold/JJ (/NNS	1

@@ -1,0 +1,104 @@
+my/PRP$ (\w+)/NN ,/, my/PRP$ (\w+)/NN ,/, they/PRP	1
+marks/NNS on/IN (\w+)/NN and/CC (\w+)/NN ,/, Shell/NNP wo/MD	1
+signals/VBZ the/DT (\w+)/NN of/IN the/DT (\w+)/NN of/IN the/DT	2
+(\w+)/NN was/VBD Eeyore/NNP ,/, her/PRP$ (\w+)/NN Kanga/NN ,/,	4
+support/VB her/PRP$ 12-year-old/JJ (\w+)/NN and/CC 14-year-old/JJ (\w+)/NN	1
+I/PRP shot/VBD a/DT (\w+)/NN ,/, middle/NN and/CC (\w+)/NN	1
+her/PRP$ (\w+)/NN ,/, (\w+)/NN or/CC some/DT other/JJ	1
+We/PRP project/VBP that/IN (\w+)/NN will/MD soon/RB outstrip/VB (\w+)/NN	1
+71-year-old/JJ (\w+)/NN and/CC a/DT 69-year-old/JJ (\w+)/NN	1
+our/PRP$ efforts/NNS a/DT (\w+)/NN or/CC a/DT (\w+)/NN ./. ``/``	1
+are/VBP in/IN short/JJ (\w+)/NN ,/, and/CC (\w+)/NN is/VBZ strong/JJ	1
+an/DT (\w+)/NN and/CC (\w+)/NN ,/, James/NNP and/CC	1
+Green/NNP said/VBD in/IN (\w+)/NN to/TO the/DT first/JJ (\w+)/NN of/IN the/DT day/NN	1
+watched/VBN and/CC filmed/VBN (\w+)/NN and/CC (\w+)/NN	1
+,/, like/IN a/DT (\w+)/NN beating/VBG a/DT (\w+)/NN	2
+proposition/NN :/: (\w+)/NN and/CC (\w+)/NN	1
+and/CC helped/VBN one/CD (\w+)/NN and/CC one/CD (\w+)/NN set/NN world/NN records/NNS	1
+using/VBG (\w+)/NN as/IN (\w+)/NN ./.	1
+(\w+)/NN concerns/NNS amidst/VBD strong/JJ (\w+)/NN for/IN energy/NN	3
+in/IN her/PRP$ (\w+)/NN 's/POS Striptease/NNP and/CC her/PRP$ (\w+)/NN 's/POS Hostage/NNP	1
+with/IN their/PRP$ (\w+)/NN and/CC (\w+)/NN feedback/NN	1
+follows/VBZ as/IN (\w+)/NN does/VBZ to/TO (\w+)/NN	2
+evaluate/VB new/JJ (\w+)/NN and/CC (\w+)/NN products/NNS	2
+(\w+)/NN ,/, a/DT six-year-old/JJ (\w+)/NN ,/, and/CC a/DT	1
+(\w+)/NN when/WRB a/DT (\w+)/NN walked/VBD up/RP	1
+Tuesday/NNP (\w+)/NN ,/, the/DT (\w+)/NN after/IN Lamoriello/NNP	1
+Austrian/JJ soldiers/NNS working/VBG (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN and/CC benzoyl/NN peroxide/NN at/IN (\w+)/NN ,/, ''/'' Dietz/NNP	1
+strong/JJ (\w+)/NN ,/, (\w+)/NN	2
+Martz/NNP 's/POS pass-heavy/JJ (\w+)/NN and/CC complement/VB a/DT (\w+)/NN that/WDT leads/VBZ	1
+(\w+)/NN rescued/VBD her/PRP$ (\w+)/NN after/IN a/DT	2
+committees/NNS had/VBD (\w+)/NN and/CC (\w+)/NN views/NNS ,/, and/CC	1
+regime/NN only/RB through/IN (\w+)/NN ,/, not/RB (\w+)/NN ,/, among/IN	1
+welcome/JJ (\w+)/NN to/TO a/DT perennially/JJ awkward/JJ (\w+)/NN	1
+of/IN (\w+)/NN manufacturers/NNS and/CC (\w+)/NN developers/NNS	2
+(\w+)/NN awakened/VBN to/TO find/VB a/DT (\w+)/NN having/VBG sex/NN	1
+third-quarter/JJ (\w+)/NN and/CC retook/VBD the/DT (\w+)/NN briefly/NN	1
+,/, Virginia/NNP ,/, (\w+)/NNP Joel/NNP ,/, (\w+)/NN	1
+not/RB having/VBG a/DT (\w+)/NN or/CC (\w+)/NN at/IN	1
+syllable/NN at/IN the/DT (\w+)/NN or/CC (\w+)/NN ,/, change/VBP	1
+between/IN (\w+)/NN and/CC (\w+)/NN due/JJ to/TO	1
+Any/DT (\w+)/NN who/WP "/`` beats/VBZ his/PRP$ (\w+)/NN bloody/NN	1
+pick/VBP the/DT (\w+)/NN of/IN incarceration/NN over/IN (\w+)/NN	1
+family/NN of/IN (\w+)/NN and/CC (\w+)/NN	4
+not/RB inter/VB his/PRP$ (\w+)/NN 's/POS remains/NNS in/IN his/PRP$ (\w+)/NN 's/POS tomb/NN ./.	1
+Democrats/NNS ,/, one/CD (\w+)/NN and/CC one/CD maybe/RB (\w+)/NN ,/, maybe/RB not/RB	2
+weighty/JJ subjects/NNS --/: (\w+)/NN ,/, (\w+)/NN	2
+(\w+)/NN to/TO its/PRP$ June/NNP 2005/CD (\w+)/NN ,/, the/DT equity/NN	1
+since/IN Bush/NNP 's/POS (\w+)/NN of/IN Kerry/NNP ,/, a/DT (\w+)/NN that/WDT came/VBD	1
+key/JJ because/IN the/DT (\w+)/NN and/CC (\w+)/NN differ/VBP	1
+dominant/JJ (\w+)/NN and/CC (\w+)/NN runners/NNS in/IN the/DT	1
+with/IN their/PRP$ (\w+)/NN ,/, Brad/NNP ,/, and/CC (\w+)/NN	2
+(\w+)/NN and/CC (\w+)/NN are/VBP well-traveled/JJ	1
+./. The/DT (\w+)/NN has/VBZ aggressively/RB challenged/VBN (\w+)/NN	1
+to/TO the/DT (\w+)/NN or/CC (\w+)/NN as/IN	1
+on/IN the/DT (\w+)/NN ,/, Luque/NNP on/IN the/DT (\w+)/NN and/CC us/PRP	1
+decide/VBP that/IN the/DT (\w+)/NN and/CC (\w+)/NN should/MD sell/VB	1
+(\w+)/NN had/VBD taken/VBN a/DT second/JJ (\w+)/NN "/'' behind/IN my/PRP$	1
+a/DT 10-year-old/JJ (\w+)/NN and/CC an/DT 8-year-old/JJ (\w+)/NN ,/, did/VBD	1
+tool/NN from/IN (\w+)/NN to/TO (\w+)/NN when/WRB	1
+a/DT 102-96/CD (\w+)/NN to/TO take/VB a/DT 107-106/JJ (\w+)/NN with/IN 2/CD	1
+father/NN not/CC the/DT (\w+)/NN but/CC the/DT (\w+)/NN	1
+court-martial/NN ;/: his/PRP$ (\w+)/NN or/CC (\w+)/NN will/MD	1
+(\w+)/NN and/CC (\w+)/NN differences/NNS here/RB	1
+a/DT Swiss/JJ writer/NN (\w+)/NN and/CC Austrian/JJ actress/NN (\w+)/NN ,/, her/PRP	1
+have/VBP been/VBN (\w+)/NN or/CC (\w+)/NN	1
+'s/VBZ a/DT (\w+)/NN or/CC a/DT (\w+)/NN or/CC there/EX	1
+(\w+)/NN all/DT right/RB ,/, but/CC (\w+)/NN did/VBD she/PRP teach/VBP	2
+(\w+)/NN and/CC (\w+)/NN "/'' of/IN	3
+the/DT (\w+)/NN or/CC (\w+)/NN of/IN any/DT	29
+did/VBD not/RB claim/VB (\w+)/NN or/CC (\w+)/NN	1
+As/IN a/DT (\w+)/NN of/IN a/DT (\w+)/NN with/IN Down/NNP	1
+(\w+)/NN was/VBD erratic/JJ and/CC their/PRP$ (\w+)/NN failed/VBD to/TO punish/VB	1
+(\w+)/NN and/CC (\w+)/NN ,/, depending/VBG on/IN	1
+an/DT (\w+)/NN ,/, it/PRP 's/VBZ a/DT (\w+)/NN ./.	1
+that/DT (\w+)/NN ,/, or/CC the/DT next/JJ (\w+)/NN	2
+the/DT excess/NN of/IN (\w+)/NN over/IN (\w+)/NN stood/VBD	2
+(\w+)/NN kisses/VBZ a/DT (\w+)/NN and/CC caresses/VBZ her/PRP$	1
+told/VBN by/IN her/PRP$ (\w+)/NN that/IN smoking/NN killed/VBD her/PRP$ (\w+)/NN ./. "/''	1
+lost/VBD his/PRP$ (\w+)/NN in/IN 1998/CD ,/, his/PRP$ (\w+)/NN in/IN 2004/CD	1
+with/IN a/DT smothering/JJ (\w+)/NN ,/, but/CC its/PRP$ (\w+)/NN may/MD	2
+But/CC the/DT (\w+)/NN of/IN the/DT (\w+)/NN for/IN the/DT	1
+(\w+)/NN is/VBZ another/DT person/NN 's/POS (\w+)/NN ,/,	1
+been/VBN the/DT incredible/JJ (\w+)/NN partners/NNS ,/, the/DT (\w+)/NN partners/NNS ,/, the/DT	1
+(\w+)/NN survived/VBD tuberculosis/NNP ,/, his/PRP$ (\w+)/NN had/VBD	1
+geek-speak/VB about/RB the/DT (\w+)/NN ,/, (\w+)/NN	2
+that/WDT will/MD turn/VB (\w+)/NN into/IN (\w+)/NN	1
+than/IN by/IN market/NN (\w+)/NN and/CC (\w+)/NN	1
+in/IN (\w+)/NN and/CC (\w+)/NN for/IN possible/JJ	2
+a/DT simple/JJ (\w+)/NN generates/VBZ a/DT complicated/JJ (\w+)/NN	1
+'re/VBP more/JJR (\w+)/NN than/IN (\w+)/NN ./.	1
+Hurricane/NNP 's/POS pressure/NN (\w+)/NN can/MD disrupt/VB Miami/NNP 's/POS (\w+)/NN and/CC create/VB	1
+year/NN 's/POS shortest/JJS (\w+)/NN and/CC longest/JJS (\w+)/NN ,/, occurred/VBD	1
+(\w+)/NN and/CC a/DT (\w+)/NN ,/, "/'' but/CC	1
+./. Enter/VB a/DT (\w+)/NN my/PRP$ age/NN and/CC the/DT (\w+)/NN of/IN	5
+watched/VBD its/PRP$ giddy/JJ (\w+)/NN and/CC sickening/NN (\w+)/NN remember/VBP	1
+showed/VBD her/PRP$ (\w+)/NN and/CC (\w+)/NN shortly/RB	1
+Along/IN with/IN his/PRP$ (\w+)/NN and/CC (\w+)/NN	2
+provider/NN and/CC (\w+)/NN and/CC (\w+)/NN	1
+His/PRP$ (\w+)/NN Sue/NN says/VBZ her/PRP$ (\w+)/NN has/VBZ	1
+social/JJ change/NN from/IN (\w+)/NN to/TO (\w+)/NN ,/, "/'' Dr/NNP	1
+'re/VBP a/DT harder/RB (\w+)/NN or/CC (\w+)/NN than/IN I/PRP	1
+(\w+)/NN pulling/VBG a/DT small/JJ (\w+)/NN 's/POS pants/NNS down/RB	1
+(\w+)/NN and/CC (\w+)/NN can/MD not/RB stay/VB	1

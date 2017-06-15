@@ -1,0 +1,42 @@
+for/IN companies/NNS to/TO (\w+)/VB and/CC (\w+)/VB workers/NNS ,/,	1
+People/NNS who/WP (\w+)/VBP guns/NNS (\w+)/VBP terrorists/NNS too/RB	1
+hoping/VBG to/TO (\w+)/VB yields/NNS and/CC (\w+)/VB harvest/NN costs/NNS	1
+the/DT item/NN will/MD (\w+)/VB or/CC (\w+)/VB before/IN	1
+truck/NN company/NN (\w+)/VB or/CC (\w+)/VB the/DT turnpike/NN	1
+one/CD you/PRP (\w+)/VBP and/CC people/NNS (\w+)/VBP ./.	1
+allow/VB companies/NNS to/TO (\w+)/VB and/CC (\w+)/VB pollution/NN credits/NNS	1
+that/WDT want/VBP to/TO (\w+)/VB status/FW quo/FW and/CC not/RB (\w+)/VB are/VBP	1
+seems/VBZ destined/VBN to/TO (\w+)/VB or/CC (\w+)/VB on/IN	1
+people/NNS (\w+)/VBP the/DT lottery/NN and/CC (\w+)/VBP	1
+stands/NNS would/MD (\w+)/VB ,/, then/RB (\w+)/VB	1
+(/RB (\w+)/VB ital/JJ )/JJ play/NN (/NNS (\w+)/VB ital/JJ )/JJ	2
+we/PRP can/MD easily/RB (\w+)/VB or/CC (\w+)/VB the/DT amount/NN	1
+and/CC what/WP can/MD (\w+)/VB or/CC (\w+)/VB a/DT battering/VBG	1
+and/CC (\w+)/VB half/DT way/NN or/CC (\w+)/VB throwing/VBG up/RP	1
+to/TO (\w+)/VB good/JJ care/NN and/CC (\w+)/VB	1
+charts/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+and/CC (\w+)/VB their/PRP$ poverty/NN and/CC (\w+)/VB their/PRP$ misery/NN	1
+little/JJ (\w+)/VB and/CC (\w+)/VB when/WRB pushed/VBD ./.	1
+library/NN needs/VBZ to/TO (\w+)/VB ,/, it/PRP needs/VBZ to/TO (\w+)/VB relevant/JJ ,/, "/''	1
+best/JJS of/IN friends/NNS (\w+)/VBN and/CC (\w+)/VBP and/CC	1
+we/PRP may/MD (\w+)/VB or/CC (\w+)/VB shares/NNS of/IN the/DT	1
+we/PRP neither/RB (\w+)/VB nor/CC (\w+)/VBP	2
+to/TO (\w+)/VB in/RP to/TO (\w+)/VB with/IN the/DT family/NN	1
+is/VBZ (\w+)/VBN to/TO (\w+)/VB ,/, inventories/NNS return/VBP	1
+ll/NNP (\w+)/VBP the/DT people/NNS who/WP (\w+)/VBP	1
+"/'' (\w+)/VB a/DT deal/NN ,/, (\w+)/VB the/DT deal/NN ,/,	1
+any/DT that/WDT (\w+)/VBP to/TO sign/VB and/CC (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB land/NN .../: so/RB	2
+to/TO (\w+)/VB or/CC (\w+)/VB margin/NN requirements/NNS ,/,	1
+Basingstoke/NNP could/MD (\w+)/VB or/CC (\w+)/VB his/PRP$ side/JJ	1
+that/IN it/PRP 's/VBZ (\w+)/VB or/CC (\w+)/VB for/IN	1
+solutions/NNS to/TO (\w+)/VB the/DT benefits/NNS and/CC (\w+)/VB or/CC mitigate/VB the/DT	1
+Canary/NNP to/TO (\w+)/VB and/CC (\w+)/VB fund/NN shares/NNS	2
+that/WDT can/MD (\w+)/VB or/CC (\w+)/VB your/PRP$ drinks/NNS ,/,	1
+not/RB (\w+)/VB and/CC you/PRP (\w+)/VBP ,/, you/PRP do/VBP	1
+(\w+)/VB rather/RB than/IN (\w+)/VB control/NN of/IN his/PRP$	4
+are/VBP likely/JJ to/TO (\w+)/VB the/DT stock/NN and/CC (\w+)/VB	1
+rally/NN to/TO (\w+)/VB at/IN 1100/NNP GMT/NNP and/CC (\w+)/VB at/IN	3
+(\w+)/VB good/JJ care/NN and/CC (\w+)/VB	1
+since/IN that/DT could/MD (\w+)/VB or/CC (\w+)/VB the/DT	1
+./. Should/VBZ they/PRP (\w+)/VB the/DT scrimmage/NN inside/RB and/CC (\w+)/VB out/RP of/IN	1

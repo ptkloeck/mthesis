@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="de.tuebingen.uni.sfs.germanet.api.GermaNet"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="de.tuebingen.uni.sfs.germanet.api.Synset"/>
+<fullyQualifiedTypeName name="de.tuebingen.uni.sfs.germanet.api.WordCategory"/>
+<fullyQualifiedTypeName name="de.tuebingen.uni.sfs.germanet.api.LexRel"/>
+<fullyQualifiedTypeName name="de.tuebingen.uni.sfs.germanet.api.LexUnit"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="de.peter_kloeckner.anton_jva.anton_jva.Config"/>
+<fullyQualifiedTypeName name="com.google.gson.JsonObject"/>
+<fullyQualifiedTypeName name="com.google.gson.JsonParser"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.net.URI"/>
+<fullyQualifiedTypeName name="de.tuebingen.uni.sfs.germanet.api.ConRel"/>
+</qualifiedTypeNameHistroy>

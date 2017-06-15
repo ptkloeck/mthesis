@@ -1,0 +1,35 @@
+graders/NNS (\w+)/VBP to/TO (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB from/IN Times/NNP	1
+Manchin/NNP power/NN to/TO (\w+)/VB and/CC (\w+)/VB the/DT	1
+fund/VB efforts/NNS to/TO (\w+)/VB ,/, fry/VB and/CC then/RB (\w+)/VB the/DT bugs/NNS	2
+if/IN the/DT improvements/NNS (\w+)/VBP or/CC (\w+)/VBP	1
+(\w+)/VB a/DT strike/NN rather/RB than/IN (\w+)/VB up/RP the/DT cap/NN	1
+nothing/NN to/TO (\w+)/VB ,/, everything/NN to/TO (\w+)/VB	2
+things/NNS that/WDT (\w+)/VBP or/CC (\w+)/VBP a/DT show/NN	1
+institutions/NNS can/MD (\w+)/VB as/RB well/RB as/IN (\w+)/VB our/PRP$ freedom/NN	1
+Seasons/NNPS (\w+)/VBP and/CC (\w+)/VBP ,/,	2
+Jesus/NNP ,/, (\w+)/VB or/CC (\w+)/VB two/CD centuries/NNS	1
+(\w+)/VBP and/CC (\w+)/VBP through/IN the/DT main/JJ	1
+Traders/NNS sometimes/RB (\w+)/VB or/CC (\w+)/VB in/IN	1
+see/VBP them/PRP (\w+)/VBP and/CC (\w+)/VBP at/IN the/DT new/JJ	1
+,/, tends/VBZ to/TO (\w+)/VB and/CC (\w+)/VB at/IN a/DT	1
+for/IN him/PRP to/TO (\w+)/VB home/NN from/IN work/NN and/CC (\w+)/VB out/RP	1
+,/, I/PRP would/MD (\w+)/VB my/PRP$ house/NN and/CC (\w+)/VB in/IN Amariyah/NNP	1
+we/PRP do/VBP n't/RB (\w+)/VB we/PRP (\w+)/VBP the/DT Ashes/NNPS ./.	1
+to/TO (\w+)/VB and/CC (\w+)/VB wines/NNS that/WDT might/MD	1
+mortgage/NN payments/NNS (\w+)/VBP ,/, many/JJ homeowners/NNS (\w+)/VBP deeper/RBR into/IN debt/NN	1
+have/VBP to/TO (\w+)/VB away/RP and/CC (\w+)/VB back/RP to/TO	1
+for/IN sixth/JJ and/CC (\w+)/VB him/PRP enough/JJ money/NN to/TO (\w+)/VB PGA/NNP	2
+you/PRP can/MD (\w+)/VB and/CC (\w+)/VB and/CC no/DT	1
+heroin/NN (\w+)/VB and/CC (\w+)/VB the/DT album/NN :/:	1
+He/PRP will/MD not/RB (\w+)/VB or/CC (\w+)/VB	1
+lets/VBZ users/NNS (\w+)/VB or/CC (\w+)/VB	1
+find/VBP really/RB (\w+)/VBP or/CC (\w+)/VBP	1
+the/DT Nets/NNP (\w+)/VB their/PRP$ best/JJS opportunity/NN to/TO (\w+)/VB a/DT game/NN	1
+that/WDT can/MD (\w+)/VB ,/, (\w+)/VB ,/,	7
+18/CD chances/NNS to/TO (\w+)/VB or/CC (\w+)/VB a/DT hole/NN ,/,	1
+able/JJ to/TO (\w+)/VB without/IN difficulty/NN and/CC (\w+)/VB a/DT stationary/JJ bike/NN	1
+'ve/VBP seen/VBN guys/NNS (\w+)/VB and/CC (\w+)/VB every/DT	1
+can/MD (\w+)/VB and/CC (\w+)/VB as/RB quickly/RB	1
+which/WDT (\w+)/VBP in/IN carbon/NN dioxide/NN and/CC (\w+)/VB off/RP	1
+investors/NNS could/MD (\w+)/VB or/CC (\w+)/VB	2

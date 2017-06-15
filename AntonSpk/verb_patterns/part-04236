@@ -1,0 +1,37 @@
+,/, as/IN (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB to/TO lunch/NN and/CC (\w+)/VB back/RP	1
+Chinatown/NNP ,/, chefs/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN the/DT	2
+Cardozo/NNP says/VBZ that/IN (\w+)/VB and/CC (\w+)/VB is/VBZ all/DT part/NN	1
+(\w+)/VB gas/NN from/IN Myanmar/NNP and/CC (\w+)/VB it/PRP to/TO India/NNP	1
+You/PRP (\w+)/VB some/DT and/CC you/PRP (\w+)/VBP some/DT	2
+allow/VBP users/NNS to/TO (\w+)/VB or/CC (\w+)/VB	2
+wants/VBZ to/TO (\w+)/VB or/CC (\w+)/VB one/CD	1
+old/JJ ,/, (\w+)/VB or/CC (\w+)/VB a/DT few/JJ hundred/CD	3
+a/DT one-shot/NN (\w+)/VBP or/CC (\w+)/VBP	1
+they/PRP (\w+)/VBP and/CC where/WRB they/PRP (\w+)/VBP ,/,	1
+Its/PRP$ better/JJR to/TO (\w+)/VB a/DT battle/NN and/CC (\w+)/VB the/DT war/NN	1
+(\w+)/VB and/CC (\w+)/VB employees/NNS ,/, and/CC	1
+(\w+)/VB ,/, (\w+)/VB and/CC talk/VB it/PRP	1
+to/TO either/DT (\w+)/VB or/CC (\w+)/VB in/IN	3
+The/DT subtle/JJ (\w+)/VBP and/CC (\w+)/VBP usually/RB begins/VBZ with/IN	1
+will/MD either/RB (\w+)/VB money/NN or/CC (\w+)/VB out/RP	1
+used/VBN to/TO (\w+)/VB and/CC (\w+)/VB files/NNS between/IN a/DT	1
+on/RP to/TO (\w+)/VB 10/CD games/NNS and/CC (\w+)/VB eight/CD	1
+to/TO (\w+)/VB spending/NN money/NN and/CC (\w+)/VB making/VBG	1
+suit/NN jacket/NN (\w+)/VBP and/CC (\w+)/VBP ,/, and/CC his/PRP$	1
+(\w+)/VBP or/CC I/PRP (\w+)/VBP (/NNP with/IN	1
+those/DT who/WP voluntarily/RB (\w+)/VB and/CC (\w+)/VB tickets/NNS do/VBP	1
+to/TO (\w+)/VB for/IN the/DT samples/NNS that/WDT (\w+)/VBN in/IN every/DT Tuesday/NNP	1
+one/PRP can/MD (\w+)/VB ,/, (\w+)/VB	1
+(\w+)/VBP and/CC (\w+)/VBP at/IN the/DT Concord/NNP	1
+departure/NN time/NN (\w+)/VB and/CC (\w+)/VB	1
+shower/NN ,/, (\w+)/VB to/TO the/DT bathroom/NN and/CC (\w+)/VB back/RB ./. ''/''	1
+grand/JJ slam/NN to/TO (\w+)/VB a/DT seventh-inning/JJ tie/NN and/CC (\w+)/VB Montreal/NNP four/CD	1
+)/VBG that/IN (\w+)/VB or/CC (\w+)/VB	1
+company/NN does/VBZ not/RB (\w+)/VB or/CC (\w+)/VB any/DT	1
+of/IN time/NN we/PRP (\w+)/VBP more/JJR times/NNS than/IN we/PRP (\w+)/VBP ,/, "/''	4
+--/: why/WRB (\w+)/VB money/NN out/RP and/CC (\w+)/VB it/PRP to/TO	1
+'/POS outfits/NNS are/VBP (\w+)/VBN and/CC (\w+)/VBP ./.	1
+(\w+)/VBP to/TO (\w+)/VB the/DT result/NN ./.	5
+to/TO (\w+)/VB and/CC (\w+)/VB interest/NN rates/NNS	1
+of/IN politics/NNS that/WDT (\w+)/VBP rather/RB than/IN (\w+)/VBP ./.	1

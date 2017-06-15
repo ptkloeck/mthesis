@@ -1,0 +1,248 @@
+of/IN screeners/NNS --/: (\w+)/JJ or/CC (\w+)/JJ --/:	1
+latter/NN :/: (\w+)/JJ ,/, (\w+)/JJ and/CC audibly/JJ occurring-during-recording/JJ	1
+to/TO be/VB found/VBN (\w+)/JJ or/CC (\w+)/JJ ./.	1
+€/NNP ”/NNP the/DT (\w+)/JJ and/CC (\w+)/JJ	1
+could/MD tell/VB (\w+)/JJ from/IN (\w+)/JJ ,/, so/IN the/DT	1
+(\w+)/JJ time/NN ,/, too/RB (\w+)/JJ stress/NN	1
+who/WP played/VBD (\w+)/JJ year/NN for/IN the/DT (\w+)/JJ time/NN ,/,	1
+the/DT (\w+)/JJ and/CC the/DT (\w+)/JJ guys/NNS	1
+of/IN UHF/NNP (\w+)/JJ and/CC (\w+)/JJ	1
+legal/JJ differences/NNS between/IN (\w+)/JJ and/CC (\w+)/JJ	4
+of/IN the/DT (\w+)/JJ tier/NN of/IN which/WDT the/DT (\w+)/JJ network/NN is/VBZ currently/RB	1
+will/MD draw/VB (\w+)/JJ and/CC (\w+)/JJ advertising/NN spots/NNS ./.	1
+the/DT (\w+)/JJ package/NN of/IN health-care/NN and/CC (\w+)/JJ benefits/NNS	3
+(\w+)/JJ full/JJ international/JJ start/NN in/IN (\w+)/JJ Friday/NNP 's/POS	1
+about/IN jobs/NNS (\w+)/JJ night/NN during/IN their/PRP$ (\w+)/JJ debate/NN ,/,	1
+the/DT (\w+)/JJ and/CC (\w+)/JJ ideas/NNS	2
+is/VBZ involved/VBN in/IN (\w+)/JJ ,/, (\w+)/JJ	1
+himself/PRP as/IN an/DT (\w+)/JJ guy/NN in/IN a/DT (\w+)/JJ	1
+notable/JJ ,/, (\w+)/JJ or/CC (\w+)/JJ ,/, to/TO	1
+was/VBD "/`` (\w+)/JJ on/IN atmospherics/NNS and/CC (\w+)/JJ on/IN actual/JJ	1
+tired/VBD a/DT (\w+)/JJ uppercut/NN and/CC a/DT (\w+)/JJ hook/NN behind/IN	1
+On/IN the/DT (\w+)/JJ play/NN of/IN Seattles/NNP (\w+)/JJ series/NN ,/,	1
+(\w+)/JJ Friday/NNP died/VBD (\w+)/JJ	1
+delivered/VBN by/IN (\w+)/JJ and/CC (\w+)/JJ dailies/NNS across/IN	3
+(\w+)/JJ and/CC (\w+)/JJ police/NN cars/NNS ,/,	2
+died/VBD in/IN the/DT (\w+)/JJ eight/CD minutes/NNS of/IN the/DT (\w+)/JJ	1
+is/VBZ (\w+)/JJ months/NNS and/CC (\w+)/JJ months/NNS	1
+(\w+)/JJ consumer/NN confidence/NN and/CC (\w+)/JJ interest/NN rates/NNS are/VBP	2
+of/IN the/DT (\w+)/JJ notes/NNS and/CC the/DT (\w+)/JJ notes/NNS to/TO	1
+'s/VBZ (\w+)/JJ ,/, he/PRP 's/VBZ (\w+)/JJ --/:	1
+allow/VB both/DT (\w+)/JJ and/CC (\w+)/JJ sponsorship/NN of/IN events/NNS	1
+,/, (\w+)/JJ and/CC (\w+)/JJ ,/, that/WDT later/RB	1
+long-standing/JJ twosome/NN of/IN (\w+)/JJ and/CC (\w+)/JJ corn/NN syrups/NNS	1
+his/PRP$ (\w+)/JJ error/NN in/IN the/DT (\w+)/JJ	1
+to/TO (\w+)/JJ and/CC (\w+)/JJ colleges/NNS and/CC	1
+by/IN trusting/VBG himself/PRP (\w+)/JJ ,/, (\w+)/JJ and/CC third/JJ	1
+(\w+)/JJ tour/NN event/NN (\w+)/JJ year/NN	2
+involving/VBG (\w+)/JJ baseman/NN MO/NNP VAUGHN/NNP and/CC (\w+)/JJ baseman/NN	1
+(\w+)/JJ exertion/NN and/CC (\w+)/JJ	2
+in/IN the/DT (\w+)/JJ ODI/NN (\w+)/JJ Sunday/NNP -/:	1
+spectators/NNS (\w+)/JJ and/CC (\w+)/JJ ,/, get/VBP an/DT	1
+the/DT (\w+)/JJ explosion/NN and/CC said/VBD the/DT (\w+)/JJ	1
+(\w+)/JJ or/CC (\w+)/JJ streaming/NN of/IN stored/JJ	1
+,/, five/CD were/VBD (\w+)/JJ ,/, four/CD were/VBD (\w+)/JJ and/CC two/CD	1
+the/DT (\w+)/JJ book-length/JJ writing/NN fire/NN to/TO (\w+)/JJ ,/, less/RBR	1
+reports/VBZ that/IN (\w+)/JJ students/NNS on/IN historically/RB (\w+)/JJ college/NN	1
+on/IN (\w+)/JJ income/NN ,/, not/RB on/IN (\w+)/JJ	1
+(\w+)/JJ thoughts/NNS about/IN going/VBG from/IN (\w+)/JJ to/TO third/JJ on/IN	1
+I/PRP missed/VBD the/DT (\w+)/JJ episode/NN (\w+)/JJ week/NN but/CC	1
+(\w+)/JJ streak/NN becomes/VBZ a/DT (\w+)/JJ end/NN to/TO his/PRP$	2
+to/TO be/VB ,/, (\w+)/JJ in/IN fat/JJ and/CC (\w+)/JJ in/IN fiber/NN ,/,	1
+depict/VBP (\w+)/JJ objects/NNS in/IN (\w+)/JJ ways/NNS or/CC	1
+season/NN started/VBD (\w+)/JJ week/NN and/CC on/IN the/DT (\w+)/JJ	1
+(\w+)/JJ manufacturers/NNS shared/VBN the/DT (\w+)/JJ vulnerabilities/NNS ./.	1
+the/DT (\w+)/JJ time/NN since/IN mid-March/NN (\w+)/JJ Wednesday/NNP	2
+,/, aimed/VBN at/IN (\w+)/JJ and/CC (\w+)/JJ Americans/NNS	1
+brings/VBZ to/TO a/DT (\w+)/JJ person/NN that/IN a/DT (\w+)/JJ	1
+(\w+)/JJ and/CC (\w+)/JJ no-flight/JJ zone/NN ,/,	1
+ritual/NN of/IN (\w+)/JJ and/CC (\w+)/JJ towels/NNS	1
+times/NNS (\w+)/JJ Wednesday/NNP and/CC (\w+)/JJ today/NN	1
+(\w+)/JJ times/NNS in/IN the/DT past/JJ (\w+)/JJ weeks/NNS ,/,	1
+(\w+)/JJ year/NN ,/, and/CC his/PRP$ (\w+)/JJ pass/NN was/VBD intercepted/VBN	1
+(\w+)/JJ labourers/NNS and/CC (\w+)/JJ non-manual/JJ employees/NNS	2
+(\w+)/JJ U.N./NNP personnel/NNS (\w+)/JJ month/NN ,/, the/DT	1
+(\w+)/JJ thrower/NN is/VBZ also/RB the/DT (\w+)/JJ thrower/NN	1
+coordinator/NN for/IN the/DT (\w+)/JJ effort/NN ;/: the/DT different/JJ (\w+)/JJ CARE/NNP operations/NNS	1
+(\w+)/JJ Chevy/NNP pickup/NN was/VBD the/DT (\w+)/JJ	1
+to/TO exchange/VB (\w+)/JJ planes/NNS and/CC helicopters/NNS for/IN (\w+)/JJ transport/NN and/CC biodiesel/NN	1
+uranium/NN from/IN (\w+)/JJ and/CC (\w+)/JJ forms/NNS of/IN the/DT	1
+to/TO make/VB it/PRP (\w+)/JJ ,/, not/RB make/VB it/PRP (\w+)/JJ ,/,	1
+played/VBD (\w+)/JJ base/NN to/TO start/VB (\w+)/JJ season/NN in/IN Rome/NNP	1
+student/NN in/IN (\w+)/JJ school/NN after/IN deciding/VBG (\w+)/JJ schools/NNS were/VBD	1
+'s/POS (\w+)/JJ all-star/JJ team/NN (\w+)/JJ week/NN	1
+and/CC a/DT (\w+)/JJ man/NN and/CC raised/VBN by/IN (\w+)/JJ	1
+coupled/VBN with/IN (\w+)/JJ results/NNS both/DT in/IN the/DT (\w+)/JJ tournament/NN and/CC on/IN	1
+pews/NNS in/IN the/DT (\w+)/JJ 1960s/NNS and/CC (\w+)/JJ 1970s/NNS ,/,	1
+semifinal/NN between/IN (\w+)/JJ and/CC (\w+)/JJ with/IN the/DT	1
+(\w+)/JJ ,/, Sexson/NNP 's/POS run-scoring/JJ (\w+)/JJ and/CC Jeromy/NNP Burnitz/NNP	1
+their/PRP$ (\w+)/JJ and/CC (\w+)/JJ name/NN ,/,	3
+,/, the/DT (\w+)/JJ 1990s/NNS and/CC (\w+)/JJ aughts/NNS might/MD be/VB	2
+(\w+)/JJ SSC/NN title/NN and/CC (\w+)/JJ since/IN 2000/CD	1
+had/VBD as/IN many/JJ (\w+)/JJ results/NNS as/IN (\w+)/JJ ones/NNS ./.	5
+if/IN there/EX were/VBD (\w+)/JJ elements/NNS possessing/VBG the/DT (\w+)/JJ property/NN	1
+(\w+)/JJ ,/, bitter/JJ or/CC (\w+)/JJ )/NNS ,/, those/DT	8
+(\w+)/JJ and/CC (\w+)/JJ selection/NN ,/, humans/NNS	2
+fairly/RB elaborate/JJ (\w+)/JJ and/CC (\w+)/JJ ornamentation/NN	1
+expected/VBN to/TO serve/VB (\w+)/JJ and/CC (\w+)/JJ carriers/NNS in/IN	1
+(\w+)/JJ cars/NNS (\w+)/JJ month/NN ,/,	1
+a/DT (\w+)/JJ tribute/NN ,/, (\w+)/JJ military/NN and/CC	1
+Malroux/NNP will/MD lead/VB (\w+)/JJ and/CC (\w+)/JJ sales/NNS	1
+(\w+)/JJ and/CC (\w+)/JJ surfaces/NNS look/VBP sharper/JJR	1
+social/JJ gathering/NN of/IN (\w+)/JJ ,/, (\w+)/JJ and/CC	1
+(\w+)/JJ with/IN the/DT (\w+)/JJ grand/JJ slam/NN of/IN	1
+Interesting/VBG (\w+)/JJ and/CC (\w+)/JJ photographs/NNS of/IN Italy/NNP	1
+Bye/NNP weeks/NNS are/VBP (\w+)/JJ and/CC (\w+)/JJ	1
+from/IN a/DT (\w+)/JJ family/NN that/WDT was/VBD (\w+)/JJ	1
+(\w+)/JJ ,/, even/RB (\w+)/JJ icon/NN	1
+Michigan/NNP in/IN the/DT (\w+)/JJ game/NN of/IN the/DT (\w+)/JJ round/NN	1
+(\w+)/JJ gain/NN is/VBZ supplanting/VBG (\w+)/JJ service/NN as/IN	1
+the/DT late/JJ (\w+)/JJ round/NN and/CC into/IN the/DT (\w+)/JJ	1
+coming/VBG off/RP its/PRP$ (\w+)/JJ loss/NN and/CC its/PRP$ (\w+)/JJ poor/JJ	1
+(\w+)/JJ week/NN to/TO win/VB their/PRP$ (\w+)/JJ Class/NNP	1
+influence/VB its/PRP$ (\w+)/JJ and/CC (\w+)/JJ policy/NN ,/, "/''	1
+so/RB even/RB the/DT (\w+)/JJ is/VBZ (\w+)/JJ to/TO achieve/VB ,/,	1
+the/DT (\w+)/JJ man/NN implores/VBZ the/DT (\w+)/JJ man/NN	1
+of/IN (\w+)/JJ and/CC (\w+)/JJ stresses/NNS caused/VBD by/IN	1
+The/DT scoring/NN ,/, (\w+)/JJ ,/, (\w+)/JJ place/NN --/:	1
+the/DT (\w+)/JJ game/NN 14-12/NN and/CC the/DT (\w+)/JJ game/NN 13-11/NN	1
+(\w+)/JJ and/CC (\w+)/JJ sins/NNS during/IN the/DT	1
+late/RB in/IN the/DT (\w+)/JJ round/NN (\w+)/JJ year/NN was/VBD McKay/NNP	1
+meet/VB (\w+)/JJ Marines/NNPS from/IN the/DT (\w+)/JJ neighborhood/NN	1
+Broadcom/NNP patents/NNS covering/VBG (\w+)/JJ and/CC (\w+)/JJ	1
+have/VBP brought/VBN their/PRP$ (\w+)/JJ and/CC (\w+)/JJ cat/NN Sybil/NNS	1
+took/VBD up/RP (\w+)/JJ year/NN for/IN the/DT (\w+)/JJ time/NN	1
+in/IN (\w+)/JJ viewers/NNS and/CC bring/VB back/RP (\w+)/JJ ones/NNS ,/, said/VBD	1
+The/DT latest/JJS (\w+)/JJ quarter/NN and/CC (\w+)/JJ half/NN	1
+(\w+)/JJ and/CC the/DT (\w+)/JJ world/NN ,/, "/''	1
+featuring/VBG (\w+)/JJ works/NNS inspired/VBN by/IN (\w+)/JJ friendships/NNS	1
+(\w+)/JJ Oregon/NN and/CC (\w+)/JJ sections/NNS	1
+something/NN (\w+)/JJ can/MD be/VB (\w+)/JJ	1
+Enduring/VBG the/DT (\w+)/JJ half/NN of/IN (\w+)/JJ night/NN 's/POS opening-round/JJ	1
+(\w+)/JJ performance/NN approximate/VBZ this/DT (\w+)/JJ season/NN ./.	1
+exhibitions/NNS in/IN (\w+)/JJ spaces/NNS and/CC small-scale/JJ (\w+)/JJ museum/NN	2
+that/DT (\w+)/JJ and/CC (\w+)/JJ often/RB share/NN the/DT	1
+candidates/NNS who/WP finished/VBD (\w+)/JJ and/CC (\w+)/JJ	1
+Ohio/NNP State/NNP 's/POS (\w+)/JJ game/NN (\w+)/JJ	2
+Wednesday/NNP will/MD give/VB (\w+)/JJ managers/NNS of/IN (\w+)/JJ forests/NNS	1
+are/VBP rejecting/VBG (\w+)/JJ traditions/NNS and/CC exploring/VBG (\w+)/JJ ones/NNS	1
+for/IN the/DT (\w+)/JJ and/CC (\w+)/JJ labor/NN	1
+(\w+)/JJ silicon/NN at/IN (\w+)/JJ times/NNS ./.	1
+yards/NNS on/IN their/PRP$ (\w+)/JJ three/CD runs/NNS of/IN the/DT (\w+)/JJ half/NN	1
+his/PRP$ (\w+)/JJ shutout/NN of/IN the/DT season/NN (\w+)/JJ weekend/NN	1
+themselves/PRP ,/, with/IN (\w+)/JJ and/CC (\w+)/JJ	1
+(\w+)/JJ and/CC (\w+)/JJ ,/, while/IN Jasper/NNP	1
+includes/VBZ (\w+)/JJ and/CC (\w+)/JJ TV/NN ,/, Internet/NNP	1
+with/IN (\w+)/JJ voters/NNS and/CC (\w+)/JJ liberals/NNS ,/, before/IN	1
+an/DT (\w+)/JJ player/NN or/CC a/DT (\w+)/JJ player/NN ./.	1
+focused/JJ ,/, in/IN (\w+)/JJ times/NNS and/CC (\w+)/JJ	2
+some/DT of/IN them/PRP (\w+)/JJ and/CC some/DT (\w+)/JJ ,/, have/VBP	1
+(\w+)/JJ January/NNP ,/, in/IN his/PRP$ (\w+)/JJ	1
+from/IN (\w+)/JJ non-profits/NNS to/TO (\w+)/JJ and/CC international/JJ businesses/NNS	1
+is/VBZ (\w+)/JJ in/IN cash/NN but/CC (\w+)/JJ in/IN	1
+(\w+)/JJ probability/NN ,/, but/CC (\w+)/JJ	1
+include/VB (\w+)/JJ and/CC (\w+)/JJ graders/NNS ./.	1
+paneled/JJ ,/, whether/IN (\w+)/JJ or/CC (\w+)/JJ	1
+)/NNP --/: An/DT (\w+)/JJ face/NN will/MD make/VB a/DT (\w+)/JJ	5
+(\w+)/JJ landowners/NNS but/CC ignore/VBP (\w+)/JJ	1
+systems/NNS to/TO allow/VB (\w+)/JJ network/NN performance/NN with/IN (\w+)/JJ cost/NN CPE/NNP	1
+and/CC too/RB (\w+)/JJ production/NN capacity/NN ,/, made/VBD (\w+)/JJ sense/NN	1
+between/IN a/DT (\w+)/JJ man/NN dancing/NN and/CC a/DT (\w+)/JJ man/NN	2
+(\w+)/JJ and/CC (\w+)/JJ neighbourhoods/NNS ,/,	4
+the/DT idle/JJ (\w+)/JJ at/IN play/NN and/CC the/DT (\w+)/JJ ,/, looking/VBG	1
+nor/CC (\w+)/JJ ,/, allowing/VBG for/IN (\w+)/JJ bass/NN that/WDT	1
+types/NNS --/: O/NNP (\w+)/JJ and/CC (\w+)/JJ and/CC A/DT	1
+burden/NN from/IN the/DT (\w+)/JJ to/TO the/DT (\w+)/JJ	2
+current/JJ term/NN in/IN (\w+)/JJ June/NNP or/CC (\w+)/JJ July/NNP ,/,	1
+the/DT (\w+)/JJ thing/NN clearly/RB applies/VBZ to/TO (\w+)/JJ races/NNS ,/, including/VBG	1
+the/DT case/NN of/IN (\w+)/JJ versus/IN (\w+)/JJ representation/NN ,/,	1
+to/TO the/DT (\w+)/JJ as/RB well/RB as/IN the/DT (\w+)/JJ are/VBP likely/JJ	1
+of/IN crystal/NN clear/JJ (\w+)/JJ and/CC (\w+)/JJ ,/, and/CC other/JJ	1
+lose/VB almost/RB 2,700/CD (\w+)/JJ and/CC (\w+)/JJ jobs/NNS ,/,	1
+(\w+)/JJ surveillance/NN to/TO (\w+)/JJ embassies/NNS and/CC diplomatic/JJ	1
+with/IN (\w+)/JJ housing/NN costs/NNS and/CC (\w+)/JJ taxes/NNS ,/,	1
+(\w+)/JJ front/NN during/IN an/DT otherwise/RB (\w+)/JJ and/CC humid/JJ	1
+(\w+)/JJ and/CC (\w+)/JJ art/NN competitions/NNS	1
+there/EX were/VBD nine/CD (\w+)/JJ valedictorians/NNS and/CC two/CD (\w+)/JJ valedictorians/NNS	1
+the/DT season/NN ranked/VBD (\w+)/JJ and/CC (\w+)/JJ respectively/RB in/IN	2
+'s/POS needs/VBZ (\w+)/JJ linemen/NN and/CC (\w+)/JJ backs/NNS	1
+was/VBD an/DT (\w+)/JJ and/CC (\w+)/JJ intravenous/JJ	1
+'s/POS Law/NN -/: (\w+)/JJ money/NN drives/NNS out/RB (\w+)/JJ -/: cites/VBZ	1
+his/PRP$ (\w+)/JJ year/NN with/IN the/DT organization/NN (\w+)/JJ	1
+watching/VBG the/DT (\w+)/JJ film/NN clip/NN of/IN (\w+)/JJ	1
+(\w+)/JJ and/CC (\w+)/JJ suffered/VBD alike/RB	1
+both/DT (\w+)/JJ travel/NN organizations/NNS and/CC (\w+)/JJ recreation/NN professionals/NNS	1
+(\w+)/JJ mines/NNS or/CC caves/NNS for/IN (\w+)/JJ clandestine/JJ blasts/NNS	3
+a/DT jury/NN (\w+)/JJ week/NN and/CC the/DT (\w+)/JJ witness/NN could/MD take/VB	1
+putting/VBG a/DT (\w+)/JJ name/NN on/IN the/DT same/JJ (\w+)/JJ process/NN ,/, imperialism/NN	1
+(\w+)/JJ ,/, (\w+)/JJ ,/, each/DT had/VBD	1
+(\w+)/JJ night/NN to/TO win/VB this/DT (\w+)/JJ Subway/NNP	1
+for/IN (\w+)/JJ health/NN with/IN (\w+)/JJ	1
+who/WP finished/VBD in/IN (\w+)/JJ ,/, (\w+)/JJ	1
+the/DT (\w+)/JJ hand/NN see/VBP that/DT (\w+)/JJ something/NN that/WDT helped/VBD	2
+in/IN (\w+)/JJ and/CC (\w+)/JJ areas/NNS in/IN China/NNP	1
+primary/JJ and/CC (\w+)/JJ schools/NNS and/CC a/DT Chinese/JJ (\w+)/JJ school/NN	1
+them/PRP are/VBP (\w+)/JJ land/NN ;/: one/PRP is/VBZ (\w+)/JJ ./.	1
+a/DT (\w+)/JJ day/NN and/CC (\w+)/JJ day/NN to/TO be/VB	1
+left/JJ field/NN (\w+)/JJ night/NN for/IN the/DT (\w+)/JJ time/NN	1
+scored/VBD in/IN the/DT (\w+)/JJ and/CC (\w+)/JJ periods/NNS ,/,	2
+be/VB the/DT (\w+)/JJ and/CC (\w+)/JJ female/NN ever/RB to/TO	1
+(\w+)/JJ or/CC 3/CD (\w+)/JJ sweet/JJ potatoes/NNS	1
+the/DT past/JJ (\w+)/JJ weeks/NNS ,/, (\w+)/JJ of/IN	2
+officials/NNS in/IN (\w+)/JJ and/CC (\w+)/JJ Uganda/NN said/VBD	1
+of/IN (\w+)/JJ chocolate/NN in/IN a/DT (\w+)/JJ muddy/NN blind/JJ watching/VBG	1
+``/`` your/PRP$ (\w+)/JJ luck/NN is/VBZ your/PRP$ (\w+)/JJ luck/NN	1
+visits/VBZ the/DT (\w+)/JJ land/NN of/IN her/PRP$ (\w+)/JJ	1
+first/JJ and/CC (\w+)/JJ getting/VBG to/TO (\w+)/JJ	1
+attained/VBN (\w+)/JJ and/CC (\w+)/JJ	1
+as/IN a/DT sergeant/NN (\w+)/JJ class/NN from/IN the/DT military/JJ (\w+)/JJ year/NN ,/, works/VBZ	1
+meetings/NNS ,/, both/DT (\w+)/JJ and/CC (\w+)/JJ	1
+(\w+)/JJ apocalypse/NN when/WRB an/DT (\w+)/JJ one/NN	1
+too/RB (\w+)/JJ for/IN a/DT (\w+)/JJ child/NN to/TO finish/VB	1
+between/IN (\w+)/JJ and/CC (\w+)/JJ pornography/NN ,/, but/CC	1
+(\w+)/JJ time/NN at/IN (\w+)/JJ Tokyo/NNP venues/NNP )/NNP	1
+launched/VBN China/NNP 's/POS (\w+)/JJ low-budget/JJ flights/NNS (\w+)/JJ year/NN ,/, based/VBN	1
+(\w+)/JJ women/NNS found/VBN at/IN the/DT (\w+)/JJ	1
+,/, Berlusconi/NNP has/VBZ (\w+)/JJ or/CC (\w+)/JJ control/NN over/IN	2
+centres/NNS on/IN '/'' (\w+)/JJ globalisation/NN versus/FW (\w+)/JJ globalisation/NN '/POS ./.	1
+(\w+)/JJ model/NN perform/VB as/IN the/DT (\w+)/JJ one/CD	1
+items/NNS align/VBP their/PRP$ (\w+)/JJ and/CC (\w+)/JJ edges/NNS to/TO	1
+(\w+)/JJ schools/NNS ,/, 36/CD ;/: (\w+)/JJ ,/, 5/CD ;/:	1
+pressures/NNS from/IN both/DT (\w+)/JJ and/CC (\w+)/JJ	1
+Both/DT (\w+)/JJ and/CC (\w+)/JJ companies/NNS were/VBD	1
+a/DT (\w+)/JJ light/NN causes/VBZ a/DT (\w+)/JJ shirt/NN to/TO	1
+something/NN (\w+)/JJ ,/, something/NN (\w+)/JJ Sunday/NNP at/IN	1
+organisation/NN and/CC its/PRP$ (\w+)/JJ and/CC (\w+)/JJ	1
+ferry/VB heat/NN from/IN (\w+)/JJ to/TO (\w+)/JJ in/IN a/DT	1
+they/PRP may/MD look/VB (\w+)/JJ by/IN one/CD measure/NN but/CC (\w+)/JJ by/IN another/DT ./.	1
+why/WRB the/DT (\w+)/JJ and/CC the/DT (\w+)/JJ	1
+ceremonies/NNS and/CC a/DT (\w+)/JJ musical/NN ,/, yet/RB another/DT (\w+)/JJ movie/NN palace/NN	2
+the/DT (\w+)/JJ breast/NN and/CC the/DT (\w+)/JJ breast/NN	1
+sites/NNS of/IN (\w+)/JJ and/CC (\w+)/JJ	1
+president/NN came/VBD in/IN (\w+)/JJ and/CC (\w+)/JJ ./.	1
+in/IN (\w+)/JJ and/CC accompanied/VBN by/IN (\w+)/JJ outlines/NNS of/IN two/CD	1
+to/TO leverage/NN (\w+)/JJ gains/NNS into/IN (\w+)/JJ ones/NNS ./.	1
+offices/NNS of/IN (\w+)/JJ rental/JJ companies/NNS yielded/VBD the/DT (\w+)/JJ story/NN :/: busy/JJ	1
+absorb/VB so/RB much/RB (\w+)/JJ news/NN with/IN the/DT (\w+)/JJ ./.	1
+the/DT (\w+)/JJ jackpot/NN ,/, the/DT (\w+)/JJ theater/NN that/WDT	1
+protein/NN out/RB of/IN (\w+)/JJ grasses/NNS as/RB well/RB as/IN (\w+)/JJ	1
+(\w+)/JJ Super/NNP Bowl/NNP came/VBD in/IN (\w+)/JJ	1
+(\w+)/JJ hole/NN ,/, shared/VBD (\w+)/JJ at/IN 279/CD	1
+to/TO turn/VB a/DT (\w+)/JJ airport/NN into/IN a/DT (\w+)/JJ competitor/NN	1
+extrapolating/VBG (\w+)/JJ trends/NNS from/IN (\w+)/JJ results/NNS when/WRB	1
+nation/NN 's/POS (\w+)/JJ and/CC (\w+)/JJ peninsula/NN	1
+(\w+)/JJ drive/NN of/IN the/DT (\w+)/JJ half/NN ,/, junior/JJ	1
+Eagles/NNPS on/IN the/DT (\w+)/JJ day/NN of/IN free/JJ agency/NN (\w+)/JJ	1
+the/DT (\w+)/JJ time/NN lowered/VBD the/DT (\w+)/JJ in/IN	1
+inside/IN (\w+)/JJ boots/NNS while/IN wearing/VBG (\w+)/JJ overcoats/NNS are/VBP	1
+circulation/NN from/IN (\w+)/JJ December/NNP through/RB (\w+)/JJ January/NNP	1
+(\w+)/JJ goals/NNS ,/, (\w+)/JJ football/NN	1
+,/, at/IN (\w+)/JJ or/CC (\w+)/JJ heat/NN	1
+a/DT (\w+)/JJ conservative/NN defended/VBD by/IN Southern/JJ (\w+)/JJ	1
+(\w+)/JJ and/CC (\w+)/JJ magic/NN ,/, the/DT	1
+scores/NNS from/IN the/DT (\w+)/JJ and/CC (\w+)/JJ SAT/NN	1
+and/CC a/DT (\w+)/JJ Puma/NN purse/NN with/IN (\w+)/JJ straps/NNS	1
+(\w+)/JJ ,/, what/WP makes/VBZ us/PRP (\w+)/JJ ,/, and/CC	1
+about/RB the/DT (\w+)/JJ block/NN ,/, the/DT (\w+)/JJ block/NN ,/, the/DT	1
+(\w+)/JJ or/CC (\w+)/JJ ,/, garnished/VBD with/IN	1
+(\w+)/JJ to/TO customers/NNS and/CC is/VBZ (\w+)/JJ advertising/NN in/IN	1

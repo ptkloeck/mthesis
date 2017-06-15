@@ -1,0 +1,36 @@
+art/NN (\w+)/VBP and/CC (\w+)/VBP	1
+and/CC when/WRB they/PRP (\w+)/VB and/CC (\w+)/VB will/MD	1
+-/: fathers/NNS can/MD (\w+)/VB and/CC (\w+)/VB as/IN	1
+(\w+)/VB vegetables/NNS to/TO (\w+)/VB on/IN	2
+signal/NN (\w+)/VBP and/CC (\w+)/VBP in/IN	1
+let/VB them/PRP (\w+)/VB tomorrow/NN ,/, then/RB (\w+)/VB another/DT day/NN	1
+(\w+)/VB the/DT tax/NN (\w+)/VB they/PRP received/VBN	3
+lunches/NNS (\w+)/VBP them/PRP the/DT energy/NN to/TO (\w+)/VB on/IN the/DT	1
+urban/JJ population/NN (\w+)/VBN to/TO (\w+)/VB to/TO 4.9/CD	1
+(\w+)/VBP to/TO (\w+)/VB (/NNP he/PRP	1
+the/DT cocktail/NN party/NN (\w+)/VBP and/CC (\w+)/VBP their/PRP$ arms/NNS	1
+people/NNS either/RB (\w+)/VBP it/PRP or/CC (\w+)/VBP it/PRP	1
+scheduled/VBN to/TO (\w+)/VB at/IN 3:30/CD p.m./RB and/CC (\w+)/VB at/IN 5:05/CD ./.	1
+Some/DT forms/NNS (\w+)/VBP the/DT same/JJ but/CC (\w+)/VBP their/PRP$ meanings/NNS ;/:	2
+brokers/NNS (\w+)/VBP and/CC (\w+)/VBP stocks/NNS ./.	1
+more/RBR expensive/JJ to/TO (\w+)/VB and/CC cheaper/JJR to/TO (\w+)/VB ,/, cutting/VBG into/IN	1
+(\w+)/VB and/CC (\w+)/VB mysteriously/RB and/CC to/TO	1
+trading/NN code/NN to/TO (\w+)/VB and/CC (\w+)/VB	1
+the/DT currency/NN could/MD (\w+)/VB _/NNS or/CC (\w+)/VB _/VBG the/DT transaction/NN	1
+something/NN that/WDT would/MD (\w+)/VB up/RP or/CC (\w+)/VB	1
+(\w+)/VB stocks/NNS and/CC bonds/NNS to/TO (\w+)/VB the/DT securities/NNS	1
+Senate/NNP is/VBZ to/TO (\w+)/VB or/CC (\w+)/VB ,/, period/NN	1
+in/IN such/JJ legal/JJ (\w+)/VB and/CC (\w+)/VB ,/,	1
+who/WP (\w+)/VBP and/CC (\w+)/VB again/RB ./.	1
+Quick/NNP (\w+)/VBP would/MD (\w+)/VB the/DT state/NN	1
+would/MD (\w+)/VB in/IN a/DT crescendo/NN and/CC (\w+)/VB ,/, rise/VB	1
+I/PRP had/VBD to/TO (\w+)/VB and/CC (\w+)/VB him/PRP a/DT	1
+said/VBD (\w+)/VB or/CC (\w+)/VB last/JJ week/NN ,/,	1
+(\w+)/VB you/PRP an/DT example/NN ,/, (\w+)/VB the/DT	1
+(\w+)/VB and/CC (\w+)/VB the/DT show/NN ,/,	2
+share/NN prices/NNS will/MD (\w+)/VB and/CC (\w+)/VB periodically/RB ,/,	1
+(\w+)/VBP and/CC (\w+)/VBP "/'' format/NN of/IN	1
+to/TO (\w+)/VB better/JJR study/NN habits/NNS and/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB radios/NNS	1
+(\w+)/VB about/IN the/DT bad/JJ and/CC (\w+)/VB the/DT good/JJ	1
+$/$ 350/CD (\w+)/VB or/CC (\w+)/VB a/DT	1

@@ -1,0 +1,102 @@
+'s/POS (\w+)/NN and/CC (\w+)/NN food/NN safety/NN division/NN	1
+(\w+)/NN ,/, 28/CD ,/, and/CC (\w+)/NN ,/, 29/CD	2
+(\w+)/NN by/IN retelling/VBG its/PRP$ (\w+)/NN ./.	1
+to/TO balance/VB the/DT (\w+)/NN with/IN the/DT (\w+)/NN and/CC have/VB	1
+say/VBP the/DT one/CD (\w+)/NN and/CC one/CD (\w+)/NN died/VBD in/IN the/DT	1
+(\w+)/NN turns/VBZ to/TO a/DT (\w+)/NN of/IN 6.18/CD	1
+tougher/JJR conference/NN from/IN (\w+)/NN to/TO (\w+)/NN	1
+a/DT (\w+)/NN and/CC a/DT (\w+)/NN meet/VBP the/DT challenge/NN	1
+between/IN (\w+)/NN and/CC (\w+)/NN is/VBZ a/DT moment/NN	1
+--/: a/DT ghostly/JJ (\w+)/NN ,/, a/DT sobbing/JJ (\w+)/NN	1
+bumpers/NNS (\w+)/NN and/CC (\w+)/NN ,/,	2
+(\w+)/NN sleeps/VBZ with/IN a/DT (\w+)/NN who/WP sleeps/VBZ	1
+(\w+)/NN or/CC (\w+)/NN card/NN for/IN payment/NN	2
+(\w+)/NN and/CC (\w+)/NN such/JJ a/DT communal/JJ	1
+its/PRP$ (\w+)/NN to/TO this/DT (\w+)/NN in/IN	1
+and/CC a/DT (\w+)/NN or/CC (\w+)/NN younger/JJR than/IN	1
+(\w+)/NN and/CC restricted/VBN (\w+)/NN	1
+(\w+)/NN to/TO a/DT 5-point/JJ (\w+)/NN going/VBG into/IN	1
+,/, the/DT (\w+)/NN and/CC (\w+)/NN each/DT has/VBZ	1
+vehicles/NNS by/IN (\w+)/NN and/CC plays/VBZ Halo/NNP by/IN (\w+)/NN ./.	1
+seeking/VBG a/DT (\w+)/NN or/CC (\w+)/NN ,/, partly/RB	1
+vignette/NN of/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN who/WP	1
+a/DT 15-8/JJ (\w+)/NN into/IN a/DT 35-33/JJ halftime/NN (\w+)/NN on/IN the/DT way/NN	1
+on/IN his/PRP$ off/JJ (\w+)/NN Thursday/NNP (\w+)/NN to/TO his/PRP$ old/JJ	1
+my/PRP$ younger/JJR (\w+)/NN and/CC (\w+)/NN to/TO school/NN ,/,	1
+honoring/VBG the/DT birthday/NN (\w+)/NN or/CC (\w+)/NN ,/, not/RB	1
+simple/JJ (\w+)/NN and/CC (\w+)/NN ,/, in/IN determining/VBG	1
+to/TO help/VB (\w+)/NN and/CC (\w+)/NN firefighters/NNS in/IN	1
+his/PRP$ (\w+)/NN and/CC (\w+)/NN to/TO Incarnation/NNP	1
+A/DT 36-year-old/JJ (\w+)/NN and/CC a/DT 33-year-old/JJ (\w+)/NN were/VBD	1
+(\w+)/NN and/CC a/DT (\w+)/NN were/VBD inside/RB their/PRP$	1
+use/VBP debit/NN or/CC (\w+)/NN cards/NNS more/RBR frequently/RB than/IN (\w+)/NN ./.	1
+a/DT (\w+)/NN ,/, but/CC clearly/RB no/DT (\w+)/NN in/IN sight/NN	1
+(\w+)/NN and/CC (\w+)/NN to/TO passers-by/NNS ./.	1
+My/PRP$ (\w+)/NN ,/, my/PRP$ (\w+)/NN ,/, and/CC I/PRP	4
+with/IN a/DT (\w+)/NN and/CC (\w+)/NN taking/VBG responsibility/NN	1
+(\w+)/NN accords/NNS that/WDT ended/VBD the/DT (\w+)/NN in/IN 1995/CD	1
+(\w+)/NN and/CC Sunni/NNP (\w+)/NN said/VBD she/PRP will/MD	1
+file/NN on/IN every/DT (\w+)/NN ,/, (\w+)/NN and/CC child/NN is/VBZ	1
+elected/VBN &mdash;/VBG her/PRP$ (\w+)/NN is/VBZ Dominican/NNP and/CC her/PRP$ (\w+)/NN ,/,	1
+focused/VBN on/IN the/DT (\w+)/NN ,/, not/RB the/DT (\w+)/NN ,/,	1
+difference/NN between/IN (\w+)/NN and/CC (\w+)/NN ,/, between/IN mass/NN	1
+(\w+)/NN bringing/VBG his/PRP$ reluctant/JJ (\w+)/NN	1
+represent/VB a/DT political/JJ (\w+)/NN or/CC a/DT (\w+)/NN	1
+But/CC neither/CC the/DT (\w+)/NN nor/CC the/DT (\w+)/NN had/VBD been/VBN missing/VBG	1
+noticed/VBN that/IN Hanover/NNP (\w+)/NNP and/CC (\w+)/NNS find/VBP	1
+his/PRP$ (\w+)/NN in/IN 1983/CD ,/, his/PRP$ (\w+)/NN four/CD	1
+both/PDT the/DT lunatic/JJ (\w+)/NN and/CC reactionary/JJ (\w+)/NN and/CC	1
+about/IN what/WP embedded/JJ (\w+)/NN or/CC (\w+)/NN	1
+spouse/NN ,/, (\w+)/NN ,/, (\w+)/NN ,/,	4
+his/PRP$ (\w+)/NN ,/, or/CC the/DT (\w+)/NN of/IN	1
+of/IN Monday/NNP (\w+)/NN 's/POS game/NN a/DT (\w+)/NN	1
+the/DT (\w+)/NN to/TO that/DT (\w+)/NN could/MD be/VB that/IN	1
+5-point/JJ (\w+)/NN into/IN a/DT 10-point/JJ halftime/NN (\w+)/NN	1
+(\w+)/NN to/TO the/DT sweet/JJ (\w+)/NN of/IN amore/NN ./.	1
+trees/NNS (\w+)/NN and/CC (\w+)/NN ,/, "/''	1
+(\w+)/NN tickling/VBG a/DT (\w+)/NN 's/POS	1
+A/DT British/JJ (\w+)/NN and/CC (\w+)/NN	4
+the/DT (\w+)/NN ,/, but/CC the/DT (\w+)/NN has/VBZ sparked/VBN	1
+decided/VBD a/DT passionate/JJ (\w+)/NN was/VBD his/PRP$ best/JJS (\w+)/NN ./.	1
+a/DT 3-year-old/JJ (\w+)/NN and/CC an/DT 8-month-old/JJ (\w+)/NN earlier/RBR	1
+suffering/NN from/IN (\w+)/NN to/TO (\w+)/NN ./.	1
+winning/VBG (\w+)/NN and/CC (\w+)/NN each/DT earned/VBD $/$	1
+,/, Donna/NN ,/, (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN and/CC a/DT (\w+)/NN were/VBD transported/VBN to/TO	1
+(\w+)/NN and/CC (\w+)/NN are/VBP learned/VBN	1
+(\w+)/NN with/IN one/CD (\w+)/NN -/: will/MD	1
+where/WRB the/DT (\w+)/NN or/CC (\w+)/NN that/WDT supports/VBZ	1
+Russian/JJ (\w+)/NN -/: (/NN and/CC (\w+)/NN )/NNS	2
+imbalance/NN of/IN (\w+)/NN and/CC (\w+)/NN will/MD lead/VB	1
+week/NN 's/POS (\w+)/NN of/IN Aberdeen/NNP ,/, a/DT (\w+)/NN	1
+guard/VB from/IN (\w+)/NN to/TO (\w+)/NN ,/, but/CC for/IN	1
+(\w+)/NN who/WP sleeps/VBZ with/IN another/DT (\w+)/NN . .	1
+integrated/JJ packages/NNS with/IN (\w+)/NN and/CC (\w+)/NN	1
+Terri/NNP Schiavo/NNP 's/POS (\w+)/NN and/CC (\w+)/NN have/VBP thanked/VBD	1
+the/DT points/NNS of/IN (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN and/CC a/DT Hispanic/JJ (\w+)/NN for/IN jobs/NNS with/IN	1
+chair/NN Thursday/NNP (\w+)/NN and/CC waited/VBD all/DT (\w+)/NN Friday/NNP	1
+,/, where/WRB a/DT (\w+)/NN and/CC (\w+)/NN are/VBP buried/VBN	1
+(\w+)/NN ever/RB since/IN that/DT faithful/JJ (\w+)/NN you/PRP	1
+'s/POS (\w+)/NN ,/, to/TO chart/VB its/PRP$ (\w+)/NN ,/, to/TO	5
+Gandhi/NNP ,/, (\w+)/NN Rahul/NNP Gandhi/NNP and/CC (\w+)/NN Priyanka/NNP	1
+(\w+)/NN comes/VBZ back/RP to/TO a/DT (\w+)/NN	2
+and/CC Ingrid/NNP 's/POS (\w+)/NN Dexter/NN and/CC (\w+)/NN Fia/NN ,/, who/WP	2
+yellow/JJ and/CC white/JJ (\w+)/NN and/CC grey/RB (\w+)/NN were/VBD named/VBN after/IN	1
+(\w+)/NN for/IN water/NN (\w+)/NN of/IN Dumaguete/NNP	1
+they/PRP would/MD prefer/VB (\w+)/NN to/TO (\w+)/NN ,/, yet/CC	1
+source/NN of/IN (\w+)/NN and/CC (\w+)/NN ,/, an/DT object/NN	1
+both/CC the/DT (\w+)/NN and/CC (\w+)/NN had/VBD found/VBN the/DT	1
+to/TO wake/VB her/PRP$ (\w+)/NN and/CC (\w+)/NN ,/, seeking/VBG comfort/NN	1
+of/IN the/DT (\w+)/NN and/CC (\w+)/NN session/NN the/DT five/CD	1
+Hawaiian/JJ (\w+)/NNS and/CC (\w+)/NNS ,/, its/PRP$	1
+from/IN (\w+)/NN to/TO (\w+)/NN and/CC is/VBZ often/RB	1
+Advances/NNS in/IN (\w+)/NN and/CC (\w+)/NN have/VBP	1
+with/IN a/DT married/JJ (\w+)/NN ,/, a/DT (\w+)/NN and/CC	1
+But/CC her/PRP$ (\w+)/NN was/VBD bipolar/JJ ,/, her/PRP$ (\w+)/NN cold/JJ and/CC disapproving/JJ	1
+is/VBZ called/VBN (\w+)/NN to/TO what/WP is/VBZ called/VBN (\w+)/NN	1
+my/PRP$ (\w+)/NN instead/RB of/IN my/PRP$ (\w+)/NN	1
+divide/VB up/RP the/DT (\w+)/NN 's/POS time/NN with/IN each/DT (\w+)/NN	1
+was/VBD his/PRP$ (\w+)/NN more/RBR liberal/JJ than/IN his/PRP$ (\w+)/NN ,/,	2
+Friday/NNP (\w+)/NN and/CC all/DT (\w+)/NN Saturday/NNP	6
+sharp/JJ contrasts/NN of/IN (\w+)/NN and/CC (\w+)/NN ,/, delicacy/NN	1

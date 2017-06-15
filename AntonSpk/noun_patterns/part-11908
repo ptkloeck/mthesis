@@ -1,0 +1,123 @@
+option/NN (\w+)/NN and/CC its/PRP$ (\w+)/NN	1
+,/, a/DT (\w+)/NN and/CC (\w+)/NN ,/, as/RB well/RB	2
+(\w+)/NN with/IN a/DT (\w+)/NN for/IN	1
+cemetery/NN where/WRB their/PRP$ (\w+)/NN and/CC (\w+)/NN are/VBP	1
+one-run/JJ (\w+)/NN into/IN a/DT four-run/JJ (\w+)/NN	1
+a/DT 14-point/JJ second-half/JJ (\w+)/NN to/TO take/VB a/DT one-point/JJ (\w+)/NN on/IN	1
+stormy/JJ (\w+)/NN turned/VBD to/TO (\w+)/NN ,/, a/DT	1
+a/DT paralysed/JJ (\w+)/NN accord/NN after/IN a/DT 1998-2000/JJ (\w+)/NN	1
+Young/NNP moves/VBZ from/IN (\w+)/NN to/TO (\w+)/NN ./.	1
+;/: one/CD (\w+)/NN ,/, one/CD (\w+)/NN )/NNS ;/:	3
+(\w+)/NN Margaret/NNP ,/, his/PRP$ (\w+)/NN Robin/NNP ,/, sisters/NNP	2
+(\w+)/NN obedience/NN to/TO her/PRP$ (\w+)/NN ./.	1
+(\w+)/NN into/IN an/DT 8-point/JJ (\w+)/NN in/IN	2
+solid/JJ (\w+)/NN as/IN D'Antoni/NNP 's/POS uptempo/JJ (\w+)/NN	1
+(\w+)/NN and/CC (\w+)/NN -/: those/DT who/WP	1
+the/DT (\w+)/NN and/CC (\w+)/NN balance/NN ./.	1
+"/`` When/WRB a/DT (\w+)/NN and/CC a/DT (\w+)/NN	2
+both/CC the/DT (\w+)/NN and/CC (\w+)/NN of/IN hearts/NNS ,/,	1
+with/IN her/PRP$ (\w+)/NN and/CC (\w+)/NN ,/, who/WP adopted/VBD	1
+the/DT (\w+)/NN can/MD upset/VB the/DT teams/NNS (\w+)/NN	1
+older/JJR (\w+)/NN Jeremy/NNS and/CC older/JJR (\w+)/NN Jolean/NN	1
+out/RP its/PRP$ (\w+)/NN ,/, (\w+)/NN and/CC end/NN for/IN	1
+combination/NN of/IN low/JJ (\w+)/NN and/CC high/JJ (\w+)/NN ,/, said/VBD	1
+which/WDT covers/VBZ the/DT (\w+)/NN ,/, (\w+)/NN ,/,	1
+varied/JJ (\w+)/NN keep/VB the/DT Michigan/NNP (\w+)/NN off/IN	1
+on/IN (\w+)/NN and/CC was/VBD stubborn/JJ on/IN (\w+)/NN in/IN front/NN	1
+No/NNP to/TO (\w+)/NN ,/, (\w+)/NN is/VBZ possible/JJ	1
+of/IN a/DT (\w+)/NN or/CC older/JJR (\w+)/NN helps/VBZ	1
+hell/NN ,/, my/PRP$ (\w+)/NN and/CC (\w+)/NN and/CC I/PRP	1
+-/: A/DT (\w+)/NN and/CC (\w+)/NN found/VBN dead/RP	1
+to/TO ensure/VB (\w+)/NN ,/, not/RB promote/VB (\w+)/NN ./.	4
+either/DT one/CD (\w+)/NN bed/NN or/CC two/CD (\w+)/NN	1
+a/DT (\w+)/NN and/CC (\w+)/NN define/VB luxuries/NNS and/CC	1
+It/PRP s/VBZ the/DT (\w+)/NN of/IN the/DT (\w+)/NN for/IN this/DT break/NN	1
+represented/VBD Montesinos/NNP '/POS (\w+)/NN alleged/VBD that/IN her/PRP$ (\w+)/NN was/VBD being/VBG	3
+(\w+)/NN Homer/NN ,/, (\w+)/NN Marge/NN ,/,	1
+;/: s/VBZ my/PRP$ (\w+)/NN to/TO that/DT (\w+)/NN :/:	1
+(\w+)/NN and/CC (\w+)/NN would/MD amount/VB to/TO	1
+:/: an/DT invasive/JJ (\w+)/NN ,/, a/DT committed/JJ (\w+)/NN and/CC timely/JJ goaltending/NN	1
+(\w+)/NN but/CC an/DT uncertain/JJ (\w+)/NN ,/, "/'' said/VBD	2
+(\w+)/NN Muslims/JJ and/CC (\w+)/NN	2
+a/DT (\w+)/NN impersonating/VBG a/DT (\w+)/NN and/CC	1
+When/WRB a/DT (\w+)/NN talks/VBZ dirty/JJ to/TO a/DT (\w+)/NN ,/,	1
+colored/JJ (\w+)/NN and/CC every/DT colored/JJ (\w+)/NN ./.	1
+two/CD friends/NNS a/DT (\w+)/NN and/CC (\w+)/NN lying/VBG	1
+point/NN at/IN the/DT (\w+)/NN and/CC the/DT (\w+)/NN of/IN	1
+along/IN with/IN her/PRP$ (\w+)/NN and/CC (\w+)/NN Peter/NNP	1
+from/IN the/DT (\w+)/NN of/IN 1995/CD to/TO the/DT (\w+)/NN of/IN	1
+(\w+)/NN has/VBZ mated/VBN with/IN a/DT (\w+)/NN	2
+provides/VBZ her/PRP$ latest/JJS (\w+)/NN to/TO the/DT continuing/JJ (\w+)/NN	1
+simultaneously/RB expressing/VBG (\w+)/NN and/CC (\w+)/NN	1
+Federal/NNP household/NN (\w+)/NN tax/NN ,/, which/WDT includes/VBZ (\w+)/NN	1
+on/IN the/DT (\w+)/NN or/CC (\w+)/NN of/IN 13/CD federal/JJ	1
+(\w+)/NN 's/POS or/CC (\w+)/NN 's/POS bedroom/NN	1
+3/CD (\w+)/NN to/TO (\w+)/NN in/IN record/NN time/NN	1
+to/TO any/DT other/JJ (\w+)/NN with/IN a/DT (\w+)/NN with/IN it/PRP	1
+Klyver/NNP ,/, the/DT (\w+)/NN and/CC (\w+)/NN	1
+the/DT (\w+)/NN and/CC (\w+)/NN business/NN	2
+(\w+)/NN and/CC a/DT (\w+)/NN of/IN Akayev/NNP are/VBP	3
+;/: one/CD (\w+)/NN ,/, and/CC one/CD (\w+)/NN ./. Visitation/NNP will/MD	1
+)/VBD A/DT (\w+)/NN held/VBD up/RP a/DT (\w+)/NN and/CC	1
+a/DT (\w+)/NN of/IN 8785.0000/CD and/CC a/DT (\w+)/NN of/IN 8820.0000/CD ./.	1
+other/JJ than/IN the/DT (\w+)/NN and/CC (\w+)/NN when/WRB the/DT game/NN	1
+of/IN (\w+)/NN ./. That/DT 's/VBZ a/DT (\w+)/NN advance/NN ./.	1
+(\w+)/NN and/CC (\w+)/NN declined/VBD a/DT	1
+long/RB into/IN the/DT (\w+)/NN ,/, Ostreicher/NNP said/VBD the/DT (\w+)/NN had/VBD unfolded/VBN with/IN	1
+just/RB like/IN a/DT (\w+)/NN ,/, (\w+)/NN	1
+Garcia/NNP Marquez/NNP 's/POS (\w+)/NN by/IN his/PRP$ (\w+)/NN ,/, it/PRP	1
+this/DT from/IN (\w+)/NN one/CD -/: last/JJ (\w+)/NN	1
+ventured/VBD an/DT (\w+)/NN to/TO that/DT (\w+)/NN in/IN an/DT interview/NN	1
+a/DT (\w+)/NN treaty/NN officially/RB ending/VBG (\w+)/NN with/IN Moscow/NNP ./.	1
+can/MD turn/VB our/PRP$ (\w+)/NN into/IN (\w+)/NN and/CC our/PRP$	2
+``/`` I/PRP worked/VBD (\w+)/NN and/CC (\w+)/NN ,/, ''/''	1
+just/RB as/IN (\w+)/NN complements/VBZ (\w+)/NN . . .	1
+(\w+)/NNP Timothy/NNP ,/, (\w+)/NN Laura/NNP Higa/NNP and/CC	1
+(\w+)/NN and/CC (\w+)/NN should/MD have/VB taken/VBN	1
+fashioned/JJ (\w+)/NN and/CC (\w+)/NN ,/, according/VBG	1
+39-year-old/JJ (\w+)/NN bludgeoned/VBN a/DT (\w+)/NN to/TO	1
+,/, and/CC that/IN (\w+)/NN was/VBD her/PRP$ (\w+)/NN	1
+a/DT (\w+)/NN of/IN 7/CD and/CC a/DT (\w+)/NN of/IN -1/CD	1
+is/VBZ the/DT (\w+)/NN to/TO a/DT trivia/JJ (\w+)/NN	1
+my/PRP$ (\w+)/NN crammed/VBD Play-doh/NNP into/IN my/PRP$ (\w+)/NN	1
+(\w+)/NN and/CC every/DT (\w+)/NN ?/.	1
+(\w+)/NN of/IN the/DT dollar/NN and/CC (\w+)/NN	2
+(\w+)/NN 's/POS vision/NN of/IN (\w+)/NN	1
+,/, (\w+)/NN crimes/NNS and/CC crimes/NNS against/IN (\w+)/NN	1
+to/TO (\w+)/NN to/TO (\w+)/NN -/: reaches/VBZ unhappy/JJ	1
+The/DT law/NN of/IN (\w+)/NN and/CC (\w+)/NN is/VBZ only/RB a/DT	1
+is/VBZ working/VBG (\w+)/NN and/CC (\w+)/NN to/TO catch/VB one/CD	1
+17-year-old/JJ (\w+)/NN or/CC (\w+)/NN without/IN	1
+for/IN (\w+)/NN protection/NN or/CC limited/VBN (\w+)/NN ./.	1
+of/IN a/DT middle-aged/JJ (\w+)/NN and/CC a/DT young/JJ (\w+)/NN	1
+9-year-old/JJ (\w+)/NN and/CC a/DT 12-year-old/JJ (\w+)/NN ,/, as/IN	1
+intra-year/JJ imbalances/NNS in/IN (\w+)/NN and/CC (\w+)/NN in/IN	1
+in/IN a/DT (\w+)/NN 's/POS head/NN ,/, a/DT (\w+)/NN in/IN jail/NN and/CC	1
+the/DT old/JJ (\w+)/NN and/CC (\w+)/NN ./. "/''	1
+survived/VBN by/IN his/PRP$ (\w+)/NN ,/, Heidi/NNP ,/, his/PRP$ (\w+)/NN ,/, Howard/NNP J./NNP	1
+year/NN ,/, the/DT (\w+)/NN will/MD exceed/VB the/DT (\w+)/NN by/IN even/RB	1
+as/IN a/DT (\w+)/NN being/VBG shaved/VBN and/CC a/DT (\w+)/NN using/VBG	1
+more/RBR from/IN (\w+)/NN than/IN (\w+)/NN ./.	1
+1999/CD (/JJ 3-4/CD (\w+)/NN ,/, 11-5/CD (\w+)/NN )/NNS ,/,	1
+7-point/JJ halftime/NN (\w+)/NN as/IN the/DT (\w+)/NN changed/VBD hands/NNS	1
+a/DT parliament/NN (\w+)/NN or/CC (\w+)/NN would/MD live/VB	1
+elicits/VBZ strong/JJ arguments/NNS (\w+)/NN and/CC (\w+)/NN ./.	1
+honor/VB your/PRP$ (\w+)/NN and/CC your/PRP$ (\w+)/NN that/IN	1
+first/JJ golfer/NN ,/, (\w+)/NN or/CC (\w+)/NN ,/, to/TO	2
+Miller/NNP said/VBD the/DT (\w+)/NN pointed/VBD it/PRP a/DT 5-year-old/JJ (\w+)/NN and/CC	1
+through/IN (\w+)/NN or/CC possibly/RB through/IN (\w+)/NN ./.	1
+inches/NNS from/IN (\w+)/NN to/TO (\w+)/NN while/IN he/PRP stood/VBD	1
+cards/NNS to/TO withdraw/VB (\w+)/NN on/IN a/DT (\w+)/NN card/NN and/CC collect/VB	1
+for/IN (\w+)/NN and/CC (\w+)/NN respectively/RB	1
+the/DT (\w+)/NN ,/, look/VB to/TO the/DT (\w+)/NN and/CC	1
+of/IN (\w+)/NN ,/, (\w+)/NN ,/, the/DT	12
+But/CC the/DT (\w+)/NN and/CC the/DT (\w+)/NN should/MD fun/VB	1
+only/RB correct/JJ (\w+)/NN to/TO that/DT (\w+)/NN is/VBZ the/DT	1
+One/CD (\w+)/NN and/CC one/CD (\w+)/NN from/IN	1
+democracy/NN ,/, (\w+)/NN rules/VBZ while/IN (\w+)/NN will/MD	1
+passed/VBN down/RP from/IN (\w+)/NN to/TO (\w+)/NN for/IN decades/NNS	1
+scoring/VBG (\w+)/NN and/CC (\w+)/NN in/IN the/DT large/JJ	1
+shots/NNS separated/VBN (\w+)/NN to/TO (\w+)/NN ,/, and/CC	1
+because/IN of/IN a/DT (\w+)/NN in/IN layoffs/NNS than/IN an/DT (\w+)/NN	1
+Does/NNP the/DT (\w+)/NN of/IN profits/NNS mean/VB the/DT (\w+)/NN of/IN	1
+2007Nwachukwu/NNP NgigeThe/NNP (\w+)/NN and/CC (\w+)/NN	1

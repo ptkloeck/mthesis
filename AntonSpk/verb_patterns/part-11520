@@ -1,0 +1,38 @@
+Saturday/NNP -/: (\w+)/VB or/CC (\w+)/VB ./.	1
+passengers/NNS (\w+)/VBP and/CC (\w+)/VBP from/IN	1
+Church/NNP would/MD totally/RB (\w+)/VB ,/, and/CC many/DT would/MD (\w+)/VB ,/, Dille-McCoy/NNP	1
+(\w+)/VB ,/, sometimes/RB I/PRP (\w+)/VBD it/PRP	1
+and/CC (\w+)/VB a/DT bike/NN or/CC (\w+)/VB where/WRB possible/JJ and/CC	1
+the/DT normal/JJ (\w+)/VBP and/CC (\w+)/VBP of/IN a/DT major/JJ	1
+is/VBZ willing/JJ to/TO (\w+)/VB shares/NNS ,/, or/CC (\w+)/VB them/PRP ,/,	1
+of/IN this/DT shelter/NN (\w+)/VB and/CC (\w+)/VB while/IN I/PRP	1
+I/PRP (\w+)/VBP with/IN your/PRP$ reasoning/NN but/CC (\w+)/VBP with/IN your/PRP$ conclusions/NNS	1
+(\w+)/VBN ''/'' for/IN them/PRP to/TO (\w+)/VB abroad/RB	1
+(\w+)/VB harder/RBR and/CC (\w+)/VB faster/RBR	1
+same/JJ finding/NN ,/, (\w+)/VB or/CC (\w+)/VB a/DT couple/NN	1
+trader/NN to/TO (\w+)/VB or/CC (\w+)/VB a/DT commodity/NN	1
+La/NNP Guardia/NNP typically/RB (\w+)/VB slots/NNS from/IN or/CC (\w+)/VB them/PRP	1
+him/PRP -/: (\w+)/VB or/CC (\w+)/VB ./.	1
+which/WDT is/VBZ (\w+)/VBN to/TO (\w+)/VB to/TO	1
+everyone/NN wants/VBZ to/TO (\w+)/VB and/CC (\w+)/VB	1
+their/PRP$ ability/NN to/TO (\w+)/VB down/RP and/CC metabolize/NNP (/NNP (\w+)/VBP into/IN	1
+of/IN corruption/NN could/MD (\w+)/VB or/CC (\w+)/VB Indonesia/NNP	2
+tend/VBP to/TO (\w+)/VB dollars/NNS and/CC (\w+)/VB	1
+will/MD (\w+)/VB through/IN the/DT gate/NN and/CC (\w+)/VB like/VB	1
+(\w+)/VBP and/CC foreclosures/NNS (\w+)/VBP ,/, more/RBR	1
+young/JJ ,/, politely/RB (\w+)/VBP in/IN formation/NN or/CC (\w+)/VBP chanting/VBG tepid/JJ ,/,	1
+course/NN (\w+)/VBP and/CC (\w+)/VBP ,/, but/CC	1
+to/TO manage/VB ,/, (\w+)/VB and/CC (\w+)/VB a/DT Pentagon/NNP civilian/JJ	1
+(\w+)/VB and/CC (\w+)/VB loans/NNS	1
+(\w+)/VB out/RP for/IN enough/RB to/TO (\w+)/VB anyone/NN	1
+wages/NNS (\w+)/VBP and/CC (\w+)/VBD off/RP inflation/NN	1
+will/MD not/RB (\w+)/VB or/CC (\w+)/VB their/PRP$ races/NNS on/IN	1
+(\w+)/VB the/DT target/NN and/CC (\w+)/VB the/DT buyer/NN	1
+(\w+)/VBP repeatedly/RB said/VBD they/PRP (\w+)/VBP the/DT	1
+the/DT Greens/NNS to/TO (\w+)/VB physical/JJ therapy/NN and/CC (\w+)/VB building/VBG	1
+Sora/NNP forgets/VBZ to/TO (\w+)/VB to/TO (\w+)/VB	1
+Devils/NNPS (\w+)/VB Scott/NNP Stevens/NNP and/CC (\w+)/VB winning/VBG	1
+(\w+)/VB over/RP and/CC (\w+)/VB	4
+that/DT is/VBZ to/TO (\w+)/VB or/CC (\w+)/VB the/DT	1
+to/TO (\w+)/VB a/DT step/NN back/RB and/CC (\w+)/VB the/DT	2
+You/PRP (\w+)/VB the/DT enemy/NN stronghold/NN or/CC (\w+)/VB your/PRP$ base/NN	1

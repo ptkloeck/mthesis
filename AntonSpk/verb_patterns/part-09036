@@ -1,0 +1,35 @@
+a/DT person/NN (\w+)/VB ,/, (\w+)/VB and/CC walk/VB	1
+I/PRP (\w+)/VBP what/WP you/PRP (\w+)/VBP ,/,	1
+likes/VBZ to/TO (\w+)/VB opponents/NNS (\w+)/VB it/PRP	1
+people/NNS either/CC (\w+)/VBP or/CC (\w+)/VBP this/DT book/NN -/:	1
+(\w+)/VBP or/CC (\w+)/VBP ,/, but/CC the/DT	3
+They/PRP can/MD (\w+)/VB and/CC they/PRP can/MD (\w+)/VB as/RB	1
+in/IN white/JJ (\w+)/VBP and/CC (\w+)/VBP with/IN	1
+(\w+)/VB ETFs/NNP short/JJ or/CC (\w+)/VB them/PRP on/IN margin/NN	1
+(\w+)/VB away/RP when/WRB prices/NNS (\w+)/VBP down/RP and/CC	1
+n't/RB (\w+)/VB their/PRP$ marks/NNS or/CC (\w+)/VB the/DT light/NN ,/,	1
+Do/VBP not/RB (\w+)/VB on/IN additional/JJ assignments/NNS ,/, (\w+)/VB	1
+and/CC "/NN (\w+)/VB or/CC (\w+)/VB a/DT cheeseburger/NN	1
+can/MD (\w+)/VB and/CC no/DT republican/NN can/MD (\w+)/VB -/: the/DT democrats/NNS	1
+it/PRP takes/VBZ ,/, (\w+)/VB or/CC (\w+)/VB ,/,	1
+to/TO people/NNS to/TO (\w+)/VB and/CC (\w+)/VB our/PRP$ products/NNS ./.	1
+futures/NNS contracts/NNS ,/, (\w+)/VB calls/NNS ,/, and/CC (\w+)/VB puts/NNS ./.	1
+(\w+)/VB ,/, drive/VB through/RP and/CC (\w+)/VB ,/,	2
+not/RB (\w+)/VB or/CC (\w+)/VB much/RB with/IN changes/NNS	1
+If/IN you/PRP (\w+)/VBP ,/, maybe/RB I/PRP 'll/MD (\w+)/VB out/RP to/TO coffee/NN	1
+also/RB (\w+)/VB to/TO (\w+)/VB the/DT Asian/JJ	1
+will/MD "/`` (\w+)/VB gross/JJ job/NN gains/NNS and/CC (\w+)/VB gross/JJ job/NN losses/NNS	1
+would/MD (\w+)/VB in/IN Lisbon/NNP or/CC (\w+)/VB	1
+to/TO (\w+)/VB or/CC (\w+)/VB there/RB ,/,	1
+who/WP match/VB (\w+)/VB and/CC (\w+)/VB orders/NNS	1
+drive/NN will/MD (\w+)/VB or/CC (\w+)/VB on/IN	1
+(\w+)/VB and/CC (\w+)/VB on/RB	1
+reference/NN tuning/NN and/CC (\w+)/VB or/CC (\w+)/VB individual/JJ string/NN temperatures/NNS	1
+to/TO (\w+)/VB and/CC (\w+)/VB for/IN vehicle/NN traffic/NN	1
+workers/NNS (\w+)/VB and/CC (\w+)/VB from/IN the/DT Illinois/NNP	1
+(\w+)/VB Feb./NNP 24/CD and/CC (\w+)/VB Feb./NNP 25/CD	1
+both/DT (\w+)/VB and/CC (\w+)/VB creative/JJ acts/NNS	1
+(\w+)/VB patenting/NN and/CC (\w+)/VB charging/VBG royalties/NNS	1
+)/NNS (\w+)/VBP ,/, we/PRP 'll/MD (\w+)/VB to/TO Goma/NNP	1
+the/DT deadline/NN (\w+)/VB and/CC (\w+)/VB ,/, "/''	1
+they/PRP (\w+)/VBP and/CC the/DT Ravens/NNPS (\w+)/VBP ???/JJ	1

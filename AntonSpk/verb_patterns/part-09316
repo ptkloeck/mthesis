@@ -1,0 +1,34 @@
+get/VBP (/NNP (\w+)/VB or/CC (\w+)/VB	1
+illegally/RB (\w+)/VBP vehicles/NNS to/TO (\w+)/VB	1
+and/CC both/DT (\w+)/VB and/CC (\w+)/VB her/PRP$	1
+recent/JJ proposal/NN to/TO (\w+)/VB over/IN BellSouth/NNP --/: could/MD (\w+)/VB the/DT Bells/NNPS	2
+made/VBN them/PRP (\w+)/VB and/CC (\w+)/VB ,/, tore/VBD them/PRP	1
+encouraged/VBD residents/NNS to/TO (\w+)/VB or/CC (\w+)/VB their/PRP$	1
+that/WDT (\w+)/VB and/CC (\w+)/VB shares/NNS from/IN investors/NNS	1
+who/WP wanted/VBD to/TO (\w+)/VB or/CC (\w+)/VB 1,000/CD shares/NNS	1
+The/DT band/NN can/MD (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB this/DT lackey/NN and/CC (\w+)/VB a/DT library/NN professional/NN	1
+often/RB (\w+)/VB or/CC (\w+)/VB two/CD	1
+switches/NNS can/MD each/DT (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB the/DT thesis/NN ,/,	2
+drivers/NNS to/TO (\w+)/VB and/CC (\w+)/VBP	1
+(\w+)/VB the/DT theaters/NNS to/TO (\w+)/VB	1
+n't/RB (\w+)/VB to/TO just/RB (\w+)/VB there/RB ./.	1
+(\w+)/VB her/PRP$ furniture/NN to/TO (\w+)/VB a/DT sheep/NN	1
+(\w+)/VB and/CC his/PRP$ father/NN (\w+)/VBP ./.	1
+(\w+)/VB or/CC (\w+)/VB (/NNP after/IN the/DT	2
+they/PRP can/MD (\w+)/VB even/RB if/IN they/PRP (\w+)/VBP	1
+only/RB if/IN they/PRP (\w+)/VBP and/CC the/DT Saints/NNP (\w+)/VBP	1
+who/WP (\w+)/VBP but/CC (\w+)/VBP very/RB quickly/RB	1
+texture/NN of/IN their/PRP$ (\w+)/VBP and/CC (\w+)/VBP in/IN an/DT	1
+did/VBD (\w+)/VB ,/, she/PRP would/MD (\w+)/VB for/IN 12/CD	1
+some/DT stairs/NNS ,/, (\w+)/VB an/DT elevator/NN ,/, (\w+)/VBP another/DT	1
+injuries/NNS (\w+)/VBP caused/VBN him/PRP to/TO (\w+)/VB 15/CD games/NNS	1
+bond/NN prices/NNS would/MD (\w+)/VB and/CC yields/NNS (\w+)/VBP ./.	1
+the/DT two/CD sides/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, and/CC	1
+to/TO (\w+)/VB fighting/NN and/CC (\w+)/VB playing/NN	3
+although/IN that/DT can/MD (\w+)/VB or/CC (\w+)/VB	2
+,/, that/WDT (\w+)/VBP and/CC (\w+)/VBP over/IN that/DT period/NN	1
+the/DT Web/NNP can/MD (\w+)/VB or/CC (\w+)/VB a/DT	4
+to/TO (\w+)/VB as/IN it/PRP is/VBZ to/TO (\w+)/VB ./.	1
+recently/RB that/IN (\w+)/VBP the/DT concert/NN or/CC (\w+)/VBP	1

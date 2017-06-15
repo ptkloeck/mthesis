@@ -1,0 +1,33 @@
+fans/NNS ,/, (\w+)/VB or/CC (\w+)/VB ./.	2
+people/NNS can/MD (\w+)/VB and/CC (\w+)/VB on/IN	1
+to/TO (\w+)/VB the/DT Heisman/NNP and/CC (\w+)/VB a/DT	1
+club/NN and/CC (\w+)/VB it/PRP (\w+)/VB	1
+(\w+)/VB after/IN Regis/NNP and/CC (\w+)/VB after/IN	1
+babies/NNS (\w+)/VBP ,/, real/JJ babies/NNS (\w+)/VBP :/:	1
+(\w+)/VB and/CC (\w+)/VB superintendents/NNS ,/, a/DT	1
+we/PRP will/MD (\w+)/VB our/PRP$ word/NN and/CC (\w+)/VB the/DT	1
+about/IN whether/IN to/TO (\w+)/VB or/CC (\w+)/VB -/: considering/VBG	1
+rsquo/NN ;/: t/NN (\w+)/VB something/NN home/NN and/CC (\w+)/VB	1
+he/PRP would/MD (\w+)/VB Augusta/NNP he/PRP hoped/VBD to/TO (\w+)/VB	1
+go/VB to/TO (\w+)/VB once/RB again/RB and/CC then/RB (\w+)/VBP up/RB	1
+'ll/MD (\w+)/VB some/DT breaks/NNS to/TO (\w+)/VB	1
+(\w+)/VBP translating/VBG and/CC simply/RB (\w+)/VBP thinking/VBG	1
+time/NN when/WRB players/NNS (\w+)/VB and/CC (\w+)/VB at/IN the/DT slightest/JJS	1
+(\w+)/VB gambling/NN ,/, (\w+)/VB	1
+seen/VBN many/JJ commissioners/NNS (\w+)/VB and/CC (\w+)/VB	1
+Then/RB the/DT symptoms/NNS (\w+)/VBP and/CC (\w+)/VB --/: usually/RB	1
+(\w+)/VBP his/PRP$ girth/NN and/CC (\w+)/VB his/PRP$ game/NN	1
+(\w+)/VB and/CC (\w+)/VB editors/NNS	1
+will/MD serve/VB to/TO (\w+)/VB the/DT presidency/NN ,/, not/RB (\w+)/VB it/PRP ./.	1
+People/NNS either/RB (\w+)/VBP Halloween/NNP or/CC they/PRP (\w+)/VBP it/PRP ./.	1
+good/JJ fundamentals/NNS (\w+)/VBP games/NNS ,/, bad/JJ fundamentals/NNS (\w+)/VBP ;/:	1
+get/VB exhausted/VBN and/CC (\w+)/VB half/DT way/NN or/CC (\w+)/VB	1
+(\w+)/VBP and/CC (\w+)/VBP multimillion-dollar/JJ companies/NNS get/VBP	1
+to/TO (\w+)/VB on/IN these/DT values/NNS and/CC (\w+)/VB back/RP personal/JJ liberty/NN	1
+(\w+)/VB promises/NNS and/CC then/RB (\w+)/VB	3
+do/VBP not/RB (\w+)/VB players/NNS they/PRP want/VBP to/TO (\w+)/VB ;/: the/DT	1
+both/DT of/IN which/WDT (\w+)/VBP and/CC (\w+)/VBP at/IN	1
+(\w+)/VB and/CC (\w+)/VB anonymously/RB ?/.	1
+think/VBP they/PRP can/MD (\w+)/VB and/CC (\w+)/VB ,/, help/VB	1
+tended/VBD to/TO (\w+)/VB in/IN men/NNS and/CC (\w+)/VB in/IN women/NNS	1
+(\w+)/VB _/NNS and/CC (\w+)/VB	5

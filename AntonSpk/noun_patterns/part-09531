@@ -1,0 +1,107 @@
+your/PRP$ (\w+)/NN ,/, (\w+)/NN ,/, aunt/NN	1
+'s/POS (\w+)/NN to/TO that/WDT (\w+)/NN	1
+of/IN (\w+)/NN ,/, (\w+)/NN and/CC prepaid/JJ	10
+(\w+)/NN was/VBD born/VBN and/CC her/PRP$ (\w+)/NN died/VBD three/CD	1
+be/VB his/PRP$ (\w+)/NN ,/, (\w+)/NN and/CC son-in-law/NN ,/,	1
+since/IN his/PRP$ (\w+)/NN and/CC (\w+)/NN died/VBD while/IN	1
+mutations/NNS among/IN the/DT (\w+)/NNS there/RB and/CC in/IN (\w+)/NNS coming/VBG from/IN	1
+little/JJ (\w+)/NN or/CC little/JJ (\w+)/NN ,/,	1
+14-year-old/JJ (\w+)/NN and/CC the/DT 8-year-old/JJ (\w+)/NN each/DT	1
+or/CC Moslem/NNP ,/, (\w+)/NN or/CC (\w+)/NN educated/VBN or/CC	1
+(\w+)/NN and/CC (\w+)/NN ,/, indicating/VBG	1
+encourage/VB (\w+)/NN in/IN place/NN of/IN (\w+)/NN between/IN	1
+(\w+)/NN vs./IN (\w+)/NN of/IN noontime/JJ contest/NN	1
+his/PRP$ (\w+)/NN and/CC (\w+)/NN approved/VBD the/DT	1
+their/PRP$ 17-year-old/JJ (\w+)/NN Shane/NNP and/CC 13-year-old/JJ (\w+)/NN	1
+Authorities/NNS looking/VBG for/IN (\w+)/NN who/WP struck/VBD (\w+)/NN	1
+deficiencies/NNS on/IN (\w+)/NN and/CC especially/RB on/IN (\w+)/NN	1
+its/PRP$ spectacular/JJ (\w+)/NN and/CC stunning/JJ (\w+)/NN ,/,	1
+(\w+)/NN ,/, adding/VBG touches/NNS of/IN (\w+)/NN to/TO	1
+courts/NNS from/IN (\w+)/NN to/TO (\w+)/NN ,/, but/CC	1
+his/PRP$ 12-year-old/JJ (\w+)/NN and/CC 10-year-old/JJ (\w+)/NN	1
+each/DT frame/NN from/IN (\w+)/NN to/TO (\w+)/NN	1
+they/PRP had/VBD swapped/VBN (\w+)/NN for/IN (\w+)/NN ./.	2
+conference/NN as/RB ,/, (\w+)/NN to/TO (\w+)/NN ,/, being/VBG one/CD	1
+a/DT (\w+)/NN of/IN Michael/NNP Kuhnen/NNP ,/, (\w+)/NN	1
+providing/VBG Cisco/JJ (\w+)/NN and/CC (\w+)/NN to/TO the/DT	1
+giving/VBG a/DT specific/JJ (\w+)/NN to/TO a/DT (\w+)/NN asking/VBG what/WP	1
+is/VBZ for/IN (\w+)/NN to/TO overcome/VB (\w+)/NN ,/, ''/'' Dryden/NNP	1
+n't/RB pinning/VBG either/DT (\w+)/NN or/CC (\w+)/NN	1
+(\w+)/NN or/CC (\w+)/NN to/TO fathom/NN	1
+seen/VBN Pierce/NNP (\w+)/NN and/CC (\w+)/NN _/NNS	1
+politicians/NNS on/IN the/DT (\w+)/NN and/CC (\w+)/NN said/VBD the/DT	1
+(\w+)/NN ,/, a/DT so-so/JJ (\w+)/NN	2
+(\w+)/NN became/VBD an/DT overpowering/JJ (\w+)/NN	1
+share/VBP exuberant/JJ (\w+)/NN and/CC (\w+)/NN choruses/NNS that/WDT frame/VB	1
+Harold/NNP ,/, her/PRP$ (\w+)/NN ,/, Gerald/NNP ,/, (\w+)/NN ,/, Elaine/NNP Reddick/NNP	1
+,/, (\w+)/NN or/CC (\w+)/NN is/VBZ made/VBN up/RP	1
+packages/NNS of/IN IOS/NNP (\w+)/NN ,/, (\w+)/NN and/CC support/NN could/MD	1
+a/DT (\w+)/NN and/CC (\w+)/NN launch/NN ./.	1
+is/VBZ a/DT (\w+)/NN ./. A/DT (\w+)/NN is/VBZ a/DT woman/NN	1
+a/DT (\w+)/NN and/CC a/DT (\w+)/NN who/WP are/VBP now/RB	2
+left/VBD a/DT 60-year-old/JJ (\w+)/NN and/CC a/DT 45-year-old/JJ (\w+)/NN	3
+life/NN after/IN his/PRP$ (\w+)/NN and/CC (\w+)/NN left/VBD him/PRP	1
+hard-liners/NNS on/IN both/DT (\w+)/NN and/CC (\w+)/NN ,/, but/CC in/IN	1
+(\w+)/NN who/WP raped/VBD a/DT 91-year-old/JJ (\w+)/NN and/CC who/WP	1
+way/NN ,/, the/DT (\w+)/NN is/VBZ balanced/VBN by/IN the/DT (\w+)/NN ,/, "/''	1
+canvas/NN long/RB johns/VBZ (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN to/TO (\w+)/NN ratio/NN of/IN	1
+32-0/JJ (\w+)/NN at/IN Windermere/NNP and/CC that/DT (\w+)/NN lifted/VBD the/DT	1
+,/, off/IN a/DT (\w+)/NN of/IN 14,317.51/CD and/CC a/DT (\w+)/NN	1
+(\w+)/NN living/NN as/IN a/DT (\w+)/NN ,/,	2
+ecology/NN ,/, the/DT (\w+)/NNS ,/, the/DT (\w+)/NN	1
+that/IN the/DT (\w+)/NN and/CC (\w+)/NN will/MD sustain/VB a/DT	1
+(\w+)/NN and/CC a/DT 65-year-old/JJ (\w+)/NN	2
+in/IN which/WDT (\w+)/NN creates/VBZ its/PRP$ own/JJ (\w+)/NN ,/, "/'' said/VBD	1
+hated/VBD the/DT (\w+)/NN because/IN it/PRP went/VBD toward/IN (\w+)/NN	1
+(\w+)/NN to/TO one/CD (\w+)/NN which/WDT I/PRP	1
+cause/VB stillbirth/NN ,/, (\w+)/NN soon/RB after/IN (\w+)/NN ,/, and/CC	1
+(\w+)/NN whispering/VBG to/TO a/DT (\w+)/NN ,/, "/'' Secret/NNP	1
+(\w+)/NN ,/, not/RB (\w+)/NN ,/, on/IN the/DT	1
+and/CC the/DT younger/JJR (\w+)/NN and/CC (\w+)/NN she/PRP	1
+estranged/JJ (\w+)/NN "/'' broke/VBD his/PRP$ (\w+)/NN 's/POS	1
+'s/POS (\w+)/NN and/CC (\w+)/NN in/IN an/DT	1
+his/PRP$ (\w+)/NN and/CC (\w+)/NN who/WP were/VBD rabid/JJ	1
+between/IN a/DT (\w+)/NN and/CC (\w+)/NN and/CC itÃ/NN	1
+of/IN not/RB handling/VBG (\w+)/NN and/CC (\w+)/NN card/NN transactions/NNS	1
+be/VB the/DT (\w+)/NN of/IN the/DT (\w+)/NN of/IN a/DT career/NN	2
+,/, her/PRP$ (\w+)/NN often/RB takes/VBZ another/DT (\w+)/NN ./.	1
+panels/NNS ,/, (\w+)/NN and/CC (\w+)/NN ,/,	1
+(\w+)/NN and/CC (\w+)/NN concerning/VBG certain/JJ areas/NNS	1
+death/NN ,/, his/PRP$ (\w+)/NN ,/, (\w+)/NN ,/, sister/NN	1
+on/IN (\w+)/NN ,/, one/CD on/IN the/DT (\w+)/NN	2
+Relatives/NNS reported/VBD the/DT (\w+)/NN and/CC (\w+)/NN	1
+the/DT (\w+)/NN or/CC (\w+)/NN ,/, New/NNP Jersey/NNP	1
+either/CC a/DT (\w+)/NN or/CC (\w+)/NN firewall/NN ./.	1
+(\w+)/NN of/IN 47.89/CD and/CC a/DT (\w+)/NN of/IN 46.96/CD ./.	1
+faces/NNS (\w+)/NN to/TO (\w+)/NN ,/, some/DT you/PRP	1
+(\w+)/NN and/CC a/DT Scottish/JJ (\w+)/NN at/IN which/WDT	1
+companions/NNS included/VBD 5-year-old/JJ (\w+)/NN Dakota/NNP and/CC 2-year-old/JJ (\w+)/NN Peyton/NN	1
+his/PRP$ (\w+)/NN and/CC (\w+)/NN ,/, Dr./NNP	3
+for/IN the/DT (\w+)/NN over/IN the/DT (\w+)/NN ,/,	2
+power/NN sockets/NNS distributed/VBD (\w+)/NN to/TO (\w+)/NN	1
+spans/VBZ (\w+)/NN and/CC (\w+)/NN ,/,	1
+That/DT is/VBZ (\w+)/NN and/CC (\w+)/NN ,/,	1
+(\w+)/NN and/CC Kansan/JJ (\w+)/NN	1
+a/DT (\w+)/NN and/CC (\w+)/NN are/VBP bound/VBN in/IN	1
+a/DT (\w+)/NN 's/POS (\w+)/NN ,/, baby-sitter/NN or/CC	1
+(\w+)/NN verification/NN ,/, (\w+)/NN cost/NN and/CC	3
+on/IN (\w+)/NN ,/, the/DT Nets/NNPS '/POS (\w+)/NN was/VBD	1
+wanted/VBD a/DT (\w+)/NN ,/, (\w+)/NN and/CC end/NN ./.	1
+the/DT (\w+)/NN and/CC (\w+)/NN are/VBP unsure/JJ	2
+(\w+)/NN and/CC (\w+)/NN of/IN CO2/JJ emission/NN	1
+(\w+)/NN has/VBZ responded/VBN to/TO the/DT (\w+)/NN motion/NN ./.	1
+convince/VB her/PRP$ (\w+)/NN that/IN her/PRP$ (\w+)/NN gave/VBD her/PRP$	1
+(\w+)/NN or/CC hair/NN (\w+)/NN is/VBZ dismaying/JJ until/IN	1
+shortfall/NN between/IN (\w+)/NN and/CC (\w+)/NN continues/VBZ to/TO	1
+it/PRP means/VBZ ``/`` (\w+)/NN rather/RB than/IN (\w+)/NN ''/''	1
+"/`` (\w+)/NN and/CC (\w+)/NN ./. "/''	12
+(\w+)/NNP versus/CC (\w+)/NNP ,/, region/NN	1
+,/, off/IN a/DT (\w+)/NN of/IN 20,443.08/CD and/CC a/DT (\w+)/NN of/IN	1
+(/NNP top/JJ (\w+)/NN ,/, top/JJ (\w+)/NN ,/,	1
+a/DT good/JJ (\w+)/NN (/NN or/CC (\w+)/NN )/NN down/RP	1
+work/NN the/DT next/JJ (\w+)/NN if/IN we/PRP have/VBP a/DT (\w+)/NN storm/NN ,/,	1
+cover/VBP the/DT (\w+)/NN ,/, leaving/VBG the/DT (\w+)/NN	1
+to/TO mark/VB the/DT (\w+)/NN of/IN the/DT (\w+)/NN of/IN the/DT Bush/NNP	1
+follows/VBZ Adam/NNP 's/POS (\w+)/NN and/CC (\w+)/NN ,/, the/DT film/NN	2
+says/VBZ that/IN his/PRP$ (\w+)/NN and/CC (\w+)/NN â/NN grew/VBD	1

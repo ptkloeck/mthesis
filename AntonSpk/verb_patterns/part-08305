@@ -1,0 +1,25 @@
+easy/JJ to/TO (\w+)/VB ,/, (\w+)/VB ,/, rearrange/VB ,/,	1
+glaciers/NNS (\w+)/VB and/CC (\w+)/VB ,/, "/''	1
+,/, to/TO (\w+)/VB and/CC (\w+)/VB them/PRP	1
+Statement/NN "/'' games/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+when/WRB you/PRP (\w+)/VB and/CC (\w+)/VB them/PRP ./.	1
+(\w+)/VB negotiations/NNS on/IN Saturday/NNP to/TO (\w+)/VB the/DT	2
+for/IN investors/NNS to/TO (\w+)/VB and/CC (\w+)/VB UnionBanCal/NNP 's/POS stock/NN	1
+--/: Would/VBZ you/PRP (\w+)/VB or/CC (\w+)/VB if/IN the/DT U.S./NNP	1
+,/, it/PRP would/MD (\w+)/VB the/DT commission/NN and/CC (\w+)/VB	1
+(\w+)/VB and/CC the/DT last/JJ to/TO (\w+)/VB ./. "/''	1
+to/TO (\w+)/VB ,/, but/CC to/TO (\w+)/VB themselves/PRP ,/,	1
+about/IN to/TO (\w+)/VB or/CC (\w+)/VB a/DT	1
+(\w+)/VBP and/CC (\w+)/VBP ,/, but/CC today/NN	1
+home/NN team/NN ,/, (\w+)/VB or/CC (\w+)/VB ./.	2
+investors/NNS trying/VBG to/TO (\w+)/VB or/CC (\w+)/VB	2
+bills/NNS ,/, (\w+)/VBN to/TO (\w+)/VB 59/CD percent/NN	1
+It/PRP will/MD either/RB (\w+)/VB or/CC (\w+)/VB the/DT	1
+and/CC then/RB (\w+)/VB the/DT dollars/NNS to/TO (\w+)/VB	2
+winters/NNS (\w+)/VB and/CC (\w+)/VB	1
+he/PRP can/MD (\w+)/VB it/PRP and/CC (\w+)/VB Molly/NNP	1
+'/POS behavior/NN ,/, (\w+)/VB drop-out/JJ rates/NNS ,/, and/CC (\w+)/VB parent/NN	1
+'s/POS ability/NN to/TO (\w+)/VB or/CC (\w+)/VB nuclear/JJ or/CC	1
+(\w+)/VB or/CC (\w+)/VB a/DT candidate/NN &/CC	1
+I/PRP (\w+)/VBP what/WP should/MD (\w+)/VB	2
+(\w+)/VB back/RP stock/NN and/CC (\w+)/VB about/RB 12,000/CD	1

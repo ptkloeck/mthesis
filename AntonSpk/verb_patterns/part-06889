@@ -1,0 +1,30 @@
+look/NN (\w+)/VBD to/TO (\w+)/VB ./.	1
+,/, where/WRB politicians/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+the/DT rail/NN to/TO (\w+)/VB and/CC (\w+)/VB the/DT	4
+to/TO (\w+)/VB graciously/RB and/CC (\w+)/VB with/IN honor/NN	1
+(\w+)/VB for/IN America/NNP ,/, (\w+)/VB down/RP for/IN America/NNP	1
+(\w+)/VB or/CC (\w+)/VB of/IN John/NNP Howard/NNP	2
+Nuclear/NNP wars/NNS will/MD (\w+)/VB and/CC (\w+)/VB ,/, and/CC	1
+(\w+)/VBP with/IN and/CC do/VBP n't/RB (\w+)/VB ./.	1
+patterns/NNS to/TO (\w+)/VB suction/NN and/CC (\w+)/VB	1
+story/NN to/TO (\w+)/VB and/CC (\w+)/VB his/PRP$ cheese/NN tale/NN	1
+ranks/NNS (\w+)/VBP to/TO (\w+)/VB anything/NN	1
+to/TO (\w+)/VB revenue/NN and/CC (\w+)/VB	1
+issue/NN ,/, not/RB (\w+)/VB a/DT special/JJ interest/NN to/TO (\w+)/VB help/NN to/TO hundreds/NNS	1
+no/RB (\w+)/VB and/CC (\w+)/VB ,/, there/EX 's/VBZ	2
+distinguish/VB items/NNS to/TO (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VBP caused/VBN him/PRP to/TO (\w+)/VB some/DT	1
+(\w+)/VB or/CC to/TO (\w+)/VB had/VBD to/TO	1
+(\w+)/VBP and/CC great/JJ athletes/NNS (\w+)/VBP	1
+(\w+)/VB or/CC (\w+)/VB an/DT experience/NN	1
+who/WP either/RB (\w+)/VBP or/CC (\w+)/VBP his/PRP$ music/NN	1
+(\w+)/VB promises/NNS in/IN speeches/NNS and/CC (\w+)/VB	1
+the/DT ATM/NNP ,/, (\w+)/VB out/RP money/NN ,/, and/CC (\w+)/VB it/PRP to/TO	1
+North/NNP Korea/NNP (\w+)/VB steps/NNS to/TO ultimately/RB (\w+)/VB	1
+--/: people/NNS (\w+)/VB in/RP and/CC (\w+)/VB out/RP	1
+get/VB or/CC (\w+)/VB tax/NN breaks/NNS when/WRB employees/NNS (\w+)/VB public/JJ transit/NN or/CC	1
+a/DT time/NN to/TO (\w+)/VB -/: not/RB (\w+)/VB ./.	1
+you/PRP better/RB (\w+)/VBP and/CC you/PRP better/RB (\w+)/VBP up/RP to/TO speed/VB	1
+the/DT right/NN to/TO (\w+)/VB and/CC (\w+)/VB them/PRP ./.	1
+ca/MD n't/RB -/: (\w+)/VB kid/NN just/RB (\w+)/VB	1
+building/NN (\w+)/VB up/RP as/IN they/PRP (\w+)/VBP to/TO church/NN	1

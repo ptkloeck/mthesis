@@ -1,0 +1,24 @@
+one/CD you/PRP could/MD (\w+)/VB to/TO (\w+)/VB next/JJ to/TO	1
+if/IN we/PRP (\w+)/VBP or/CC (\w+)/VBP will/MD	2
+,/, who/WP (\w+)/VB and/CC (\w+)/VB without/IN much/JJ fanfare/NN	1
+cruises/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN Ushuaia/NNP ,/,	1
+or/CC candidates/NNS ,/, (\w+)/VBP and/CC (\w+)/VBP and/CC the/DT fans/NNS	1
+(\w+)/VB and/CC (\w+)/VB )/NNS	7
+and/CC able/JJ to/TO (\w+)/VB and/CC (\w+)/VB from/IN	1
+(/NN (\w+)/VBP ital/JJ )/JJ long/JJ (/NNS (\w+)/VB ital/JJ )/JJ plane/NN	1
+fine/NN ,/, (\w+)/VB apologizing/NN and/CC (\w+)/VB pushing/VBG the/DT Broncos/NNS	1
+is/VBZ meant/VBN to/TO (\w+)/VB or/CC (\w+)/VB on/IN its/PRP$ own/JJ	1
+(\w+)/VB one/CD fund/NN and/CC (\w+)/VB another/DT solely/RB	1
+so/IN they/PRP can/MD (\w+)/VB and/CC (\w+)/VB without/IN disturbing/VBG each/DT	1
+when/WRB they/PRP (\w+)/VBP above/RB or/CC (\w+)/VB below/IN a/DT 5/CD	1
+(\w+)/VB where/WRB others/NNS (\w+)/VBP ,/, and/CC	1
+,/, some/DT (\w+)/VBP from/IN Europe/NNP ,/, (\w+)/VBP to/TO New/NNP York/NNP	1
+changed/VBN DST/NNP and/CC (\w+)/VB or/CC (\w+)/VB another/DT hour/NN ./.	1
+custard/NN has/VBZ (\w+)/VBN and/CC the/DT nuts/NNS (\w+)/VBP	1
+the/DT average/JJ (/NN (\w+)/VBP ital/JJ )/JJ fin-de-siecle/JJ (/NNS (\w+)/VB ital/JJ )/NNP	2
+waxed/JJ paper/NN and/CC (\w+)/VBN in/IN warm/JJ place/NN to/TO (\w+)/VB about/IN an/DT hour/NN	1
+'s/POS (\w+)/VB this/DT opportunity/NN to/TO (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB ,/, each/DT	2
+to/TO repetitively/RB (\w+)/VB and/CC (\w+)/VB applications/NNS ./.	1
+would/MD totally/RB (\w+)/VB ,/, and/CC many/DT would/MD (\w+)/VB ,/,	1
+Coffee/NNP can/MD either/RB (\w+)/VB or/CC (\w+)/VB the/DT risk/NN	1

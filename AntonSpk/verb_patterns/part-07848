@@ -1,0 +1,40 @@
+for/IN orders/NNS to/TO (\w+)/VB and/CC (\w+)/VB	1
+that/WDT (\w+)/VBN into/IN this/DT office/NN (\w+)/VBP	1
+also/RB (\w+)/VBP or/CC (\w+)/VBP	4
+Bush/NNP has/VBZ to/TO (\w+)/VB or/CC (\w+)/VB the/DT entire/JJ plan/NN	1
+(\w+)/VB to/TO (\w+)/VB a/DT	80
+is/VBZ structured/VBN to/TO (\w+)/VB stocks/NNS ,/, not/RB to/TO (\w+)/VB them/PRP	1
+(\w+)/VB to/TO (\w+)/VB a/DT game/NN as/RB	1
+right/NN to/TO (\w+)/VB or/CC (\w+)/VB an/DT underlying/JJ	1
+be/VB accurate/JJ -/, (\w+)/VBP or/CC (\w+)/VBP	1
+dweller/NN to/TO (\w+)/VB vegetables/NNS to/TO (\w+)/VB on/IN	2
+heel/NN to/TO (\w+)/VB and/CC (\w+)/VB ./.	1
+to/TO (\w+)/VB and/CC (\w+)/VB freely/RB ./. And/CC	1
+who/WP (\w+)/VBP through/IN CAS/NNP (\w+)/VBN with/IN some/DT	1
+Hillary/NNP (\w+)/VB or/CC (\w+)/VB this/DT on/IN	1
+it/PRP would/MD (\w+)/VB to/TO (\w+)/VB the/DT Tigers/NNP a/DT	1
+those/DT who/WP (\w+)/VBP inherited/VBN African/JJ business/NN (\w+)/VBP the/DT	1
+routinely/RB (\w+)/VB raw/JJ materials/NNS and/CC (\w+)/VB	2
+dancers/NNS (\w+)/VB and/CC (\w+)/VB various/JJ elements/NNS	1
+to/TO (\w+)/VB back/RB next/JJ year/NN and/CC (\w+)/VB for/IN 5,000/CD he/PRP	1
+I/PRP tried/VBD to/TO (\w+)/VB to/TO his/PRP$ backhand/NN and/CC (\w+)/VB in/RP	1
+(\w+)/VB to/TO even/RB (\w+)/VB close/RB to/TO	1
+is/VBZ mandated/VBN to/TO (\w+)/VB not/RB (\w+)/VB for/IN two/CD	1
+(\w+)/VB through/IN the/DT gate/NN and/CC (\w+)/VB like/VB ,/, '/``	1
+include/VBP voting/VBG to/TO (\w+)/VB and/CC (\w+)/VB employees/NNS ,/,	1
+international/JJ events/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP ./.	1
+neighbors/NNS saw/VBD her/PRP (\w+)/VBP and/CC (\w+)/VBP in/IN a/DT	1
+makeup/NN colors/NNS (\w+)/VB and/CC (\w+)/VB which/WDT they/PRP	1
+costs/NNS would/MD (\w+)/VB or/CC (\w+)/VB once/IN	1
+Crews/NNP will/MD (\w+)/VB travel/NN lanes/NNS ,/, (\w+)/VB	1
+better/RBR (\w+)/VB it/PRP and/CC (\w+)/VB	1
+going/VBG to/TO (\w+)/VB or/CC (\w+)/VB Ships/NNP Tavern/NNP ,/,	1
+to/TO (\w+)/VB first/RB in/IN order/NN to/TO (\w+)/VB later/RB	1
+go/VB to/TO (\w+)/VB and/CC (\w+)/VBP up/RP from/IN just/RB	1
+there/RB ,/, (\w+)/VB in/RP and/CC (\w+)/VB	3
+parent/NN should/MD (\w+)/VB to/TO (\w+)/VB such/PDT an/DT occasion/NN	1
+(\w+)/VB us/PRP than/IN (\w+)/VB the/DT court/NN ./.	1
+may/MD (\w+)/VB just/RB enough/JJ votes/NNS to/TO (\w+)/VB	1
+(\w+)/VBP and/CC (\w+)/VBP among/IN nations/NNS ,/,	1
+the/DT markets/NNS could/MD (\w+)/VB or/CC (\w+)/VB the/DT	1
+(\w+)/VBP to/TO (\w+)/VB such/JJ actions/NNS ./.	1

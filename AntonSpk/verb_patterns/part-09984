@@ -1,0 +1,28 @@
+(\w+)/VB ./. Nobody/NN likes/VBZ to/TO (\w+)/VB ./.	1
+(\w+)/VB the/DT time/NN slot/NN but/CC (\w+)/VBP the/DT war/NN ,/,	1
+(\w+)/VB or/CC (\w+)/VB five/CD years/NNS )/JJ	1
+if/IN they/PRP (\w+)/VBP to/TO (\w+)/VB on/IN the/DT	1
+100/CD bucks/NNS (\w+)/VBP or/CC (\w+)/VBP ,/,	1
+to/TO (\w+)/VB people/NNS ,/, not/RB (\w+)/VBP them/PRP	1
+intended/VBD to/TO (\w+)/VB BP/NNP and/CC (\w+)/VB when/WRB the/DT	1
+(\w+)/VBP up/RB ./. Lair/NNP has/VBZ (\w+)/VBN to/TO see/VB	1
+rather/RB (\w+)/VB trying/VBG to/TO (\w+)/VB than/IN lose/VBP trying/VBG	1
+trees/NNS and/CC (\w+)/VB them/PRP to/TO (\w+)/VB	1
+decided/VBD to/TO (\w+)/VB their/PRP$ large/JJ house/NN to/TO (\w+)/VB a/DT	1
+to/TO (\w+)/VB a/DT double/JJ play/NN to/TO (\w+)/VB the/DT fourth/JJ	1
+,/, (\w+)/VB to/TO (\w+)/VB any/DT schedule/NN	2
+,/, toddler/NN can/MD (\w+)/VB ,/, roll/VB over/RP and/CC (\w+)/VB with/IN	1
+ads/NNS ,/, which/WDT (\w+)/VBN in/IN newspapers/NNS that/WDT (\w+)/VBP out/RP to/TO	1
+who/WP (\w+)/VBP and/CC (\w+)/VBP stocks/NNS over/IN	1
+actions/NNS (\w+)/VBP or/CC (\w+)/VBP the/DT music/NN	1
+™/JJ t/NN (\w+)/VB criminals/NNS an/DT opportunity/NN to/TO (\w+)/VB advantage/NN of/IN you/PRP	1
+for/IN me/PRP to/TO (\w+)/VB here/RB ,/, (\w+)/VB to/TO school/NN ,/,	1
+would/MD (\w+)/VB and/CC (\w+)/VB like/IN	1
+(\w+)/VB and/CC (\w+)/VB terms/NNS ./.	1
+FBS/NNP circles/NNS to/TO (\w+)/VB and/CC (\w+)/VB during/IN Paterno/NNP	1
+security/NN (\w+)/VBP with/IN them/PRP wherever/WRB they/PRP (\w+)/VBP ./.	1
+that/WDT (\w+)/VB and/CC (\w+)/VB the/DT jaw/NN	1
+will/MD (\w+)/VB and/CC (\w+)/VB but/CC	5
+have/VBP to/TO (\w+)/VB ,/, because/IN if/IN we/PRP (\w+)/VBP	1
+a/SYM (\w+)/VB and/CC (\w+)/VB between/IN both/DT Republican/NNP	1
+when/WRB rates/NNS (\w+)/VBP ,/, stock/NN prices/NNS (\w+)/VBP	2

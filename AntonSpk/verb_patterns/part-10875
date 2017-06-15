@@ -1,0 +1,33 @@
+Island/NNP (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+seat/NN seams/NNS or/CC (\w+)/VB or/CC (\w+)/VB	1
+girl/NN can/MD (\w+)/VB herself/PRP and/CC (\w+)/VB her/PRP$ freckles/NNS ./.	2
+will/MD (\w+)/VB or/CC (\w+)/VB against/IN	1
+I/PRP was/VBD really/RB (\w+)/VBN and/CC (\w+)/VBP ./.	1
+practically/RB (\w+)/VB and/CC (\w+)/VB their/PRP$ opponents/NNS ./.	1
+empowered/VBN to/TO (\w+)/VB and/CC (\w+)/VB	3
+exclusions/NNS that/WDT (\w+)/VBP insurance/NN companies/NNS to/TO (\w+)/VB	1
+while/IN market/NN favorites/NNS (\w+)/VBP and/CC (\w+)/VBP can/MD be/VB	1
+,/, (\w+)/VB and/CC (\w+)/VB tons/NNS of/IN fish/NN	1
+do/VB ,/, (\w+)/VB or/CC (\w+)/VB ,/,	2
+(\w+)/VB one/CD field-goal/JJ attempt/NN and/CC (\w+)/VB another/DT blocked/VBN ,/,	1
+Sports/NNPS can/MD (\w+)/VB even/RB or/CC (\w+)/VB money/NN ,/,	1
+emotionally/NN shifting/VBG (\w+)/VB and/CC (\w+)/VB ,/,	1
+no/DT reason/NN to/TO (\w+)/VB up/RP or/CC (\w+)/VB down/RP holdings/NNS	2
+(\w+)/VB and/CC (\w+)/VB shares/NNS of/IN mainstream/NN	1
+administration/NN may/MD (\w+)/VB ,/, (\w+)/VB or/CC shelve/VB	1
+to/TO (\w+)/VB or/CC (\w+)/VB ,/, conflict/NN more/RBR	2
+teams/NNS that/WDT (\w+)/VBP more/RBR than/IN they/PRP (\w+)/VBP on/IN the/DT road/NN	1
+to/TO (\w+)/VB permission/NN to/TO (\w+)/VB	1
+who/WP (\w+)/VBP to/TO (\w+)/VB the/DT legitimacy/NN	1
+to/TO have/VB either/CC (\w+)/VB or/CC (\w+)/VB orders/NNS	1
+Californians/NNPS (\w+)/VBP to/TO (\w+)/VB	2
+sounds/VBZ (\w+)/VB and/CC (\w+)/VB with/IN	1
+,/, you/PRP either/RB (\w+)/VBP it/PRP or/CC you/PRP (\w+)/VBP it/PRP ,/, "/''	1
+exchanges/NNS (\w+)/VB and/CC (\w+)/VB stocks/NNS	1
+(\w+)/VBP some/DT calls/VBZ they/PRP could/MD (\w+)/VB called/VBN on/IN you/PRP	2
+,/, let/VBP him/PRP (\w+)/VB buttons/NNS and/CC (\w+)/VB	1
+genuine/JJ evil/NN will/MD (\w+)/VB and/CC (\w+)/VB	1
+,/, (\w+)/VB or/CC (\w+)/VB ,/, Wallin/NNP 's/POS	1
+flat/JJ world/NN will/MD (\w+)/VB or/CC (\w+)/VB	1
+hoping/VBG to/TO (\w+)/VB rather/RB than/IN (\w+)/VB	1
+(\w+)/VBP never/RB had/VBN to/TO (\w+)/VB	1

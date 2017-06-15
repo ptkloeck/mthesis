@@ -1,0 +1,31 @@
+(\w+)/VB ,/, and/CC nothing/NN to/TO (\w+)/VB	2
+'s/VBZ time/NN to/TO (\w+)/VB playing/VBG games/NNS and/CC (\w+)/VB playing/VBG ball/NN	1
+hills/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP westward/RB until/IN they/PRP	1
+the/DT parts/NNS (\w+)/VB and/CC (\w+)/VB all/DT day/NN long/RB	1
+to/TO (\w+)/VB or/CC (\w+)/VB the/DT money/NN supply/NN	1
+Students/NNS either/CC (\w+)/VBP me/PRP or/CC (\w+)/VBP me/PRP	1
+ability/NN to/TO (\w+)/VB or/CC (\w+)/VB property/NN or/CC	1
+(\w+)/VBP on/IN some/DT issues/NNS and/CC (\w+)/VBP on/IN others/NNS ''/''	1
+(\w+)/VB bond/NN prices/NNS and/CC (\w+)/VB interest/NN	1
+seen/VBN schools/NNS chancellors/NNS (\w+)/VBP and/CC (\w+)/VBP without/IN	1
+(\w+)/VB and/CC (\w+)/VB the/DT door/NN ,/,	1
+,/, what/WP they/PRP (\w+)/VBP and/CC (\w+)/VBP	2
+(\w+)/VB it/PRP themselves/PRP or/CC (\w+)/VB with/IN us/PRP to/TO	1
+20/CD was/VBD gonna/JJ (\w+)/VBP or/CC (\w+)/VBP my/PRP$	1
+room/NN for/IN (\w+)/VB and/CC (\w+)/VB	4
+their/PRP$ children/NNS (\w+)/VBP or/CC (\w+)/VBP from/IN school/NN ,/,	1
+Sports/NNPS can/MD (\w+)/VB even/RB or/CC (\w+)/VB money/NN	1
+tone/NN that/WDT can/MD (\w+)/VB and/CC (\w+)/VB ,/,	1
+to/TO (\w+)/VB in/IN ,/, or/CC (\w+)/VBP to/TO ,/,	3
+'s/POS time/NN to/TO (\w+)/VB crying/VBG and/CC (\w+)/VB organizing/VBG !/. ''/''	1
+(\w+)/VBP and/CC they/PRP (\w+)/VBP ,/, ''/''	1
+apartment/NN complex/NN can/MD (\w+)/VB the/DT morale/NN and/CC (\w+)/VB the/DT	1
+We/PRP (\w+)/VBP the/DT Derby/NNP and/CC we/PRP (\w+)/VBP the/DT thoroughbred/JJ industry/NN	1
+Sometimes/RB we/PRP 'll/MD (\w+)/VB ,/, sometimes/RB we/PRP 'll/MD (\w+)/VB ,/, but/CC	1
+may/MD also/RB (\w+)/VB parents/NNS who/WP (\w+)/VBP the/DT needed/VBN	1
+can/MD (\w+)/VB or/CC (\w+)/VB the/DT church/NN in/IN	1
+'s/VBZ (\w+)/VB or/CC (\w+)/VB at/IN that/DT	1
+(\w+)/VBP and/CC (\w+)/VBP with/IN one/CD or/CC	1
+chance/NN to/TO (\w+)/VB or/CC (\w+)/VB because/IN the/DT	1
+players/NNS (\w+)/VB and/CC (\w+)/VB with/IN sometimes/RB	1
+(\w+)/VB ,/, the/DT more/JJR they/PRP (\w+)/VBP the/DT same/JJ	6

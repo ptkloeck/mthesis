@@ -1,0 +1,27 @@
+could/MD (\w+)/VB next/JJ year/NN ,/, not/RB (\w+)/VB	1
+partnership/NN of/IN (\w+)/VB and/CC (\w+)/VB ./.	1
+which/WDT voters/NNS (\w+)/VBP or/CC (\w+)/VBP	1
+can/MD (\w+)/VB our/PRP$ hearts/NNS and/CC (\w+)/VB us/PRP smile/VBP in/IN	1
+will/MD (\w+)/VB some/DT of/IN what/WP we/PRP (\w+)/VBP	1
+be/VB able/JJ to/TO (\w+)/VB and/CC (\w+)/VB cash/NN at/IN	1
+athletes/NNS still/RB (\w+)/VBP and/CC (\w+)/VBP	1
+one/NN to/TO (\w+)/VB ,/, as/RB well/RB as/IN (\w+)/VB	1
+it/PRP is/VBZ (\w+)/VBN and/CC (\w+)/VBP ,/, "/''	1
+driver/NN to/TO (\w+)/VB or/CC (\w+)/VBP	1
+just/RB to/TO (\w+)/VB or/CC (\w+)/VB	1
+the/DT mother/NN will/MD (\w+)/VB nuts/NNS and/CC (\w+)/VB to/TO the/DT	1
+columns/NNS that/WDT (\w+)/VBD the/DT target/NN but/CC (\w+)/VBP the/DT center/NN ring/NN	2
+)/VBD (\w+)/VB and/CC (\w+)/VB	1
+should/MD (\w+)/VB those/DT who/WP (\w+)/VBP about/IN an/DT	1
+this/DT sketch/NN should/MD (\w+)/VB rather/RB than/IN (\w+)/VB the/DT show/NN ./.	1
+that/WDT (\w+)/VBP and/CC (\w+)/VBP on/IN Broadway/NNP these/DT	1
+either/RB (\w+)/VB her/PRP ,/, or/CC (\w+)/VB her/PRP	1
+the/DT Giants/NNPS (\w+)/VBP or/CC (\w+)/VBP Super/NNP	1
+children/NNS who/WP (\w+)/VBN into/IN public/JJ care/NN ,/, (\w+)/VB	1
+days/NNS to/TO (\w+)/VB ,/, modify/VB or/CC (\w+)/VB the/DT administrative/JJ	4
+(\w+)/VB the/DT sinner/NN but/CC (\w+)/VBP the/DT	2
+``/`` (\w+)/VBP or/CC (\w+)/VBP ''/''	4
+marked/VBN by/IN (\w+)/VB and/CC (\w+)/VB ./.	1
+to/TO (\w+)/VB or/CC (\w+)/VB --/: and/CC the/DT	1
+can/MD (\w+)/VB or/CC (\w+)/VB a/DT team/NN sometimes/RB	1
+(\w+)/VBP to/TO (\w+)/VB ,/, ''/''	8

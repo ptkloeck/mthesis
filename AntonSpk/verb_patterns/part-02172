@@ -1,0 +1,32 @@
+not/RB to/TO (\w+)/VB but/CC to/TO (\w+)/VB ./. ''/''	1
+can/MD (\w+)/VB them/PRP or/CC we/PRP can/MD (\w+)/VB them/PRP ./. "/''	2
+people/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, they/PRP really/RB	1
+could/MD (\w+)/VB or/CC (\w+)/VB Missouris/NNP chance/NN for/IN	1
+housing/NN prices/NNS (\w+)/VBP or/CC (\w+)/VBP at/IN	1
+n’t/NN (\w+)/VB the/DT 700billion/NNS and/CC (\w+)/VB each/DT household/NN their/PRP$	1
+daylight-saving/JJ time/NN will/MD (\w+)/VB three/CD weeks/NNS earlier/RBR and/CC (\w+)/VB	1
+"/`` (\w+)/VB late/RB and/CC (\w+)/VB	1
+to/TO (\w+)/VB or/CC (\w+)/VB Time/NNP Warner/NNP 's/POS	1
+too-cocky/JJ Lakers/NNS occasionally/RB (\w+)/VBP games/NNS they/PRP should/MD (\w+)/VB ,/, the/DT	1
+(\w+)/VB at/IN 11:30/CD p.m./RB and/CC (\w+)/VB in/IN	1
+,/, can/MD (\w+)/VB or/CC (\w+)/VB students/NNS at/IN will/NN	1
+I/PRP should/MD (\w+)/VB or/CC (\w+)/VB ,/, "/''	2
+cast/NN members/NNS (\w+)/VBP and/CC (\w+)/VBP over/IN the/DT	1
+(\w+)/VBP directing/VBG ,/, I/PRP (\w+)/VBP	1
+Immelman/NNP (\w+)/VB Masters/NN or/CC did/VBD Tiger/NNP (\w+)/VBP	1
+the/DT plan/NN ,/, (\w+)/VB or/CC (\w+)/VB ,/, "/''	1
+(\w+)/VBP and/CC (\w+)/VBP in/IN Santa/NNP Fe/NNP	1
+can/MD each/DT (\w+)/VB or/CC (\w+)/VB	1
+those/DT trying/VBG to/TO (\w+)/VB or/CC (\w+)/VB co-op/NN units/NNS	1
+huge/JJ gates/NNS (\w+)/VB and/CC (\w+)/VB behind/IN them/PRP ,/,	1
+can/MD (\w+)/VB and/CC (\w+)/VB anything/NN they/PRP want/VBP	1
+will/MD (\w+)/VB ,/, or/CC (\w+)/VB ,/, or/CC muddle/VB	1
+Exhibitions/NNS generally/RB (\w+)/VB and/CC (\w+)/VB without/IN incident/NN	1
+bankruptcies/NNS may/MD be/VB (\w+)/VBN to/TO (\w+)/VB	1
+he/PRP did/VBD n't/RB (\w+)/VB Serena/NNP --/: "/`` I/PRP (\w+)/VBP her/PRP	1
+time/NN (\w+)/VBP to/TO (\w+)/VB common/JJ civil/JJ	1
+to/TO (\w+)/VB back/RP home/NN or/CC (\w+)/VB somewhere/RB and/CC	1
+authority/NN to/TO (\w+)/VB or/CC (\w+)/VB individual/JJ securities/NNS ./.	1
+home/NN when/WRB you/PRP (\w+)/VBP it/PRP and/CC (\w+)/VB a/DT new/JJ	2
+Clearing/NNP will/MD (\w+)/VB from/IN lenders/NNS and/CC onward/VBD (\w+)/VB to/TO	1
+can/MD not/RB (\w+)/VB 80/CD easily/RB enough/RB to/TO (\w+)/VB competitive/JJ	1

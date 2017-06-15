@@ -1,0 +1,30 @@
+profit/VB when/WRB stocks/NNS (\w+)/VBP or/CC when/WRB they/PRP (\w+)/VBP ./.	1
+managers/NNS plan/VBP to/TO (\w+)/VB stocks/NNS than/IN (\w+)/VB them/PRP ,/,	1
+investors/NNS (\w+)/VBP low-yielding/JJ currencies/NNS to/TO (\w+)/VB currencies/NNS	1
+,/, "/`` You/PRP (\w+)/VB some/DT and/CC you/PRP (\w+)/VBP some/DT ,/,	1
+(\w+)/VBP of/IN documented/VBN income/NN or/CC (\w+)/VBP other/JJ	1
+there/RB who/WP (\w+)/VBP to/TO (\w+)/VB	1
+abiders/NNS (\w+)/VBP their/PRP$ guns/NNS while/IN criminals/NNS (\w+)/VBP theirs/PRP ,/, even/RB	1
+plain/JJ folks/NNS who/WP (\w+)/VBP and/CC (\w+)/VBP	1
+on/IN Long/NNP Island/NNP (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+and/CC Shaquille/NNP O'Neal/NNP (\w+)/VBP and/CC will/MD (\w+)/VB huge/JJ chunks/NNS of/IN	1
+choreography/NN :/: the/DT (\w+)/VBP and/CC (\w+)/VBP of/IN selling/VBG	1
+to/TO (\w+)/VB and/CC (\w+)/VB only/RB through/IN ``/``	1
+course/NN to/TO (\w+)/VB their/PRP$ section/NN unless/IN they/PRP (\w+)/VBP to/TO Sweden/NNP ./.	1
+(\w+)/VB to/TO (\w+)/VB it/PRP here/RB if/IN	1
+when/WRB the/DT rockets/NNS (\w+)/VBP in/RP ,/, you/PRP (\w+)/VBP to/TO	2
+game/NN usually/RB (\w+)/VBP or/CC (\w+)/VBP his/PRP$	1
+one/NN ,/, (\w+)/VB or/CC (\w+)/VB ,/, "/'' he/PRP	2
+to/TO (\w+)/VB the/DT nomination/NN and/CC (\w+)/VB in/IN a/DT landslide/NN	1
+be/VB forbidden/VBN to/TO (\w+)/VB or/CC (\w+)/VB	1
+'d/MD better/RBR (\w+)/VB before/IN I/PRP (\w+)/VBP crying/VBG ./. .../:	1
+market/NN to/TO (\w+)/VB or/CC (\w+)/VB despite/IN recent/JJ	1
+you/PRP (\w+)/VBP into/IN a/DT sweat/NN and/CC (\w+)/VB it/PRP	1
+seem/VBP to/TO (\w+)/VB and/CC (\w+)/VB almost/RB	1
+a/DT game/NN &mdash;/NN (\w+)/VBP or/CC (\w+)/VBP &mdash;/NNP they/PRP are/VBP	1
+data/NN aggregators/NNS who/WP (\w+)/VBP and/CC (\w+)/VBP	1
+or/CC (\w+)/VB and/CC (\w+)/VB are/VBP great/JJ	1
+to/TO (\w+)/VB or/CC (\w+)/VB funds/NNS or/CC other/JJ	10
+participants/NNS (\w+)/VBP or/CC (\w+)/VBP	1
+managed/VBD to/TO (\w+)/VB rather/RB than/IN not/RB to/TO (\w+)/VB ,/, and/CC	1
+not/RB to/TO (\w+)/VB here/RB and/CC suggested/VBD we/PRP (\w+)/VBP there/RB	1

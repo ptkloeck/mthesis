@@ -1,0 +1,31 @@
+'s/VBZ definitely/RB (\w+)/VBN or/CC (\w+)/VBP ./.	1
+you/PRP must/MD (\w+)/VB or/CC (\w+)/VB	1
+Michaels/NNP and/CC Angle/NNP (\w+)/VBP out/RP we/PRP (\w+)/VBP to/TO commercial/NN	1
+(\w+)/VB or/CC (\w+)/VB what/WP I/PRP	1
+merely/RB to/TO (\w+)/VB ,/, will/MD probably/RB (\w+)/VB in/IN the/DT	1
+must/MD (\w+)/VB in/IN order/NN to/TO (\w+)/VB cultural/JJ events/NNS ./.	1
+students/NNS (\w+)/VB and/CC (\w+)/VB and/CC some/DT he/PRP	1
+would/MD (\w+)/VB the/DT job/NN and/CC (\w+)/VB	1
+city/NN officers/NNS to/TO (\w+)/VB to/TO (\w+)/VB assignments/JJ patrolling/NN subways/NNS	1
+will/MD (\w+)/VB their/PRP$ assembly-line/NN workouts/NNS and/CC (\w+)/VB playing/NN games/NNS Monday/NNP	1
+women/NNS and/CC children/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+believe/VBP we/PRP will/MD (\w+)/VB our/PRP$ souls/NNS to/TO (\w+)/VB	1
+Can/RB I/PRP (\w+)/VBP pee/VB real/RB quick/JJ and/CC (\w+)/VB	1
+While/IN others/NNS would/MD (\w+)/VB and/CC (\w+)/VB ,/,	1
+Minnesota/NNP (\w+)/VBP ,/, White/NNP (\w+)/VBD a/DT flat/JJ trajectory/JJ	1
+(\w+)/VB my/PRP$ money/NN and/CC (\w+)/VB it/PRP	2
+wood/NN grains/NNS (\w+)/VBP ,/, swirl/VB and/CC then/RB (\w+)/VB abruptly/RB where/WRB	1
+you/PRP (\w+)/VB and/CC (\w+)/VB contributions/NNS and/CC make/VB	1
+arena/NN will/MD (\w+)/VB the/DT community/NN rather/RB than/IN (\w+)/VBG it/PRP	1
+do/VBP we/PRP really/RB (\w+)/VB the/DT time/NN to/TO (\w+)/VB our/PRP$ thanks/NNS	1
+hope/VB to/TO (\w+)/VB enough/JJ money/NN to/TO (\w+)/VB	1
+,/, "/`` (\w+)/VBP and/CC (\w+)/VBP ./. "/''	1
+about/RB (\w+)/VB and/CC (\w+)/VB ,/, people/NNS ?/.	1
+going/VBG to/TO (\w+)/VB the/DT Guard/NN or/CC (\w+)/VB it/PRP irrelevant/JJ	1
+built/VBN to/TO (\w+)/VB performance/NN and/CC (\w+)/VB power/NN requirements/NNS ./.	2
+vowing/VBG to/TO (\w+)/VB home/NN and/CC (\w+)/VB back/RP a/DT better/JJR	1
+willing/JJ to/TO (\w+)/VB or/CC (\w+)/VB the/DT assets/NNS ,/,	1
+only/RB (\w+)/VB but/CC (\w+)/VB at/IN the/DT places/NNS	1
+to/TO (\w+)/VB dragging/VBG its/PRP$ feet/NNS and/CC (\w+)/VB	1
+dream/NN (\w+)/VBN true/JJ whether/IN I/PRP (\w+)/VBP third/JJ ,/,	1
+pits/NNS that/WDT (\w+)/VBP obsession/NN and/CC (\w+)/VBP	1

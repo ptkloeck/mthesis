@@ -1,0 +1,683 @@
+(\w+)/JJ or/CC (\w+)/JJ	484	3680	1338.9366
+(\w+)/JJ and/CC (\w+)/JJ ./.	502	7162	1100.8132
+(\w+)/JJ or/CC (\w+)/JJ ./.	246	954	820.11456
+between/IN (\w+)/JJ and/CC (\w+)/JJ	186	228	766.02704
+(\w+)/JJ and/CC (\w+)/JJ ,/,	298	3108	739.73846
+of/IN (\w+)/JJ and/CC (\w+)/JJ	209	1316	612.60596
+the/DT (\w+)/JJ and/CC (\w+)/JJ	236	2760	561.0529
+both/DT (\w+)/JJ and/CC (\w+)/JJ	149	525	507.97983
+(\w+)/JJ or/CC (\w+)/JJ ,/,	121	433	411.05762
+,/, (\w+)/JJ and/CC (\w+)/JJ	183	3438	353.83508
+between/IN (\w+)/JJ and/CC (\w+)/JJ ./.	63	32	283.99152
+,/, (\w+)/JJ and/CC (\w+)/JJ ./.	109	1085	275.20624
+,/, (\w+)/JJ or/CC (\w+)/JJ ./.	70	129	271.16144
+in/IN (\w+)/JJ and/CC (\w+)/JJ	82	480	245.48846
+on/IN (\w+)/JJ and/CC (\w+)/JJ	72	284	239.06015
+,/, (\w+)/JJ or/CC (\w+)/JJ	76	373	238.81137
+,/, (\w+)/JJ and/CC (\w+)/JJ ,/,	78	503	227.0192
+both/DT (\w+)/JJ and/CC (\w+)/JJ ./.	66	270	217.21179
+(\w+)/JJ 1980s/NNS and/CC (\w+)/JJ	44	0	216.41595
+the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ	44	0	216.41595
+,/, both/DT (\w+)/JJ and/CC (\w+)/JJ	46	75	181.76418
+gap/NN between/IN (\w+)/JJ and/CC (\w+)/JJ	36	5	172.38568
+both/DT (\w+)/JJ and/CC (\w+)/JJ ,/,	41	82	156.61722
+,/, both/DT (\w+)/JJ and/CC (\w+)/JJ ./.	39	58	156.28842
+,/, (\w+)/JJ or/CC (\w+)/JJ ,/,	38	58	151.68773
+runners/NNS on/IN (\w+)/JJ and/CC (\w+)/JJ	37	72	142.01024
+the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ 1990s/NNS	28	0	137.71924
+(\w+)/JJ 1980s/NNS and/CC (\w+)/JJ 1990s/NNS	28	0	137.71924
+(\w+)/JJ or/CC (\w+)/JJ ./. "/''	38	111	134.983
+between/IN the/DT (\w+)/JJ and/CC (\w+)/JJ	35	71	133.36586
+between/IN (\w+)/JJ and/CC (\w+)/JJ ,/,	29	12	132.59578
+,/, both/DT (\w+)/JJ and/CC (\w+)/JJ ,/,	31	32	130.4913
+of/IN (\w+)/JJ and/CC (\w+)/JJ ./.	33	55	129.9446
+from/IN (\w+)/JJ to/TO (\w+)/JJ	38	150	126.14816
+a/DT (\w+)/JJ too/RB (\w+)/JJ	27	9	125.03328
+in/IN the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ	25	0	122.96361
+the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ 1990s/NNS ./.	24	0	118.04506
+(\w+)/JJ 1980s/NNS and/CC (\w+)/JJ 1990s/NNS ./.	24	0	118.04506
+(\w+)/JJ too/RB (\w+)/JJ	27	20	117.834305
+for/IN the/DT (\w+)/JJ time/NN (\w+)/JJ	26	21	112.48882
+the/DT (\w+)/JJ or/CC (\w+)/JJ	35	168	110.62402
+--/: (\w+)/JJ and/CC (\w+)/JJ	30	82	108.037285
+of/IN (\w+)/JJ and/CC (\w+)/JJ ,/,	25	29	103.7109
+(\w+)/JJ until/IN proven/VBN (\w+)/JJ	21	0	103.28943
+in/IN (\w+)/JJ and/CC (\w+)/JJ ./.	23	18	99.83073
+is/VBZ (\w+)/JJ or/CC (\w+)/JJ	27	67	99.11934
+gap/NN between/IN (\w+)/JJ and/CC (\w+)/JJ ./.	20	0	98.37089
+in/IN the/DT (\w+)/JJ and/CC (\w+)/JJ	39	398	97.58473
+to/TO (\w+)/JJ and/CC (\w+)/JJ	35	295	93.61799
+(\w+)/JJ until/IN proven/VBN (\w+)/JJ ./.	19	0	93.45234
+(\w+)/JJ and/CC (\w+)/JJ --/:	30	170	90.64273
+is/VBZ (\w+)/JJ or/CC (\w+)/JJ ./.	24	53	90.06703
+a/DT (\w+)/JJ or/CC (\w+)/JJ	32	232	89.8666
+the/DT (\w+)/JJ time/NN (\w+)/JJ	27	115	87.980965
+(\w+)/JJ and/CC (\w+)/JJ ./. "/''	48	1016	87.35783
+on/IN (\w+)/JJ and/CC (\w+)/JJ ./.	21	24	87.28449
+with/IN (\w+)/JJ and/CC (\w+)/JJ	35	377	85.85042
+the/DT (\w+)/JJ time/NN since/IN (\w+)/JJ	21	28	85.49618
+(\w+)/JJ time/NN since/IN (\w+)/JJ	21	29	85.07192
+the/DT (\w+)/JJ and/CC the/DT (\w+)/JJ	25	89	85.03054
+(\w+)/JJ and/CC (\w+)/JJ in/IN	35	394	84.43524
+(\w+)/JJ time/NN (\w+)/JJ	27	148	82.33907
+(\w+)/JJ or/CC (\w+)/JJ ,/, "/''	22	53	81.226166
+(\w+)/JJ and/CC (\w+)/JJ areas/NNS	21	43	79.887856
+for/IN the/DT (\w+)/JJ time/NN since/IN (\w+)/JJ	19	21	79.30797
+in/IN the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ 1990s/NNS	16	0	78.69671
+(\w+)/JJ and/CC (\w+)/JJ and/CC	38	618	78.658844
+(\w+)/JJ year/NN for/IN the/DT (\w+)/JJ time/NN	16	1	77.726715
+(\w+)/JJ and/CC (\w+)/JJ policy/NN	19	25	77.49708
+'s/POS (\w+)/JJ and/CC (\w+)/JJ	35	509	76.12301
+(\w+)/JJ and/CC (\w+)/JJ schools/NNS	20	46	74.49243
+for/IN (\w+)/JJ and/CC (\w+)/JJ	32	402	73.95954
+(\w+)/JJ 1980s/NNS and/CC (\w+)/JJ '90s/NNS	15	0	73.77817
+the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ '90s/NNS	15	0	73.77817
+(\w+)/JJ and/CC the/DT (\w+)/JJ	27	218	73.254326
+--/: (\w+)/JJ and/CC (\w+)/JJ --/:	17	15	72.862366
+(\w+)/JJ year/NN for/IN the/DT (\w+)/JJ	16	10	70.92859
+(\w+)/JJ and/CC (\w+)/JJ	2069	32087	70.53511
+(\w+)/JJ 1980s/NNS and/CC (\w+)/JJ 1990s/NNS ,/,	14	0	68.85962
+(\w+)/JJ 1960s/NNS and/CC (\w+)/JJ	14	1	67.89372
+(\w+)/JJ and/CC (\w+)/JJ jobs/NNS	15	8	67.3665
+'s/VBZ (\w+)/JJ or/CC (\w+)/JJ	16	24	64.03606
+the/DT gap/NN between/IN (\w+)/JJ and/CC (\w+)/JJ	13	0	63.941074
+(\w+)/JJ 1950s/NNS and/CC (\w+)/JJ	13	0	63.941074
+(\w+)/JJ news/NN and/CC (\w+)/JJ	14	7	63.18311
+too/RB (\w+)/JJ or/CC too/RB (\w+)/JJ	16	28	62.511097
+on/IN (\w+)/JJ and/CC (\w+)/JJ ,/,	14	9	61.9095
+(\w+)/JJ and/CC (\w+)/JJ sectors/NNS	14	10	61.313667
+(\w+)/JJ and/CC (\w+)/JJ sectors/NNS ./.	13	4	60.453648
+is/VBZ (\w+)/JJ or/CC (\w+)/JJ ,/,	15	22	60.235146
+in/IN the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ 1990s/NNS ./.	12	0	59.02253
+is/VBZ (\w+)/JJ until/IN proven/VBN (\w+)/JJ	12	0	59.02253
+(\w+)/JJ news/NN and/CC (\w+)/JJ news/NN	12	1	58.06202
+the/DT (\w+)/JJ 1960s/NNS and/CC (\w+)/JJ	12	1	58.06202
+the/DT (\w+)/JJ and/CC (\w+)/JJ sectors/NNS	12	3	56.34481
+(\w+)/JJ and/CC (\w+)/JJ areas/NNS ./.	14	21	56.031548
+(\w+)/JJ or/CC too/RB (\w+)/JJ	15	35	55.71857
+runners/NNS on/IN (\w+)/JJ and/CC (\w+)/JJ ./.	14	23	55.253574
+the/DT (\w+)/JJ round/NN (\w+)/JJ	13	13	54.93016
+from/IN (\w+)/JJ and/CC (\w+)/JJ	20	156	54.875854
+at/IN (\w+)/JJ and/CC (\w+)/JJ	18	101	54.536266
+the/DT (\w+)/JJ 1950s/NNS and/CC (\w+)/JJ	11	0	54.10399
+is/VBZ (\w+)/JJ until/IN proven/VBN (\w+)/JJ ./.	11	0	54.10399
+between/IN (\w+)/JJ and/CC (\w+)/JJ territory/NN	11	0	54.10399
+whether/IN (\w+)/JJ or/CC (\w+)/JJ	13	16	53.510574
+(\w+)/JJ and/CC (\w+)/JJ policy/NN ./.	12	7	53.508144
+(\w+)/JJ and/CC (\w+)/JJ ,/, "/''	27	484	53.406315
+the/DT (\w+)/JJ and/CC (\w+)/JJ sectors/NNS ./.	11	1	53.146862
+the/DT (\w+)/JJ time/NN (\w+)/JJ week/NN	11	1	53.146862
+for/IN the/DT (\w+)/JJ time/NN (\w+)/JJ week/NN	11	1	53.146862
+divide/NN between/IN (\w+)/JJ and/CC (\w+)/JJ	11	1	53.146862
+(\w+)/JJ time/NN (\w+)/JJ week/NN	11	2	52.26639
+(\w+)/JJ ,/, (\w+)/JJ ,/,	48	2163	52.250175
+(\w+)/JJ round/NN (\w+)/JJ	13	20	51.83082
+are/VBP (\w+)/JJ or/CC (\w+)/JJ ./.	15	50	51.78311
+with/IN runners/NNS on/IN (\w+)/JJ and/CC (\w+)/JJ	13	23	50.699673
+(\w+)/JJ and/CC (\w+)/JJ sector/NN	11	4	50.692284
+are/VBP (\w+)/JJ or/CC (\w+)/JJ	17	105	50.111526
+runners/NNS at/IN (\w+)/JJ and/CC (\w+)/JJ	14	41	49.70376
+(\w+)/JJ and/CC (\w+)/JJ with/IN	20	210	49.523945
+(\w+)/JJ and/CC (\w+)/JJ territory/NN	11	6	49.31549
+either/DT (\w+)/JJ or/CC (\w+)/JJ	15	62	49.241837
+In/IN the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ	10	0	49.185444
+(\w+)/JJ 1960s/NNS and/CC (\w+)/JJ '70s/NNS	10	0	49.185444
+(\w+)/JJ and/CC (\w+)/JJ ,/, the/DT	15	76	46.736027
+(\w+)/JJ and/CC (\w+)/JJ in/IN the/DT	16	103	46.592155
+(\w+)/JJ and/CC (\w+)/JJ ,/, are/VBP	12	22	46.525085
+be/VB (\w+)/JJ or/CC (\w+)/JJ ./.	14	57	46.128906
+in/IN (\w+)/JJ and/CC (\w+)/JJ ,/,	10	4	45.820724
+be/VB (\w+)/JJ or/CC (\w+)/JJ	16	109	45.80511
+whether/IN (\w+)/JJ or/CC (\w+)/JJ ./.	11	13	45.522243
+(\w+)/JJ and/CC (\w+)/JJ ,/, who/WP	10	5	45.13079
+(\w+)/JJ to/TO (\w+)/JJ ./.	18	189	44.57155
+(\w+)/JJ ,/, (\w+)/JJ and/CC	54	3184	44.54014
+(\w+)/JJ April/NNP or/CC (\w+)/JJ	9	0	44.2669
+(\w+)/JJ thing/NN or/CC a/DT (\w+)/JJ	9	0	44.2669
+(\w+)/JJ April/NNP or/CC (\w+)/JJ May/NNP	9	0	44.2669
+a/DT (\w+)/JJ thing/NN or/CC a/DT (\w+)/JJ	9	0	44.2669
+the/DT (\w+)/JJ 1960s/NNS and/CC (\w+)/JJ '70s/NNS	9	0	44.2669
+(\w+)/JJ shooting/NN of/IN an/DT unarmed/JJ (\w+)/JJ man/NN	9	0	44.2669
+(\w+)/JJ shooting/NN of/IN an/DT unarmed/JJ (\w+)/JJ	9	1	43.318653
+the/DT (\w+)/JJ round/NN (\w+)/JJ year/NN	10	8	43.307575
+(\w+)/JJ round/NN (\w+)/JJ year/NN	10	8	43.307575
+'s/VBZ (\w+)/JJ or/CC (\w+)/JJ ./.	11	19	43.067665
+no/DT (\w+)/JJ or/CC (\w+)/JJ	12	35	42.63964
+,/, both/DT (\w+)/JJ and/CC (\w+)/JJ ,/, are/VBP	9	2	42.46086
+both/DT (\w+)/JJ and/CC (\w+)/JJ ,/, are/VBP	9	2	42.46086
+from/IN (\w+)/JJ to/TO (\w+)/JJ ./.	13	56	42.242035
+(\w+)/JJ half/NN of/IN (\w+)/JJ	12	37	42.13957
+the/DT (\w+)/JJ half/NN of/IN (\w+)/JJ	12	37	42.13957
+(\w+)/JJ and/CC (\w+)/JJ ,/, and/CC	21	371	41.827904
+(\w+)/JJ and/CC (\w+)/JJ is/VBZ	12	39	41.659504
+(\w+)/JJ quarter/NN (\w+)/JJ year/NN ./.	12	40	41.426487
+in/IN both/DT (\w+)/JJ and/CC (\w+)/JJ	11	24	41.37201
+(\w+)/JJ quarter/NN (\w+)/JJ year/NN	12	42	40.973606
+important/JJ (\w+)/JJ and/CC (\w+)/JJ	9	4	40.957375
+it/PRP 's/VBZ (\w+)/JJ or/CC (\w+)/JJ	10	13	40.856354
+percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ	10	13	40.856354
+difference/NN between/IN (\w+)/JJ and/CC (\w+)/JJ	10	13	40.856354
+the/DT (\w+)/JJ play/NN of/IN the/DT (\w+)/JJ	9	6	39.669468
+'s/VBZ (\w+)/JJ and/CC (\w+)/JJ	18	258	39.393272
+(\w+)/JJ and/CC (\w+)/JJ are/VBP	11	31	39.36647
+(\w+)/JJ thing/NN or/CC a/DT (\w+)/JJ thing/NN	8	0	39.348354
+in/IN (\w+)/JJ April/NNP or/CC (\w+)/JJ May/NNP	8	0	39.348354
+(\w+)/JJ May/NNP or/CC (\w+)/JJ June/NNP	8	0	39.348354
+(\w+)/JJ May/NNP or/CC (\w+)/JJ	8	0	39.348354
+a/DT (\w+)/JJ thing/NN or/CC a/DT (\w+)/JJ thing/NN	8	0	39.348354
+sense/NN of/IN (\w+)/JJ and/CC (\w+)/JJ	8	0	39.348354
+(\w+)/JJ until/IN proven/VBN (\w+)/JJ ./. "/''	8	0	39.348354
+the/DT (\w+)/JJ and/CC (\w+)/JJ sector/NN	8	0	39.348354
+(\w+)/JJ May/NNP or/CC (\w+)/JJ June/NNP ./.	8	0	39.348354
+(\w+)/JJ August/NNP or/CC (\w+)/JJ	8	0	39.348354
+(\w+)/JJ August/NNP or/CC (\w+)/JJ September/NNP	8	0	39.348354
+(\w+)/JJ 1950s/NNS and/CC (\w+)/JJ 1960s/NNS	8	0	39.348354
+(\w+)/JJ year/NN became/VBD the/DT (\w+)/JJ	8	0	39.348354
+growing/VBG gap/NN between/IN (\w+)/JJ and/CC (\w+)/JJ ./.	8	0	39.348354
+growing/VBG gap/NN between/IN (\w+)/JJ and/CC (\w+)/JJ	8	0	39.348354
+in/IN (\w+)/JJ April/NNP or/CC (\w+)/JJ	8	0	39.348354
+the/DT (\w+)/JJ 1950s/NNS and/CC (\w+)/JJ 1960s/NNS	8	0	39.348354
+in/IN the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ '90s/NNS	8	0	39.348354
+of/IN (\w+)/JJ or/CC (\w+)/JJ	15	136	39.13972
+(\w+)/JJ ,/, (\w+)/JJ or/CC	20	377	38.606808
+both/CC the/DT (\w+)/JJ and/CC (\w+)/JJ	12	55	38.3851
+through/IN (\w+)/JJ and/CC (\w+)/JJ	11	35	38.36578
+runners/NNS on/IN (\w+)/JJ and/CC (\w+)/JJ ,/,	9	9	38.028572
+the/DT (\w+)/JJ quarter/NN (\w+)/JJ year/NN ./.	11	37	37.897625
+(\w+)/JJ or/CC (\w+)/JJ ,/, ''/''	10	21	37.87142
+,/, (\w+)/JJ and/CC (\w+)/JJ ,/, who/WP	8	2	37.563206
+in/IN the/DT (\w+)/JJ round/NN (\w+)/JJ	9	10	37.54197
+the/DT (\w+)/JJ quarter/NN (\w+)/JJ year/NN	11	39	37.448586
+(\w+)/JJ times/NNS and/CC (\w+)/JJ	9	11	37.08033
+(\w+)/JJ play/NN of/IN the/DT (\w+)/JJ	9	11	37.08033
+The/DT (\w+)/JJ and/CC (\w+)/JJ	16	207	36.54338
+(\w+)/JJ and/CC (\w+)/JJ jobs/NNS ./.	8	4	36.104633
+(\w+)/JJ and/CC (\w+)/JJ has/VBZ	8	4	36.104633
+(\w+)/JJ quarter/NN (\w+)/JJ	12	70	35.96078
+(\w+)/JJ nor/CC (\w+)/JJ	13	103	35.488747
+for/IN (\w+)/JJ and/CC (\w+)/JJ ./.	8	5	35.464294
+--/: both/DT (\w+)/JJ and/CC (\w+)/JJ	8	5	35.464294
+was/VBD (\w+)/JJ or/CC (\w+)/JJ	11	49	35.443047
+for/IN both/DT (\w+)/JJ and/CC (\w+)/JJ	9	15	35.439434
+(\w+)/JJ to/TO (\w+)/JJ	47	2998	35.12948
+(\w+)/JJ and/CC (\w+)/JJ nations/NNS	10	31	35.075573
+the/DT (\w+)/JJ quarter/NN (\w+)/JJ	11	54	34.562576
+the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ '90s/NNS ,/,	7	0	34.42981
+between/IN (\w+)/JJ and/CC (\w+)/JJ territory/NN ./.	7	0	34.42981
+0.2/CD percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN in/IN	7	0	34.42981
+percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN in/IN four/CD	7	0	34.42981
+(\w+)/JJ thing/NN or/CC a/DT (\w+)/JJ thing/NN ./.	7	0	34.42981
+a/DT (\w+)/JJ thing/NN or/CC a/DT (\w+)/JJ thing/NN ./.	7	0	34.42981
+0.2/CD percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN in/IN four/CD	7	0	34.42981
+(\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN	7	0	34.42981
+unexpected/JJ 0.2/CD percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN in/IN	7	0	34.42981
+In/IN the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ 1990s/NNS	7	0	34.42981
+percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN in/IN	7	0	34.42981
+in/IN the/DT (\w+)/JJ and/CC (\w+)/JJ sectors/NNS	7	0	34.42981
+unexpected/JJ 0.2/CD percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN	7	0	34.42981
+0.2/CD percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN	7	0	34.42981
+(\w+)/JJ nine/CD months/NNS of/IN (\w+)/JJ year/NN	7	0	34.42981
+(\w+)/JJ '60s/NNS and/CC (\w+)/JJ '70s/NNS	7	0	34.42981
+in/IN the/DT (\w+)/JJ 1950s/NNS and/CC (\w+)/JJ 1960s/NNS	7	0	34.42981
+in/IN (\w+)/JJ August/NNP or/CC (\w+)/JJ September/NNP	7	0	34.42981
+(\w+)/JJ year/NN for/IN the/DT (\w+)/JJ time/NN in/IN	7	0	34.42981
+the/DT (\w+)/JJ '60s/NNS and/CC (\w+)/JJ '70s/NNS	7	0	34.42981
+in/IN the/DT (\w+)/JJ 1950s/NNS and/CC (\w+)/JJ	7	0	34.42981
+(\w+)/JJ and/CC (\w+)/JJ affairs/NNS for/IN The/DT	7	0	34.42981
+(\w+)/JJ 1980s/NNS and/CC (\w+)/JJ '90s/NNS ,/,	7	0	34.42981
+(\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN in/IN	7	0	34.42981
+the/DT (\w+)/JJ '60s/NNS and/CC (\w+)/JJ	7	0	34.42981
+unexpected/JJ 0.2/CD percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ	7	0	34.42981
+unexpected/JJ 0.2/CD percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN in/IN four/CD	7	0	34.42981
+(\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN	7	0	34.42981
+0.2/CD percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ	7	0	34.42981
+(\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN in/IN four/CD	7	0	34.42981
+in/IN (\w+)/JJ August/NNP or/CC (\w+)/JJ	7	0	34.42981
+the/DT (\w+)/JJ nine/CD months/NNS of/IN (\w+)/JJ year/NN	7	0	34.42981
+(\w+)/JJ '60s/NNS and/CC (\w+)/JJ	7	0	34.42981
+percent/NN (\w+)/JJ month/NN ,/, the/DT (\w+)/JJ drop/NN	7	0	34.42981
+on/IN (\w+)/JJ and/CC (\w+)/JJ with/IN	9	18	34.379387
+(\w+)/JJ and/CC (\w+)/JJ news/NN	9	18	34.379387
+,/, (\w+)/JJ or/CC (\w+)/JJ ./. "/''	8	8	33.803177
+too/RB (\w+)/JJ or/CC too/RB (\w+)/JJ ./.	9	20	33.736256
+(\w+)/JJ or/CC too/RB (\w+)/JJ ./.	9	20	33.736256
+from/IN the/DT (\w+)/JJ to/TO the/DT (\w+)/JJ	9	20	33.736256
+all/DT (\w+)/JJ and/CC (\w+)/JJ	12	88	33.579372
+(\w+)/JJ property/NN for/IN (\w+)/JJ use/NN	7	1	33.495094
+the/DT (\w+)/JJ time/NN (\w+)/JJ week/NN ./.	7	1	33.495094
+the/DT (\w+)/JJ nine/CD months/NNS of/IN (\w+)/JJ	7	1	33.495094
+(\w+)/JJ and/CC (\w+)/JJ territory/NN ./.	7	1	33.495094
+for/IN the/DT (\w+)/JJ time/NN (\w+)/JJ week/NN ./.	7	1	33.495094
+(\w+)/JJ nine/CD months/NNS of/IN (\w+)/JJ	7	1	33.495094
+(\w+)/JJ and/CC (\w+)/JJ alike/RB	7	1	33.495094
+(\w+)/JJ year/NN ,/, is/VBZ the/DT (\w+)/JJ	7	1	33.495094
+(\w+)/JJ or/CC (\w+)/JJ ,/, "/'' he/PRP	8	9	33.31818
+,/, whether/IN (\w+)/JJ or/CC (\w+)/JJ	8	9	33.31818
+on/IN the/DT (\w+)/JJ or/CC (\w+)/JJ	8	9	33.31818
+(\w+)/JJ or/CC (\w+)/JJ --/:	10	39	33.29309
+(\w+)/JJ and/CC (\w+)/JJ ./. ''/''	16	263	32.95874
+between/IN (\w+)/JJ and/CC (\w+)/JJ is/VBZ	7	2	32.670612
+'s/POS (\w+)/JJ and/CC (\w+)/JJ policies/NNS	7	2	32.670612
+what/WP 's/VBZ (\w+)/JJ and/CC what/WP 's/VBZ (\w+)/JJ	7	2	32.670612
+(\w+)/JJ time/NN (\w+)/JJ week/NN ./.	7	2	32.670612
+'s/VBZ (\w+)/JJ and/CC what/WP 's/VBZ (\w+)/JJ	7	2	32.670612
+on/IN (\w+)/JJ and/CC (\w+)/JJ policy/NN	7	2	32.670612
+for/IN (\w+)/JJ or/CC (\w+)/JJ	11	71	32.006924
+to/TO both/DT (\w+)/JJ and/CC (\w+)/JJ	7	3	31.933086
+(\w+)/JJ and/CC what/WP 's/VBZ (\w+)/JJ	7	3	31.933086
+(\w+)/JJ and/CC the/DT (\w+)/JJ ./.	10	47	31.78078
+(\w+)/JJ month/NN ,/, the/DT (\w+)/JJ	11	73	31.74185
+(\w+)/JJ and/CC (\w+)/JJ groups/NNS	12	106	31.593197
+(\w+)/JJ as/RB well/RB as/IN (\w+)/JJ	10	50	31.26785
+(\w+)/JJ and/CC (\w+)/JJ affairs/NNS for/IN	7	4	31.265915
+runners/NNS on/IN (\w+)/JJ and/CC (\w+)/JJ and/CC	8	15	30.899933
+(\w+)/JJ and/CC (\w+)/JJ companies/NNS	10	53	30.77995
+in/IN the/DT (\w+)/JJ round/NN (\w+)/JJ year/NN	7	5	30.656834
+on/IN (\w+)/JJ and/CC (\w+)/JJ and/CC	8	16	30.559458
+the/DT (\w+)/JJ day/NN of/IN the/DT (\w+)/JJ	11	86	30.159016
+(\w+)/JJ and/CC (\w+)/JJ television/NN	7	6	30.096537
+(\w+)/JJ and/CC (\w+)/JJ ,/, that/IN	7	6	30.096537
+(\w+)/JJ and/CC (\w+)/JJ have/VBP	7	6	30.096537
+(\w+)/JJ half/NN of/IN (\w+)/JJ year/NN	8	19	29.617193
+the/DT (\w+)/JJ half/NN of/IN (\w+)/JJ year/NN	8	19	29.617193
+the/DT difference/NN between/IN (\w+)/JJ and/CC (\w+)/JJ	7	7	29.57778
+(\w+)/JJ news/NN is/VBZ (\w+)/JJ	7	7	29.57778
+Raum/NNP covers/VBZ (\w+)/JJ and/CC (\w+)/JJ affairs/NNS	6	0	29.511265
+sell/VB (\w+)/JJ and/CC then/RB (\w+)/JJ quantities/NNS of/IN oil/NN	6	0	29.511265
+(\w+)/JJ year/NN ,/, is/VBZ the/DT (\w+)/JJ leader/NN of/IN	6	0	29.511265
+of/IN a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN	6	0	29.511265
+sell/VB (\w+)/JJ and/CC then/RB (\w+)/JJ quantities/NNS of/IN	6	0	29.511265
+a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ	6	0	29.511265
+a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN from/IN	6	0	29.511265
+covers/VBZ (\w+)/JJ and/CC (\w+)/JJ affairs/NNS for/IN The/DT	6	0	29.511265
+whether/IN it/PRP 's/VBZ (\w+)/JJ or/CC (\w+)/JJ	6	0	29.511265
+of/IN a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN from/IN	6	0	29.511265
+covers/VBZ (\w+)/JJ and/CC (\w+)/JJ affairs/NNS	6	0	29.511265
+(\w+)/JJ and/CC then/RB (\w+)/JJ quantities/NNS	6	0	29.511265
+the/DT (\w+)/JJ play/NN of/IN the/DT (\w+)/JJ half/NN	6	0	29.511265
+of/IN a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ	6	0	29.511265
+(\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN	6	0	29.511265
+a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN	6	0	29.511265
+account/NN of/IN a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN	6	0	29.511265
+account/NN of/IN a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ	6	0	29.511265
+account/NN of/IN a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN from/IN a/DT	6	0	29.511265
+Tom/NNP Raum/NNP covers/VBZ (\w+)/JJ and/CC (\w+)/JJ affairs/NNS for/IN	6	0	29.511265
+Tom/NNP Raum/NNP covers/VBZ (\w+)/JJ and/CC (\w+)/JJ affairs/NNS	6	0	29.511265
+sell/VB (\w+)/JJ and/CC then/RB (\w+)/JJ quantities/NNS	6	0	29.511265
+covers/VBZ (\w+)/JJ and/CC (\w+)/JJ affairs/NNS for/IN	6	0	29.511265
+widening/VBG gap/NN between/IN (\w+)/JJ and/CC (\w+)/JJ	6	0	29.511265
+Raum/NNP covers/VBZ (\w+)/JJ and/CC (\w+)/JJ affairs/NNS for/IN	6	0	29.511265
+in/IN the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ 1990s/NNS ,/,	6	0	29.511265
+Raum/NNP covers/VBZ (\w+)/JJ and/CC (\w+)/JJ affairs/NNS for/IN The/DT	6	0	29.511265
+(\w+)/JJ and/CC then/RB (\w+)/JJ quantities/NNS of/IN oil/NN	6	0	29.511265
+the/DT (\w+)/JJ as/IN any/DT (\w+)/JJ	6	0	29.511265
+(\w+)/JJ until/IN proven/VBN (\w+)/JJ ,/,	6	0	29.511265
+(\w+)/JJ April/NNP or/CC (\w+)/JJ May/NNP ,/,	6	0	29.511265
+a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN from/IN a/DT	6	0	29.511265
+the/DT divide/NN between/IN (\w+)/JJ and/CC (\w+)/JJ	6	0	29.511265
+Tom/NNP Raum/NNP covers/VBZ (\w+)/JJ and/CC (\w+)/JJ	6	0	29.511265
+In/IN the/DT (\w+)/JJ 1980s/NNS and/CC (\w+)/JJ 1990s/NNS ,/,	6	0	29.511265
+sell/VB (\w+)/JJ and/CC then/RB (\w+)/JJ	6	0	29.511265
+(\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN from/IN	6	0	29.511265
+account/NN of/IN a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN from/IN	6	0	29.511265
+(\w+)/JJ and/CC (\w+)/JJ elementary/JJ	6	0	29.511265
+of/IN a/DT (\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN from/IN a/DT	6	0	29.511265
+(\w+)/JJ year/NN ,/, is/VBZ the/DT (\w+)/JJ leader/NN	6	0	29.511265
+Tom/NNP Raum/NNP covers/VBZ (\w+)/JJ and/CC (\w+)/JJ affairs/NNS for/IN The/DT	6	0	29.511265
+(\w+)/JJ and/CC then/RB (\w+)/JJ quantities/NNS of/IN	6	0	29.511265
+Raum/NNP covers/VBZ (\w+)/JJ and/CC (\w+)/JJ	6	0	29.511265
+(\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ	6	0	29.511265
+(\w+)/JJ mob/NN seizing/VBG a/DT (\w+)/JJ youth/NN from/IN a/DT	6	0	29.511265
+(\w+)/JJ year/NN ,/, is/VBZ the/DT (\w+)/JJ leader/NN of/IN Fiji/NNP	6	0	29.511265
+(\w+)/JJ and/CC (\w+)/JJ ,/, but/CC	14	219	29.491886
+(\w+)/JJ and/CC (\w+)/JJ officials/NNS	15	273	29.454512
+(\w+)/JJ property/NN for/IN (\w+)/JJ	7	8	29.094831
+(\w+)/JJ and/CC (\w+)/JJ years/NNS	7	8	29.094831
+in/IN (\w+)/JJ or/CC (\w+)/JJ	10	66	28.903961
+(\w+)/JJ and/CC (\w+)/JJ quarters/NNS	8	22	28.774307
+how/WRB (\w+)/JJ or/CC (\w+)/JJ	8	22	28.774307
+by/IN (\w+)/JJ and/CC (\w+)/JJ	13	183	28.669928
+(\w+)/JJ and/CC (\w+)/JJ countries/NNS	9	42	28.655489
+(\w+)/JJ and/CC (\w+)/JJ policy/NN issues/NNS	6	1	28.586363
+(\w+)/JJ things/NNS and/CC (\w+)/JJ things/NNS	6	1	28.586363
+(\w+)/JJ ,/, (\w+)/JJ and/CC third/JJ	6	1	28.586363
+(\w+)/JJ and/CC (\w+)/JJ policy/NN issues/NNS ./.	6	1	28.586363
+of/IN (\w+)/JJ and/CC (\w+)/JJ are/VBP	6	1	28.586363
+(\w+)/JJ play/NN of/IN the/DT (\w+)/JJ half/NN	6	1	28.586363
+in/IN the/DT (\w+)/JJ 1960s/NNS and/CC (\w+)/JJ	6	1	28.586363
+(\w+)/JJ ,/, regional/JJ and/CC (\w+)/JJ	6	1	28.586363
+(\w+)/JJ day/NN of/IN the/DT (\w+)/JJ	11	101	28.577347
+are/VBP (\w+)/JJ or/CC (\w+)/JJ ,/,	8	23	28.51199
+With/IN runners/NNS on/IN (\w+)/JJ and/CC (\w+)/JJ	7	11	27.818579
+'re/VBP (\w+)/JJ or/CC (\w+)/JJ	7	11	27.818579
+the/DT (\w+)/JJ quarter/NN of/IN (\w+)/JJ year/NN	9	47	27.813755
+(\w+)/JJ things/NNS and/CC (\w+)/JJ	6	2	27.785173
+the/DT (\w+)/JJ and/CC (\w+)/JJ level/NN	6	2	27.785173
+and/CC runners/NNS on/IN (\w+)/JJ and/CC (\w+)/JJ	6	2	27.785173
+gap/NN between/IN the/DT (\w+)/JJ and/CC (\w+)/JJ	6	2	27.785173
+(\w+)/JJ and/CC (\w+)/JJ schools/NNS ./.	8	26	27.773003
+of/IN the/DT (\w+)/JJ and/CC (\w+)/JJ	15	308	27.734135
+(\w+)/JJ quarter/NN of/IN (\w+)/JJ year/NN	9	48	27.654459
+was/VBD (\w+)/JJ or/CC (\w+)/JJ ./.	8	27	27.541103
+covers/VBZ (\w+)/JJ and/CC (\w+)/JJ	6	3	27.078476
+(\w+)/JJ ,/, (\w+)/JJ review/NN of/IN	6	3	27.078476
+the/DT (\w+)/JJ quarter/NN of/IN (\w+)/JJ	9	56	26.472435
+(\w+)/JJ and/CC then/RB (\w+)/JJ	6	4	26.446312
+(\w+)/JJ and/CC (\w+)/JJ functions/NNS	6	4	26.446312
+from/IN (\w+)/JJ to/TO (\w+)/JJ and/CC	6	4	26.446312
+(\w+)/JJ arm/NN and/CC (\w+)/JJ	6	4	26.446312
+the/DT (\w+)/JJ half/NN of/IN (\w+)/JJ year/NN ./.	7	17	25.804804
+(\w+)/JJ half/NN of/IN (\w+)/JJ year/NN ./.	7	17	25.804804
+mix/NN of/IN (\w+)/JJ and/CC (\w+)/JJ	7	18	25.51905
+(\w+)/JJ ,/, (\w+)/JJ	170	19851	25.466978
+'s/VBZ (\w+)/JJ and/CC (\w+)/JJ ./.	11	138	25.437428
+(\w+)/JJ and/CC (\w+)/JJ water/NN	6	6	25.352383
+(\w+)/JJ and/CC (\w+)/JJ ,/, ''/''	11	144	25.00316
+between/IN the/DT (\w+)/JJ and/CC the/DT (\w+)/JJ	6	7	24.872126
+(\w+)/JJ days/NNS and/CC (\w+)/JJ	6	7	24.872126
+(\w+)/JJ and/CC (\w+)/JJ level/NN	6	7	24.872126
+(\w+)/JJ ,/, (\w+)/JJ review/NN	6	7	24.872126
+you/PRP 're/VBP (\w+)/JJ or/CC (\w+)/JJ	6	7	24.872126
+,/, in/IN (\w+)/JJ and/CC (\w+)/JJ	6	7	24.872126
+line/NN between/IN (\w+)/JJ and/CC (\w+)/JJ	6	7	24.872126
+were/VBD (\w+)/JJ or/CC (\w+)/JJ	8	42	24.687702
+(\w+)/JJ quarter/NN of/IN (\w+)/JJ	9	71	24.60368
+the/DT abdomen/NN ,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN ,/, he/PRP	5	0	24.592722
+that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN for/IN this/DT	5	0	24.592722
+(\w+)/JJ 1800s/JJ and/CC (\w+)/JJ 1900s/NNS	5	0	24.592722
+the/DT (\w+)/JJ 11/CD months/NNS of/IN (\w+)/JJ year/NN	5	0	24.592722
+of/IN (\w+)/JJ and/CC (\w+)/JJ elementary/JJ school/NN	5	0	24.592722
+(\w+)/JJ ceremonies/NNS and/CC (\w+)/JJ remembrances/NNS	5	0	24.592722
+(\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN for/IN this/DT	5	0	24.592722
+performance/NN of/IN (\w+)/JJ and/CC (\w+)/JJ elementary/JJ school/NN	5	0	24.592722
+major/JJ cities/NNS of/IN (\w+)/JJ ,/, (\w+)/JJ	5	0	24.592722
+major/JJ cities/NNS of/IN (\w+)/JJ ,/, (\w+)/JJ and/CC central/JJ	5	0	24.592722
+(\w+)/JJ 11/CD months/NNS of/IN (\w+)/JJ year/NN	5	0	24.592722
+the/DT point/NN that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ	5	0	24.592722
+the/DT (\w+)/JJ 11/CD months/NNS of/IN (\w+)/JJ	5	0	24.592722
+the/DT abdomen/NN ,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN	5	0	24.592722
+(\w+)/JJ ceremonies/NNS and/CC (\w+)/JJ	5	0	24.592722
+the/DT point/NN that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN for/IN	5	0	24.592722
+to/TO sell/VB (\w+)/JJ and/CC then/RB (\w+)/JJ quantities/NNS	5	0	24.592722
+(\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN ,/, he/PRP	5	0	24.592722
+times/NNS at/IN important/JJ (\w+)/JJ and/CC (\w+)/JJ events/NNS	5	0	24.592722
+important/JJ (\w+)/JJ and/CC (\w+)/JJ events/NNS	5	0	24.592722
+to/TO sell/VB (\w+)/JJ and/CC then/RB (\w+)/JJ quantities/NNS of/IN oil/NN	5	0	24.592722
+(\w+)/JJ and/CC (\w+)/JJ elementary/JJ school/NN students/NNS	5	0	24.592722
+test/NN performance/NN of/IN (\w+)/JJ and/CC (\w+)/JJ elementary/JJ school/NN students/NNS	5	0	24.592722
+all/DT (\w+)/JJ and/CC (\w+)/JJ e-mails/NNS	5	0	24.592722
+nation/NN 's/POS neediest/NN (\w+)/JJ and/CC (\w+)/JJ	5	0	24.592722
+to/TO sell/VB (\w+)/JJ and/CC then/RB (\w+)/JJ	5	0	24.592722
+(\w+)/JJ days/NNS and/CC (\w+)/JJ days/NNS	5	0	24.592722
+sense/NN of/IN (\w+)/JJ and/CC (\w+)/JJ ,/,	5	0	24.592722
+businesses/NNS (\w+)/JJ and/CC (\w+)/JJ	5	0	24.592722
+point/NN that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN for/IN this/DT	5	0	24.592722
+(\w+)/JJ 1960s/NNS and/CC (\w+)/JJ '70s/NNS ,/,	5	0	24.592722
+the/DT (\w+)/JJ 1800s/JJ and/CC (\w+)/JJ	5	0	24.592722
+abdomen/NN ,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN	5	0	24.592722
+too/RB (\w+)/JJ nor/CC too/RB (\w+)/JJ ,/,	5	0	24.592722
+test/NN performance/NN of/IN (\w+)/JJ and/CC (\w+)/JJ elementary/JJ school/NN	5	0	24.592722
+controversies/NNS (\w+)/JJ and/CC (\w+)/JJ	5	0	24.592722
+performance/NN of/IN (\w+)/JJ and/CC (\w+)/JJ elementary/JJ	5	0	24.592722
+(\w+)/JJ time/NN since/IN (\w+)/JJ July/NNP	5	0	24.592722
+the/DT (\w+)/JJ 1960s/NNS and/CC (\w+)/JJ '70s/NNS ,/,	5	0	24.592722
+at/IN important/JJ (\w+)/JJ and/CC (\w+)/JJ	5	0	24.592722
+,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ	5	0	24.592722
+nation/NN 's/POS neediest/NN (\w+)/JJ and/CC (\w+)/JJ areas/NNS	5	0	24.592722
+in/IN on/IN controversies/NNS (\w+)/JJ and/CC (\w+)/JJ	5	0	24.592722
+(\w+)/JJ cop/NN ,/, (\w+)/JJ	5	0	24.592722
+test/NN performance/NN of/IN (\w+)/JJ and/CC (\w+)/JJ elementary/JJ	5	0	24.592722
+point/NN that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN	5	0	24.592722
+battle/NN between/IN (\w+)/JJ and/CC (\w+)/JJ	5	0	24.592722
+'s/POS neediest/NN (\w+)/JJ and/CC (\w+)/JJ areas/NNS	5	0	24.592722
+(\w+)/JJ and/CC (\w+)/JJ elementary/JJ school/NN	5	0	24.592722
+cities/NNS of/IN (\w+)/JJ ,/, (\w+)/JJ and/CC central/JJ Iraq/NNS	5	0	24.592722
+to/TO sell/VB (\w+)/JJ and/CC then/RB (\w+)/JJ quantities/NNS of/IN	5	0	24.592722
+(\w+)/JJ ,/, (\w+)/JJ and/CC central/JJ Iraq/NNS	5	0	24.592722
+abdomen/NN ,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ	5	0	24.592722
+point/NN that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN for/IN	5	0	24.592722
+(\w+)/JJ September/NNP and/CC (\w+)/JJ October/NNP	5	0	24.592722
+in/IN the/DT (\w+)/JJ nine/CD months/NNS of/IN (\w+)/JJ	5	0	24.592722
+major/JJ cities/NNS of/IN (\w+)/JJ ,/, (\w+)/JJ and/CC central/JJ Iraq/NNS	5	0	24.592722
+(\w+)/JJ spring/NN or/CC (\w+)/JJ	5	0	24.592722
+At/IN (\w+)/JJ ceremonies/NNS and/CC (\w+)/JJ remembrances/NNS all/DT	5	0	24.592722
+(\w+)/JJ ceremonies/NNS and/CC (\w+)/JJ remembrances/NNS all/DT day/NN	5	0	24.592722
+,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN ,/,	5	0	24.592722
+abdomen/NN ,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN ,/,	5	0	24.592722
+of/IN (\w+)/JJ ,/, (\w+)/JJ and/CC central/JJ	5	0	24.592722
+performance/NN of/IN (\w+)/JJ and/CC (\w+)/JJ elementary/JJ school/NN students/NNS	5	0	24.592722
+that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ	5	0	24.592722
+(\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN for/IN	5	0	24.592722
+gap/NN between/IN (\w+)/JJ and/CC (\w+)/JJ ,/,	5	0	24.592722
+the/DT (\w+)/JJ 1800s/JJ and/CC (\w+)/JJ 1900s/NNS	5	0	24.592722
+the/DT point/NN that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN for/IN this/DT	5	0	24.592722
+major/JJ cities/NNS of/IN (\w+)/JJ ,/, (\w+)/JJ and/CC	5	0	24.592722
+(\w+)/JJ shooting/NN of/IN an/DT unarmed/JJ (\w+)/JJ man/NN by/IN	5	0	24.592722
+'s/POS neediest/NN (\w+)/JJ and/CC (\w+)/JJ areas/NNS ./.	5	0	24.592722
+at/IN important/JJ (\w+)/JJ and/CC (\w+)/JJ events/NNS	5	0	24.592722
+(\w+)/JJ 11/CD months/NNS of/IN (\w+)/JJ	5	0	24.592722
+in/IN the/DT (\w+)/JJ nine/CD months/NNS of/IN (\w+)/JJ year/NN	5	0	24.592722
+(\w+)/JJ year/NN for/IN the/DT (\w+)/JJ time/NN since/IN	5	0	24.592722
+of/IN (\w+)/JJ and/CC (\w+)/JJ elementary/JJ school/NN students/NNS	5	0	24.592722
+(\w+)/JJ '80s/NNS and/CC (\w+)/JJ	5	0	24.592722
+nation/NN 's/POS neediest/NN (\w+)/JJ and/CC (\w+)/JJ areas/NNS ./.	5	0	24.592722
+(\w+)/JJ nor/CC too/RB (\w+)/JJ ,/,	5	0	24.592722
+(\w+)/JJ month/NN became/VBD the/DT (\w+)/JJ	5	0	24.592722
+cities/NNS of/IN (\w+)/JJ ,/, (\w+)/JJ	5	0	24.592722
+,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN ,/, he/PRP	5	0	24.592722
+point/NN that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ	5	0	24.592722
+on/IN controversies/NNS (\w+)/JJ and/CC (\w+)/JJ ./.	5	0	24.592722
+neediest/NN (\w+)/JJ and/CC (\w+)/JJ areas/NNS	5	0	24.592722
+(\w+)/JJ '80s/NNS and/CC (\w+)/JJ '90s/NNS	5	0	24.592722
+At/IN (\w+)/JJ ceremonies/NNS and/CC (\w+)/JJ remembrances/NNS	5	0	24.592722
+of/IN (\w+)/JJ and/CC (\w+)/JJ elementary/JJ	5	0	24.592722
+(\w+)/JJ cop/NN ,/, (\w+)/JJ cop/NN	5	0	24.592722
+an/DT (\w+)/JJ ,/, (\w+)/JJ review/NN of/IN	5	0	24.592722
+controversies/NNS (\w+)/JJ and/CC (\w+)/JJ ./.	5	0	24.592722
+cities/NNS of/IN (\w+)/JJ ,/, (\w+)/JJ and/CC central/JJ	5	0	24.592722
+the/DT (\w+)/JJ time/NN since/IN (\w+)/JJ July/NNP	5	0	24.592722
+that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN	5	0	24.592722
+At/IN (\w+)/JJ ceremonies/NNS and/CC (\w+)/JJ	5	0	24.592722
+(\w+)/JJ 1800s/JJ and/CC (\w+)/JJ	5	0	24.592722
+in/IN (\w+)/JJ April/NNP or/CC (\w+)/JJ May/NNP ,/,	5	0	24.592722
+cities/NNS of/IN (\w+)/JJ ,/, (\w+)/JJ and/CC	5	0	24.592722
+abdomen/NN ,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN ,/, he/PRP	5	0	24.592722
+the/DT abdomen/NN ,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ	5	0	24.592722
+of/IN (\w+)/JJ ,/, (\w+)/JJ and/CC central/JJ Iraq/NNS	5	0	24.592722
+for/IN the/DT (\w+)/JJ time/NN since/IN (\w+)/JJ July/NNP	5	0	24.592722
+that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN for/IN	5	0	24.592722
+neediest/NN (\w+)/JJ and/CC (\w+)/JJ areas/NNS ./.	5	0	24.592722
+(\w+)/JJ September/NNP and/CC (\w+)/JJ	5	0	24.592722
+an/DT (\w+)/JJ ,/, (\w+)/JJ review/NN	5	0	24.592722
+the/DT point/NN that/IN (\w+)/JJ news/NN is/VBZ (\w+)/JJ news/NN	5	0	24.592722
+times/NNS at/IN important/JJ (\w+)/JJ and/CC (\w+)/JJ	5	0	24.592722
+neediest/NN (\w+)/JJ and/CC (\w+)/JJ	5	0	24.592722
+in/IN on/IN controversies/NNS (\w+)/JJ and/CC (\w+)/JJ ./.	5	0	24.592722
+on/IN controversies/NNS (\w+)/JJ and/CC (\w+)/JJ	5	0	24.592722
+,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN	5	0	24.592722
+(\w+)/JJ ceremonies/NNS and/CC (\w+)/JJ remembrances/NNS all/DT	5	0	24.592722
+the/DT abdomen/NN ,/, (\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN ,/,	5	0	24.592722
+(\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN	5	0	24.592722
+from/IN (\w+)/JJ and/CC (\w+)/JJ news/NN	5	0	24.592722
+'s/POS neediest/NN (\w+)/JJ and/CC (\w+)/JJ	5	0	24.592722
+on/IN the/DT (\w+)/JJ play/NN of/IN the/DT (\w+)/JJ half/NN	5	0	24.592722
+(\w+)/JJ ,/, (\w+)/JJ review/NN of/IN the/DT	5	0	24.592722
+(\w+)/JJ arm/NN and/CC (\w+)/JJ hand/NN ,/,	5	0	24.592722
+At/IN (\w+)/JJ ceremonies/NNS and/CC (\w+)/JJ remembrances/NNS all/DT day/NN	5	0	24.592722
+test/NN performance/NN of/IN (\w+)/JJ and/CC (\w+)/JJ	5	0	24.592722
+(\w+)/JJ year/NN 's/POS (\w+)/JJ quarter/NN	7	22	24.480112
+the/DT (\w+)/JJ and/CC (\w+)/JJ quarters/NNS	7	22	24.480112
+runners/NNS on/IN (\w+)/JJ and/CC (\w+)/JJ in/IN the/DT	6	8	24.427479
+on/IN (\w+)/JJ and/CC (\w+)/JJ in/IN the/DT	6	8	24.427479
+on/IN (\w+)/JJ and/CC (\w+)/JJ in/IN	6	9	24.013521
+runners/NNS on/IN (\w+)/JJ and/CC (\w+)/JJ in/IN	6	9	24.013521
+(\w+)/JJ and/CC (\w+)/JJ policies/NNS	7	24	24.013271
+performance/NN of/IN (\w+)/JJ and/CC (\w+)/JJ	5	1	23.681114
+(\w+)/JJ possession/NN of/IN the/DT (\w+)/JJ	5	1	23.681114
+(\w+)/JJ and/CC scored/VBD on/IN a/DT (\w+)/JJ by/IN	5	1	23.681114
+(\w+)/JJ and/CC (\w+)/JJ helicopters/NNS	5	1	23.681114
+has/VBZ gone/VBN from/IN (\w+)/JJ to/TO (\w+)/JJ	5	1	23.681114
+(\w+)/JJ and/CC (\w+)/JJ e-mails/NNS	5	1	23.681114
+on/IN (\w+)/JJ and/CC (\w+)/JJ ,/, but/CC	5	1	23.681114
+(\w+)/JJ as/IN any/DT (\w+)/JJ	7	27	23.366657
+as/IN (\w+)/JJ and/CC (\w+)/JJ	11	170	23.29737
+combination/NN of/IN (\w+)/JJ and/CC (\w+)/JJ	6	11	23.262543
+the/DT (\w+)/JJ and/CC (\w+)/JJ ,/,	9	86	23.057028
+a/DT mix/NN of/IN (\w+)/JJ and/CC (\w+)/JJ	6	12	22.919594
+Both/DT (\w+)/JJ and/CC (\w+)/JJ	6	12	22.919594
+(\w+)/JJ and/CC (\w+)/JJ disabilities/NNS	5	2	22.910362
+(\w+)/JJ nor/CC too/RB (\w+)/JJ	5	2	22.910362
+(\w+)/JJ guys/NNS and/CC (\w+)/JJ	5	2	22.910362
+too/RB (\w+)/JJ nor/CC too/RB (\w+)/JJ	5	2	22.910362
+gone/VBN from/IN (\w+)/JJ to/TO (\w+)/JJ	5	2	22.910362
+differences/NNS between/IN (\w+)/JJ and/CC (\w+)/JJ	5	2	22.910362
+(\w+)/JJ ,/, (\w+)/JJ and/CC central/JJ	5	2	22.910362
+in/IN the/DT (\w+)/JJ and/CC (\w+)/JJ quarters/NNS of/IN	5	2	22.910362
+distinguish/VB between/IN (\w+)/JJ and/CC (\w+)/JJ	5	2	22.910362
+(\w+)/JJ or/CC (\w+)/JJ in/IN	8	56	22.712822
+on/IN the/DT (\w+)/JJ day/NN of/IN the/DT (\w+)/JJ	8	56	22.712822
+(\w+)/JJ and/CC (\w+)/JJ ,/, they/PRP	7	31	22.58808
+not/RB (\w+)/JJ and/CC (\w+)/JJ	7	32	22.40625
+on/IN the/DT (\w+)/JJ and/CC (\w+)/JJ	10	137	22.306969
+With/IN runners/NNS at/IN (\w+)/JJ and/CC (\w+)/JJ	5	3	22.242702
+(\w+)/JJ and/CC scored/VBD on/IN a/DT (\w+)/JJ	5	3	22.242702
+(\w+)/JJ and/CC (\w+)/JJ numbers/NNS	5	3	22.242702
+was/VBD a/DT (\w+)/JJ or/CC (\w+)/JJ	5	3	22.242702
+ways/NNS (\w+)/JJ and/CC (\w+)/JJ	5	3	22.242702
+on/IN the/DT (\w+)/JJ play/NN of/IN the/DT (\w+)/JJ	5	3	22.242702
+that/IN (\w+)/JJ and/CC (\w+)/JJ	9	95	22.242403
+at/IN the/DT (\w+)/JJ and/CC (\w+)/JJ	7	36	21.72278
+some/DT (\w+)/JJ and/CC (\w+)/JJ	8	65	21.660212
+(\w+)/JJ and/CC (\w+)/JJ periods/NNS	5	4	21.653788
+the/DT (\w+)/JJ and/CC (\w+)/JJ periods/NNS	5	4	21.653788
+(\w+)/JJ or/CC (\w+)/JJ and/CC	7	38	21.404545
+(\w+)/JJ and/CC (\w+)/JJ students/NNS	7	39	21.250692
+(\w+)/JJ and/CC (\w+)/JJ names/NNS	5	5	21.126986
+some/DT (\w+)/JJ ,/, some/DT (\w+)/JJ	5	5	21.126986
+(\w+)/JJ ,/, state/NN and/CC (\w+)/JJ	9	113	20.80573
+list/NN of/IN (\w+)/JJ and/CC (\w+)/JJ	5	6	20.650434
+the/DT (\w+)/JJ and/CC (\w+)/JJ quarters/NNS of/IN	5	6	20.650434
+(\w+)/JJ and/CC (\w+)/JJ quarters/NNS of/IN	5	6	20.650434
+with/IN runners/NNS on/IN (\w+)/JJ and/CC (\w+)/JJ and/CC	5	6	20.650434
+people/NNS ,/, (\w+)/JJ and/CC (\w+)/JJ	5	6	20.650434
+(\w+)/JJ and/CC (\w+)/JJ art/NN	7	44	20.528402
+--/: (\w+)/JJ or/CC (\w+)/JJ	6	21	20.486803
+in/IN the/DT (\w+)/JJ half/NN of/IN (\w+)/JJ	6	22	20.268597
+(\w+)/JJ and/CC (\w+)/JJ affairs/NNS	7	46	20.259138
+the/DT (\w+)/JJ day/NN of/IN the/DT (\w+)/JJ cricket/NN test/NN	6	23	20.058048
+the/DT (\w+)/JJ day/NN of/IN the/DT (\w+)/JJ cricket/NN	6	24	19.854637
+(\w+)/JJ and/CC (\w+)/JJ rounds/NNS	5	8	19.815165
+the/DT (\w+)/JJ as/IN (\w+)/JJ	6	25	19.6579
+from/IN (\w+)/JJ to/TO (\w+)/JJ ,/,	6	26	19.467407
+the/DT (\w+)/JJ and/CC (\w+)/JJ time/NN	5	9	19.444626
+(\w+)/JJ to/TO (\w+)/JJ ,/,	8	91	19.222929
+(\w+)/JJ and/CC (\w+)/JJ pressure/NN	6	28	19.10366
+can/MD be/VB (\w+)/JJ or/CC (\w+)/JJ	5	10	19.09966
+(\w+)/JJ round/NN for/IN the/DT (\w+)/JJ	5	10	19.09966
+in/IN the/DT (\w+)/JJ and/CC (\w+)/JJ quarters/NNS	5	10	19.09966
+(\w+)/JJ and/CC (\w+)/JJ events/NNS	5	10	19.09966
+(\w+)/JJ than/IN (\w+)/JJ ./.	9	140	19.006403
+(\w+)/JJ day/NN of/IN the/DT (\w+)/JJ cricket/NN test/NN	6	29	18.929735
+--/: (\w+)/JJ ,/, (\w+)/JJ ,/,	7	58	18.830471
+the/DT (\w+)/JJ and/CC the/DT (\w+)/JJ ,/,	5	11	18.776968
+both/DT (\w+)/JJ and/CC (\w+)/JJ ,/, "/''	5	11	18.776968
+(\w+)/JJ and/CC (\w+)/JJ that/WDT	5	11	18.776968
+(\w+)/JJ day/NN of/IN the/DT (\w+)/JJ cricket/NN	6	30	18.76071
+,/, (\w+)/JJ and/CC (\w+)/JJ ,/, and/CC	6	31	18.596315
+--/: (\w+)/JJ ,/, (\w+)/JJ	9	148	18.535707
+the/DT (\w+)/JJ quarter/NN of/IN (\w+)/JJ year/NN ,/,	5	12	18.473845
+in/IN (\w+)/JJ year/NN 's/POS (\w+)/JJ quarter/NN	5	12	18.473845
+neither/DT (\w+)/JJ nor/CC (\w+)/JJ	7	63	18.311714
+not/RB (\w+)/JJ and/CC (\w+)/JJ ./.	5	13	18.188053
+has/VBZ (\w+)/JJ and/CC (\w+)/JJ	5	13	18.188053
+(\w+)/JJ quarter/NN of/IN (\w+)/JJ year/NN ,/,	5	13	18.188053
+'s/VBZ (\w+)/JJ or/CC (\w+)/JJ ,/,	5	13	18.188053
+(\w+)/JJ and/CC (\w+)/JJ media/NNS	5	13	18.188053
+(\w+)/JJ and/CC the/DT (\w+)/JJ ,/,	5	13	18.188053
+of/IN (\w+)/JJ ,/, (\w+)/JJ and/CC	9	159	17.926245
+of/IN both/DT (\w+)/JJ and/CC (\w+)/JJ	5	14	17.917717
+(\w+)/JJ since/IN (\w+)/JJ	6	36	17.835806
+(\w+)/JJ and/CC (\w+)/JJ stories/NNS	5	15	17.66125
+(\w+)/JJ or/CC (\w+)/JJ ,/, and/CC	6	38	17.556686
+(\w+)/JJ and/CC (\w+)/JJ with/IN one/CD	5	16	17.4173
+series/NN of/IN (\w+)/JJ and/CC (\w+)/JJ	5	16	17.4173
+runners/NNS on/IN (\w+)/JJ and/CC (\w+)/JJ with/IN	5	17	17.1847
+be/VB (\w+)/JJ or/CC (\w+)/JJ ,/,	5	17	17.1847
+and/CC (\w+)/JJ and/CC (\w+)/JJ	12	381	17.155697
+(\w+)/JJ ,/, not/RB (\w+)/JJ	9	176	17.058718
+neither/CC (\w+)/JJ nor/CC (\w+)/JJ	5	18	16.96244
+(\w+)/JJ and/CC (\w+)/JJ districts/NNS	5	18	16.96244
+(\w+)/JJ and/CC (\w+)/JJ ,/, with/IN	8	125	16.861095
+into/IN (\w+)/JJ and/CC (\w+)/JJ	6	46	16.554361
+(\w+)/JJ and/CC (\w+)/JJ on/IN	7	83	16.552515
+in/IN the/DT (\w+)/JJ quarter/NN (\w+)/JJ year/NN ./.	5	20	16.545532
+they/PRP are/VBP (\w+)/JJ or/CC (\w+)/JJ	5	20	16.545532
+(\w+)/JJ year/NN 's/POS (\w+)/JJ	12	409	16.329819
+on/IN the/DT (\w+)/JJ day/NN of/IN the/DT (\w+)/JJ cricket/NN test/NN	5	22	16.160727
+in/IN the/DT (\w+)/JJ quarter/NN (\w+)/JJ year/NN	5	22	16.160727
+(\w+)/JJ ,/, some/DT (\w+)/JJ	5	22	16.160727
+(\w+)/JJ and/CC (\w+)/JJ as/IN	11	336	16.138264
+on/IN the/DT (\w+)/JJ day/NN of/IN the/DT (\w+)/JJ cricket/NN	5	23	15.978889
+(\w+)/JJ and/CC (\w+)/JJ ,/, "/'' said/VBD	7	91	15.956409
+(\w+)/JJ to/TO (\w+)/JJ and/CC	6	53	15.796598
+a/DT (\w+)/JJ and/CC a/DT (\w+)/JJ	5	25	15.633925
+(\w+)/JJ and/CC (\w+)/JJ ways/NNS	5	25	15.633925
+(\w+)/JJ and/CC (\w+)/JJ time/NN	5	25	15.633925
+(\w+)/JJ and/CC (\w+)/JJ ,/, is/VBZ	5	27	15.311232
+in/IN the/DT (\w+)/JJ quarter/NN (\w+)/JJ	5	28	15.157373
+(\w+)/JJ or/CC (\w+)/JJ ;/:	4	9	14.959558
+(\w+)/JJ against/IN (\w+)/JJ	7	107	14.897793
+(\w+)/JJ and/CC (\w+)/JJ players/NNS	5	30	14.863172
+about/IN (\w+)/JJ and/CC (\w+)/JJ	5	30	14.863172
+,/, (\w+)/JJ ,/, (\w+)/JJ or/CC	6	63	14.857183
+(\w+)/JJ and/CC (\w+)/JJ health/NN	5	33	14.451981
+for/IN the/DT (\w+)/JJ and/CC (\w+)/JJ	8	174	14.351833
+the/DT (\w+)/JJ time/NN (\w+)/JJ year/NN	5	34	14.3221035
+from/IN (\w+)/JJ or/CC (\w+)/JJ	5	34	14.3221035
+(\w+)/JJ time/NN (\w+)/JJ year/NN	5	34	14.3221035
+(\w+)/JJ and/CC (\w+)/JJ issues/NNS	7	128	13.714258
+in/IN (\w+)/JJ year/NN 's/POS (\w+)/JJ	6	85	13.196666
+(\w+)/JJ than/IN (\w+)/JJ	13	651	12.80775
+(\w+)/JJ and/CC (\w+)/JJ ,/, he/PRP	5	49	12.69499
+in/IN (\w+)/JJ ,/, (\w+)/JJ and/CC	5	49	12.69499
+and/CC (\w+)/JJ in/IN the/DT (\w+)/JJ	5	51	12.513153
+from/IN the/DT (\w+)/JJ and/CC (\w+)/JJ	5	52	12.424655
+of/IN (\w+)/JJ ,/, (\w+)/JJ	14	787	12.20437
+(\w+)/JJ is/VBZ (\w+)/JJ	9	311	12.127031
+were/VBD (\w+)/JJ and/CC (\w+)/JJ	8	243	11.780264
+a/DT (\w+)/JJ and/CC (\w+)/JJ	26	2267	11.414638
+(\w+)/JJ week/NN 's/POS (\w+)/JJ	7	182	11.3589525
+more/RBR (\w+)/JJ than/IN (\w+)/JJ	9	377	10.4393835
+(\w+)/JJ and/CC (\w+)/JJ for/IN	7	223	9.984627
+was/VBD (\w+)/JJ and/CC (\w+)/JJ ,/,	6	154	9.810781
+(\w+)/JJ and/CC a/DT (\w+)/JJ	6	154	9.810781
+(\w+)/JJ on/IN a/DT (\w+)/JJ	6	156	9.736245
+The/DT (\w+)/JJ ,/, (\w+)/JJ	7	232	9.715937
+,/, the/DT (\w+)/JJ and/CC (\w+)/JJ	6	157	9.699322
+:/: (\w+)/JJ ,/, (\w+)/JJ	5	98	9.466267
+is/VBZ (\w+)/JJ and/CC (\w+)/JJ	14	986	9.09785
+in/IN the/DT (\w+)/JJ ,/, (\w+)/JJ	6	196	8.412216
+to/TO the/DT (\w+)/JJ and/CC (\w+)/JJ	5	125	8.302239
+the/DT (\w+)/JJ ,/, (\w+)/JJ and/CC	6	216	7.845759
+was/VBD (\w+)/JJ and/CC (\w+)/JJ	10	624	7.6908054
+(\w+)/JJ and/CC (\w+)/JJ elections/NNS	5	157	7.20193
+are/VBP (\w+)/JJ and/CC (\w+)/JJ	10	664	7.078994
+a/DT (\w+)/JJ ,/, (\w+)/JJ and/CC	5	168	6.873453
+(\w+)/JJ and/CC (\w+)/JJ to/TO	11	795	6.8679156
+"/`` (\w+)/JJ and/CC (\w+)/JJ	9	575	6.712811
+(\w+)/JJ and/CC (\w+)/JJ of/IN	6	292	6.0792627
+(\w+)/JJ and/CC (\w+)/JJ leaders/NNS	5	223	5.493183
+is/VBZ (\w+)/JJ and/CC (\w+)/JJ ./.	8	593	4.795128
+(\w+)/JJ with/IN (\w+)/JJ	11	1048	3.8649538
+(\w+)/JJ and/CC (\w+)/JJ employees/NNS	2	39	3.796239
+in/IN (\w+)/JJ ,/, (\w+)/JJ	5	367	3.0454423
+(\w+)/JJ in/IN the/DT (\w+)/JJ	17	1958	2.7783787
+(\w+)/JJ to/TO the/DT (\w+)/JJ	10	1084	2.2353354
+,/, (\w+)/JJ ,/, (\w+)/JJ and/CC	5	439	2.1607888
+,/, (\w+)/JJ ,/, (\w+)/JJ	14	1629	2.146517
+(\w+)/JJ for/IN a/DT (\w+)/JJ	5	448	2.0604508
+an/DT (\w+)/JJ ,/, (\w+)/JJ	5	534	1.1913335
+the/DT (\w+)/JJ ,/, (\w+)/JJ	15	1976	0.45303446
+(\w+)/JJ as/IN (\w+)/JJ	7	1364	-2.5118878
+(\w+)/JJ of/IN the/DT (\w+)/JJ	5	1574	-4.1828237
+a/DT (\w+)/JJ ,/, (\w+)/JJ	22	4454	-8.731759

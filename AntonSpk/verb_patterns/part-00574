@@ -1,0 +1,29 @@
+tends/VBZ to/TO (\w+)/VB ,/, rather/RB than/IN (\w+)/VB ,/,	1
+will/MD (\w+)/VB and/CC (\w+)/VB about/RB $/$ 10/CD	1
+she/PRP could/MD n't/RB (\w+)/VB or/CC (\w+)/VB without/IN	1
+whether/IN I/PRP (\w+)/VBP or/CC (\w+)/VBP an/DT	1
+•/NNP Never/RB (\w+)/VBP or/CC (\w+)/VBP a/DT used/JJ	1
+would/MD probably/RB (\w+)/VB or/CC (\w+)/VB	1
+ca/MD n't/RB (\w+)/VB or/CC (\w+)/VB ,/,	1
+(\w+)/VBP preparing/VBG to/TO (\w+)/VB their/PRP$ three-year/JJ	1
+would/MD yell/VB and/CC (\w+)/VB him/PRP down/IN mentally/RB ,/, (\w+)/VB him/PRP	1
+will/MD (\w+)/VB school/NN prayer/NN ,/, (\w+)/VB abortion/NN and/CC	1
+their/PRP$ stakes/NNS (\w+)/VBP above/RB or/CC (\w+)/VB below/IN the/DT	1
+bound/VBN to/TO (\w+)/VB some/DT and/CC (\w+)/VB some/DT	1
+a/SYM (\w+)/VB and/CC (\w+)/VB policy/NN with/IN	1
+then/RB you/PRP (\w+)/VBP back/RB out/RB and/CC you/PRP (\w+)/VBP up/RB and/CC	1
+competitors/NNS have/VBP (\w+)/VBN and/CC gone/VBN ,/, but/CC (\w+)/VBP they/PRP	1
+really/RB (\w+)/VBP or/CC (\w+)/VBP (/VBD	1
+(\w+)/VB and/CC (\w+)/VB in/IN front/NN	3
+less/RBR (\w+)/VB and/CC (\w+)/VB ,/, ''/''	1
+which/WDT would/MD quickly/RB (\w+)/VB again/RB to/TO (\w+)/VB elsewhere/RB	1
+dollars/NNS and/CC then/RB (\w+)/VB the/DT dollars/NNS to/TO (\w+)/VB	2
+who/WP (\w+)/VBP it/PRP and/CC those/DT who/WP (\w+)/VBP it/PRP ,/,	1
+you/PRP (\w+)/VB out/RP ,/, do/VB you/PRP (\w+)/VB in/RP	1
+firms/NNS can/MD (\w+)/VB and/CC (\w+)/VB among/IN themselves/PRP	1
+that/IN there/EX is/VBZ (\w+)/VB and/CC (\w+)/VB amongst/IN themselves/PRP	1
+true/JJ that/IN ,/, (\w+)/VB or/CC (\w+)/VB ,/, a/DT thousand/CD	1
+,/, loyal-to-Kiev/JJ leaders/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, but/CC	1
+coaches/NNS --/: (\w+)/VBP to/TO (\w+)/VB ./.	2
+must/MD (\w+)/VB or/CC (\w+)/VB the/DT entire/JJ plan/NN	1
+stores/NNS and/CC malls/NNS (\w+)/VBP on/IN line/NN ,/, others/NNS (\w+)/VBP out/RP	1

@@ -1,0 +1,34 @@
+nothing/NN to/TO (\w+)/VB the/DT test/NN scores/NNS or/CC (\w+)/VB the/DT rate/NN	1
+star/NN (\w+)/VBD to/TO (\w+)/VB -/:	1
+(\w+)/VB and/CC (\w+)/VB ,/, and/CC do/VBP	1
+other/JJ countries/NNS (\w+)/VBP to/TO (\w+)/VB a/DT	1
+you/PRP (\w+)/VBP to/TO (\w+)/VB ,/, "/''	3
+Czech/JJ capital/NN are/VBP (\w+)/VBN to/TO (\w+)/VB by/IN almost/RB	1
+,/, organisations/NNS can/MD (\w+)/VB revenue/NN ,/, (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB her/PRP in/IN the/DT	1
+fun/NN is/VBZ (\w+)/VB and/CC (\w+)/VB ,/, mostly/RB miss/VB	1
+what/WP day/NN they/PRP (\w+)/VB or/CC (\w+)/VB such/JJ	1
+for/IN teams/NNS to/TO (\w+)/VB and/CC (\w+)/VB ,/,	1
+refused/VBN to/TO (\w+)/VB or/CC (\w+)/VB shares/NNS	1
+hues/NNS may/MD (\w+)/VB and/CC (\w+)/VB ,/, but/CC	2
+of/IN athletes/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN Houston/NNP	1
+industries/NNS (\w+)/VBP and/CC (\w+)/VBP small/JJ	2
+have/VBP to/TO (\w+)/VB and/CC (\w+)/VB it/PRP ./.	1
+Companies/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP perishable/JJ goods/NNS also/RB	1
+faults/NNS ,/, we/PRP (\w+)/VBP our/PRP$ times/NNS when/WRB we/PRP (\w+)/VBP	2
+You/PRP should/MD (\w+)/VB your/PRP$ winners/NNS and/CC (\w+)/VB your/PRP$ losers/NNS and/CC	1
+House/NNP (\w+)/VB or/CC (\w+)/VB to/TO internally/RB	1
+races/NNS (\w+)/VBP and/CC (\w+)/VBP at/IN Monument/NNP	1
+that/IN you/PRP can/MD (\w+)/VB in/RP or/CC (\w+)/VB	1
+also/RB not/RB (\w+)/VB effect/NN immediately/RB ,/, to/TO (\w+)/VB European/JJ officials/NNS	1
+that/IN people/NNS (\w+)/VB and/CC (\w+)/VB out/RP of/IN their/PRP$	1
+relationship/NN of/IN (\w+)/VB and/CC (\w+)/VB	1
+initiatives/NNS to/TO (\w+)/VB avoidable/JJ foreclosures/NNS ,/, (\w+)/VB me/PRP observe/VBP that/IN	1
+or/CC solicitation/NN to/TO (\w+)/VB or/CC (\w+)/VB stock/NN ./.	1
+Law/NNP that/WDT will/MD (\w+)/VB the/DT government/NN power/NN to/TO (\w+)/VB control/NN of/IN	1
+to/TO (\w+)/VB the/DT practice/NN and/CC (\w+)/VB a/DT vocational/JJ school/NN	1
+(\w+)/VB high/JJ ,/, (\w+)/VB even/RB	1
+``/`` (\w+)/VBP or/CC (\w+)/VBP ,/, ''/'' each/DT	1
+--/: and/CC to/TO (\w+)/VB and/CC (\w+)/VB	1
+demands/VBZ that/IN she/PRP (\w+)/VBP and/CC (\w+)/VBP on/IN defense/NN	1
+(\w+)/VB the/DT software/NN "/'' to/TO (\w+)/VB access/NN for/IN bona/JJ	1

@@ -1,0 +1,43 @@
+to/TO (\w+)/VB or/CC (\w+)/VB oil/NN at/IN a/DT	1
+to/TO (\w+)/VB and/CC (\w+)/VB the/DT tank/NN	2
+the/DT rule/NN “/NN (\w+)/VB low/JJ ,/, (\w+)/VB high/JJ	1
+to/TO (\w+)/VB so/RB that/IN prices/NNS would/MD (\w+)/VB in/IN	1
+would/MD then/RB (\w+)/VB in/IN marks/NNS ,/, but/CC (\w+)/VB	1
+friends/NNS would/MD (\w+)/VB or/CC (\w+)/VB	1
+to/TO (\w+)/VB on/RP than/IN to/TO (\w+)/VB about/RP	1
+(\w+)/VB and/CC (\w+)/VB far/RB	2
+,/, Lester/NNP will/MD (\w+)/VB whatever/WDT the/DT Red/NNP Sox/NNPS (\w+)/VBP him/PRP ./.	1
+(\w+)/VB and/CC (\w+)/VB people/NNS outside/IN	1
+and/CC Angle/NNP (\w+)/VBP out/RP we/PRP (\w+)/VBP to/TO commercial/NN ./.	1
+(\w+)/VB to/TO a/DT store/NN and/CC (\w+)/VB home/NN with/IN	1
+'/'' (\w+)/VB all/DT you/PRP can/MD ,/, (\w+)/VB nothing/NN	1
+this/DT (\w+)/VB to/TO (\w+)/VB ?/. "/''	2
+buyers/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+he/PRP would/MD (\w+)/VB to/TO (\w+)/VB almost/RB a/DT quarter/NN	1
+colors/NNS to/TO (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB workers/NNS they/PRP might/MD otherwise/RB (\w+)/VB	1
+trying/VBG to/TO (\w+)/VB staffing/NN and/CC (\w+)/VB the/DT backlog/NN	1
+identification/NN cards/NNS to/TO (\w+)/VB and/CC (\w+)/VB	1
+,/, rain/NN ,/, (\w+)/VBP away/RB ,/, (\w+)/VBN back/RB	1
+''/'' that/WDT ,/, (\w+)/VB or/CC (\w+)/VB ,/, is/VBZ	2
+Vatican/NNP can/MD not/RB (\w+)/VB or/CC (\w+)/VB a/DT	1
+(\w+)/VB him/PRP a/DT chance/NN to/TO (\w+)/VB care/NN of/IN that/DT	1
+As/IN the/DT Broncos/NNS (\w+)/VBP preparing/VBG to/TO (\w+)/VB	1
+(\w+)/VBP them/PRP to/TO dealers/NNS to/TO (\w+)/VB	2
+(\w+)/VB ;/: someone/NN has/VBZ to/TO (\w+)/VB	1
+at/IN which/WDT you/PRP (\w+)/VB and/CC (\w+)/VB assets/NNS	1
+his/PRP$ power/NN to/TO (\w+)/VB and/CC (\w+)/VB workers/NNS and/CC	1
+help/VB (\w+)/VB ,/, or/CC (\w+)/VB ,/, a/DT long-held/JJ	1
+(\w+)/VB or/CC (\w+)/VB a/DT non-game/JJ species/NN	1
+(\w+)/VB oil/NN to/TO (\w+)/VB food/NN and/CC medical/JJ	1
+(\w+)/VBP it/PRP ,/, those/DT who/WP (\w+)/VBP	1
+it/PRP easier/RBR to/TO (\w+)/VB and/CC (\w+)/VB younger/JJR workers/NNS	1
+people/NNS who/WP (\w+)/VBP and/CC (\w+)/VBP without/IN the/DT	1
+to/TO (\w+)/VB and/CC (\w+)/VB (/VBG the/DT	1
+All/PDT the/DT sponsors/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, and/CC you/PRP	1
+why/WRB I/PRP (\w+)/VBP one/CD and/CC why/WRB I/PRP (\w+)/VBP the/DT other/JJ	1
+to/TO (\w+)/VB a/DT balance/NN and/CC not/RB (\w+)/VB the/DT	1
+(\w+)/VB further/JJ contributions/NNS and/CC (\w+)/VB	1
+moving/VBG averages/NNS as/IN (\w+)/VB and/CC (\w+)/VB operators/NNS due/JJ to/TO	1
+to/TO write/VB (\w+)/VB or/CC (\w+)/VB	2
+(\w+)/VBP or/CC (\w+)/VBP with/IN	102

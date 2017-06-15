@@ -1,0 +1,47 @@
+'s/POS vote/NN ,/, (\w+)/VB or/CC (\w+)/VB in/IN	1
+Kings/NNPS (\w+)/VBP ,/, the/DT Nuggets/NNPS (\w+)/VB	1
+(\w+)/VBP and/CC (\w+)/VBP with/IN the/DT seasons/NNS	8
+(\w+)/VB care/NN to/TO (\w+)/VB context/NN	1
+(\w+)/VB soon/RB for/IN him/PRP to/TO (\w+)/VB	1
+of/IN teammates/NNS (\w+)/VB and/CC (\w+)/VB	2
+musicals/NNS (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+'s/POS senses/NNS proved/VBD (\w+)/VB or/CC (\w+)/VB this/DT month/NN in/IN	1
+employees/NNS (\w+)/VBP or/CC (\w+)/VBP the/DT success/NN	1
+(\w+)/VB to/TO an/DT agreement/NN and/CC (\w+)/VB	1
+arrests/NNS usually/RB (\w+)/VBP and/CC (\w+)/VBP with/IN	1
+65/CD ,/, (\w+)/VB to/TO Florida/NNP and/CC (\w+)/VB back/RB in/IN a/DT	1
+when/WRB parents/NNS (\w+)/VBP to/TO (\w+)/VB	1
+not/RB simultaneously/RB (\w+)/VB and/CC (\w+)/VB ,/,	1
+About/RB 1,000/CD people/NNS (\w+)/VB and/CC (\w+)/VB each/DT of/IN	1
+bond/NN may/MD (\w+)/VB 15/CD percent/NN if/IN rates/NNS (\w+)/VBP 1/CD percent/NN ,/,	1
+classic/NN (\w+)/VB the/DT rumor/NN ,/, (\w+)/VB	1
+would/MD (\w+)/VB and/CC Id/NN (\w+)/VBP to/TO jail/NN	1
+sophomore/NN year/NN Ill/NNP (\w+)/VBP back/RB ready/JJ to/TO (\w+)/VB and/CC help/VB them/PRP	1
+(\w+)/VB in/IN Roselle/NNP Park/NNP and/CC (\w+)/VB in/IN Glassboro/NNP ./.	1
+(\w+)/VB oil/NN to/TO (\w+)/VB food/NN	38
+Air/NNP fares/NNS (\w+)/VBD to/TO (\w+)/VB in/IN	1
+n't/RB (\w+)/VB or/CC (\w+)/VB all/DT	1
+still/RB others/NNS (\w+)/VBP and/CC (\w+)/VBP throughout/IN the/DT weeks/NNS	1
+"/`` I/PRP (\w+)/VBP being/VBG able/JJ to/TO (\w+)/VB friends/NNS	1
+investors/NNS to/TO (\w+)/VB dollars/NNS to/TO (\w+)/VB yen/NNS and/CC invest/VB	1
+(\w+)/VB complaining/VBG and/CC (\w+)/VB participating/VBG in/IN our/PRP$	1
+Easy/NNP (\w+)/VBP ,/, easy/JJ (\w+)/VBP ,/, when/WRB	1
+then/RB (\w+)/VB the/DT children/NNS away/RB and/CC (\w+)/VB	1
+and/CC let/VBD folks/NNS (\w+)/VBP or/CC (\w+)/VBP	1
+``/`` They/PRP (\w+)/VBP or/CC (\w+)/VBP politicians/NNS	1
+to/TO (\w+)/VB growing/VBG apples/NNS and/CC (\w+)/VB growing/VBG flowers/NNS	1
+News/NNP -/: Pigeon/NNP (\w+)/VBP and/CC (\w+)/VBP in/IN	1
+(\w+)/VB himself/PRP --/: or/CC (\w+)/VB himself/PRP ,/,	1
+years/NNS of/IN (\w+)/VB and/CC (\w+)/VB between/IN	2
+,/, (\w+)/VB off/RP shore/NN and/CC (\w+)/VB	1
+to/TO (\w+)/VB and/CC (\w+)/VB as/IN the/DT moisture/NN	2
+"/`` easy/JJ to/TO (\w+)/VB to/TO and/CC easy/JJ to/TO (\w+)/VB from/IN	1
+(\w+)/VB games/NNS they/PRP should/MD (\w+)/VB and/CC win/VB games/NNS	1
+might/MD (\w+)/VB or/CC (\w+)/VB a/DT car/NN	1
+likewise/RB can/MD (\w+)/VB or/CC (\w+)/VB it/PRP in/IN whole/NNP	1
+foreign/JJ engineers/NNS to/TO (\w+)/VB United/NNP States/NNPS factories/NNS and/CC (\w+)/VB their/PRP$ American/JJ	1
+can/MD (\w+)/VB or/CC (\w+)/VB a/DT prospect/NN	1
+ÂœWe/NNP have/VBP to/TO (\w+)/VB digging/VBG the/DT hole/NN and/CC (\w+)/VB making/VBG plans/NNS for/IN	1
+(\w+)/VB enough/JJ to/TO (\w+)/VB	5
+too/RB late/JJ to/TO (\w+)/VB TY/NNP and/CC (\w+)/VB Mora/NNP	1
+The/DT waters/NNS (\w+)/VBP and/CC (\w+)/VBP	1

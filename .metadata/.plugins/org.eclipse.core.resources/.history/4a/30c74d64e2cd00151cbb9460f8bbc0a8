@@ -1,0 +1,178 @@
+'''
+Created on 01.12.2015
+
+@author: Peter
+'''
+from sklearn import cross_validation
+from sklearn import svm
+
+from sklearn import tree
+
+from sklearn.preprocessing import StandardScaler
+from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import chi2
+
+from sklearn.externals import joblib
+
+import pandas as pd
+
+import numpy as np
+
+import patterns.lin_count as lc
+import cooccurence.cooc as cc
+import query.jobim_query as jq
+
+def add_all_features(data_path, pos_tag):
+    
+    df = read_dataframe(data_path)
+    
+    lc.add_lin_features(df)
+    
+    cc.add_pair_count(df, pos_tag)
+    
+    #jq.add_freqs(df, pos_tag)    
+    jq.add_top_sim_feat(df, pos_tag)
+        
+    cc.add_context_count(df, pos_tag)
+
+    df.to_csv(data_path, sep='\t') 
+
+def read_dataframe(path):
+    return pd.read_csv(path, sep='\t', index_col=0)
+
+def cross_val():
+    
+    df_data = pd.read_csv("../res/adj/data.tsv", sep='\t', index_col=0)
+    df_context_class = pd.read_csv("../res/adj/data_context_class.csv", sep=';', index_col=0)
+    df_context_class.pop("relation_class")
+    
+    #X_context = df_context_class.values    
+    
+    #for column in df_context_class:
+    #    df_context_class[column] = df_context_class[column].divide(df_data["in_sen_cooc"]).fillna(0)
+    
+    #X_context = StandardScaler(with_mean=False).fit_transform(X_context)
+        
+    #add_affix_features(df_data)
+
+    y = df_data["rel_class"].values
+    df_data.pop("rel_class")
+
+    #df_data.pop("either_or")
+    #df_data.pop("from_to")
+
+    #df_data.pop("top1_sim_sf")
+    #df_data.pop("top3_sim_sf")
+    #df_data.pop("top5_sim_sf")
+    #df_data.pop("top10_sim_sf")
+    #df_data.pop("top20_sim_sf")
+    #df_data.pop("top1_sim_fs")
+    #df_data.pop("top3_sim_fs")
+    #df_data.pop("top5_sim_fs")
+    #df_data.pop("top10_sim_fs")
+    #df_data.pop("top20_sim_fs")
+
+    df_data["and"] = df_context_class["and"].divide(df_data["in_sen_cooc"]).fillna(0)
+    df_data["or"] = df_context_class["or"].divide(df_data["in_sen_cooc"]).fillna(0)
+    #df_data["not"] = df_context_class["not"].divide(df_data["in_sen_cooc"]).fillna(0)
+    #df_data["as"] = df_context_class["as"].divide(df_data["in_sen_cooc"]).fillna(0)
+
+    df_data["in_sen_cooc"] = df_data["in_sen_cooc"].divide(df_data["freq1"] + df_data["freq2"])
+    #df_data.pop("in_sen_cooc")
+    
+    df_data.pop("freq1")
+    df_data.pop("freq2")
+    
+    X = df_data.values
+    #X = np.hstack([df_data.values, X_context])
+    #X = StandardScaler(with_mean=False).fit_transform(X)
+    
+    #clf = svm.SVC(kernel='linear', C=1)
+    clf = tree.DecisionTreeClassifier()
+
+    #test classifier model serialization
+    clf.fit(X, y)    
+    joblib.dump(clf, "../res/adj/classifier.pkl")    
+    clf = joblib.load('filename.pkl')
+    print(clf.predict(X[0]))
+
+    scores = cross_validation.cross_val_score(clf, X, y, cv=8, scoring='f1_weighted', n_jobs=-1)
+
+    print(scores.mean())
+
+def learn_context_only():
+    
+    df = pd.read_csv("../res/adj/data_context_class.csv", sep=';', index_col=0)
+    df.pop("relation_class")
+    
+    df_data = pd.read_csv("../res/adj/data.tsv", sep='\t', index_col=0)
+    
+    for column in df:
+        df[column] = df[column].divide(df_data["in_sen_cooc"]).fillna(0)
+    
+    #df["in_sen_cooc"] = df_data["in_sen_cooc"]
+
+    #not_in_sen_antonyms = len(df[(df["relation_class"] == 1) & (df["in_sen_cooc"] == 0)])
+    #not_in_sen_synonyms = len(df[(df["relation_class"] == 0) & (df["in_sen_cooc"] == 0)])
+    
+    #print("Antonym pairs which never cooccur in one sentence: " + str(not_in_sen_antonyms))
+    #print("Synonym pairs which never cooccur in one sentence: " + str(not_in_sen_synonyms))    
+    
+    #if all columns 0 then there is nothing to learn from in sentence context
+    df = df[(df.T != 0).any()]
+    print(len(df))
+
+    y = df.index.map(lambda instance: df_data.at[instance, "rel_class"])
+    print("Antonym pairs in dataset: " + str((y == 0).sum()))
+    print("Synonym pairs in dataset: " + str((y == 1).sum()))    
+    #df.pop("in_sen_cooc")
+    
+    #y = df["relation_class"]
+    #df.pop("relation_class")
+
+    X = df.values
+    X = StandardScaler(with_mean=False).fit_transform(X)
+    #X = SelectKBest(chi2, k='all').fit_transform(X, y)
+    
+    clf = svm.SVC(kernel='linear', C=1)
+    #clf = tree.DecisionTreeClassifier()
+
+    scores = cross_validation.cross_val_score(clf, X, y, cv=8, scoring='f1_weighted', n_jobs=-1)
+
+    print(scores.mean())
+
+def print_not_in_sentence():
+    
+    df = pd.read_csv("../res/data.tsv", sep='\t')
+    print(len(df[(df["in_sen_cooc"] == 0)]))
+       
+def add_affix_features(df):
+    
+    def is_affix_pair(instance):
+        words = instance.split()
+        word_1, word_2 = words[0], words[1]
+        
+        #prefixes = ["un", "in", "dis", "im", "non", "a"]
+    
+        return word_1 in word_2 or word_2 in word_1
+    
+    df["affix"] = df.index.map(lambda x: is_affix_pair(x))
+
+def print_top5():
+    
+    df = pd.read_csv("../res/data.tsv", sep='\t')
+    
+    df_ant_top5 = df[(df["class"] == 0) & (df["top5_sim"] == 1)]
+    
+    print("Antonym pairs with word 1 in top 5 jos of of word 2: " + str(len(df_ant_top5)))
+    
+    df_syn_top5 = df[(df["class"] == 1) & (df["top5_sim"] == 1)]
+    
+    print("Synonym pairs with word 1 in top 5 jos of of word 2: " + str(len(df_syn_top5)))
+    
+if __name__ == "__main__":
+    
+    cross_val()
+    #learn_context_only()
+    #print_top5()
+    #print_not_in_sentence()

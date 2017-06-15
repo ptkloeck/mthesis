@@ -1,0 +1,41 @@
+cases/NNS (\w+)/VBP 10,000/CD mark/NN as/IN measures/NNS (\w+)/VBP to/TO curb/VB	1
+doesnt/NN (\w+)/VBP or/CC (\w+)/VBP	1
+I/PRP want/VBP to/TO (\w+)/VB where/WRB they/PRP (\w+)/VBP from/IN ./. "/''	1
+I/PRP hope/VBP to/TO (\w+)/VB Paris/NNP on/IN Thursday/NNP and/CC (\w+)/VB in/IN Phnom/NNP	1
+The/DT Turin/NNP Games/NNPS (\w+)/VB Friday/NNP and/CC (\w+)/VB Feb./NNP 26/CD	1
+,/, (\w+)/VB and/CC (\w+)/VB ?/.	2
+(\w+)/VB in/RP and/CC (\w+)/VB to/TO a/DT	1
+that/WDT (\w+)/VBP depth/NN and/CC would/MD (\w+)/VB less/JJR impact/NN	1
+fans/NNS (\w+)/VBP the/DT bands/NNS but/CC (\w+)/VBP their/PRP$ politics/NNS	1
+you/PRP (\w+)/VBP out/RP and/CC (\w+)/VB	1
+that/IN she/PRP would/MD (\w+)/VB to/TO (\w+)/VB the/DT	2
+(\w+)/VB October/NNP 15/CD and/CC (\w+)/VB	1
+should/MD not/RB (\w+)/VB our/PRP$ progress/NN made/VBN or/CC (\w+)/VB	1
+on/IN dividends/NNS ,/, (\w+)/VBN to/TO (\w+)/VB to/TO 35/CD	1
+(\w+)/VB the/DT perks/NNS but/CC (\w+)/VBP the/DT	1
+you/PRP (\w+)/VBP some/DT ,/, (\w+)/VB	1
+it/PRP harder/JJR to/TO (\w+)/VB and/CC (\w+)/VB stocks/NNS without/IN	1
+motor/NN to/TO (\w+)/VB and/CC (\w+)/VB a/DT	1
+and/CC (\w+)/VB it/PRP when/WRB things/NNS (\w+)/VBP	1
+formulas/NNS that/WDT dictate/VBP (\w+)/VB or/CC (\w+)/VB orders/NNS for/IN hundreds/NNS	1
+below/RB ,/, women/NNS (\w+)/VBP and/CC (\w+)/VBP -/: real/JJ	1
+(\w+)/VB their/PRP$ passports/NNS unless/IN they/PRP (\w+)/VB up/RP	1
+(\w+)/VB and/CC (\w+)/VB classified/JJ advertising/NN	1
+brokers/NNS could/MD (\w+)/VB low/JJ and/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB ,/, with/IN lots/NNS	1
+(\w+)/VB in/IN California/NNP and/CC still/RB (\w+)/VB the/DT election/NN	1
+to/TO (\w+)/VB at/IN the/DT top/NN and/CC (\w+)/VB at/IN the/DT	3
+of/IN communities/NNS (\w+)/VBP and/CC (\w+)/VBP every/DT few/JJ	1
+had/VBD to/TO (\w+)/VB and/CC (\w+)/VB one/CD time/NN too/RB	1
+they/PRP (\w+)/VB the/DT contract/NN and/CC (\w+)/VB the/DT stocks/NNS ./.	1
+saying/VBG "/`` (\w+)/VB footnote/NN "/'' and/CC "/`` (\w+)/VB footnote/NN ./. "/''	2
+more/JJR to/TO (\w+)/VB constructive/JJ dialogue/NN than/IN (\w+)/VBP	1
+(\w+)/VB out/RP and/CC be/VB (\w+)/VB	1
+hit/VBN or/CC (\w+)/VBP but/CC we/PRP usually/RB (\w+)/VBD here/RB	1
+(\w+)/VBP may/MD (\w+)/VB your/PRP$ body/NN	1
+the/DT Cavs/NNPS (\w+)/VBP had/VBN their/PRP$ regular/JJ players/NNS (\w+)/VB 96/CD games/NNS due/JJ	1
+(\w+)/VB or/CC (\w+)/VB approving/VBG their/PRP$ executions/NNS	1
+But/CC (\w+)/VB ,/, (\w+)/VB	8
+(\w+)/VB and/CC (\w+)/VB bonds/NNS to/TO	2
+fashion/NN (\w+)/VBP but/CC choose/VBP to/TO (\w+)/VB	1
+--/: meant/VBN to/TO (\w+)/VB consumption/NN and/CC (\w+)/VB recycling/NN ./.	1

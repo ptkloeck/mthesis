@@ -1,0 +1,40 @@
+'s/POS ability/NN to/TO (\w+)/VB ,/, (\w+)/VB ,/, multiply/VB	1
+(\w+)/VB or/CC (\w+)/VB a/DT person/NN out/RB	1
+(\w+)/VBN ,/, easy/RB (\w+)/VB way/NN of/IN thinking/NN	1
+(\w+)/VBP to/TO (\w+)/VB are/VBP back/RB	1
+_/NNP operates/VBZ to/TO (\w+)/VB ,/, (\w+)/VB and/CC	1
+(\w+)/VB silver/NN ,/, but/CC you/PRP (\w+)/VBP gold/NN '/''	1
+salaries/NNS could/MD (\w+)/VB ,/, class/NN sizes/NNS could/MD (\w+)/VB and/CC	1
+(\w+)/VBP and/CC (\w+)/VBP ,/, legislators/NNS arrive/VBP	1
+also/RB can/MD (\w+)/VB and/CC (\w+)/VB	2
+(\w+)/VB ,/, then/RB (\w+)/VB again/RB in/IN seconds/NNS	1
+cries/VBZ when/WRB we/PRP (\w+)/VBZ and/CC laughs/VBZ when/WRB we/PRP (\w+)/VB ,/, "/'' Cobb/NNP	1
+and/CC (\w+)/VB to/TO (\w+)/VB any/DT	3
+else/RB and/CC then/RB (\w+)/VB it/PRP upon/IN themselves/PRP to/TO (\w+)/VB away/RP the/DT	1
+n't/RB (\w+)/VB arguments/NNS when/WRB I/PRP (\w+)/VBP games/NNS of/IN football/NN	1
+to/TO (\w+)/VB weight/NN and/CC (\w+)/VB up/RP with/IN	1
+(\w+)/VB weight/NN and/CC to/TO (\w+)/VB it/PRP off/RP ,/,	1
+think/VBP they/PRP can/MD (\w+)/VB to/TO a/DT session/NN and/CC (\w+)/VB out/RP and/CC	1
+After/IN a/DT Sixers/NNPS (\w+)/VBP ,/, he/PRP (\w+)/VBD the/DT floor/NN and/CC	1
+(\w+)/VB or/CC (\w+)/VB the/DT PR/NNP in/IN	1
+(\w+)/VB shooting/NN and/CC (\w+)/VB recovering/VBG as/RB soon/RB	1
+,/, and/CC I/PRP (\w+)/VBP to/TO (\w+)/VB excuses/NNS when/WRB	1
+when/WRB jurors/NNS (\w+)/VBP and/CC (\w+)/VB the/DT	1
+will/MD (\w+)/VB them/PRP another/DT year/NN to/TO (\w+)/VB upper/JJ level/NN	1
+will/MD (\w+)/VB and/CC (\w+)/VB this/DT season/NN ./.	1
+either/DT (\w+)/VB at/IN Rockefeller/NNP Center/NNP or/CC (\w+)/VB to/TO	1
+come/VBP and/CC (\w+)/VBP ,/, Prosperity/NNP Junction/NNP will/MD (\w+)/VB alive/JJ with/IN	1
+try/VB to/TO (\w+)/VB or/CC (\w+)/VB in/IN commensurable/JJ	1
+decide/VB when/WRB recessions/NNS (\w+)/VB and/CC (\w+)/VB ./.	1
+rarely/RB "/`` (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB Accorsi/NNP (\w+)/VB out/RP in/IN a/DT	1
+Monday/NNP to/TO (\w+)/VB or/CC (\w+)/VB the/DT plan/NN ,/,	2
+(\w+)/VB or/CC else/RB we/PRP will/MD (\w+)/VB ,/,	1
+they/PRP (\w+)/VBP to/TO Motherwell/NNP and/CC Rangers/NNPS (\w+)/VBP	1
+(/RB (\w+)/VB a/DT small/JJ serving/NN and/CC (\w+)/VB it/PRP a/DT try/NN	1
+Microsoft/NNP could/MD (\w+)/VB the/DT legal/JJ battle/NN but/CC (\w+)/VBP the/DT	2
+(\w+)/VB and/CC yields/NNS will/MD (\w+)/VB	3
+be/VB allowed/VBN to/TO (\w+)/VB and/CC (\w+)/VB from/IN the/DT	1
+restaurants/NNS (\w+)/VBP and/CC (\w+)/VBP so/RB	1
+``/`` You/PRP (\w+)/VBP in/RP and/CC you/PRP (\w+)/VBP into/IN	1
+inspections/NNS (\w+)/VBP ,/, they/PRP do/VBP n't/RB (\w+)/VB	1

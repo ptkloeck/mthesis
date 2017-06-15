@@ -1,0 +1,33 @@
+an/DT instant/NN (\w+)/VBP or/CC (\w+)/VBP	1
+year/NN ago/RB to/TO (\w+)/VB and/CC (\w+)/VB	1
+million/CD each/DT (\w+)/VBP or/CC (\w+)/VBP	1
+driver/NN to/TO (\w+)/VB and/CC (\w+)/VB all/DT	1
+Ive/NNP seen/VBN people/NNS (\w+)/VB and/CC (\w+)/VB and/CC come/VB	1
+(\w+)/VBP or/CC (\w+)/VBP ,/, ''/''	7
+percent/NN of/IN passengers/NNS (\w+)/VB or/CC (\w+)/VB	1
+'ll/MD (\w+)/VB some/DT ,/, you/PRP 'll/MD (\w+)/VB some/DT ./.	1
+(\w+)/VB and/CC (\w+)/VB under/IN the/DT	4
+to/TO (\w+)/VB the/DT bigot/NN and/CC (\w+)/VB	1
+you/PRP (\w+)/VB potential/JJ benefits/NNS and/CC (\w+)/VB possible/JJ	1
+should/MD Congress/NNP (\w+)/VBP to/TO (\w+)/VB	2
+(\w+)/VB forward/RB and/CC (\w+)/VB in/IN position/NN to/TO	1
+rates/NNS are/VBP (\w+)/VBN to/TO (\w+)/VB because/IN	1
+(\w+)/VB to/TO or/CC (\w+)/VB from/IN our/PRP$	1
+stores/NNS were/VBD "/`` (\w+)/VBN or/CC (\w+)/VBP ,/,	1
+would/MD (\w+)/VB them/PRP and/CC (\w+)/VB	1
+can/MD (\w+)/VB ,/, (\w+)/VB and/CC re-record/VB new/JJ	2
+who/WP then/RB must/MD (\w+)/VB or/CC (\w+)/VB the/DT	1
+must/MD (\w+)/VB or/CC (\w+)/VB facing/VBG	1
+Turner/NNP will/MD not/RB (\w+)/VB or/CC (\w+)/VB the/DT	1
+whether/IN airfares/NNS will/MD (\w+)/VB or/CC (\w+)/VB on/IN domestic/JJ	1
+really/RB (\w+)/VBP or/CC (\w+)/VBP ,/,	1
+travelers/NNS (\w+)/VBP to/TO (\w+)/VB ,/, J.F.K./NNP	1
+not/RB to/TO (\w+)/VB ,/, but/CC to/TO (\w+)/VB we/PRP do/VBP	1
+and/CC people/NNS either/CC (\w+)/VB him/PRP or/CC (\w+)/VB him/PRP ,/,	1
+holder/NN to/TO (\w+)/VB or/CC (\w+)/VB	1
+someone/NN would/MD necessarily/RB (\w+)/VB their/PRP$ spiders/NNS and/CC (\w+)/VB this/DT	2
+to/TO (\w+)/VB and/CC (\w+)/VB under/IN the/DT	2
+(\w+)/VB or/CC (\w+)/VB with/IN these/DT	2
+honest/JJ sense/NN of/IN (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB the/DT therapeutic/JJ	1
+(\w+)/VB or/CC (\w+)/VB to/TO suit/VB the/DT	1

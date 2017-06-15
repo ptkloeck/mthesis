@@ -1,0 +1,30 @@
+office/NN could/MD not/RB (\w+)/VB or/CC (\w+)/VB	1
+when/WRB --/: (\w+)/VB or/CC (\w+)/VB	1
+people/NNS to/TO (\w+)/VB and/CC (\w+)/VB them/PRP at/IN gem/NN	1
+which/WDT seemed/VBD to/TO (\w+)/VB with/IN a/DT kimono/NN and/CC (\w+)/VB somewhere/RB	1
+both/DT (\w+)/VB and/CC (\w+)/VB the/DT valve/NN	1
+will/MD (\w+)/VB to/TO (\w+)/VB the/DT games/NNS due/JJ	1
+which/WDT (\w+)/VBP and/CC (\w+)/VBP with/IN the/DT pace/NN	1
+ballots/NNS (\w+)/VB turnout/NN ,/, (\w+)/VB costs/NNS ,/,	1
+time/NN --/: (\w+)/VB or/CC (\w+)/VB ,/, hit/VB or/CC	1
+(\w+)/VBP and/CC (\w+)/VBP based/VBN on/IN court/NN	1
+(\w+)/VB him/PRP a/DT chance/NN to/TO (\w+)/VB	3
+,/, sometimes/RB you/PRP (\w+)/VBP ,/, sometimes/RB you/PRP (\w+)/VBP ,/, sometimes/RB	1
+Ten/CD things/NNS to/TO (\w+)/VB or/CC (\w+)/VB about/IN	1
+they/PRP will/MD (\w+)/VB the/DT absentees/NNS ,/, who/WP (\w+)/VBP combined/VBN for/IN 15/CD	1
+unveiled/VBD Tuesday/NNP both/DT (\w+)/VBP and/CC (\w+)/VBP candidates/NNS	1
+(\w+)/VB your/PRP$ funeral/NN and/CC (\w+)/VB to/TO	1
+(\w+)/VB or/CC (\w+)/VBP its/PRP$ earnings/NNS at/IN	1
+is/VBZ to/TO (\w+)/VB me/PRP (\w+)/VB down/RP ./.	1
+decide/VB to/TO (\w+)/VB or/CC (\w+)/VB the/DT	4
+usually/RB easy/JJ to/TO (\w+)/VB and/CC (\w+)/VB without/IN moving/VBG	1
+times/NNS to/TO (\w+)/VB dollars/NNS and/CC (\w+)/VB	4
+after/IN all/DT ,/, (\w+)/VBP and/CC (\w+)/VBP ./.	1
+say/VBP critics/NNS (\w+)/VB the/DT reclamation/NN task/NN and/CC (\w+)/VB the/DT damage/NN ./.	1
+year/NN to/TO help/VB (\w+)/VB care/NN of/IN all/PDT the/DT (\w+)/VBP me/PRP 's/VBZ	1
+consider/VB and/CC to/TO (\w+)/VB or/CC (\w+)/VB ,/,	1
+kids/NNS (\w+)/VBP here/RB and/CC they/PRP (\w+)/VBP	1
+(\w+)/VB than/IN (\w+)/VBP just/RB	1
+to/TO (\w+)/VB close/NN rather/RB than/IN (\w+)/VB away/RP	1
+plans/NNS to/TO (\w+)/VB or/CC (\w+)/VB more/JJR jobs/NNS at/IN	1
+(\w+)/VB it/PRP or/CC (\w+)/VB it/PRP -/:	1

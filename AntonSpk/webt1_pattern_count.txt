@@ -1,0 +1,469 @@
+(\w+) as (\w+)	1437798428
+(\w+) nor (\w+)	9345665
+(\w+) , (\w+)	22961551230
+(\w+) quarter (\w+)	13671296
+(\w+) time (\w+)	368202641
+(\w+) to (\w+)	9940727843
+(\w+) with (\w+)	2191794510
+(\w+) too (\w+)	84277410
+(\w+) is (\w+)	3579542428
+(\w+) or (\w+)	1524908296
+(\w+) and (\w+)	8394754083
+(\w+) against (\w+)	93004997
+(\w+) since (\w+)	92609866
+(\w+) than (\w+)	404505475
+(\w+) round (\w+)	17610119
+(\w+) cop , (\w+)	74222
+is (\w+) and (\w+)	45493147
+on (\w+) and (\w+)	46340383
+(\w+) or a (\w+)	18316296
+a (\w+) , (\w+)	221495062
+(\w+) nor too (\w+)	30223
+(\w+) and (\w+) cards	1064124
+, (\w+) and (\w+)	572068166
+can (\w+) or (\w+)	1836494
+between (\w+) and (\w+)	37395692
+(\w+) and (\w+) who	6932214
+a (\w+) and (\w+)	95190858
+(\w+) August or (\w+)	47021
+(\w+) May or (\w+)	85086
+(\w+) and (\w+) has	4367055
+(\w+) 1950s and (\w+)	297916
+was (\w+) and (\w+)	15755053
+(\w+) and (\w+) policy	17824554
+(\w+) and (\w+) countries	2167952
+(\w+) and (\w+) of	237269767
+(\w+) arm and (\w+)	505257
+a (\w+) or (\w+)	62958723
+The (\w+) and (\w+)	37561994
+(\w+) and (\w+) ,	277074630
+about (\w+) and (\w+)	10758981
+(\w+) and (\w+) employees	953306
+(\w+) and (\w+) session	241906
+(\w+) and (\w+) affairs	631496
+(\w+) and (\w+) were	8635599
+(\w+) and (\w+) ways	860796
+: (\w+) , (\w+)	244521075
+(\w+) and (\w+) names	1766325
+(\w+) news and (\w+)	6767275
+(\w+) on a (\w+)	106018131
+(\w+) and (\w+) to	136104303
+(\w+) 1800s and (\w+)	32691
+covers (\w+) and (\w+)	145938
+(\w+) , (\w+) or	93930303
+, (\w+) , (\w+)	3126101707
+(\w+) and (\w+) functions	1080846
+through (\w+) and (\w+)	3639086
+has (\w+) and (\w+)	3961411
+(\w+) or the (\w+)	20783550
+(\w+) and (\w+) alike	1729035
+(\w+) or (\w+) --	463434
+(\w+) news is (\w+)	1554184
+(\w+) , (\w+) ,	3040500119
+(\w+) and (\w+) --	3626152
+(\w+) and (\w+) television	314356
+(\w+) and (\w+) pressure	489568
+will (\w+) or (\w+)	888962
+(\w+) as any (\w+)	2164865
+(\w+) and (\w+) players	551379
+(\w+) or (\w+) and	7879178
+(\w+) to (\w+) .	299482201
+(\w+) to a (\w+)	211314904
+(\w+) in the (\w+)	1143483632
+can (\w+) and (\w+)	6607106
+the (\w+) , (\w+)	651472442
+(\w+) and (\w+) elections	344857
+from (\w+) to (\w+)	56520101
+(\w+) or (\w+) a	30376441
+(\w+) to the (\w+)	842761256
+the (\w+) quarter (\w+)	5783029
+(\w+) and (\w+) rounds	46825
+(\w+) and (\w+) helicopters	19896
+not (\w+) or (\w+)	12274565
+(\w+) or too (\w+)	813184
+with (\w+) and (\w+)	48017246
+The (\w+) , (\w+)	36168919
+(\w+) guys and (\w+)	473617
+(\w+) , (\w+) review	1363092
+an (\w+) , (\w+)	34248730
+(\w+) spring or (\w+)	117202
+-- (\w+) , (\w+)	14795023
+and (\w+) and (\w+)	56967391
+that (\w+) and (\w+)	14228237
+is (\w+) or (\w+)	10408034
+(\w+) to (\w+) and	145065903
+how (\w+) or (\w+)	505545
+(\w+) than (\w+) .	15529671
+(\w+) and (\w+) disabilities	225581
+(\w+) and (\w+) water	1879905
+(\w+) to that (\w+)	13720746
+(\w+) and (\w+) schools	1537366
+(\w+) and (\w+) officials	1122992
+(\w+) and (\w+) for	79209948
+(\w+) and (\w+) territory	44518
+(\w+) to (\w+) ,	233023733
+businesses (\w+) and (\w+)	135776
+(\w+) and (\w+) are	73217756
+(\w+) and (\w+) time	3700709
+(\w+) and (\w+) media	1861486
+to (\w+) and (\w+)	150273082
+(\w+) and (\w+) years	2147232
+more (\w+) than (\w+)	23831521
+(\w+) and (\w+) numbers	1212017
+(\w+) and (\w+) level	2166076
+(\w+) and then (\w+)	15871461
+like (\w+) and (\w+)	3857020
+be (\w+) or (\w+)	13413682
+(\w+) for a (\w+)	186072019
+(\w+) and (\w+) districts	280885
+(\w+) ceremonies and (\w+)	53721
+(\w+) and (\w+) with	33400830
+(\w+) and (\w+) events	2324920
+'s (\w+) or (\w+)	5132011
+(\w+) '80s and (\w+)	32559
+'re (\w+) or (\w+)	267367
+(\w+) and (\w+) news	2028376
+neither (\w+) nor (\w+)	2059693
+are (\w+) or (\w+)	7560341
+from (\w+) and (\w+)	18530776
+of (\w+) , (\w+)	437172607
+(\w+) and (\w+) in	101955831
+(\w+) and (\w+) and	55060965
+in (\w+) , (\w+)	299146793
+(\w+) and (\w+) that	31481642
+(\w+) '60s and (\w+)	25330
+(\w+) and (\w+) areas	3476084
+(\w+) 1960s and (\w+)	399544
+(\w+) September and (\w+)	453781
+(\w+) or (\w+) .	94260974
+(\w+) April or (\w+)	74826
+(\w+) and (\w+) art	1107297
+whether (\w+) or (\w+)	2033780
+(\w+) and (\w+) is	29944434
+(\w+) and (\w+) have	18517947
+-- (\w+) and (\w+)	4713381
+from (\w+) or (\w+)	5126260
+(\w+) time (\w+) year	2116965
+(\w+) , (\w+) and	552613607
+as (\w+) and (\w+)	16825740
+(\w+) , a (\w+)	121809479
+(\w+) time since (\w+)	1379593
+(\w+) and (\w+) as	15800053
+(\w+) and (\w+) health	4126068
+(\w+) or (\w+) is	7252495
+(\w+) time (\w+) week	233598
+(\w+) and (\w+) periods	288957
+in (\w+) or (\w+)	22842783
+(\w+) , some (\w+)	11882637
+the (\w+) and (\w+)	476550080
+controversies (\w+) and (\w+)	129
+(\w+) or (\w+) ;	4606400
+the (\w+) or (\w+)	77293991
+(\w+) or (\w+) the	37278152
+(\w+) and (\w+) the	162879561
+by (\w+) and (\w+)	23250255
+(\w+) and (\w+) issues	4588270
+(\w+) and (\w+) nations	230991
+(\w+) and (\w+) students	2447326
+(\w+) and (\w+) on	43386015
+(\w+) or (\w+) of	62235657
+(\w+) year 's (\w+)	9673174
+(\w+) and (\w+) jobs	916998
+(\w+) times and (\w+)	2773128
+(\w+) and (\w+) stories	915023
+(\w+) and (\w+) leaders	1220629
+both (\w+) and (\w+)	34351025
+'s (\w+) and (\w+)	45834463
+of (\w+) and (\w+)	303608325
+(\w+) and the (\w+)	240308353
+(\w+) 1980s and (\w+)	462706
+(\w+) days and (\w+)	2667838
+were (\w+) and (\w+)	6772507
+are (\w+) and (\w+)	31577296
+(\w+) things and (\w+)	1057550
+(\w+) , not (\w+)	39410559
+(\w+) and (\w+) groups	2372367
+(\w+) half of (\w+)	11194523
+in (\w+) and (\w+)	115038474
+(\w+) round (\w+) year	12609
+the (\w+) as (\w+)	50237679
+the (\w+) time (\w+)	34288538
+for (\w+) or (\w+)	23623323
+(\w+) until proven (\w+)	128495
+(\w+) quarter (\w+) year	244602
+(\w+) week 's (\w+)	4037822
+a (\w+) too (\w+)	2232805
+all (\w+) and (\w+)	16985716
+was (\w+) or (\w+)	1562332
+(\w+) or (\w+) in	22421881
+ways (\w+) and (\w+)	35207
+(\w+) and (\w+) sector	1378319
+the (\w+) round (\w+)	2273268
+for (\w+) and (\w+)	138759594
+-- (\w+) or (\w+)	442419
+at (\w+) and (\w+)	13027145
+(\w+) property for (\w+)	2267447
+some (\w+) and (\w+)	4090127
+(\w+) quarter of (\w+)	5353642
+not (\w+) and (\w+)	6488159
+(\w+) and (\w+) .	426533633
+of (\w+) or (\w+)	40439210
+either (\w+) or (\w+)	8554947
+(\w+) and (\w+) quarters	167197
+(\w+) of the (\w+)	2147902337
+into (\w+) and (\w+)	3446077
+" (\w+) and (\w+)	16791555
+(\w+) and a (\w+)	61918742
+(\w+) and one (\w+)	6851306
+(\w+) and (\w+) policies	1421769
+(\w+) and (\w+) elementary	28046
+important (\w+) and (\w+)	830978
+neediest (\w+) and (\w+)	714
+no (\w+) or (\w+)	5016371
+(\w+) and (\w+) sectors	1564676
+(\w+) and (\w+) companies	2647093
+, (\w+) or (\w+)	97186192
+were (\w+) or (\w+)	1003056
+Both (\w+) and (\w+)	1869043
+(\w+) or (\w+) ,	57709519
+of both (\w+) and (\w+)	1728640
+(\w+) 1800s and (\w+) 1900s	18252
+(\w+) time since (\w+) July	592
+(\w+) nor too (\w+) ,	5680
+in (\w+) August or (\w+)	8031
+people , (\w+) and (\w+)	555621
+not (\w+) and (\w+) .	125461
+(\w+) or (\w+) , ''	2315
+in (\w+) and (\w+) ,	5766027
+(\w+) play of the (\w+)	101621
+the (\w+) and the (\w+)	33736795
+of the (\w+) and (\w+)	59870576
+the (\w+) to the (\w+)	20708464
+(\w+) and (\w+) . "	2324743
+you 're (\w+) or (\w+)	179644
+to (\w+) or (\w+) .	1777101
+(\w+) and the (\w+) ,	6309364
+the (\w+) time (\w+) year	285404
+(\w+) or a (\w+) ,	824087
+(\w+) news and (\w+) news	76638
+a (\w+) , a (\w+)	3969469
+(\w+) , not the (\w+)	1326944
+combination of (\w+) and (\w+)	1035940
+of a (\w+) and (\w+)	3161277
+, (\w+) and (\w+) .	63273042
+(\w+) , state and (\w+)	1514303
+(\w+) and (\w+) , are	618859
+line between (\w+) and (\w+)	164518
+battle between (\w+) and (\w+)	69327
+the (\w+) quarter of (\w+)	3367751
+(\w+) '60s and (\w+) '70s	15799
+'s neediest (\w+) and (\w+)	286
+between (\w+) and (\w+) .	5252668
+the (\w+) 1950s and (\w+)	38093
+on (\w+) and (\w+) and	352807
+the (\w+) and (\w+) level	518609
+(\w+) and then (\w+) quantities	94
+for the (\w+) and (\w+)	14854467
+(\w+) and (\w+) , with	2029097
+are (\w+) or (\w+) ,	345871
+at the (\w+) and (\w+)	5353648
+between the (\w+) and (\w+)	10064982
+series of (\w+) and (\w+)	313853
+(\w+) 1950s and (\w+) 1960s	35128
+covers (\w+) and (\w+) affairs	257
+a (\w+) and (\w+) .	940144
+on (\w+) and (\w+) in	653734
+(\w+) until proven (\w+) ,	15159
+(\w+) month , the (\w+)	292237
+the (\w+) and (\w+) time	311404
+both (\w+) and (\w+) .	4994494
+(\w+) day of the (\w+)	3930073
+the (\w+) half of (\w+)	4096277
+(\w+) news is (\w+) news	45246
+a (\w+) , (\w+) and	2752385
+(\w+) and (\w+) , who	534521
+(\w+) September and (\w+) October	14594
+the (\w+) and (\w+) periods	59582
+(\w+) month became the (\w+)	1080
+performance of (\w+) and (\w+)	80841
+be (\w+) or (\w+) .	1604261
+(\w+) and (\w+) policy issues	36017
+(\w+) and (\w+) , that	599888
+difference between (\w+) and (\w+)	1205613
+, (\w+) or (\w+) ,	7989897
+(\w+) cop , (\w+) cop	6164
+on (\w+) and (\w+) policy	44787
+and (\w+) in the (\w+)	20308293
+the (\w+) and (\w+) sector	425245
+of (\w+) and (\w+) are	911438
+At (\w+) ceremonies and (\w+)	54
+in both (\w+) and (\w+)	2961569
+(\w+) and (\w+) policy .	883526
+and the (\w+) and (\w+)	5393273
+(\w+) and (\w+) , is	697182
+in the (\w+) quarter (\w+)	2461989
+is (\w+) and (\w+) .	3769143
+'s (\w+) or (\w+) .	511111
+(\w+) as well as (\w+)	27451334
+(\w+) April or (\w+) May	12216
+from (\w+) and (\w+) news	1904
+distinguish between (\w+) and (\w+)	111662
+one (\w+) and one (\w+)	649355
+(\w+) and one (\w+) .	327567
+(\w+) and (\w+) , "	4828499
+(\w+) 1980s and (\w+) 1990s	113793
+(\w+) year became the (\w+)	3130
+some (\w+) , some (\w+)	150774
+-- both (\w+) and (\w+)	57659
+(\w+) property for (\w+) use	20999
+between (\w+) and (\w+) is	409574
+divide between (\w+) and (\w+)	38079
+, (\w+) , (\w+) and	108915169
+important (\w+) and (\w+) events	6381
+(\w+) and (\w+) of the	48451552
+the (\w+) , (\w+) and	17204096
+the (\w+) '60s and (\w+)	13049
+a (\w+) or a (\w+)	4109595
+the (\w+) and (\w+) quarters	92174
+sense of (\w+) and (\w+)	1028896
+from (\w+) to (\w+) ,	6622843
+(\w+) and a (\w+) ,	1315313
+(\w+) and one (\w+) ,	149095
+too (\w+) nor too (\w+)	27991
+(\w+) 1980s and (\w+) '90s	6953
+on (\w+) and (\w+) with	137716
+(\w+) August or (\w+) September	10612
+the (\w+) and (\w+) ,	6303120
+(\w+) and what 's (\w+)	1257612
+(\w+) and (\w+) territory .	11678
+the (\w+) and (\w+) of	70709334
+(\w+) and (\w+) affairs for	9597
+be (\w+) or (\w+) ,	668838
+(\w+) and (\w+) . ''	19678
+(\w+) time (\w+) week .	43840
+(\w+) or (\w+) . "	402753
+(\w+) things and (\w+) things	12662
+of (\w+) and (\w+) .	20909719
+(\w+) half of (\w+) year	457396
+(\w+) round for the (\w+)	10064
+it 's (\w+) or (\w+)	341328
+gone from (\w+) to (\w+)	59761
+(\w+) to that (\w+) ,	696170
+(\w+) and (\w+) elementary school	4747
+(\w+) and (\w+) , the	7110091
+in (\w+) year 's (\w+)	661752
+runners on (\w+) and (\w+)	21254
+in the (\w+) round (\w+)	740122
+the (\w+) of the (\w+)	494017281
+for the (\w+) time (\w+)	7073810
+-- (\w+) , (\w+) ,	1970652
+, both (\w+) and (\w+)	3583588
+was a (\w+) or (\w+)	114471
+, in (\w+) and (\w+)	1143713
+for (\w+) and (\w+) .	11036740
+, whether (\w+) or (\w+)	1186459
+of (\w+) and (\w+) ,	17061861
+(\w+) quarter of (\w+) year	369276
+the (\w+) 1800s and (\w+)	19698
+-- (\w+) and (\w+) --	581469
+(\w+) , (\w+) and third	122902
+in (\w+) April or (\w+)	8870
+the (\w+) to that (\w+)	308109
+sell (\w+) and then (\w+)	511
+is (\w+) or (\w+) .	1384932
+too (\w+) or too (\w+)	445580
+they are (\w+) or (\w+)	354468
+between (\w+) and (\w+) territory	394
+on the (\w+) and (\w+)	17898306
+(\w+) and a (\w+) .	2179176
+(\w+) quarter (\w+) year .	76412
+on the (\w+) or (\w+)	3276308
+, (\w+) arm and (\w+)	5979
+on (\w+) and (\w+) ,	2121564
+both the (\w+) and (\w+)	6621706
+the (\w+) quarter (\w+) year	169581
+(\w+) and (\w+) jobs .	101829
+is (\w+) or (\w+) ,	761901
+(\w+) or a (\w+) .	1011529
+(\w+) and (\w+) with one	95698
+in (\w+) , (\w+) and	9660077
+runners at (\w+) and (\w+)	8229
+the (\w+) as any (\w+)	58478
+(\w+) and (\w+) , ''	16273
+whether (\w+) or (\w+) .	217022
+(\w+) year for the (\w+)	425210
+(\w+) or (\w+) , "	281137
+cities of (\w+) , (\w+)	97150
+of (\w+) and (\w+) elementary	876
+to both (\w+) and (\w+)	1009641
+to (\w+) or (\w+) the	2565294
+a (\w+) and a (\w+)	5920868
+to the (\w+) and (\w+)	24700198
+(\w+) or (\w+) , and	3688271
+(\w+) nine months of (\w+)	308203
+list of (\w+) and (\w+)	1439227
+(\w+) and (\w+) , and	28583614
+the (\w+) 1960s and (\w+)	74495
+in (\w+) and (\w+) .	9799457
+'s (\w+) or (\w+) ,	376166
+the (\w+) round (\w+) year	5963
+the (\w+) time since (\w+)	742711
+, (\w+) or (\w+) .	8604734
+(\w+) , (\w+) review of	183105
+(\w+) and the (\w+) .	10220234
+(\w+) 1960s and (\w+) '70s	6042
+are (\w+) or (\w+) .	594638
+(\w+) and (\w+) in the	20541755
+'s (\w+) and (\w+) .	2995414
+was (\w+) or (\w+) .	226814
+the (\w+) or the (\w+)	4566196
+(\w+) , regional and (\w+)	547464
+for both (\w+) and (\w+)	3387287
+(\w+) , (\w+) and central	21723
+is (\w+) until proven (\w+)	13959
+(\w+) or too (\w+) .	132163
+(\w+) May or (\w+) June	14732
+, the (\w+) and (\w+)	13866723
+(\w+) arm and (\w+) hand	1357
+(\w+) and (\w+) quarters of	51019
+was (\w+) and (\w+) ,	470189
+'s (\w+) and (\w+) policies	31166
+the (\w+) and (\w+) .	9750282
+the (\w+) 1980s and (\w+)	126434
+(\w+) of the (\w+) for	14148745
+, (\w+) and (\w+) ,	38422072
+on (\w+) and (\w+) .	3642565
+gap between (\w+) and (\w+)	325828
+(\w+) and (\w+) , they	466223
+at important (\w+) and (\w+)	53
+in the (\w+) and (\w+)	36556398
+from the (\w+) and (\w+)	6574669
+(\w+) possession of the (\w+)	597598
+the (\w+) and (\w+) sectors	737553
+(\w+) of the (\w+) of	130094912
+(\w+) 11 months of (\w+)	31415
+the (\w+) time (\w+) week	48060
+(\w+) '80s and (\w+) '90s	20407
+mix of (\w+) and (\w+)	489090
+an (\w+) , (\w+) review	4629
+(\w+) and (\w+) areas .	1215502
+, (\w+) , (\w+) or	20794914
+in the (\w+) , (\w+)	67204055
+that (\w+) news is (\w+)	6611
+to (\w+) and (\w+) the	10649742
+(\w+) year 's (\w+) quarter	60067
+can be (\w+) or (\w+)	1122058
+of (\w+) , (\w+) and	20729900
+(\w+) and (\w+) , he	386064
+between (\w+) and (\w+) ,	3385867
+(\w+) and (\w+) , but	4374326
+differences between (\w+) and (\w+)	416778
+the (\w+) or (\w+) of	13468491
+from (\w+) to (\w+) .	10761505
+(\w+) days and (\w+) days	25653
+(\w+) until proven (\w+) .	42619
+(\w+) and (\w+) sectors .	492803
+(\w+) thing or a (\w+)	30078
+from (\w+) to (\w+) and	1960013
+(\w+) and (\w+) schools .	278312
+both (\w+) and (\w+) ,	2518701

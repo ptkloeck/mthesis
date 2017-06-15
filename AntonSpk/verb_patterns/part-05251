@@ -1,0 +1,23 @@
+It/PRP 's/VBZ a/DT (\w+)/VB and/CC a/SYM (\w+)/VBP ,/, "/'' Tuck/NNP	1
+They/PRP might/MD (\w+)/VB and/CC (\w+)/VB	2
+of/IN code/NN to/TO (\w+)/VB and/CC (\w+)/VB	1
+not/RB (\w+)/VBN forward/RB to/TO (\w+)/VB	1
+whether/IN they/PRP would/MD (\w+)/VB or/CC (\w+)/VB what/WP was/VBD being/VBG	2
+when/WRB to/TO (\w+)/VB and/CC when/WRB to/TO (\w+)/VB investment/NN diamonds/NNS	1
+to/TO (\w+)/VB or/CC (\w+)/VB and/CC nothing/NN much/RB	1
+soft/JJ ,/, (\w+)/VB him/PRP shoot/VB and/CC thereby/RB (\w+)/VB James/NNP from/IN generating/VBG	1
+I/PRP (\w+)/VBP or/CC (\w+)/VBP Tori/NNP Amos/NNP "/''	1
+(\w+)/VB part/NN in/IN or/CC (\w+)/VB our/PRP$	2
+audience/NN will/MD (\w+)/VB or/CC (\w+)/VB based/VBN	1
+Koran/NNP to/TO (\w+)/VB those/DT who/WP (\w+)/VBP American/JJ	1
+(\w+)/VB and/CC (\w+)/VB from/IN these/DT	1
+(\w+)/VB or/CC (\w+)/VB a/DT tie/NN in/IN	1
+parents/NNS either/CC (\w+)/VBP pacifiers/NNS or/CC (\w+)/VBP them/PRP	1
+alternately/RB (\w+)/VB and/CC (\w+)/VB to/TO break/VB off/RP	2
+you/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, Mast/NNP	1
+civilized/VBG (\w+)/VB and/CC (\w+)/VB ./.	1
+,/, would/MD also/RB (\w+)/VB the/DT tax/NN (\w+)/VB available/JJ for/IN these/DT	1
+to/TO (\w+)/VB exports/NNS and/CC (\w+)/VB imports/NNS	2
+sports/NNS and/CC (\w+)/VB to/TO (\w+)/VB ,/,	1
+''/'' People/NNS must/MD (\w+)/VB looking/VBG away/RP and/CC (\w+)/VB seeing/VBG	1
+to/TO to/TO (\w+)/VB and/CC (\w+)/VB their/PRP$	1

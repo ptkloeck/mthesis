@@ -1,0 +1,31 @@
+-/: for/IN (\w+)/VBP or/CC (\w+)/VBP	1
+going/VBG to/TO (\w+)/VB or/CC (\w+)/VB this/DT fight/NN	1
+25/CD seconds/NNS to/TO (\w+)/VB or/CC (\w+)/VB the/DT folding/JJ metal/NN	1
+who/WP can/MD (\w+)/VB or/CC (\w+)/VB President/NNP Clinton/NNP	1
+allow/VB Iraq/NNP to/TO (\w+)/VB more/JJR oil/NN to/TO (\w+)/VB	2
+And/CC (\w+)/VB it/PRP (\w+)/VB ./.	1
+has/VBZ been/VBN (\w+)/VBN or/CC (\w+)/VB ,/, though/RB not/RB	1
+to/TO (\w+)/VB rather/RB than/IN (\w+)/VB Soviet/JJ citizens/NNS and/CC	1
+tequila/NN brands/NNS may/MD (\w+)/VB and/CC (\w+)/VB out/RP of/IN	1
+could/MD (\w+)/VB and/CC (\w+)/VB make/VB	1
+Chargers/NNPS (\w+)/VBP depth/NN and/CC (\w+)/VBP a/DT small/JJ	1
+(\w+)/VBP ,/, or/CC (\w+)/VB ,/,	2
+happy/JJ to/TO (\w+)/VB American/JJ dollars/NNS and/CC (\w+)/VB a/DT	1
+(\w+)/VBP I/PRP think/VBP I/PRP will/MD (\w+)/VB putting/VBG	1
+(\w+)/VBP Googlebut/NNP (\w+)/VBP Big/NNP Mac/NNP (/NNP	1
+(\w+)/VB late/RB and/CC (\w+)/VB early/RB to/TO beat/VB	1
+out/IN ,/, they/PRP (\w+)/VBP ,/, they/PRP do/VBP n't/RB (\w+)/VB	1
+that/WDT (\w+)/VB risk/NN ,/, not/RB (\w+)/VB	1
+``/`` People/NNS (\w+)/VBP getting/VBG old/JJ when/WRB they/PRP (\w+)/VBP	1
+the/DT time/NN we/PRP (\w+)/VBP to/TO the/DT time/NN we/PRP (\w+)/VB	1
+Hockey/NN :/: Rangers/NNPS (\w+)/VBP big/JJ ,/, Devils/NNP (\w+)/VB big/JJ ./.	1
+to/TO (\w+)/VB Thanksgiving/NNP ./. Now/RB I/PRP (\w+)/VBP it/PRP ,/,	1
+could/MD easily/RB (\w+)/VB and/CC (\w+)/VB the/DT shower/NN ./.	1
+courses/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP over/IN	1
+(\w+)/VB them/PRP aside/RB ,/, (\w+)/VB	1
+``/`` Whether/IN you/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, the/DT	3
+the/DT roster/NN &mdash;/NN (\w+)/VBP been/VBN implicated/VBN and/CC will/MD (\w+)/VB	1
+would/MD need/VB to/TO (\w+)/VB all/DT three/CD parties/NNS to/TO (\w+)/VB	1
+can/MD hardly/RB (\w+)/VB to/TO (\w+)/VB still/RB ./.	1
+Browns/NNPS (\w+)/VBP ways/NNS to/TO (\w+)/VB	1
+to/TO (\w+)/VB German/JJ marks/NNS and/CC (\w+)/VB other/JJ European/JJ currencies/NNS	1

@@ -1,0 +1,30 @@
+news/NN ,/, can/MD (\w+)/VB or/CC (\w+)/VBP	2
+intend/VB to/TO (\w+)/VB or/CC (\w+)/VB	1
+have/VB Mom/NN (\w+)/VB care/NN of/IN me/PRP and/CC (\w+)/VB	1
+to/TO (\w+)/VB new/JJ shares/NNS or/CC (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB a/DT teacher/NN	1
+reluctant/JJ to/TO (\w+)/VB actions/NNS that/WDT would/MD (\w+)/VB an/DT airy/JJ	1
+I/PRP (\w+)/VBP Linux/NNP ,/, but/CC I/PRP (\w+)/VBP India/NNP	1
+did/VBD not/RB (\w+)/VB and/CC (\w+)/VB the/DT way/NN	1
+playing/VBG to/TO (\w+)/VB ,/, tie/VB or/CC even/RB (\w+)/VB	1
+as/IN wood/NN grains/NNS (\w+)/VBP ,/, swirl/VB and/CC then/RB (\w+)/VB abruptly/RB where/WRB a/DT	1
+more/JJR things/NNS (\w+)/VB ,/, they/PRP (\w+)/VB the/DT same/JJ	1
+easily/RB (\w+)/VB and/CC (\w+)/VB instances/NNS from/IN DAS/NNP	1
+parked/VBN (\w+)/VB by/IN and/CC (\w+)/VB	1
+to/TO (\w+)/VB and/CC then/RB (\w+)/VBP them/PRP up/RP	1
+markets/NNS (\w+)/VBP or/CC (\w+)/VB sharply/RB	1
+to/TO (\w+)/VB and/CC (\w+)/VB without/IN political/JJ	1
+audience/NN to/TO (\w+)/VB or/CC (\w+)/VB can/MD	1
+them/PRP (\w+)/VBP or/CC (\w+)/VBP	4
+harm/NN ,/, then/RB (\w+)/VB out/RP and/CC (\w+)/VB get/VB a/DT	1
+and/CC Canada/NNP ,/, (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB here/RB ,/, (\w+)/VB to/TO school/NN ,/,	1
+(\w+)/VBN to/TO (\w+)/VB 15/CD percent/NN	1
+hard/JJ work/NN and/CC (\w+)/VB and/CC (\w+)/VB	1
+unprepared/JJ to/TO (\w+)/VB fully/RB independent/JJ lives/NNS and/CC (\w+)/VB up/RP jobless/JJ	1
+on/IN whether/IN to/TO (\w+)/VB or/CC (\w+)/VB "/`` closer/RBR	1
+but/CC communications/NNS can/MD (\w+)/VB or/CC (\w+)/VB a/DT	2
+down/RP ,/, thrillers/NNS (\w+)/VBP or/CC (\w+)/VBP on/IN atmosphere/NN	1
+(\w+)/VB or/CC (\w+)/VB him/PRP in/IN Miami/NNP	1
+rates/NNS (\w+)/VB here/RB and/CC (\w+)/VB abroad/RB ,/,	1
+to/TO (\w+)/VB and/CC (\w+)/VB for/IN their/PRP$	1

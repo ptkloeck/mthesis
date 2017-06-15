@@ -1,0 +1,30 @@
+game/NN ,/, (\w+)/VBP or/CC (\w+)/VBP ./.	1
+will/MD (\w+)/VB and/CC (\w+)/VB during/IN the/DT same/JJ	1
+,/, they/PRP (\w+)/VBP to/TO (\w+)/VB on/IN recommendations/NNS	1
+characters/NNS (\w+)/VBP verbal/JJ bite/NN but/CC (\w+)/VBP humanity/NN in/IN	1
+geezers/NNS to/TO (\w+)/VB into/IN motorcycle/NN showrooms/NNS and/CC (\w+)/VB	1
+,/, (\w+)/VBP back/RP to/TO (\w+)/VB fishing/NN ./.	1
+wants/VBZ to/TO (\w+)/VB and/CC (\w+)/VB the/DT system/NN	1
+dock/NN will/MD (\w+)/VB their/PRP$ morning/NN trips/NNS and/CC (\w+)/VB their/PRP$ evening/NN trips/NNS	1
+with/IN students/NNS who/WP (\w+)/VBP their/PRP$ classes/NNS but/CC (\w+)/VBP the/DT	1
+three/CD medalists/NNS (\w+)/VB the/DT podium/NN and/CC (\w+)/VB a/DT black-power/JJ	1
+(\w+)/VB or/CC (\w+)/VB property/NN	6
+(\w+)/VB old-fashioned/JJ bicycles/NNS and/CC (\w+)/VB around/IN holding/VBG	1
+she/PRP could/MD (\w+)/VB or/CC (\w+)/VB unaided/NN ,/,	1
+to/TO (\w+)/VB them/PRP than/IN (\w+)/VB	2
+about/IN drugs/NNS that/WDT (\w+)/VBP the/DT blood/NN vessels/NNS that/WDT (\w+)/VBP the/DT cancerous/JJ tumors/NNS	1
+and/CC will/MD (\w+)/VB two/CD workout/NN days/NNS to/TO (\w+)/VB to/TO	1
+Either/CC these/DT companies/NNS (\w+)/VBP or/CC they/PRP (\w+)/VBP –/NNS	1
+virtualisation/NN can/MD (\w+)/VB quality/NN of/IN service/NN and/CC (\w+)/VB total/JJ	1
+an/DT investor/NN could/MD (\w+)/VB Digital/NNP Equipment/NNP stock/NN and/CC (\w+)/VB the/DT	1
+going/VBG to/TO (\w+)/VB or/CC (\w+)/VB Ships/NNP Tavern/NNP	1
+need/VBP to/TO (\w+)/VB and/CC we/PRP need/VBP to/TO (\w+)/VB ,/, and/CC we/PRP	1
+learning/VBG to/TO (\w+)/VB ,/, rather/RB than/IN (\w+)/VB ,/,	1
+and/CC whether/IN they/PRP (\w+)/VBP or/CC (\w+)/VBP potential/JJ mates/NNS	1
+will/MD (\w+)/VB in/IN Los/NNP Angeles/NNP ,/, (\w+)/VB in/IN Boston/NNP for/IN	1
+its/PRP$ two-foot/JJ spikes/NNS (\w+)/VB in/IN early/JJ morning/NN and/CC (\w+)/VB in/IN the/DT afternoon/NN	1
+they/PRP (\w+)/VBP to/TO (\w+)/VB ?/.	1
+will/MD (\w+)/VB or/CC (\w+)/VB consumers/NNS shopping/NN for/IN	1
+is/VBZ (\w+)/VBN to/TO (\w+)/VB ,/, China/NNP	1
+either/CC (\w+)/VB it/PRP or/CC (\w+)/VB it/PRP ./.	4
+you/PRP (\w+)/VB and/CC (\w+)/VB textbooks/NNS on/IN the/DT	1

@@ -1,0 +1,35 @@
+to/TO (\w+)/VB or/CC (\w+)/VB bonds/NNS ,/,	1
+(\w+)/VBP into/IN slumps/NNS and/CC (\w+)/VBD out/RP	1
+to/TO (\w+)/VB underperforming/VBG issues/NNS and/CC (\w+)/VB	2
+perquisites/NNS (\w+)/VB or/CC (\w+)/VB	1
+Assembly/NNP to/TO (\w+)/VB some/DT taxes/NNS ,/, (\w+)/VB others/NNS and/CC generate/VB	1
+,/, (\w+)/VB old-fashioned/JJ bicycles/NNS and/CC (\w+)/VB around/IN holding/VBG	1
+was/VBD hurt/VBN (\w+)/VB or/CC (\w+)/VB non/NN serious/JJ	1
+(\w+)/VBP a/DT great/JJ ball/NN and/CC (\w+)/VBP by/IN	1
+lets/VBZ customers/NNS (\w+)/VB and/CC (\w+)/VB used/VBN	1
+spots/NNS (\w+)/VB and/CC (\w+)/VB in/IN the/DT	2
+can/MD (\w+)/VB leaf/NN growth/NN and/CC (\w+)/VB flowering/NN	1
+individuals/NNS who/WP (\w+)/VBP and/CC (\w+)/VBP domain/NN names/NNS	1
+,/, does/VBZ n't/RB (\w+)/VB when/WRB customers/NNS (\w+)/VB to/TO bring/VB any/DT	1
+people/NNS (\w+)/VBP or/CC (\w+)/VBP in/IN	1
+-/: fathers/NNS can/MD (\w+)/VB and/CC (\w+)/VB as/IN they/PRP	1
+(\w+)/VBP you/PRP more/JJR than/IN I/PRP (\w+)/VBP this/DT	1
+They/PRP also/RB have/VBP (\w+)/VB and/CC (\w+)/VB of/IN notes/study/JJ	1
+flights/NNS that/WDT both/DT (\w+)/VBP and/CC (\w+)/VBP in/IN California/NNP	2
+if/IN they/PRP (\w+)/VBP the/DT money/NN they/PRP will/MD (\w+)/VB	1
+can/MD (\w+)/VB and/CC (\w+)/VB for/IN a/DT week/NN	1
+to/TO (\w+)/VB his/PRP$ time/NN and/CC (\w+)/VB his/PRP$	4
+have/VBP changed/VBN -/: (\w+)/VB Terry/NNP Semel/NNP and/CC (\w+)/VB Yang/NNP -/:	1
+you/PRP want/VBP to/TO (\w+)/VB ,/, (\w+)/VB and/CC scream/VB	1
+they/PRP seem/VBP to/TO (\w+)/VB a/DT way/NN to/TO (\w+)/VB more/JJR times/NNS than/IN	1
+to/TO (\w+)/VB the/DT country/NN than/IN to/TO (\w+)/VB it/PRP ./.	2
+the/DT right/NN to/TO (\w+)/VB or/CC (\w+)/VB trade/NN agreements/NNS	1
+will/MD (\w+)/VB to/TO (\w+)/VB ,/, but/CC	1
+about/RB 10,000/CD ,/, (\w+)/VB or/CC (\w+)/VB "/``	1
+can/MD easily/RB (\w+)/VB and/CC (\w+)/VB your/PRP$ clippings/NNS	1
+there/RB and/CC (\w+)/VB the/DT team/NN not/RB (\w+)/VB a/DT beat/NN	1
+must/MD (\w+)/VB so/IN another/DT can/MD (\w+)/VB and/CC new/JJ	1
+(\w+)/VB or/CC (\w+)/VB earnings/NNS or/CC	1
+to/TO (\w+)/VB to/TO terms/NNS or/CC (\w+)/VB back/RP into/IN the/DT	1
+'s/VBZ (\w+)/VB on/IN the/DT rumor/NN ,/, (\w+)/VB on/IN the/DT news/NN	2
+to/TO (\w+)/VB from/IN New/NNP York/NNP and/CC (\w+)/VB	1

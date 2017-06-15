@@ -1,0 +1,110 @@
+'s/VBZ a/DT (\w+)/NN and/CC (\w+)/NN of/IN heavy/JJ	1
+hardware/NN and/CC (\w+)/NN companies/NNS to/TO sue/VB other/JJ (\w+)/NN and/CC software/NN companies/NNS	1
+(\w+)/NN and/CC a/DT (\w+)/NN in/IN Clinton/NNP	2
+Puerto/NNP Rican/NNP (\w+)/NN and/CC an/DT African-American/JJ (\w+)/NN and/CC ``/``	1
+disk/NN memory/NN (\w+)/NN and/CC (\w+)/NN	1
+past/IN sunset/JJ Thursday/NNP (\w+)/NN after/IN a/DT full/JJ (\w+)/NN working/VBG	1
+;/: (\w+)/NN ,/, Willard/NNP ;/: (\w+)/NN ,/, Courtney/NNP	1
+music/NN in/IN (\w+)/NN and/CC Snoop/NNP Dogg/NNP in/IN (\w+)/NN ./.	1
+(\w+)/NN and/CC (\w+)/NN and/CC keep/VB	4
+2-under/JJ on/IN the/DT (\w+)/NN and/CC 1-over/JJ on/IN the/DT (\w+)/NN to/TO	1
+to/TO reduce/VB (\w+)/NN and/CC (\w+)/NN card/NN transaction/NN costs/NNS	6
+ramps/NNS from/IN (\w+)/NN to/TO (\w+)/NN carried/VBD the/DT	1
+NFL/NNP team/NN whose/WP$ (\w+)/NN and/CC (\w+)/NN rank/VBP among/IN the/DT	1
+Along/RB with/IN selling/VBG (\w+)/NN and/CC (\w+)/NN ,/, HP/NNP will/MD	1
+down/RB and/CC from/IN (\w+)/NN to/TO (\w+)/NN ./.	1
+with/IN a/DT technological/JJ (\w+)/NN and/CC a/DT marketing/VBG (\w+)/NN	1
+(\w+)/NN ,/, on/IN the/DT (\w+)/NN after/IN economic/JJ	1
+,/, the/DT (\w+)/NN must/MD sue/VB the/DT (\w+)/NN for/IN the/DT	1
+look/VB to/TO the/DT (\w+)/NN ,/, rather/RB than/IN the/DT (\w+)/NN	4
+would/MD swell/VB (\w+)/NN and/CC drastically/RB reduce/VB excess/JJ (\w+)/NN ,/, eventually/RB	1
+-/: a/DT 2-year-old/JJ (\w+)/NN and/CC a/DT 10-month-old/JJ (\w+)/NN -/:	1
+turn/VB towards/IN the/DT (\w+)/NN ,/, not/RB towards/IN the/DT (\w+)/NN	1
+by/IN his/PRP$ (\w+)/NN Sarah/NNP Lee/NNP ,/, (\w+)/NN Abe/NNS and/CC various/JJ	1
+one/CD right/JJ (\w+)/NN for/IN every/DT (\w+)/NN	1
+Kerry/NNP 's/POS (\w+)/NN here/RB sealed/VBD the/DT (\w+)/NN of/IN anti-war/JJ	1
+machines/NNS accept/VBP (\w+)/NN and/CC (\w+)/NN cards/NNS	1
+done/VBN your/PRP$ (\w+)/NN ,/, your/PRP$ (\w+)/NN ,/, and/CC	1
+and/CC the/DT young/JJ (\w+)/NN and/CC (\w+)/NN maturing/VBG	1
+to/TO tack/VB between/IN (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN ]/NN can/MD beat/VB his/PRP$ (\w+)/NN but/CC not/RB in/IN	1
+split/NN end/NN on/IN (\w+)/NN and/CC safety/NN on/IN (\w+)/NN ,/, had/VBD more/JJR	1
+the/DT (\w+)/NN of/IN October/NNP and/CC the/DT (\w+)/NN of/IN	2
+'/POS (\w+)/NN is/VBZ the/DT sellers/NNS '/POS (\w+)/NN ./.	2
+,/, both/CC my/PRP$ (\w+)/NN and/CC my/PRP$ (\w+)/NN had/VBD jobs/NNS	1
+simultaneously/RB infuriate/VB the/DT (\w+)/NN and/CC the/DT (\w+)/NN ,/,	2
+voluptuous/JJ (\w+)/NNS ,/, hordes/VBZ of/IN (\w+)/NN	2
+enough/RB for/IN its/PRP$ (\w+)/NN or/CC (\w+)/NN to/TO	1
+(\w+)/NN bee/NN carrying/VBG the/DT (\w+)/NN could/MD have/VB made/VBN	1
+hands/NNS in/IN (\w+)/NN to/TO this/DT (\w+)/NN :/: "/'' Over/IN	1
+(\w+)/NN ,/, Joshua/NNP ;/: a/DT (\w+)/NN ,/, Danielle/NNP	2
+strain/VB gasoline/NN (\w+)/NN before/IN the/DT peak/JJ summer/NN (\w+)/NN hits/VBZ home/NN ./.	1
+but/CC say/VBP their/PRP$ (\w+)/NN and/CC (\w+)/NN -/: in/IN	1
+™/NNP s/VBZ from/IN (\w+)/NN to/TO (\w+)/NN ./.	1
+Be/VBN (\w+)/NN or/CC (\w+)/NN enough/JJ	1
+The/DT gap/NN between/IN (\w+)/NN and/CC the/DT (\w+)/NN	1
+Panther/NN (\w+)/NN to/TO more-than-special/JJ teams/NNS and/CC (\w+)/NN	1
+that/WDT runs/VBZ (\w+)/NN and/CC (\w+)/NN ,/, winter/NN and/CC	1
+husband/NN and/CC teen-age/JJ (\w+)/NN and/CC (\w+)/NN ,/, said/VBD yesterday/NN	1
+blends/VBD (\w+)/NN into/IN (\w+)/NN and/CC casual/JJ	1
+debt/NN to/TO the/DT (\w+)/NN ,/, the/DT (\w+)/NN to/TO the/DT	2
+caring/JJ ,/, attentive/JJ (\w+)/NN would/MD not/RB give/VB a/DT (\w+)/NN junk/NN	1
+wide/JJ open/JJ tight/JJ (\w+)/NN Ryan/NNP Moya/NNP down/IN the/DT (\w+)/NN of/IN the/DT field/NN	1
+(\w+)/NN and/CC beaten/VBN her/PRP$ (\w+)/NN so/RB	1
+in/IN the/DT (\w+)/NN and/CC (\w+)/NN ,/, 10/CD feet/NNS	1
+your/PRP$ (\w+)/NN or/CC (\w+)/NN just/RB overdosed/VBZ	1
+a/DT 35-year-old/JJ (\w+)/NN and/CC a/DT 30-year-old/JJ (\w+)/NN	1
+(\w+)/NN --/: to/TO your/PRP$ (\w+)/NN determine/VB your/PRP$ vote/NN	1
+energy/NN equation/NN :/: (\w+)/NN ,/, (\w+)/NN and/CC the/DT	1
+said/VBD that/IN (\w+)/NN ratings/NNS in/IN the/DT highly/RB (\w+)/NN	1
+the/DT (\w+)/NN drove/VBD his/PRP$ (\w+)/NN to/TO	1
+been/VBN unbelievable/JJ from/IN (\w+)/NN to/TO (\w+)/NN	1
+line/NN for/IN (\w+)/NN or/CC (\w+)/NN	1
+bed/NN with/IN her/PRP$ (\w+)/NN and/CC her/PRP$ (\w+)/NN ,/, both/DT	1
+an/DT (\w+)/NN ,/, not/RB a/DT (\w+)/NN ,/, and/CC a/DT	1
+make/VB sure/JJ (\w+)/NN meets/VBZ (\w+)/NN ,/,	1
+rival/VB even/RB her/PRP$ (\w+)/NN 's/POS generosity/NN ,/, his/PRP$ (\w+)/NN ,/,	1
+charged/VBN on/IN (\w+)/NN advances/NNS made/VBN on/IN a/DT (\w+)/NN card/NN	1
+the/DT (\w+)/NN of/IN PR/NNP and/CC the/DT (\w+)/NN of/IN advertising/NN ,/,	1
+concept/NN :/: a/DT (\w+)/NN ,/, a/DT (\w+)/NN	1
+an/DT (\w+)/NN of/IN 22,237/CD miles/NNS ,/, (\w+)/NN	1
+of/IN on/IN (\w+)/NN and/CC (\w+)/NN ,/,	1
+'s/POS (\w+)/NN ,/, someone/NN 's/POS (\w+)/NN ,/, the/DT	1
+of/IN a/DT 4-year-old/JJ (\w+)/NN and/CC 1-year-old/JJ (\w+)/NN ,/, Hughes/NNP	1
+(\w+)/NN felt/VBD the/DT (\w+)/NN was/VBD supportive/JJ ,/,	1
+finance/NN ,/, worked/VBD (\w+)/NN and/CC (\w+)/NN	1
+through/IN which/WDT a/DT (\w+)/NN and/CC a/DT (\w+)/NN	1
+for/IN a/DT (\w+)/NN accused/VBN of/IN holding/VBG a/DT (\w+)/NN	1
+an/DT (\w+)/NN in/IN availability/NN and/CC a/DT (\w+)/NN in/IN	1
+about/IN a/DT (\w+)/NN who/WP lived/VBD as/IN a/DT (\w+)/NN	1
+both/DT men/NNS in/IN (\w+)/NN and/CC (\w+)/NN ./.	1
+(\w+)/NN and/CC half/NN in/IN (\w+)/NN with/IN God/NNP ./.	2
+sexual/JJ relationship/NN between/IN (\w+)/NN and/CC (\w+)/NN	1
+as/IN a/DT good/JJ (\w+)/NN ,/, (\w+)/NN or/CC spouse/NN if/IN	1
+marketing/VBG strategy/NN of/IN (\w+)/NN and/CC (\w+)/NN of/IN CO2/JJ	1
+(\w+)/NN and/CC good/JJ in/IN (\w+)/NN games/NNS ./.	1
+endurance/JJ race/NN 's/POS (\w+)/NN -/: just/RB the/DT (\w+)/NN ./.	1
+,/, (\w+)/NN to/TO (\w+)/NN ,/, and/CC more/RBR	1
+to/TO become/VB (\w+)/NN and/CC (\w+)/NN ./.	2
+facts/NNS of/IN (\w+)/NN versus/IN (\w+)/NN ,/,	2
+be/VB close/JJ to/TO (\w+)/NN after/IN a/DT decade-long/JJ (\w+)/NN that/WDT has/VBZ killed/VBN	1
+gives/VBZ (\w+)/NN and/CC (\w+)/NN an/DT excellent/JJ environment/NN	1
+the/DT (\w+)/NN and/CC murals/NNS on/IN the/DT (\w+)/NN	1
+of/IN a/DT (\w+)/NN and/CC (\w+)/NN were/VBD found/VBN	4
+(\w+)/NN to/TO (\w+)/NN --/: that/WDT	1
+ensure/VB that/IN every/DT (\w+)/NN ,/, (\w+)/NN and/CC	2
+(\w+)/NN does/VBZ n't/RB find/VB the/DT (\w+)/NN of/IN her/PRP$	1
+other/JJ than/IN normal/JJ (\w+)/NN and/CC (\w+)/NN forces/NNS behind/IN fluctuating/VBG	1
+(\w+)/NN manage/VB her/PRP$ (\w+)/NN 's/POS care/NN	2
+(\w+)/NN ,/, it/PRP was/VBD the/DT (\w+)/NN that/WDT stood/VBD out/RP	1
+that/WDT lost/VBD a/DT (\w+)/NN or/CC (\w+)/NN in/IN	1
+(\w+)/NN rate/NN and/CC low/JJ (\w+)/NN rate/NN among/IN black/JJ	1
+minimum/NN and/CC recommended/VBN (\w+)/NN and/CC (\w+)/NN ./.	1
+last/JJ month/NN the/DT (\w+)/NN and/CC (\w+)/NN recognize/VBP what/WP	1
+live/VBP this/DT (\w+)/NN and/CC (\w+)/NN for/IN	1
+the/DT (\w+)/NN assumes/VBZ the/DT (\w+)/NN 's/POS	1
+as/IN (\w+)/NN turned/VBD to/TO (\w+)/NN at/IN the/DT	2
+(\w+)/NN in/IN pre-kindergarten/NN and/CC a/DT (\w+)/NN in/IN third/JJ	1
+and/CC (\w+)/NN and/CC (\w+)/NN alike/RB	1
+as/IN (\w+)/NN the/DT (\w+)/NN ,/, with/IN an/DT	1
+alleged/JJ (\w+)/NN or/CC (\w+)/NN of/IN Ester/NNP at/IN	1

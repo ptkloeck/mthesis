@@ -1,0 +1,29 @@
+to/TO (\w+)/VB control/NN and/CC (\w+)/VB	1
+is/VBZ unlikely/JJ to/TO (\w+)/VB or/CC (\w+)/VB a/DT job/NN	2
+who/WP (\w+)/VBP -/: and/CC (\w+)/VB -/:	1
+a/NNP (\w+)/VBP and/CC (\w+)/VBP process/NN ./.	1
+(\w+)/VB or/CC (\w+)/VB the/DT aperture/NN	1
+Pacific/NNP (\w+)/VBP an/DT urgency/NN that/WDT could/MD (\w+)/VB been/VBN	1
+could/MD (\w+)/VB in/IN San/NNP Diego/NNP and/CC (\w+)/VB	1
+to/TO (\w+)/VB ,/, (\w+)/VB and/CC trade/VB supplies/NNS	1
+'s/POS (\w+)/VB to/TO (\w+)/VB ./.	1
+(\w+)/VB out/RP with/IN â/NN (\w+)/VB me/PRP if/IN	1
+(\w+)/VB their/PRP$ posturing/NN and/CC (\w+)/VB open/JJ	1
+high-tech/JJ things/NNS (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+whether/IN to/TO (\w+)/VB put/VBN in/IN Vero/NNP or/CC (\w+)/VB its/PRP$	1
+many/JJ things/NNS can/MD (\w+)/VB or/CC (\w+)/VB	1
+three/CD team/NN members/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN other/JJ	1
+motors/NNS (\w+)/VB and/CC (\w+)/VB the/DT piano/NN wire/NN	1
+opportunity/NN to/TO (\w+)/VB ,/, (\w+)/VB or/CC trade/VB ./.	2
+life/NN :/: shows/NNS (\w+)/VB and/CC (\w+)/VB	1
+process/NN (\w+)/VB or/CC (\w+)/VB the/DT quantity/NN of/IN	1
+large/JJ institutions/NNS who/WP (\w+)/VBP and/CC (\w+)/VBP huge/JJ baskets/NNS	1
+who/WP (\w+)/VBN in/IN as/IN winners/NNS and/CC (\w+)/VB out/RP as/IN	1
+of/IN options/NNS can/MD (\w+)/VB or/CC (\w+)/VB a/DT futures/NNS contract/NN	2
+,/, could/MD (\w+)/VB to/TO (\w+)/VB the/DT results/NNS	1
+(\w+)/VB or/CC (\w+)/VB ,/, should/MD play/VB	1
+(/NN where/WRB you/PRP (\w+)/VBP and/CC (\w+)/VBP manually/NNP )/NNP	1
+who/WP (\w+)/VBP and/CC (\w+)/VBP the/DT valve/NN (/NN	1
+(\w+)/VB and/CC (\w+)/VB as/RB noteworthy/JJ as/RB	1
+is/VBZ to/TO (\w+)/VB ground/NN ,/, not/RB (\w+)/VB it/PRP in/IN	1
+later/RB ,/, will/MD (\w+)/VB back/RB and/CC (\w+)/VB on/RP ,/, ''/''	2

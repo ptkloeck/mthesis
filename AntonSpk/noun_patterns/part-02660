@@ -1,0 +1,100 @@
+one/CD upper/JJ (\w+)/NN ,/, one/CD lower/JJR (\w+)/NN -/:	1
+the/DT workers/NNS (\w+)/NN and/CC (\w+)/NN ./.	1
+'s/POS (\w+)/NN convicted/VBN of/IN killing/VBG her/PRP$ (\w+)/NN will/MD ask/VB for/IN	1
+Qormi/NNP (\w+)/NN and/CC a/DT 42-year-old/JJ (\w+)/NN from/IN Paola/NNP for/IN	1
+ideas/NNS from/IN (\w+)/NN to/TO (\w+)/NN ,/,	2
+(\w+)/NN pay/VB the/DT (\w+)/NN 's/POS	1
+(\w+)/NN is/VBZ looking/VBG for/IN a/DT (\w+)/NN who/WP	5
+the/DT inherent/JJ (\w+)/NN or/CC (\w+)/NN of/IN	1
+backward/JJ computer/NN (\w+)/NN forced/VBD Russian/JJ (\w+)/NN	1
+rumors/NNS of/IN (\w+)/NN or/CC a/DT (\w+)/NN that/WDT might/MD	1
+Navarro/NNP s/NNP (\w+)/NNP against/IN Rice/NNP s/NNP (\w+)/NN ./.	1
+(\w+)/NN and/CC (\w+)/NN products/NNS are/VBP	4
+a/DT 6-year-old/JJ (\w+)/NN and/CC a/DT 5-year-old/JJ (\w+)/NN ,/, and/CC their/PRP$	1
+of/IN (\w+)/NN or/CC (\w+)/NN for/IN a/DT day/NN	1
+helps/VBZ (\w+)/NN the/DT (\w+)/NN	1
+No/DT (\w+)/NN or/CC (\w+)/NN can/MD deny/VB people/NNS	1
+worries/VBZ about/IN (\w+)/NN when/WRB the/DT (\w+)/NN is/VBZ impossibly/RB explosive/JJ	1
+the/DT (\w+)/NN of/IN January/NNP through/IN the/DT (\w+)/NN of/IN March/NNP	1
+the/DT (\w+)/NN ,/, the/DT second-best/JJ (\w+)/NN in/IN the/DT league/NN	1
+singleton/JJ (\w+)/NN or/CC (\w+)/NN in/IN	1
+the/DT festival/NN 's/POS (\w+)/NN and/CC (\w+)/NN concerts/NNS	1
+Are/VBP you/PRP a/DT (\w+)/NN of/IN a/DT (\w+)/NN at/IN Hillcross/NNP ?/.	1
+make/VB sure/JJ (\w+)/NN meets/VBZ (\w+)/NN ./.	1
+legacy/NN of/IN each/DT (\w+)/NN and/CC (\w+)/NN	1
+and/CC another/DT (\w+)/NN posted/VBD photos/NNS of/IN the/DT (\w+)/NN on/IN	1
+of/IN all/DT (\w+)/NN or/CC (\w+)/NN	1
+his/PRP$ starters/NNS on/IN (\w+)/NN to/TO face/VB the/DT first-team/JJ (\w+)/NN in/IN the/DT	1
+A/DT (\w+)/NN who/WP bludgeoned/VBN a/DT (\w+)/NN	1
+the/DT (\w+)/NN lives/VBZ or/CC where/WRB the/DT (\w+)/NN is/VBZ located/VBN	1
+awaited/VBD updated/VBN (\w+)/NN and/CC (\w+)/NN data/NNS ./.	2
+total/JJ (\w+)/NN and/CC 10/CD total/JJ (\w+)/NN	1
+(\w+)/NN supporting/VBG one/CD (\w+)/NN	1
+inches/NNS ,/, (\w+)/NN or/CC (\w+)/NN always/RB	1
+(\w+)/NN and/CC (\w+)/NN from/IN Taunton/NNP ./.	1
+his/PRP$ (\w+)/NN ,/, her/PRP$ (\w+)/NN and/CC the/DT	3
+a/DT (\w+)/NN ;/: it/PRP 's/VBZ a/DT (\w+)/NN	1
+asked/VBD either/CC the/DT (\w+)/NN or/CC the/DT (\w+)/NN	1
+7-year-old/JJ (\w+)/NN and/CC a/DT 3-year-old/JJ (\w+)/NN ,/, Park/NNP	1
+stabbing/VBG her/PRP$ (\w+)/NN and/CC wounding/VBG her/PRP$ (\w+)/NN was/VBD remanded/VBN in/IN	1
+both/DT (\w+)/NN and/CC (\w+)/NN and/CC took/VBD	1
+the/DT (\w+)/NN and/CC not/RB America/NNP ’s/VBP (\w+)/NN	1
+the/DT (\w+)/NN or/CC (\w+)/NN when/WRB you/PRP	1
+Dickey/NNP ,/, a/DT (\w+)/NN and/CC (\w+)/NN team/NN	1
+a/DT (\w+)/NN kissing/VBG a/DT naked/JJ three-year-old/JJ (\w+)/NN ,/, then/RB stand/VB	1
+and/CC (\w+)/NN now/RB from/IN no/DT (\w+)/NN at/IN all/DT a/DT	1
+decades/NNS of/IN (\w+)/NN ,/, (\w+)/NN	1
+All-Stars/VBN to/TO his/PRP$ (\w+)/NN and/CC his/PRP$ (\w+)/NN	1
+his/PRP$ (\w+)/NN had/VBD canceled/VBN his/PRP$ (\w+)/NN 's/POS funeral/NN at/IN	1
+(\w+)/NN to/TO the/DT (\w+)/NN of/IN character/NN	1
+The/DT union/NN 's/POS (\w+)/NN is/VBZ our/PRP$ (\w+)/NN ./.	1
+Beatles/NNPS "/'' (\w+)/NN and/CC (\w+)/NN during/IN	1
+the/DT (\w+)/NN up/RB ;/: not/RB the/DT (\w+)/NN	1
+seared/VBN on/IN the/DT (\w+)/NN ,/, raw/JJ on/IN the/DT (\w+)/NN ./.	1
+Police/NNP say/VBP a/DT (\w+)/NN entered/VBD a/DT (\w+)/NN 's/POS	1
+markets/NNS based/VBN on/IN (\w+)/NN and/CC (\w+)/NN	1
+extent/NN of/IN the/DT (\w+)/NN ,/, but/CC the/DT (\w+)/NN produced/VBD	1
+--/: The/DT (\w+)/NN and/CC (\w+)/NN of/IN the/DT Kurdish/NNP	1
+state/NN for/IN (\w+)/NN Tamils/NNS accusing/VBG the/DT (\w+)/NN	1
+(\w+)/NN to/TO a/DT (\w+)/NN from/IN	45
+(\w+)/NN after/IN a/DT 7-1/CD (\w+)/NN	1
+on/IN a/DT black/JJ (\w+)/NN and/CC a/DT white/JJ (\w+)/NN	1
+a/DT reformed/JJ con/NN (\w+)/NN joins/VBZ forces/NNS with/IN a/DT (\w+)/NN	1
+(\w+)/NN obsesses/VBZ and/CC then/RB a/DT (\w+)/NN obsesses/VBZ on/IN	1
+political/JJ (\w+)/NN to/TO (\w+)/NN ./.	1
+,/, the/DT (\w+)/NN and/CC (\w+)/NN had/VBD talked/VBN about/IN	1
+,/, his/PRP$ (\w+)/NN and/CC the/DT (\w+)/NN he/PRP never/RB knew/VBD	2
+(\w+)/NN and/CC once/RB to/TO (\w+)/NN	1
+We/PRP on/IN the/DT (\w+)/NN ,/, they/PRP on/IN the/DT (\w+)/NN :/: we/PRP see/VBP	4
+public/JJ remembrances/NNS all/DT (\w+)/NN and/CC into/IN the/DT (\w+)/NN today/NN	4
+Richard/NNP Vosburghs/NNPS (\w+)/NN ,/, said/VBD her/PRP$ (\w+)/NN was/VBD bipolar/JJ	1
+(\w+)/NN told/VBD a/DT (\w+)/NN he/PRP	1
+a/DT black/JJ (\w+)/NN with/IN a/DT white/JJ (\w+)/NN	1
+His/PRP$ young/JJ (\w+)/NN and/CC (\w+)/NN lay/VBD	1
+(\w+)/NN to/TO (\w+)/NN ,/, ranges/NNS in/IN	1
+his/PRP$ (\w+)/NN left/VBD him/PRP and/CC his/PRP$ (\w+)/NN ,/, Victor/NNP has/VBZ	1
+abandon/VB me/PRP ,/, (\w+)/NN or/CC (\w+)/NN ./.	1
+worries/NNS about/IN a/DT (\w+)/NN outstripping/NN (\w+)/NN ,/, but/CC later/RB	1
+by/IN (\w+)/NN ,/, Malcolm/NNP ;/: (\w+)/NN	1
+(\w+)/NN and/CC (\w+)/NN team/NN had/VBD	1
+Younger/JJ (\w+)/NN shacking/VBG up/RP with/IN older/JJR (\w+)/NN	1
+Excluding/VBG that/DT (\w+)/NN and/CC the/DT Web/NNP site/NN (\w+)/NN	1
+(\w+)/NN and/CC a/DT (\w+)/NN is/VBZ a/DT truth/NN	1
+both/DT boy/NN and/CC (\w+)/NN fall/NN for/IN the/DT same/JJ (\w+)/NN	1
+(\w+)/NN ,/, while/IN his/PRP$ (\w+)/NN ,/,	1
+San/NNP Diego/NNP 's/POS (\w+)/NN may/MD be/VB Newport/NNP 's/POS (\w+)/NN ,/, since/IN	2
+Peck/NNP 's/POS (\w+)/NN and/CC Rich/NNP Adubato/NNP 's/POS (\w+)/NN	1
+(\w+)/NN side/NN ,/, not/RB the/DT (\w+)/NN side/NN	1
+in/IN (\w+)/NN and/CC the/DT Navy/NNP in/IN (\w+)/NN ./.	1
+things/NNS ,/, on/IN (\w+)/NN and/CC (\w+)/NN	1
+determine/VB the/DT (\w+)/NN or/CC (\w+)/NN of/IN the/DT new/JJ	1
+the/DT (\w+)/NN Sunday/NNP against/IN a/DT Carolina/NNP (\w+)/NN that/WDT likes/VBZ to/TO	1
+stop/VB all/DT (\w+)/NN and/CC (\w+)/NN vehicles/NNS	1
+screenings/NNS by/IN (\w+)/NN and/CC to/TO parties/NNS by/IN (\w+)/NN	1
+there/EX is/VBZ a/DT (\w+)/NN and/CC a/DT (\w+)/NN are/VBP	1
+houses/VBZ both/PDT her/PRP$ (\w+)/NN and/CC her/PRP$ (\w+)/NN ,/,	2
+nominating/VBG a/DT black/JJ (\w+)/NN or/CC (\w+)/NN	1
+its/PRP$ 1967/CD (\w+)/NN ,/, have/VBP brought/VBN neither/DT (\w+)/NN	1
+conversations/NNS with/IN his/PRP$ (\w+)/NN and/CC (\w+)/NN about/RB 10/CD years/NNS	1
+are/VBP that/IN a/DT (\w+)/NN and/CC (\w+)/NN are/VBP	1
+;/: (\w+)/NN ,/, Gregory/NNP ;/: (\w+)/NN ,/, Karen/NNP ;/:	1

@@ -1,0 +1,25 @@
+(\w+)/VB or/CC (\w+)/VB	217	2433	961.6148
+(\w+)/VB and/CC (\w+)/VB	201	8507	636.1911
+(\w+)/VB or/CC (\w+)/VB ./.	70	434	347.1819
+(\w+)/VBP and/CC (\w+)/VBP	70	983	295.60434
+to/TO (\w+)/VB and/CC (\w+)/VB	87	4782	253.09052
+(\w+)/VB and/CC (\w+)/VB ./.	58	1411	214.71184
+(\w+)/VB or/CC (\w+)/VB the/DT	38	316	178.68025
+(\w+)/VBP or/CC (\w+)/VBP	35	241	170.40694
+,/, (\w+)/VB or/CC (\w+)/VB	30	129	157.98347
+(\w+)/VB or/CC (\w+)/VB a/DT	27	100	145.40775
+(\w+)/VB and/CC (\w+)/VB ,/,	33	402	143.71446
+to/TO (\w+)/VB or/CC (\w+)/VB ./.	23	156	112.28441
+(\w+)/VB or/CC (\w+)/VB ,/,	21	113	106.690605
+to/TO (\w+)/VB or/CC (\w+)/VB the/DT	18	159	83.664795
+can/MD (\w+)/VB or/CC (\w+)/VB	16	74	83.305626
+not/RB (\w+)/VB or/CC (\w+)/VB	18	198	80.080475
+(\w+)/VBP and/CC (\w+)/VBP ,/,	13	57	68.25359
+(\w+)/VB and/CC (\w+)/VB the/DT	19	1014	55.82274
+will/MD (\w+)/VB or/CC (\w+)/VB	10	54	50.77524
+can/MD (\w+)/VB and/CC (\w+)/VB	12	312	43.655827
+to/TO (\w+)/VB and/CC (\w+)/VB the/DT	11	621	31.711111
+(\w+)/VB ,/, (\w+)/VB	13	3890	15.980522
+(\w+)/VBP to/TO (\w+)/VB ./.	12	5383	9.9060135
+(\w+)/VBP to/TO (\w+)/VB	33	41090	-6.4017696
+(\w+)/VB to/TO (\w+)/VB	19	39038	-13.195806

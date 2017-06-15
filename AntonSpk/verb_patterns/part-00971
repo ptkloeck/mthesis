@@ -1,0 +1,36 @@
+Long/NNP Island/NNP (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+'d/MD like/VB to/TO (\w+)/VB this/DT opportunity/NN to/TO (\w+)/VB	1
+(\w+)/VBP or/CC (\w+)/VBP David/NNP Beckham/NNP -/:	1
+,/, and/CC (\w+)/VB and/CC (\w+)/VB NASDAQ/NNP	1
+able/JJ to/TO (\w+)/VB and/CC (\w+)/VB ,/, but/CC no/DT	3
+(\w+)/VBP to/TO or/CC (\w+)/VB in/IN Lower/NNP Manhattan/NNP	1
+those/DT who/WP (\w+)/VB you/PRP ,/, I/PRP will/MD (\w+)/VB those/DT who/WP	1
+composite/NN to/TO (\w+)/VB or/CC (\w+)/VB by/IN a/DT percentage/NN	1
+(\w+)/VB and/CC (\w+)/VB ,/, say/VBP	1
+these/DT ,/, I/PRP (\w+)/VBP ,/, the/DT more/JJR you/PRP (\w+)/VBP grasp/NN of/IN the/DT	1
+must/MD sometimes/RB (\w+)/VB or/CC (\w+)/VB huge/JJ blocks/NNS	1
+or/CC (\w+)/VB or/CC (\w+)/VB ,/,	1
+(\w+)/VB and/CC potentially/RB (\w+)/VB in/IN Fenway/NNP Park/NNP	1
+to/TO (\w+)/VB more/RBR middle-income/JJ residents/NNS may/MD (\w+)/VB	1
+going/VBG to/TO (\w+)/VB Joe/NNP 's/POS money/NN ,/, (\w+)/VB it/PRP	1
+electric/JJ bills/NNS ,/, (\w+)/VBN to/TO (\w+)/VB	1
+gallery/NN is/VBZ to/TO (\w+)/VB and/CC (\w+)/VB art/NN ,/, pure/JJ	2
+(\w+)/VB their/PRP$ dependency/NN and/CC (\w+)/VB some/DT leverage/NN	2
+(\w+)/VB or/CC (\w+)/VB here/RB in/IN Valencia/NNP	1
+those/DT who/WP (\w+)/VBP and/CC (\w+)/VB again/RB ./. "/''	1
+as/IN potential/JJ owners/NNS (\w+)/VBP and/CC (\w+)/VBP and/CC promises/NNS	1
+the/DT ambulances/NNS (\w+)/VBP ,/, the/DT news/NN crews/NNS (\w+)/VBP ./.	4
+own/VB ,/, (\w+)/VB ,/, and/CC (\w+)/VB	2
+Nafta/NNP will/MD probably/RB (\w+)/VB or/CC (\w+)/VB because/RB of/IN	1
+watched/VBD people/NNS (\w+)/VB high/JJ and/CC (\w+)/VB low/JJ ./.	1
+n't/RB (\w+)/VB or/CC (\w+)/VB me/PRP ,/,	1
+the/DT upset/NN would/MD (\w+)/VB their/PRP$ year/NN and/CC (\w+)/VB the/DT T-Birds/NNPS	1
+to/TO (\w+)/VB and/CC (\w+)/VB futures/NNS contracts/NNS are/VBP	1
+mayor/NN to/TO (\w+)/VB and/CC (\w+)/VB any/DT	1
+(\w+)/VBP and/CC (\w+)/VBP around/IN the/DT clock/NN	1
+to/TO (\w+)/VB prices/NNS there/RB and/CC then/RB (\w+)/VB	1
+traders/NNS ,/, who/WP (\w+)/VBP and/CC (\w+)/VBP pork/NN	1
+who/WP (\w+)/VB or/CC (\w+)/VB drugs/NNS on/IN	1
+(\w+)/VB coming/VBG along/RP and/CC (\w+)/VB playing/VBG	1
+the/DT same/JJ ,/, (\w+)/VB or/CC (\w+)/VB a/DT few/JJ bedrooms/NNS	2
+(\w+)/VBP doing/VBG things/NNS to/TO (\w+)/VB	1

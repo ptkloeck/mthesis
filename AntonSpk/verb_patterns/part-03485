@@ -1,0 +1,36 @@
+to/TO (\w+)/VB at/IN 6/CD a.m./RB ,/, (\w+)/VB at/IN	1
+imbalance/NN in/IN (\w+)/VB and/CC (\w+)/VB orders/NNS	1
+too/RB much/JJ (\w+)/VBP and/CC (\w+)/VBP for/IN the/DT	1
+institutions/NNS can/MD (\w+)/VB and/CC (\w+)/VB foreign/JJ	1
+the/DT capacity/NN to/TO (\w+)/VB permission/NN to/TO (\w+)/VB part/NN	1
+(\w+)/VB and/CC (\w+)/VB at/IN least/JJS twice/RB	1
+as/IN they/PRP (\w+)/VBP ,/, (\w+)/VBP or/CC sob/VBP through/IN	1
+(\w+)/VBP it/PRP because/IN we/PRP (\w+)/VBP we/PRP do/VBP	1
+much/JJ they/PRP (\w+)/VBP or/CC (\w+)/VBP and/CC	1
+fans/NNS (\w+)/VBP to/TO (\w+)/VB him/PRP and/CC	1
+(\w+)/VB yields/NNS rather/RB than/IN (\w+)/VB costs/NNS ,/, they/PRP	1
+situation/NN of/IN (\w+)/VB or/CC (\w+)/VB ,/, "/''	1
+(\w+)/VBP you/PRP (\w+)/VB	3
+hundreds/NNS of/IN pitchers/NNS (\w+)/VB and/CC (\w+)/VB	1
+for/IN traffic/NN to/TO (\w+)/VB and/CC (\w+)/VB there/RB ./.	1
+strangers/NNS (\w+)/VB and/CC (\w+)/VB ,/, the/DT	1
+can/MD (\w+)/VB and/CC (\w+)/VB easily/RB ./. ''/''	1
+not/RB (\w+)/VB it/PRP or/CC (\w+)/VB me/PRP my/PRP$	1
+(\w+)/VB Allegis/NNS and/CC (\w+)/VB off/RP its/PRP$	1
+did/VBD not/RB (\w+)/VB or/CC (\w+)/VB on/IN	1
+playing/VBG to/TO (\w+)/VB and/CC playing/VBG to/TO not/RB (\w+)/VB	1
+(\w+)/VB harder/RBR and/CC (\w+)/VB faster/RBR than/IN the/DT	1
+Customer/NN feedback/NN can/MD (\w+)/VB or/CC (\w+)/VB	1
+individuals/NNS to/TO (\w+)/VB and/CC (\w+)/VB firearms/NNS in/IN the/DT	2
+unfair/JJ (\w+)/VB ,/, (\w+)/VB or/CC draw/VB	1
+'/POS shows/NNS to/TO (\w+)/VB and/CC (\w+)/VB tobacco/NN	1
+(\w+)/VB and/CC (\w+)/VB a/DT little/JJ	3
+could/MD (\w+)/VB and/CC (\w+)/VB as/IN they/PRP pleased/VBD	4
+could/MD (\w+)/VB downtown/NN and/CC (\w+)/VB	1
+were/VBD designed/VBN to/TO (\w+)/VB and/CC (\w+)/VB elevator/NN	1
+is/VBZ a/DT (/NN (\w+)/VB ital/NNP )/NNP Jane/NNP (/NNP (\w+)/VB ital/JJ )/NNS	2
+uses/VBZ electricity/NN to/TO (\w+)/VB or/CC (\w+)/VB the/DT panes/NNS ./.	1
+tiny/JJ whiskers/NNS (\w+)/VBP air/VB and/CC (\w+)/VB water/NN	1
+that/IN unions/NNS (\w+)/VBP to/TO (\w+)/VB	1
+(\w+)/VB oil/NN to/TO (\w+)/VB humanitarian/JJ aid/NN	1
+(\w+)/VB its/PRP$ women/NNS ,/, to/TO (\w+)/VB its/PRP$ villains/NNS ,/,	1

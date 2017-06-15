@@ -1,0 +1,40 @@
+--/: (\w+)/VB or/CC (\w+)/VB any/DT number/NN	1
+toll/NN (\w+)/VBD to/TO (\w+)/VB ,/, officials/NNS	1
+confidence/NN itself/PRP will/MD (\w+)/VB and/CC (\w+)/VB like/IN moon/NN	1
+am/VBP unable/JJ to/TO (\w+)/VB or/CC (\w+)/VB for/IN	1
+--/: (\w+)/VB or/CC (\w+)/VB a/DT million/CD	1
+review/VB and/CC either/RB (\w+)/VB or/CC (\w+)/VB the/DT	1
+computer/NN gives/VBZ (\w+)/VB and/CC (\w+)/VB signals/NNS when/WRB there/EX	1
+(\w+)/VB ,/, live/VB and/CC (\w+)/VB ./.	1
+to/TO (\w+)/VB and/CC (\w+)/VB any/DT time/NN	1
+to/TO (\w+)/VB his/PRP$ pregnant/JJ neighbor/NN to/TO (\w+)/VB	1
+the/DT choice/NN to/TO (\w+)/VB at/IN the/DT hospital/NN or/CC (\w+)/VB it/PRP	1
+and/CC (\w+)/VB ,/, then/RB (\w+)/VB again/RB ,/, no/DT	1
+to/TO (\w+)/VB to/TO ,/, and/CC (\w+)/VB in/RP ,/,	1
+to/TO (\w+)/VB the/DT crusaders/NNS and/CC (\w+)/VB God/NNP by/IN sending/VBG	1
+(\w+)/VB on/IN the/DT market/NN and/CC (\w+)/VB very/RB quickly/RB ,/,	1
+of/IN meat/NN (\w+)/VBP and/CC (\w+)/VBP over/IN	2
+hundreds/NNS of/IN kids/NNS (\w+)/VB and/CC (\w+)/VB through/IN	1
+team/NN to/TO (\w+)/VB and/CC (\w+)/VB him/PRP -/:	1
+the/DT characters/NNS (\w+)/VB thinking/NN and/CC (\w+)/VB interacting/VBG that/IN the/DT	1
+telephone/NN operators/NNS (\w+)/VBP to/TO (\w+)/VB incoming/JJ calls/NNS	1
+(\w+)/VBP or/CC (\w+)/VBP as/RB many/JJ as/IN	2
+forced/VBD Danka/NNP to/TO (\w+)/VB copiers/NNS it/PRP could/MD not/RB (\w+)/VB	3
+(\w+)/VB 14/CD games/NNS and/CC (\w+)/VBP 9/CD in/IN relief/NN	1
+fund/NN managers/NNS to/TO (\w+)/VB and/CC (\w+)/VB stocks/NNS to/TO keep/VB	1
+to/TO (\w+)/VB or/CC (\w+)/VB the/DT body/NN	1
+forced/VBN to/TO (\w+)/VB what/WP would/MD (\w+)/VB	1
+to/TO (\w+)/VB or/CC (\w+)/VB Scots/NNP '/POS	1
+names/NNS "/'' who/WP (\w+)/VBP and/CC (\w+)/VBP	1
+really/RB want/VBP to/TO (\w+)/VB or/CC (\w+)/VB redouble/VBP their/PRP$ determination/NN	1
+the/DT talks/NNS (\w+)/VB or/CC (\w+)/VB	3
+(\w+)/VB and/CC (\w+)/VB as/IN the/DT developers/NNS	1
+bars/NNS ,/, (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VBP the/DT car/NN ./.	1
+to/TO (\w+)/VB people/NNS off/IN welfare/NN and/CC (\w+)/VB them/PRP jobs/NNS	2
+could/MD (\w+)/VB exchange-traded/JJ bond/NN funds/NNS and/CC (\w+)/VB exchange-traded/JJ stock/NN	1
+(\w+)/VB down/RP fat/JJ cells/NNS to/TO (\w+)/VB them/PRP easier/RBR	1
+can/MD you/PRP (\w+)/VB overeating/JJ carbohydrates/NNS once/IN you/PRP (\w+)/VBP	1
+holds/VBZ ,/, (\w+)/VB or/CC (\w+)/VB	1
+and/CC mutual/JJ (\w+)/VB and/CC (\w+)/VB	1
+determine/VB when/WRB recessions/NNS (\w+)/VB and/CC (\w+)/VB	2

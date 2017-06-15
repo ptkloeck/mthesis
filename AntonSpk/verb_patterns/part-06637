@@ -1,0 +1,30 @@
+keys/VBZ --/: to/TO (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB while/NN anchoring/NN	1
+(\w+)/VBP and/CC (\w+)/VBP at/IN any/DT	2
+a/DT dealer/NN will/MD (\w+)/VB and/CC (\w+)/VB	2
+(\w+)/VBP nor/CC always/RB (\w+)/VBP the/DT discounts/NNS offered/VBN	1
+(\w+)/VBP and/CC (\w+)/VBP careers/NNS ./.	1
+(/VBD You/PRP (\w+)/VBP or/CC (\w+)/VBP	1
+set/NN designers/NNS to/TO (\w+)/VB and/CC (\w+)/VB scenery/NN ./.	1
+will/MD (\w+)/VB us/PRP the/DT opportunity/NN to/TO (\w+)/VB advantage/NN	1
+The/DT president/NN can/MD (\w+)/VB it/PRP ,/, (\w+)/VB	2
+to/TO (\w+)/VB here/RB and/CC (\w+)/VB buy/VB Schulhoff/NNP	1
+that/WDT can/MD (\w+)/VB ,/, (\w+)/VB and/CC control/VB applications/NNS	1
+homes/NNS they/PRP (\w+)/VBP to/TO the/DT homes/NNS they/PRP (\w+)/VBP if/IN both/DT	1
+right/NN to/TO (\w+)/VB or/CC (\w+)/VB stock/NN at/IN	4
+always/RB (\w+)/VBP things/NNS but/CC I/PRP (\w+)/VBP no/DT idea/NN what/WP	1
+the/DT fences/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP	1
+Barbie/NNP sales/NNS (\w+)/VBP in/IN U.S./NNP ,/, (\w+)/VB worldwide/RB -/:	1
+is/VBZ safe/JJ to/TO (\w+)/VB on/RP ,/, let/VB alone/RB (\w+)/VB on/RP ./.	1
+is/VBZ an/DT interesting/JJ (\w+)/VB and/CC (\w+)/VB	1
+may/MD (\w+)/VB and/CC (\w+)/VB and/CC it/PRP will/MD	1
+drought/NN will/MD (\w+)/VB or/CC when/WRB it/PRP will/MD (\w+)/VB ,/, ''/''	1
+NDA/NNP delegation/NN has/VBZ (\w+)/VBN here/RB to/TO (\w+)/VB to/TO Nandigram/NNP	1
+(\w+)/VB its/PRP$ women/NNS ,/, to/TO (\w+)/VB its/PRP$	1
+program/NN in/IN (\w+)/VB or/CC (\w+)/VB orders/NNS	1
+able/JJ to/TO (\w+)/VB and/CC (\w+)/VB the/DT listed/JJ	1
+./. Do/VBP you/PRP (\w+)/VB or/CC (\w+)/VB that/DT on/IN	19
+you/PRP want/VBP to/TO (\w+)/VB me/PRP ,/, let/VB me/PRP (\w+)/VB	1
+Restaurants/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN competitive/JJ	1
+'s/POS stock/NN will/MD (\w+)/VB or/CC (\w+)/VB based/VBN on/IN	1
+(\w+)/VB or/CC (\w+)/VB _/NNP just/RB start/VB	1

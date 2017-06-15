@@ -1,0 +1,37 @@
+criteria/NNS that/WDT would/MD (\w+)/VB or/CC (\w+)/VB one/CD	1
+age/NN (\w+)/VBD to/TO (\w+)/VB from/IN	1
+firms/NNS (\w+)/VBP them/PRP 48/CD hours/NNS to/TO (\w+)/VB out/RP their/PRP$	1
+in/IN Brazil/NNP ,/, (\w+)/VB in/IN Argentina/NNP ;/: (\w+)/VBP in/RP	1
+(\w+)/VBP or/CC (\w+)/VBP baseball/NN	1
+eager/JJ to/TO (\w+)/VB their/PRP$ strengths/NNS and/CC (\w+)/VB their/PRP$ weaknesses/NNS	1
+generators/NNS were/VBD (\w+)/VBN or/CC (\w+)/VB on/IN Tuesday/NNP at/IN	1
+whether/IN the/DT Blazers/NNPS (\w+)/VBP or/CC (\w+)/VBP ./.	1
+,/, fund/NN managers/NNS (\w+)/VBP and/CC (\w+)/VBP stocks/NNS frenetically/RB	1
+to/TO (\w+)/VB into/IN overdrive/NN and/CC (\w+)/VB with/IN a/DT similar/JJ	1
+possible/JJ to/TO (\w+)/VB the/DT sin/NN but/CC (\w+)/VBP the/DT sinner/NN	1
+decide/VB who/WP to/TO (\w+)/VB and/CC (\w+)/VB in/IN	1
+Cowboys/NNPS diehards/NNS (\w+)/VBP to/TO (\w+)/VB the/DT notion/NN	1
+you/PRP (\w+)/VB or/CC (\w+)/VB ,/, take/VBP a/DT	1
+profits/NNS ,/, (\w+)/VBP to/TO (\w+)/VB empty/JJ cans/NNS from/IN	1
+you/PRP want/VBP to/TO (\w+)/VB ,/, (\w+)/VB and/CC do/VB a/DT	1
+going/VBG to/TO (\w+)/VB here/RB and/CC (\w+)/VB to/TO you/PRP ./.	2
+will/MD (\w+)/VB at/IN 10/CD a.m./RB and/CC (\w+)/VB at/IN	3
+to/TO (\w+)/VB dividing/VBG and/CC (\w+)/VB uniting/NN	1
+(\w+)/VB and/CC (\w+)/VB dollars/NNS from/IN	1
+would/MD still/RB (\w+)/VB a/DT way/NN to/TO (\w+)/VB his/PRP$ composure/NN ./.	1
+I/PRP 'll/MD (\w+)/VB to/TO (\w+)/VB two/CD	1
+morning/NN ,/, then/RB (\w+)/VB home/NN for/IN lunch/NN and/CC (\w+)/VB back/RB and/CC sit/VB	1
+that/WDT can/MD (\w+)/VB or/CC (\w+)/VB a/DT business/NN in/IN	5
+(\w+)/VBP ,/, divided/VBN teams/NNS (\w+)/VBP	1
+it/PRP (\w+)/VB or/CC (\w+)/VB the/DT incidence/NN of/IN	1
+,/, we/PRP 'll/MD (\w+)/VB it/PRP and/CC (\w+)/VB another/DT premium/NN	2
+n't/RB (\w+)/VB them/PRP to/TO (\w+)/VB or/CC make/VB money/NN	1
+(\w+)/VB or/CC (\w+)/VB old/JJ	1
+bin/NNP al-Shibh/NN to/TO (\w+)/VB here/RB (\w+)/VBP how/WRB difficult/JJ it/PRP	1
+is/VBZ easier/JJR to/TO (\w+)/VB and/CC (\w+)/VB so/IN	1
+new/JJ site/NN would/MD (\w+)/VB automobile/NN access/NN and/CC (\w+)/VB accessibility/RB	1
+t/NN (\w+)/VB love/NN (/NNS or/CC we/PRP (\w+)/VBP the/DT love/NN	1
+they/PRP (\w+)/VB for/IN and/CC (\w+)/VB their/PRP$ shifts/NNS ./.	1
+(\w+)/VBP to/TO Abidjan/VB I/PRP will/MD (\w+)/VB back/RP	1
+to/TO (\w+)/VB and/CC when/WRB to/TO (\w+)/VB back/RB ,/, and/CC	1
+to/TO (\w+)/VB their/PRP$ dependency/NN and/CC (\w+)/VB some/DT leverage/NN	2

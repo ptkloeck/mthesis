@@ -1,0 +1,32 @@
+policy/NN must/MD (\w+)/VB ,/, not/RB (\w+)/VB ,/,	1
+to/TO (\w+)/VB growth/NN stocks/NNS but/CC not/RB (\w+)/VB	1
+grandfather/NN used/VBD to/TO (\w+)/VB and/CC (\w+)/VB	1
+point/NN ,/, they/PRP (\w+)/VBP or/CC (\w+)/VBP	1
+that/WDT made/VBD him/PRP (\w+)/VB and/CC (\w+)/VB ./.	1
+trader/NN can/MD (\w+)/VB and/CC (\w+)/VB	3
+feel/VB that/DT (\w+)/VB or/CC (\w+)/VB	1
+would/MD (\w+)/VB to/TO (\w+)/VB court-appointed/JJ defense/NN	1
+is/VBZ illegal/JJ to/TO (\w+)/VB and/CC (\w+)/VB tissue/NN ,/, those/DT	1
+(\w+)/VBP how/WRB the/DT event/NN will/MD (\w+)/VB	1
+to/TO (\w+)/VB before/IN he/PRP can/MD (\w+)/VB next/JJ summer/NN ./.	1
+(\w+)/VB and/CC (\w+)/VB very/RB often/RB ,/,	1
+you/PRP (\w+)/VBP and/CC (\w+)/VBP from/IN	3
+of/IN corporations/NNS also/RB (\w+)/VBP to/TO (\w+)/VB	1
+(\w+)/VBP and/CC they/PRP (\w+)/VBP ,/, at/IN	1
+of/IN (\w+)/VB and/CC (\w+)/VB	150
+insist/VBP that/IN (\w+)/VB or/CC (\w+)/VB ,/, their/PRP$ work/NN	1
+organisations/NNS (\w+)/VB in/IN new/JJ business/NN but/CC (\w+)/VB to/TO	1
+(\w+)/VBP twice/RB while/IN the/DT Kings/NNPS (\w+)/VBP twice/RB	1
+(\w+)/VB God/NNP and/CC (\w+)/VB man/NN	1
+Because/IN ,/, (\w+)/VBP him/PRP or/CC (\w+)/VBP him/PRP ,/, Schumacher/NNP	1
+within/IN a/DT business/NN (\w+)/VBP and/CC (\w+)/VBP	1
+interest/NN rates/NNS (\w+)/VBP and/CC housing/NN prices/NNS (\w+)/VBP	1
+we/PRP (\w+)/VBP or/CC (\w+)/VBP or/CC what/WP group/NN	1
+authority/NN to/TO (\w+)/VB ,/, (\w+)/VB or/CC pay/VB ./.	1
+authorities/NNS (\w+)/VBP warned/VBN that/IN the/DT camps/NNS (\w+)/VBP the/DT necessary/JJ facilities/NNS	1
+Commercials/NNS will/MD (\w+)/VB and/CC (\w+)/VB ,/,	1
+(\w+)/VBP with/IN what/WP happened/VBD or/CC (\w+)/VBP	1
+You/PRP (\w+)/VBP as/IN a/DT team/NN and/CC (\w+)/VBP as/IN	1
+About/RB 100/CD people/NNS (\w+)/VBP and/CC (\w+)/VBP during/IN	2
+(\w+)/VBP into/IN song/NN to/TO (\w+)/VB Tesco/NNP out/IN	1
+directors/NNS (\w+)/VB and/CC (\w+)/VB	2

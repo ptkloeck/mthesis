@@ -1,0 +1,44 @@
+situation/NN (\w+)/VB or/CC (\w+)/VB	1
+boat/NN where/WRB we/PRP (\w+)/VBP one/CD ,/, (\w+)/VBP one/CD	1
+they/PRP (\w+)/VBP the/DT Ravens/NNPS and/CC (\w+)/VBP the/DT Yankees/NNPS ./.	1
+fall/NN and/CC (\w+)/VB and/CC (\w+)/VB	1
+or/CC (\w+)/VB ,/, or/CC you/PRP (\w+)/VBP ,/, 4-2/CD or/CC	1
+'s/POS capital/NN to/TO (\w+)/VB and/CC (\w+)/VB companies/NNS	1
+large/JJ institutions/NNS who/WP (\w+)/VBP and/CC (\w+)/VBP huge/JJ	1
+to/TO (\w+)/VB and/CC (\w+)/VB in/IN the/DT United/NNP	1
+rescued/NN dogs/NNS (\w+)/VB and/CC (\w+)/VB	1
+PIAA/NNP finals/NNS (\w+)/VBP and/CC (\w+)/VB	1
+(\w+)/VB here/RB every/DT year/NN and/CC (\w+)/VB	2
+(\w+)/VBP you/PRP permission/NN to/TO (\w+)/VB	2
+percent/NN --/: to/TO (\w+)/VB and/or/NN (\w+)/VB the/DT high/JJ	1
+(\w+)/VBP and/CC (\w+)/VBP there/RB	4
+people/NNS ,/, (\w+)/VBP or/CC (\w+)/VBP a/DT	2
+is/VBZ to/TO (\w+)/VB the/DT button/NN or/CC (\w+)/VB the/DT latch/NN ./.	1
+(\w+)/VB or/CC (\w+)/VB a/DT couple/NN o/NN	1
+its/PRP$ sender/NN would/MD (\w+)/VB her/PRP$ information/NN to/TO (\w+)/VB the/DT person/NN	1
+750/CD million/CD ,/, (\w+)/VB or/CC (\w+)/VB	2
+nations/NNS that/WDT (\w+)/VBP to/TO (\w+)/VB	1
+Revolution/NN ,/, to/TO (\w+)/VB talks/NNS to/TO try/VB to/TO (\w+)/VB the/DT	1
+(\w+)/VB nor/CC (\w+)/VBP the/DT factual/JJ	1
+routinely/RB (\w+)/VBP and/CC (\w+)/VBP with/IN their/PRP$ parents/NNS	1
+to/TO (\w+)/VB when/WRB I/PRP (\w+)/VBP back/RB	1
+(\w+)/VB away/RP ,/, (\w+)/VB again/RB another/DT day/NN	1
+be/VB reluctant/JJ to/TO (\w+)/VB more/JJR bonds/NNS and/CC would/MD (\w+)/VB their/PRP$ current/JJ holdings/NNS	1
+(\w+)/VB out/RP with/IN friends/NNS ,/, (\w+)/VB	1
+to/TO finish/VB ,/, (\w+)/VB and/CC (\w+)/VB	1
+,/, who/WP can/MD (\w+)/VB or/CC (\w+)/VB police/NN recommendations/NNS ./.	1
+n't/RB (\w+)/VB away/RP will/MD (\w+)/VB to/TO fruition/NN	1
+(\w+)/VB and/CC who/WP needs/VBZ to/TO (\w+)/VB ./.	1
+decision/NN to/TO (\w+)/VB or/CC (\w+)/VB the/DT prices/NNS	1
+able/JJ to/TO (\w+)/VB the/DT momentum/NN and/CC (\w+)/VB pulling/VBG away/RB	1
+(\w+)/VB hope/NN that/IN she/PRP would/MD (\w+)/VB a/DT	1
+the/DT team/NN would/MD (\w+)/VB a/DT way/NN to/TO (\w+)/VB another/DT	1
+trays/NNS ,/, (\w+)/VB napkin/NN holders/NNS ,/, (\w+)/VB wastebaskets/NNS	1
+you/PRP either/RB (\w+)/VBP it/PRP or/CC you/PRP (\w+)/VB it/PRP '/'' than/IN	3
+when/WRB the/DT municipalities/NNS (\w+)/VBP looking/VBG for/IN freebies/NNS and/CC (\w+)/VB	1
+Union/NNP would/MD (\w+)/VB Slovaks/NNS ,/, not/RB (\w+)/VB them/PRP ./.	1
+speakers/NNS (\w+)/VBP and/CC (\w+)/VBP against/IN a/DT	3
+(\w+)/VB a/DT way/NN to/TO (\w+)/VB here/RB	1
+as/IN they/PRP (\w+)/VB and/CC (\w+)/VB with/IN temperature/NN	1
+Israeli/JJ partners/NNS often/RB (\w+)/VBP to/TO (\w+)/VB	1
+to/TO (\w+)/VB what/WP seems/VBZ impossible/JJ to/TO (\w+)/VB ./.	1

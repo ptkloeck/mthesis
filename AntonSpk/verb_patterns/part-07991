@@ -1,0 +1,30 @@
+must/MD (\w+)/VB or/CC the/DT (\w+)/VBP the/DT	1
+found/VBN to/TO (\w+)/VB school/NN achievement/NN and/CC (\w+)/VB problem/NN behavior/NN like/IN	1
+A/DT few/JJ (/NN (\w+)/VBP ital/JJ )/JJ good/JJ (/NNS (\w+)/VB ital/JJ )/JJ performances/NNS	1
+series/NN that/IN critics/NNS (\w+)/VBP and/CC audiences/NNS (\w+)/VBP ,/,	1
+can/MD train/VB ,/, (\w+)/VB and/CC (\w+)/VB all/DT	1
+Knicks/NNPS (\w+)/VBP and/CC the/DT Hornets/NNPS (\w+)/VBP ,/, the/DT	1
+(\w+)/VB from/IN the/DT rich/JJ and/CC (\w+)/VB not/RB to/TO	2
+vegetables/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, such/JJ	1
+could/MD (\w+)/VB or/CC (\w+)/VB with/IN each/DT	2
+investors/NNS (\w+)/VBP and/CC (\w+)/VBP more/JJR	1
+do/VBP n't/RB (\w+)/VB ,/, they/PRP (\w+)/VBP over/IN	1
+fortunes/NNS will/MD (\w+)/VB or/CC (\w+)/VB depending/VBG on/IN whether/IN	1
+ll/NNP (\w+)/VBP the/DT people/NNS who/WP (\w+)/VBP been/VBN mentors/NNS to/TO	1
+governments/NNS ,/, which/WDT (\w+)/VBP and/CC (\w+)/VBP in/IN rapid/JJ succession/NN	1
+stocks/NNS (\w+)/VBP and/CC (\w+)/VBP on/IN	4
+(\w+)/VB away/RP ,/, but/CC (\w+)/VBP	1
+agents/NNS ,/, who/WP (\w+)/VB and/CC (\w+)/VB horses/NNS	1
+to/TO finally/RB (\w+)/VB up/RP the/DT server/NN and/CC (\w+)/VB a/DT break/NN	1
+to/TO (\w+)/VB bicycles/NNS ,/, (\w+)/VB	1
+(\w+)/VB energy/NN efficiency/NN ,/, (\w+)/VB	1
+can/MD (\w+)/VB somewhere/RB else/RB ,/, or/CC (\w+)/VB back/RP after/IN 10/CD	1
+I/PRP (\w+)/VBP to/TO (\w+)/VB this/DT show/NN ,/,	1
+To/TO (\w+)/VB it/PRP up/RP and/CC (\w+)/VB a/DT	1
+will/MD (\w+)/VB and/CC (\w+)/VB ,/, it/PRP	2
+patients/NNS (\w+)/VBP insulin/NN but/CC (\w+)/VBP sufficient/JJ amounts/NNS and/CC	1
+time/NN to/TO (\w+)/VB wringing/VBG our/PRP$ hands/NNS and/CC (\w+)/VB rolling/VBG	1
+(\w+)/VBP him/PRP penciled/VBD in/RP to/TO (\w+)/VB a/DT third/JJ	1
+tractor/NN units/NNS to/TO (\w+)/VB and/CC (\w+)/VB it/PRP	1
+or/CC (\w+)/VB and/CC (\w+)/VB the/DT same/JJ team/NN	2
+you/PRP (\w+)/VBP it/PRP ,/, you/PRP (\w+)/VBP to/TO pay/VB	1

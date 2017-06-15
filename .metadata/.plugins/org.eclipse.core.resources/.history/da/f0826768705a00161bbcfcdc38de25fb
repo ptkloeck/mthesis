@@ -1,0 +1,269 @@
+'''
+Created on 01.12.2015
+
+@author: Peter
+'''
+from sklearn import metrics
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.externals import joblib
+
+import numpy as np
+import pandas as pd
+
+import os
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), os.pardir, os.pardir))
+
+from anton import config
+from anton import feature_extraction
+from anton.util import jobim_reader
+from anton.util import util
+from anton.feature_extraction import jobim_query
+
+CLASSIFIER_FOLDER = "classifier"
+CLASSIFIER_NAME = "classifier.pkl"
+
+PREDICTION_FILE_SUFFIX = "_predicted.tsv"
+PREDICTED_COL_HEADER = "predicted"
+PREDICT_PROBA_ANT_COL_HEADER = "predict_proba_ant"
+PREDICT_PROBA_ELSE_COL_HEADER = "predict_proba_else"
+
+WN_DATASETS_RES_IDS = ["adj_ants", "adj_ants_all", "noun_ants", "noun_ants_all", "verb_ants", "verb_ants_all"]
+       
+def extract_features_wn_datasets(feature_categories):
+    
+    for res_id in WN_DATASETS_RES_IDS:
+        data_path = config.path_to_res(res_id)
+        extract_features_to_files(data_path, feature_categories)
+
+def extract_features_to_files(data_path, feature_categories):
+    
+    print("Extracting features for file: " + data_path)
+    df = read_dataframe(data_path)
+
+    def get_feature_file_path(data_path, pos):
+        return data_path.replace(".tsv", "_" + pos.tag + ".tsv")
+    
+    pos_to_df = {}
+    for pos in util.POS:     
+        
+        df_pos = df[df["pos_tag"] == pos.tag].copy()
+        
+        feature_file_path = get_feature_file_path(data_path, pos)
+        if os.path.isfile(feature_file_path):
+            # if feature file already exists, load the file and append to the file 
+            df_pos = read_dataframe(feature_file_path)   
+            
+        pos_to_df[pos] = df_pos
+             
+    add_features(pos_to_df, feature_categories)
+
+    for pos in util.POS:
+        df_pos = pos_to_df[pos]
+        if (len(df_pos) > 0):
+            feature_file_path = get_feature_file_path(data_path, pos)
+            df_pos.to_csv(feature_file_path, sep='\t')
+       
+def add_features(pos_to_df, feature_categories):
+
+    # for pos in util.POS:
+    #    df = pos_to_df[pos]
+    #    jobim_query.add_freqs(df, pos)
+    
+    for extractor_category in base.ExtractorCategory:
+        extract_features(extractor_category, pos_to_df, feature_categories)
+
+def extract_features(extractor_category, pos_to_df, feature_categories):
+           
+    extractor_feature_categories = base.get_feature_categories(extractor_category)
+    extractor_feature_categories = [feature_category for feature_category in extractor_feature_categories if feature_category in feature_categories]
+        
+    feature_extractors = [feature_extraction.make_feature_extractor(feature_category) for feature_category in extractor_feature_categories]
+    for feature_extractor in feature_extractors:
+        feature_extractor.init(pos_to_df)
+            
+    if extractor_category == base.ExtractorCategory.JO_BIM:
+        extract_jo_bim_features(feature_extractors, pos_to_df)
+    else:
+        extract_rest_features(feature_extractors, pos_to_df) 
+        
+    for feature_extractor in feature_extractors:
+        feature_extractor.finish(pos_to_df)
+   
+def extract_jo_bim_features(feature_extractors, pos_to_df):
+
+    if not feature_extractors:
+        return
+    print("Starting to extract features from JoBim corpus")
+    for line in jobim_reader.readlines(config.path_to_res("corpus_dir"), config.is_linux()):
+        for feature_extractor in feature_extractors:
+            feature_extractor.extract_features_line(pos_to_df, line)
+    print("Finished to extract features from JoBim corpus")
+    
+def extract_rest_features(feature_extractors, pos_to_df):
+    
+    for feature_extractor in feature_extractors:
+        feature_extractor.extract_features(pos_to_df)    
+    
+def read_dataframe(path):
+    return pd.read_csv(path, sep='\t', index_col=0)
+
+def train_classifiers(feature_categories):
+    
+    train_classifiers_relations(True, feature_categories)
+    train_classifiers_relations(False, feature_categories)
+
+def train_classifiers_relations(ant_syn, feature_categories):
+           
+    for pos in util.POS:
+        df = load_wn_dataset(pos, ant_syn)
+        y = df["rel_class"].values
+        
+        X, _ = feature_matrix(df, feature_categories)
+        
+        clf = RandomForestClassifier(n_estimators=100)
+        clf.fit(X, y) 
+        
+        classifier_path = get_classifier_path(pos, ant_syn, feature_categories)
+        os.makedirs(classifier_path.replace("/" + CLASSIFIER_NAME, ""))
+        joblib.dump(clf, classifier_path)
+
+def order_features(df):
+    df.reindex_axis(sorted(df.columns), axis=1)
+
+def pop_non_features(df):
+    
+    if "rel_class" in df.columns:
+        df.pop("rel_class")
+    if "pos_tag" in df.columns:
+        df.pop("pos_tag")
+    if "freq1" in df.columns:
+        df.pop("freq1")
+    if "freq2" in df.columns:
+        df.pop("freq2")
+    if "in_sen_cooc" in df.columns:
+        df.pop("in_sen_cooc")
+
+def replace_infinite(X):
+    finite = np.isfinite(X)
+    for i in range(len(X)):
+        for j in range(len(X[0])):
+            if not finite[i][j]:
+                X[i][j] = 0
+
+def load_classifier(pos, ant_syn, feature_categories):
+    
+    classifier_path = get_classifier_path(pos, ant_syn, feature_categories)
+    clf = joblib.load(classifier_path)
+    return clf
+
+def get_classifier_path(pos, ant_syn, feature_categories):
+    
+    classifier_subfolder = ""
+    for feature_category in feature_categories:
+        classifier_subfolder += "_" + feature_category.name
+        
+    ant_syn_folder = "ant_syn" if ant_syn else "all"  
+    return config.path_to_res("res") + pos.tag + "/" + CLASSIFIER_FOLDER + "/" + classifier_subfolder + "/" + ant_syn_folder + "/" + CLASSIFIER_NAME
+    
+def load_wn_dataset(pos, ant_syn):
+    
+    if pos == util.POS.ADJ:
+        res_id = "adj_ants" if ant_syn else "adj_ants_all"       
+    elif pos == util.POS.NOUN:
+        res_id = "noun_ants" if ant_syn else "noun_ants_all"
+    elif pos == util.POS.VERB:
+        res_id = "verb_ants" if ant_syn else "verb_ants_all"
+    
+    data_path = config.path_to_res(res_id)
+    data_path = data_path.replace(".tsv", "_" + pos.tag + ".tsv")
+    
+    return read_dataframe(data_path)
+
+def feature_matrix(df, feature_categories):
+    
+    col_heads = []
+    for feature_category in feature_categories:
+        col_heads.extend(base.make_feature_extractor(feature_category).feature_col_headers())
+    
+    col_heads[:] = [col_head for col_head in col_heads if col_head in df.columns]
+    
+    df_categories = df[col_heads]   
+    order_features(df_categories)
+        
+    X = df_categories.values
+    replace_infinite(X)
+    
+    return (X, df_categories.columns)
+        
+def classify_file(data_path, ant_syn, feature_categories):
+    
+    for pos in util.POS:
+       
+        pos_data_path = data_path.replace(".tsv", "_" + pos.tag + ".tsv")
+        if not os.path.isfile(pos_data_path):
+            continue
+        df = read_dataframe(pos_data_path)
+        
+        y = df["rel_class"].values
+        y[y > 1] = 2
+        
+        X, _ = feature_matrix(df, feature_categories)
+            
+        clf = load_classifier(pos, ant_syn, feature_categories)
+        
+        y_predicted = clf.predict(X)
+        y_proba = clf.predict_proba(X)
+        
+        with open(pos_data_path.replace(".tsv", PREDICTION_FILE_SUFFIX), 'w') as file:
+            
+            file.write('\t' + PREDICT_PROBA_ANT_COL_HEADER + '\t' + PREDICT_PROBA_ELSE_COL_HEADER + '\t' + PREDICTED_COL_HEADER + '\t' + "rel_class\n")
+            for i, (index, _) in enumerate(df.iterrows()):
+                proba_ant = y_proba[i][0]
+                proba_else = y_proba[i][1]
+                predicted = y_predicted[i]
+                file.write(index + '\t' + str(proba_ant) + '\t' + str(proba_else) + '\t' + str(predicted) + '\t' + str(y[i]) + '\n')
+
+def read_prediction_dfs(classified_file):
+    
+    pos_tag_to_prediction_df = {}
+    for pos in util.POS:
+        prediction_file_path = classified_file.replace(".tsv", "_" + pos.tag + PREDICTION_FILE_SUFFIX)
+        if not os.path.isfile(prediction_file_path):
+            continue
+        df_prediction = read_dataframe(prediction_file_path)
+        pos_tag_to_prediction_df[pos.tag] = df_prediction
+    
+    return pos_tag_to_prediction_df
+
+def compute_metrics(classified_file):
+    
+    df = read_dataframe(classified_file)
+    
+    pos_tag_to_prediction_df = read_prediction_dfs(classified_file)
+    
+    y_gold = []
+    y_predicted = []    
+    for index, row in df.iterrows():
+        y_gold.append(row["rel_class"])
+        prediction_df = pos_tag_to_prediction_df[row["pos_tag"]]
+        predicted = prediction_df.loc[index, PREDICTED_COL_HEADER]
+        y_predicted.append(predicted)
+    
+    print(y_gold)
+    print(y_predicted)   
+    print(metrics.classification_report(y_gold, y_predicted))
+    
+if __name__ == "__main__":
+    
+    # feature_categories = [x for x in feature_extraction.FeatureCategory]
+    feature_categories = [feature_extraction.FeatureCategory.WEB1T_PATTERNS]
+    # feature_categories.remove(feature_extraction.FeatureCategory.PATTERNS)
+    # feature_categories.remove(feature_extraction.FeatureCategory.WORD_EMBED)
+    # feature_categories.remove(feature_extraction.FeatureCategory.JB_SIM)
+    # feature_categories.remove(feature_extraction.FeatureCategory.MORPH)
+    
+    # extract_features_wn_datasets([feature_extraction.FeatureCategory.WEB1T_PATTERNS])
+
+    train_classifiers(feature_categories)

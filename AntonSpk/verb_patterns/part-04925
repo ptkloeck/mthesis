@@ -1,0 +1,41 @@
+to/TO (\w+)/VB or/CC (\w+)/VB events/NNS	1
+time/NN they/PRP (\w+)/VBP or/CC (\w+)/VB their/PRP$ companies/NNS	1
+Buy/VB or/CC (\w+)/VB :/: Moderate/NNP (\w+)/VBP	1
+and/CC investors/NNS to/TO (\w+)/VB or/CC (\w+)/VB stock/NN at/IN	1
+either/RB (\w+)/VB or/CC (\w+)/VB the/DT commission/NN 's/POS	2
+for/IN investors/NNS to/TO (\w+)/VB and/CC (\w+)/VB their/PRP$	1
+(\w+)/VB Winterthur/NNP but/CC I/PRP (\w+)/VBP Lyndhurst/NNP ,/, '/''	1
+(\w+)/VB Accorsi/NNP (\w+)/VB out/RP in/IN	1
+investors/NNS who/WP (\w+)/VBP or/CC (\w+)/VB relying/VBG	1
+CFL/NNP stock/NN will/MD (\w+)/VB or/CC (\w+)/VB depending/VBG	1
+(\w+)/VB and/CC (\w+)/VB the/DT sun/NN 's/POS	1
+to/TO (\w+)/VB and/CC (\w+)/VB tobacco/NN	1
+Wilson/NNP that/WDT (\w+)/VBP and/CC (\w+)/VBP in/IN the/DT	1
+which/WDT can/MD (\w+)/VB or/CC (\w+)/VB a/DT season/NN ./.	1
+contract/NN supplier/NN may/MD (\w+)/VB to/TO (\w+)/VB reagents/NNS that/WDT have/VBP	1
+want/VB to/TO (\w+)/VB the/DT boat/NN and/CC (\w+)/VB	1
+wants/VBZ to/TO (\w+)/VB it/PRP and/CC (\w+)/VB me/PRP what/WP they/PRP	1
+its/PRP$ notorious/JJ rebels/NNS (\w+)/VB diamonds/NNS and/CC (\w+)/VB arms/NNS ./.	1
+(\w+)/VBP and/CC (\w+)/VBP 80/CD %/NN of/IN	1
+(\w+)/VBP at/IN 12.00/CD hr/NN and/CC (\w+)/VBP	1
+and/CC scalability/NN to/TO (\w+)/VB customers/NNS '/POS ROI/NN and/CC (\w+)/VB their/PRP$ risk/NN	1
+to/TO (\w+)/VB and/CC retire/VB or/CC (\w+)/VB cheaper/JJR land/NN	1
+stocks/NNS will/MD (\w+)/VB or/CC (\w+)/VB this/DT week/NN	1
+not/RB immediately/RB (\w+)/VB or/CC (\w+)/VB the/DT President/NNP	1
+can/MD (\w+)/VB a/DT three-month/JJ put/NN to/TO (\w+)/VB	1
+sense/NN that/IN they/PRP (\w+)/VBP what/WP you/PRP (\w+)/VBP them/PRP ./.	1
+are/VBP on/IN ,/, (\w+)/VB or/CC (\w+)/VB	1
+could/MD (\w+)/VB the/DT tax/NN base/NN and/CC (\w+)/VB	1
+support/NN if/IN you/PRP (\w+)/VBP a/DT season/NN and/CC then/RB (\w+)/VB	2
+is/VBZ scheduled/VBN to/TO (\w+)/VB Washington/NNP on/IN Friday/NNP and/CC (\w+)/VB	1
+should/MD (\w+)/VB automatically/RB ,/, (\w+)/VB away/RP	1
+,/, which/WDT would/MD (\w+)/VB teachers/NNS '/POS salaries/NNS ,/, (\w+)/VB property/NN taxes/NNS	1
+(\w+)/VB productivity/NN and/CC potentially/RB (\w+)/VB health/NN care/NN	1
+or/CC who/WP (\w+)/VBP previous/JJ job/NN experience/NN (\w+)/VBP yet/RB to/TO	1
+are/VBP (\w+)/VBN to/TO (\w+)/VB over/RP	2
+n't/RB (\w+)/VB them/PRP long/JJ to/TO (\w+)/VB a/DT	1
+has/VBZ seen/VBN rookies/NNS (\w+)/VB and/CC (\w+)/VB but/CC says/VBZ he/PRP	1
+not/RB seek/VB to/TO (\w+)/VB profits/NNS or/CC (\w+)/VB costs/NNS ,/,	1
+prints/NNS could/MD (\w+)/VB or/CC (\w+)/VB a/DT case/NN ./.	1
+talk/NN shows/NNS may/MD (\w+)/VB and/CC talk/NN shows/NNS may/MD (\w+)/VB ;/:	1
+(\w+)/VB or/CC (\w+)/VB pressure/NN on/IN	1

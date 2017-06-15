@@ -1,0 +1,33 @@
+concerns/NNS (\w+)/VBP and/CC (\w+)/VBP	2
+are/VBP hard/JJ to/TO (\w+)/VB and/CC easy/RB to/TO (\w+)/VB ,/,	1
+(\w+)/VBP up/RP ,/, so/RB (\w+)/VB	1
+(\w+)/VBN to/TO (\w+)/VB even/RB further/RBR ,/,	2
+opposing/VBG systems/NNS to/TO (\w+)/VB and/CC (\w+)/VB ,/,	1
+ability/NN to/TO (\w+)/VB plays/NNS and/CC (\w+)/VB runs/NNS	1
+Bonuses/NNS do/VBP not/RB (\w+)/VB or/CC (\w+)/VB the/DT family/NN budget/NN	1
+tracks/VBZ that/DT (\w+)/VB or/CC (\w+)/VB suddenly/RB tell/VBP where/WRB	1
+we/PRP (\w+)/VBP the/DT opportunity/NN to/TO (\w+)/VB	1
+also/RB (\w+)/VBP ,/, Detroit/NNP will/MD (\w+)/VB the/DT division/NN ./.	1
+(\w+)/VB the/DT war/NN ,/, I/PRP (\w+)/VBP the/DT	1
+mounting/VBG pressures/NNS to/TO (\w+)/VB fighting/NN and/CC (\w+)/VB	1
+do/VBP not/RB (\w+)/VB the/DT benefits/NNS (/NN or/CC (\w+)/VB the/DT aggravations/JJ	1
+seeing/VBG one/CD party/NN (\w+)/VB and/CC another/DT party/NN (\w+)/VBP	1
+(\w+)/VBP to/TO a/DT prep/NN school/NN (\w+)/VBN to/TO a/DT	1
+relatives/NNS and/CC friends/NNS (\w+)/VB and/CC (\w+)/VB ./.	1
+(\w+)/VB and/CC (\w+)/VB each/DT year/NN ./.	1
+than/IN to/TO (\w+)/VB to/TO the/DT U.S./NNP and/CC (\w+)/VB to/TO Misshapes/NNP	1
+that/IN we/PRP (\w+)/VBP rules/NNS so/IN we/PRP can/MD (\w+)/VB them/PRP	1
+who/WP (\w+)/VBP jobs/NNS (\w+)/VBP it/PRP very/RB	5
+to/TO make/VB sleep/NN (\w+)/VBP and/CC (\w+)/VBP on/IN	1
+(\w+)/VBP or/CC (\w+)/VBP online/NN ./.	1
+technology/NN to/TO (\w+)/VB tactical/JJ advantage/NN and/CC (\w+)/VB	1
+new/JJ ideas/NNS that/WDT (\w+)/VBP and/CC (\w+)/VB the/DT pipeline/NN	1
+,/, you/PRP (\w+)/VBP some/DT and/CC you/PRP (\w+)/VBP	6
+you/PRP (\w+)/VB ,/, hold/VB or/CC (\w+)/VB ?/.	2
+to/TO (\w+)/VB suction/NN and/CC (\w+)/VB	1
+"/`` We/PRP (\w+)/VBP them/PRP all/DT equally/RB and/CC (\w+)/VBP	1
+be/VB able/JJ to/TO (\w+)/VB ,/, run/VB and/CC (\w+)/VB her/PRP$ bicycle/NN	1
+(\w+)/VB low/JJ and/CC (\w+)/VB high/JJ when/WRB	1
+recognition/NN without/IN the/DT (\w+)/VB and/CC (\w+)/VB of/IN	1
+did/VBD n't/RB (\w+)/VB to/TO (\w+)/VB a/DT beat/NN	1
+to/TO (\w+)/VB around/RP freely/RB and/CC (\w+)/VB out/RP	1

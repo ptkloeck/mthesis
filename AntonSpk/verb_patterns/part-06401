@@ -1,0 +1,30 @@
+CFDs/NNP ,/, traders/NNS (\w+)/VBP or/CC (\w+)/VBP	1
+the/DT daily/NN (\w+)/VBP and/CC (\w+)/VBP	1
+to/TO (\w+)/VB ,/, (\w+)/VB and/CC do/VB	1
+being/VBG able/JJ to/TO (\w+)/VB this/DT technology/NN and/CC (\w+)/VB small/JJ offices/NNS	1
+how/WRB you/PRP (\w+)/VBP ,/, but/CC how/WRB you/PRP (\w+)/VBP ,/,	1
+the/DT small-fry/NN who/WP (\w+)/VB or/CC (\w+)/VB fewer/JJR	1
+'ve/VBP watched/VBN me/PRP (\w+)/VB in/RP ,/, (\w+)/VBN back/RB out/RB and/CC	1
+and/CC can/MD not/RB (\w+)/VB or/CC (\w+)/VB	2
+may/MD (\w+)/VB and/CC (\w+)/VB ,/, the/DT	1
+only/RB (\w+)/VB and/CC (\w+)/VB with/IN	1
+doors/NNS often/RB (\w+)/VB and/CC (\w+)/VB several/JJ times/NNS	1
+who/WP (\w+)/VB things/NNS on/IN barter/NN and/CC (\w+)/VB it/PRP to/TO their/PRP$	1
+will/MD (\w+)/VB and/CC it/PRP will/MD (\w+)/VB ,/, and/CC	1
+(\w+)/VB ,/, bike/UH ,/, (\w+)/VB	1
+must/MD (\w+)/VB and/CC what/WP can/MD (\w+)/VB ./.	1
+got/VBN nothing/NN to/TO (\w+)/VB ,/, then/RB (\w+)/VB us/PRP the/DT	1
+(\w+)/VB enough/JJ to/TO (\w+)/VB a/DT second-tier/NN QB/NNP	1
+people/NNS who/WP (\w+)/VB me/PRP donations/NNS and/CC (\w+)/VB my/PRP$ pictures/NNS	1
+trailers/NNS and/CC will/MD (\w+)/VB in/IN value/NN rather/RB than/IN (\w+)/VB like/IN the/DT	1
+would/MD go/VB to/TO (\w+)/VB and/CC not/RB (\w+)/VBP up/RP ,/,	1
+(\w+)/VB in/RP ,/, (\w+)/VB more/JJR	1
+that/WDT will/MD (\w+)/VB it/PRP difficult/JJ to/TO (\w+)/VB budget/NN limits/NNS	1
+,/, this/DT should/MD (\w+)/VB corporates/NNS enough/JJ time/NN to/TO (\w+)/VB appropriate/JJ hedging/VBG	1
+to/TO (\w+)/VB and/CC (\w+)/VB the/DT program/NN often/RB	1
+critics/NNS who/WP (\w+)/VBP one/CD thing/NN and/CC (\w+)/VBP	3
+Council/NNP (\w+)/VBP argued/VBN ,/, (\w+)/VBP appropriate/JJ due/JJ process/NN	1
+had/VBD watched/VBN presidents/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+Better/NNP to/TO (\w+)/VB them/PRP yourself/PRP then/RB (\w+)/VBP them/PRP to/TO	1
+(\w+)/VB and/CC (\w+)/VB so/RB	24
+that/IN it/PRP ll/VBP (\w+)/VB your/PRP$ bank/NN or/CC will/MD (\w+)/VB you/PRP have/VBP	1

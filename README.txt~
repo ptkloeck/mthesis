@@ -1,0 +1,25 @@
+python dependencies:
+
+(anaconda python 3.4 comes with the following:)
+-scikit
+-nltk
+
+additional dependencies
+-gensim
+-pyhyphen
+-python-levenshtein
+-seaborn (for plots)
+
+You most probably can make the python project running with (a maybe slightly altered version of) the
+following commands:
+
+wget http://repo.continuum.io/archive/Anaconda3-4.0.0-Linux-x86_64.sh
+bash Anaconda3-4.0.0-Linux-x86_64.sh
+conda install -c anaconda gensim=0.12.4
+pip install pyhyphen
+pip install python-levenshtein
+conda install seaborn
+
+java/scala dependencies:
+
+The java and scala projects are maven projects, so only maven and java has to be installed.

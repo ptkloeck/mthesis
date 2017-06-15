@@ -1,0 +1,32 @@
+some/DT friends/NNS (\w+)/VB and/CC (\w+)/VB ,/,	1
+With/IN Parliament/NNP (\w+)/VBN to/TO (\w+)/VB	1
+could/MD (\w+)/VB or/CC (\w+)/VB ,/, "/''	2
+nice/JJ not/RB to/TO (\w+)/VB our/PRP$ (\w+)/VB a/DT game/NN	1
+piece/NN that/IN ,/, (\w+)/VB it/PRP or/CC (\w+)/VB it/PRP ,/, it/PRP	1
+and/CC (\w+)/VB responsible/JJ advertising/NN and/CC (\w+)/VB the/DT irresponsible/JJ ./.	1
+strip/NN where/WRB people/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+that/IN we/PRP can/MD (\w+)/VB the/DT underlying/VBG products/NNS and/CC (\w+)/VB them/PRP a/DT	1
+less/RBR likely/JJ to/TO (\w+)/VB documents/NNS and/CC can/MD (\w+)/VB them/PRP	1
+neither/RB inclined/JJ to/TO (\w+)/VB nor/CC (\w+)/VB interest/NN	1
+not/RB going/VBG to/TO (\w+)/VB you/PRP or/CC (\w+)/VB you/PRP ./. '/''	1
+(\w+)/VB and/CC (\w+)/VB an/DT awful/JJ of/IN	1
+sides/NNS that/WDT (\w+)/VBP before/IN him/PRP to/TO (\w+)/VB away/RP feeling/VBG	1
+group/NN of/IN lawmakers/NNS (\w+)/VBP resolution/NN to/TO (\w+)/VB	1
+is/VBZ to/TO (\w+)/VB me/PRP (\w+)/VB down/RP	1
+can/MD (\w+)/VB space/NN ,/, and/CC websites/NNS (\w+)/VBP	1
+'s/POS power/NN to/TO (\w+)/VB and/CC (\w+)/VB personnel/NNS	1
+kids/NNS (\w+)/VB in/RP and/CC (\w+)/VB to/TO the/DT	1
+and/CC are/VBP to/TO (\w+)/VB to/TO (\w+)/VB still/RB	1
+if/IN the/DT Tories/NNPS (\w+)/VB or/CC (\w+)/VB	1
+amd/JJ opportunities/NNS (\w+)/VBN ,/, and/CC also/RB (\w+)/VB ./.	1
+promised/VBD to/TO (\w+)/VB up/RP an/DT invitation/NN to/TO (\w+)/VB evidence/NN before/IN	3
+blurbs/NNS can/MD (\w+)/VB or/CC (\w+)/VB a/DT book/NN	1
+drivers/NNS to/TO easily/RB (\w+)/VB and/CC (\w+)/VBP	1
+In/IN 1903/CD ,/, (\w+)/VB or/CC (\w+)/VB a/DT	1
+languages/NNS ,/, can/MD (\w+)/VB and/CC (\w+)/VB	1
+usual/JJ (\w+)/VB and/CC (\w+)/VB of/IN scientific/JJ	1
+house/NN that/WDT has/VBZ (\w+)/VBN available/JJ nearby/RB and/CC (\w+)/VB	1
+,/, where/WRB traders/NNS (\w+)/VB and/CC (\w+)/VB such/JJ commodities/NNS ./.	1
+what/WP some/DT face-to-face/RB (\w+)/VB and/CC (\w+)/VB could/MD have/VB	1
+(\w+)/VB it/PRP all/DT or/CC (\w+)/VB in/IN	2
+Association/NNP ,/, (\w+)/VBP to/TO (\w+)/VB a/DT team/NN	1

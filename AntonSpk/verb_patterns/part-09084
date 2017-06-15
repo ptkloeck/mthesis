@@ -1,0 +1,33 @@
+if/IN bond/NN yields/NNS (\w+)/VBP and/CC prices/NNS (\w+)/VBP	1
+(\w+)/VB or/CC (\w+)/VB facing/VBG	1
+,/, borrowing/VBG to/TO (\w+)/VB low/JJ ,/, (\w+)/VB high/JJ ,/, repay/VB	1
+venues/NNS :/: You/PRP (\w+)/VBP some/DT ,/, you/PRP (\w+)/VBP	1
+made/VBN to/TO (\w+)/VB or/CC (\w+)/VB the/DT case/NN ./.	1
+said/VBD they/PRP (\w+)/VBP to/TO regularly/RB (\w+)/VB their/PRP$	2
+does/VBZ n't/RB (\w+)/VB or/CC (\w+)/VB with/IN a/DT	1
+rates/NNS (\w+)/VBP and/CC (\w+)/VBP based/VBN on/IN insurers/NNS	3
+to/TO let/VB them/PRP (\w+)/VB tomorrow/NN ,/, then/RB (\w+)/VB another/DT day/NN	1
+his/PRP$ fortunes/NNS (\w+)/VB and/CC (\w+)/VB ,/, Mr./NNP	1
+to/TO (\w+)/VB or/CC (\w+)/VB Brent/NNP oil/NN contracts/NNS	1
+say/VBP (\w+)/VB and/CC (\w+)/VB	1
+People/NNS may/MD (\w+)/VB or/CC (\w+)/VB "/``	1
+it/PRP would/MD (\w+)/VB him/PRP or/CC (\w+)/VB him/PRP ,/,	1
+comics/NNS (\w+)/VBP or/CC (\w+)/VBP their/PRP$ reputations/NNS ./.	1
+revelry/RB (\w+)/VB and/CC (\w+)/VB ,/,	1
+in/IN order/NN to/TO (\w+)/VB risk/NN and/CC (\w+)/VB development/NN resources/NNS when/WRB	1
+they/PRP (\w+)/VBP and/CC (\w+)/VB the/DT park/NN ./.	1
+parties/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, you/PRP	1
+;/: you/PRP either/RB (\w+)/VBP it/PRP or/CC you/PRP (\w+)/VBP	1
+our/PRP$ children/NNS to/TO (\w+)/VB ,/, rather/RB than/IN (\w+)/VB ,/,	1
+./. Do/VBP you/PRP (\w+)/VB or/CC (\w+)/VB of/IN the/DT	1
+and/CC can/MD only/RB (\w+)/VB or/CC (\w+)/VB the/DT whole/JJ	1
+rise/NN and/CC (\w+)/VB and/CC (\w+)/VB ,/, and/CC it/PRP	1
+when/WRB assistant/JJ coaches/NNS (\w+)/VBP and/CC (\w+)/VBP because/RB	1
+Americans/NNPS must/MD immediately/RB (\w+)/VB action/NN to/TO (\w+)/VB better/JJR	1
+,/, (\w+)/VB or/CC (\w+)/VB ,/, either/CC	1
+to/TO (\w+)/VB or/CC (\w+)/VB short-term/JJ	3
+Indians/NNPS would/MD (\w+)/VB to/TO (\w+)/VB	1
+to/TO be/VB "/`` (\w+)/VB and/CC (\w+)/VB "/`` on/IN	1
+if/IN they/PRP (\w+)/VBP it/PRP ,/, he/PRP 'll/MD (\w+)/VB	1
+(\w+)/VB weight/NN trying/VBG to/TO (\w+)/VB warm/JJ ./.	1
+'ll/MD (\w+)/VB ,/, maybe/RB you/PRP 'll/MD (\w+)/VB ,/, but/CC I/PRP	1

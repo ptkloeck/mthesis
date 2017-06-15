@@ -1,0 +1,37 @@
+should/MD help/VB (\w+)/VB or/CC (\w+)/VB	1
+colors/NNS (\w+)/VB and/CC (\w+)/VB	1
+,/, (\w+)/VB or/CC (\w+)/VB ;/, glad/JJ	1
+who/WP (\w+)/VBP their/PRP$ right/NN to/TO (\w+)/VB at/IN	1
+matter/NN whether/IN they/PRP (\w+)/VBP or/CC (\w+)/VBP [/NNP with/IN	1
+going/VBG to/TO (\w+)/VB it/PRP or/CC (\w+)/VB it/PRP ./.	2
+can/MD (\w+)/VB unwanted/JJ goods/NNS and/CC (\w+)/VB good/JJ quality/NN	1
+to/TO (\w+)/VB or/CC (\w+)/VB bases/NNS	2
+(\w+)/VB or/CC (\w+)/VB what/WP management/NN is/VBZ	1
+years/NNS (/VBG (\w+)/VB or/CC (\w+)/VB )/NNS knows/VBZ her/PRP$	1
+Lawmakers/NNS must/MD (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB their/PRP$ apartments/NNS	1
+not/RB (\w+)/VB Americans/NNPS ,/, but/CC rather/RB (\w+)/VB	1
+help/VB people/NNS (\w+)/VB and/CC (\w+)/VB but/CC otherwise/RB to/TO	2
+Bowl/NNP (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VBP with/IN her/PRP because/IN I/PRP (\w+)/VBP up/RP in/IN	1
+that/IN will/MD (\w+)/VB time/NN )/NNS ;/: or/CC (\w+)/VB	1
+who/WP (\w+)/VBP weight/NN are/VBP likely/JJ to/TO (\w+)/VB it/PRP	2
+friends/NNS (\w+)/VBN online/NN or/CC (\w+)/VB mobile/JJ ./. "/''	1
+(\w+)/VB Gore/NNP with/IN Clinton/NNP and/CC (\w+)/VBP	1
+see/VBP these/DT things/NNS (\w+)/VB and/CC (\w+)/VB ,/,	1
+were/VBD (\w+)/VBN or/CC (\w+)/VBP ,/, said/VBD	1
+that/WDT does/VBZ n't/RB (\w+)/VB and/CC (\w+)/VB with/IN a/DT	1
+can/MD never/RB quite/RB (\w+)/VB ,/, nor/CC can/MD I/PRP (\w+)/VB too/RB easily/RB	1
+(\w+)/VB Dec./NNP 21/CD and/CC (\w+)/VB on/IN	1
+scheduled/VBN to/TO (\w+)/VB Jacksonville/NNP on/IN Tuesday/NNP and/CC (\w+)/VB	1
+us/PRP had/VBD to/TO (\w+)/VB -/: to/TO not/RB (\w+)/VB	1
+to/TO (\w+)/VB the/DT tax/NN (\w+)/VB permanent/JJ	2
+jockeys/NNS who/WP (\w+)/VB and/CC (\w+)/VB dozens/NNS of/IN	1
+or/CC computer-generated/VBN (\w+)/VB and/CC (\w+)/VB	1
+Yankees/NNPS (\w+)/VBP ,/, they/PRP (\w+)/VBP ,/, at/IN	1
+to/TO (\w+)/VB the/DT houses/NNS ,/, which/WDT (\w+)/VBP for/IN	1
+(\w+)/VBP some/DT you/PRP (\w+)/VBP some/DT ,/,	1
+will/MD (\w+)/VB and/CC the/DT criticism/NN will/MD (\w+)/VB	1
+,/, (\w+)/VB and/CC (\w+)/VBP ,/, ''/''	1
+not/RB (\w+)/VB away/RP for/IN years/NNS to/TO (\w+)/VB ,/, ''/''	1
+often/RB (\w+)/VBP their/PRP$ alcohol/NN use/VB and/CC (\w+)/VB their/PRP$ consumption/NN	2

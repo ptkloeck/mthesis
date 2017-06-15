@@ -1,0 +1,36 @@
+for/IN airlines/NNS to/TO (\w+)/VB aircraft/NN ,/, (\w+)/VB them/PRP to/TO	1
+(\w+)/VBP and/CC (\w+)/VBP seriously/RB ./.	1
+must/MD (\w+)/VB exporting/VBG violence/NN and/CC (\w+)/VB	2
+(\w+)/VBP a/DT few/JJ battles/NNS but/CC (\w+)/VBP the/DT war/NN	2
+candidate/NN to/TO (\w+)/VB the/DT popular/JJ vote/NN and/CC (\w+)/VB the/DT Electoral/NNP	1
+backcourt/NN to/TO (\w+)/VB us/PRP better/JJR balance/NN to/TO (\w+)/VB	1
+campaign/NN ,/, (\w+)/VB or/CC (\w+)/VB	4
+refused/VBD to/TO (\w+)/VB him/PRP permission/NN to/TO (\w+)/VB	1
+his/PRP$ customers/NNS (\w+)/VBP and/CC (\w+)/VBP ./.	1
+should/MD (\w+)/VB to/TO (\w+)/VB Celera/NNP	2
+whether/IN I/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, people/NNS	1
+has/VBZ seen/VBN presidents/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+murders/NNS can/MD (\w+)/VB or/CC (\w+)/VB in/IN a/DT	1
+as/IN opportunities/NNS to/TO (\w+)/VB high/JJ and/CC (\w+)/VB low/JJ	1
+(\w+)/VBP and/CC (\w+)/VBP in/IN Harry/NNP	1
+unfair/JJ to/TO (\w+)/VB here/RB and/CC ask/VB to/TO (\w+)/VB back/RP	1
+way/NN to/TO (\w+)/VB terrorist/JJ attacks/NNS is/VBZ to/TO (\w+)/VB	1
+people/NNS do/VBP n't/RB (\w+)/VB here/RB to/TO (\w+)/VB up/RP to/TO	1
+surfactants/NNS to/TO (\w+)/VB it/PRP (\w+)/VB up/RB faster/RBR	1
+may/MD (\w+)/VB that/IN we/PRP (\w+)/VBP ,/, and/CC that/DT	1
+(\w+)/VB and/CC (\w+)/VB dialogue/NN that/IN	1
+based/VBN on/IN (\w+)/VB and/CC (\w+)/VB signals/NNS posted/VBD	1
+ensemble/NN could/MD (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB job/NN stress/NN and/CC (\w+)/VB productivity/NN	1
+sure/JJ to/TO (\w+)/VB and/CC (\w+)/VB with/IN dry/JJ ingredients/NNS	1
+(\w+)/VB patiently/RB while/IN they/PRP just/RB (\w+)/VBP and/CC observe/VBP their/PRP$	1
+;/: (\w+)/VB playing/VBG street/NN soccer/NN and/CC (\w+)/VB	1
+did/VBD n't/RB (\w+)/VB Wilson/NNP long/JJ to/TO (\w+)/VB the/DT	1
+Even/RB if/IN I/PRP (\w+)/VB down/RP and/CC (\w+)/VB back/RB ,/, it/PRP	1
+millions/NNS to/TO (\w+)/VB gasoline/NN and/CC (\w+)/VB it/PRP below/IN	1
+to/TO (\w+)/VB or/CC (\w+)/VB when/WRB I/PRP read/VBP	2
+actions/NNS can/MD (\w+)/VB to/TO or/CC (\w+)/VB from/IN	1
+(\w+)/VB him/PRP or/CC (\w+)/VB him/PRP	51
+residents/NNS to/TO (\w+)/VB ,/, (\w+)/VB bikes/NNS or/CC	1
+60/CD to/TO (\w+)/VB or/CC (\w+)/VB a/DT	1
+,/, to/TO (\w+)/VB and/CC (\w+)/VB ./.	5

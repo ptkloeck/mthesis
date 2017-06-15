@@ -1,0 +1,25 @@
+'s/VBZ (\w+)/VBN or/CC (\w+)/VBP ,/, it/PRP 's/VBZ	1
+up/RP ,/, (\w+)/VB down/RP ,/, (\w+)/VBP	1
+City/NNP (\w+)/VBP to/TO (\w+)/VB	1
+(\w+)/VB ''/'' or/CC ``/`` (\w+)/VB ./. ''/''	4
+they/PRP (\w+)/VBP that/WDT ca/MD n't/RB -/: (\w+)/VB label/NN ./.	1
+(\w+)/VB them/PRP ,/, or/CC (\w+)/VB ./.	1
+to/TO (\w+)/VB short/JJ maturities/NNS and/CC (\w+)/VB longer/RBR ./.	1
+one/NN can/MD (\w+)/VB and/CC no/DT one/NN can/MD (\w+)/VB --/:	2
+newlyweds/NNS (\w+)/VB and/CC (\w+)/VB ,/, and/CC would/MD	2
+light/JJ years/NNS ,/, (\w+)/VB or/CC (\w+)/VB a/DT couple/NN of/IN	1
+to/TO (\w+)/VB before/IN he/PRP can/MD (\w+)/VB ,/,	1
+Keith/NNP Holmes/NNP (\w+)/VBP and/CC (\w+)/VBP the/DT	1
+level/NN could/MD (\w+)/VB or/CC (\w+)/VB depending/VBG	1
+why/WRB we/PRP (\w+)/VBP or/CC (\w+)/VBP ,/,	1
+the/DT polls/NNS to/TO (\w+)/VB or/CC (\w+)/VB the/DT purchase/NN	1
+hackers/NNS (\w+)/VBP the/DT ones/NNS they/PRP (\w+)/VBP will/MD	1
+whom/WP he/PRP called/VBD (\w+)/VB or/CC (\w+)/VB after/IN every/DT game/NN	1
+(\w+)/VBP or/CC (\w+)/VB other/JJ types/NNS of/IN	1
+either/CC (\w+)/VB working/VBG altogether/RB or/CC (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB ,/, before/IN Wang/NNP	1
+gotta/JJ (\w+)/VB time/NN and/CC (\w+)/VB a/DT big/JJ	1
+(\w+)/VB any/DT draft/NN picks/NNS (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB last/JJ	1
+seeing/VBG some/DT friends/NNS (\w+)/VB and/CC (\w+)/VB ,/, and/CC	1
+Where/WRB you/PRP (\w+)/VBP depends/VBZ upon/IN where/WRB you/PRP (\w+)/VBP	1

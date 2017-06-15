@@ -1,0 +1,40 @@
+'s/VBZ mine/NN to/TO (\w+)/VB or/CC (\w+)/VB tomorrow/NN ./.	1
+Conversations/NNS often/RB (\w+)/VBP ,/, but/CC do/VBP not/RB (\w+)/VB ,/, with/IN the/DT	1
+day/NN ,/, (\w+)/VB or/CC (\w+)/VB an/DT hour/NN ./.	1
+parents/NNS to/TO (\w+)/VB to/TO (\w+)/VB the/DT	2
+entities/NNS that/WDT (\w+)/VB and/CC (\w+)/VB cable/NN programming/NN from/IN	1
+populations/NNS can/MD (\w+)/VB and/CC (\w+)/VB by/IN 50/CD percent/NN	1
+,/, who/WP would/MD (\w+)/VB to/TO (\w+)/VB discounted/JJ	1
+him/PRP to/TO (\w+)/VB 96/CD games/NNS and/CC (\w+)/VB	1
+would/MD (\w+)/VB or/CC (\w+)/VB the/DT number/NN	1
+'/`` (\w+)/VBP or/CC (\w+)/VBP '/'' but/CC definitely/RB	1
+neighborhoods/NNS that/WDT (\w+)/VBP the/DT canopy/NN other/JJ areas/NNS (\w+)/VBP	1
+has/VBZ been/VBN (\w+)/VBN or/CC (\w+)/VBP in/IN shallow/JJ water/NN	1
+,/, I/PRP (\w+)/VBP you/PRP permission/NN to/TO (\w+)/VB her/PRP	1
+to/TO (\w+)/VB but/CC to/TO (\w+)/VB ./.	2
+is/VBZ to/TO (\w+)/VB ,/, to/TO never/RB (\w+)/VB	1
+(\w+)/VB nor/CC (\w+)/VB guilt/NN ./.	1
+that/WDT would/MD (\w+)/VB the/DT state/NN power/NN to/TO (\w+)/VB over/IN	2
+expected/VBN to/TO (\w+)/VB or/CC (\w+)/VB ./.	1
+key/JJ speeches/NNS can/MD (\w+)/VB or/CC (\w+)/VB a/DT candidate/NN	2
+likely/RB (\w+)/VB in/IN the/DT development/NN and/CC (\w+)/VB to/TO	1
+can/MD not/RB (\w+)/VB petty/JJ politicking/NN to/TO (\w+)/VB us/PRP this/DT moment/NN	1
+(\w+)/VB to/TO say/VB we/PRP will/MD (\w+)/VB Tim/NNP Russert/NNP ;/:	1
+,/, (\w+)/VB or/CC (\w+)/VB a/DT few/JJ Jaguars/NN	1
+to/TO (\w+)/VB and/CC (\w+)/VB back/JJ holdings/NNS ,/,	1
+is/VBZ to/TO (\w+)/VB into/IN Atlanta/NNP and/CC (\w+)/VB away/RP with/IN	1
+we/PRP will/MD not/RB (\w+)/VB part/NN in/IN or/CC (\w+)/VB	2
+world/NN is/VBZ ever-changing-products/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+either/RB (\w+)/VB or/CC (\w+)/VB with/IN the/DT	2
+(\w+)/VB moral/JJ hazard/NN and/CC (\w+)/VB	1
+the/DT door/NN to/TO (\w+)/VB and/CC (\w+)/VB on/IN	1
+use/VBP to/TO (\w+)/VB and/CC (\w+)/VB a/DT	1
+he/PRP ca/MD n't/RB (\w+)/VB but/CC certainly/RB can/MD (\w+)/VB ./.	1
+neighborhoods/NNS (\w+)/VB and/CC (\w+)/VB ?/.	1
+that/IN Lulu/NNP must/MD (\w+)/VB or/CC (\w+)/VB ./.	1
+too/RB much/JJ (\w+)/VBP and/CC (\w+)/VBP	1
+to/TO (\w+)/VB Bob/NNP Weiss/NNP and/CC (\w+)/VB Larry/NNP Brown/NNP	1
+,/, we/PRP (\w+)/VBP you/PRP memorable/JJ moments/NNS that/WDT (\w+)/VBP	1
+whom/WP I/PRP already/RB (\w+)/VBP and/CC still/RB (\w+)/VBP n't/RB	1
+issue/NN would/MD n't/RB (\w+)/VB or/CC (\w+)/VB elections/NNS anymore/RB ./.	2
+(\w+)/VBP and/CC interest/NN rates/NNS (\w+)/VBP ,/, Mr./NNP Jennings/NNP	1

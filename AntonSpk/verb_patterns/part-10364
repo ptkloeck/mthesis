@@ -1,0 +1,33 @@
+to/TO (\w+)/VB _/NNS and/CC to/TO (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB John/NNP	1
+(\w+)/VB there/RB and/CC (\w+)/VB and/CC	1
+they/PRP (\w+)/VBP to/TO (\w+)/VB placement/NN	1
+icon/NN we/PRP all/DT (\w+)/VBP and/CC they/PRP (\w+)/VBP ./.	1
+Christopher/NNP wants/VBZ to/TO (\w+)/VB again/RB ,/, to/TO (\w+)/VB a/DT regular/JJ bike/NN	1
+(\w+)/VB profit/NN ,/, but/CC to/TO (\w+)/VB income/NN tax/NN liabilities/NNS	1
+learn/VBP is/VBZ to/TO (\w+)/VB or/CC (\w+)/VB the/DT person/NN	1
+produce/NN can/MD (\w+)/VB or/CC (\w+)/VB the/DT crowded/JJ	1
+who/WP (\w+)/VB and/CC (\w+)/VB on/IN	1
+(\w+)/VBP ,/, easy/JJ (\w+)/VBP ,/,	3
+or/CC (\w+)/VB election/NN time/NN our/PRP$ contributions/NNS (\w+)/VBP to/TO your/PRP$	1
+those/DT who/WP (\w+)/VBP papers/NNS and/CC (\w+)/VBP never/RB been/VBN	1
+those/DT who/WP (\w+)/VBP and/CC (\w+)/VBP equities/NNS	1
+once/IN I/PRP (\w+)/VBP ,/, I/PRP tend/VBP to/TO (\w+)/VB and/CC play/VB	1
+is/VBZ tipped/VBN to/TO (\w+)/VB him/PRP should/MD Mr/NNP Jones/NNP (\w+)/VBP to/TO	1
+who/WP either/CC (\w+)/VBP organized/JJ basketball/NN experience/NN or/CC (\w+)/VBP past/JJ	1
+long/JJ way/NN to/TO (\w+)/VB before/IN they/PRP can/MD (\w+)/VB	1
+not/RB going/VBG to/TO (\w+)/VB or/CC (\w+)/VB that/DT	2
+much/JJ material/NNS they/PRP (\w+)/VB and/CC (\w+)/VB ./.	2
+whom/WP tenant/NN activists/NNS (\w+)/VBP to/TO (\w+)/VB ,/,	1
+to/TO (\w+)/VB his/PRP$ failure/NN to/TO (\w+)/VB another/DT as/IN	1
+"/`` We/PRP (\w+)/VBP jobs/NNS one/CD month/NN and/CC (\w+)/VBP	1
+Authority/NNP do/VBP not/RB (\w+)/VB to/TO (\w+)/VB	1
+power/NN to/TO (\w+)/VB and/CC (\w+)/VB governments/NNS and/CC	1
+and/CC (\w+)/VB her/PRP (\w+)/VB on/IN it/PRP	1
+will/MD (\w+)/VB or/CC (\w+)/VB include/VBP Halifax/NNP	1
+do/VBP not/RB (\w+)/VB or/CC (\w+)/VB cases/NNS ,/, they/PRP	2
+time/NN to/TO (\w+)/VB free/JJ has/VBZ (\w+)/VBN ./.	1
+n't/RB (\w+)/VB or/CC (\w+)/VB in/IN	5
+artist/NN is/VBZ to/TO (\w+)/VB doors/NNS ,/, not/RB to/TO (\w+)/VB them/PRP ./. "/''	1
+biologists/NNS :/: (\w+)/VB speculating/VBG and/CC (\w+)/VB paying/VBG attention/NN	2
+(\w+)/VB or/CC (\w+)/VB this/DT governors/NNS	1

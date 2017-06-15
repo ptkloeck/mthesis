@@ -1,0 +1,34 @@
+this/DT person/NN should/MD (\w+)/VB ,/, this/DT person/NN should/MD (\w+)/VB ./. ''/''	1
+a/DT kid/NN (\w+)/VBN in/IN here/RB and/CC (\w+)/VB see/VB	1
+Politicians/NNS both/DT (\w+)/VBP bribes/NNS and/CC (\w+)/VB them/PRP ,/,	1
+some/DT customers/NNS (\w+)/VB and/CC (\w+)/VB	1
+'s/POS (\w+)/VB the/DT power/NN struggle/NN and/CC (\w+)/VB getting/VBG	1
+the/DT company/NN many/DT (\w+)/VBP to/TO (\w+)/VB	1
+polluters/NNS can/MD (\w+)/VB and/CC (\w+)/VB	2
+have/VBP said/VBD they/PRP (\w+)/VBP money/NN for/IN construction/NN and/CC (\w+)/VBP appealed/VBN for/IN	1
+wit/NN who/WP can/MD (\w+)/VB or/CC (\w+)/VB reputations/NNS with/IN	1
+(\w+)/VB home/NN and/CC (\w+)/VB back/RP two/CD	1
+``/`` I/PRP 'll/MD (\w+)/VB whatever/WDT they/PRP can/MD (\w+)/VB me/PRP ,/, ''/''	2
+'ll/MD either/DT (\w+)/VB or/CC (\w+)/VB but/CC	1
+equity/NN ,/, then/RB (\w+)/VB and/CC (\w+)/VB a/DT	1
+have/VBP combined/VBN to/TO (\w+)/VB eight/CD games/NNS (/RB and/CC (\w+)/VB 34/CD	1
+are/VBP how/WRB to/TO (\w+)/VB and/CC (\w+)/VB graciously/RB	1
+,/, whom/WP fans/NNS (\w+)/VBP to/TO (\w+)/VB ,/, has/VBZ made/VBN	1
+(\w+)/VB ,/, squat/VB or/CC (\w+)/VB out/RP	1
+death/NN toll/NN appears/VBZ (\w+)/VBN to/TO (\w+)/VB significantly/RB	3
+Legislature/NNP to/TO (\w+)/VB more/JJR spending/NN or/CC (\w+)/VB	1
+-/: (\w+)/VB 'em/PRP or/CC (\w+)/VB 'em/PRP -/:	1
+Offense/NNP will/MD (\w+)/VB and/CC (\w+)/VB	1
+someone/NN free/VBP to/TO (\w+)/VB or/CC (\w+)/VB	2
+(\w+)/VB to/TO (\w+)/VB alive/JJ ./.	1
+Dont/NNP (\w+)/VBP momentum/NN if/IN you/PRP (\w+)/VBP youve/NN been/VBN deluding/VBG	1
+uncanny/JJ magnetism/NNS can/MD (\w+)/VB or/CC (\w+)/VB with/IN the/DT slightest/JJS	1
+'d/MD (\w+)/VB to/TO (\w+)/VB gives/VBZ	1
+local/JJ governments/NNS can/MD (\w+)/VB private/JJ property/NN and/CC (\w+)/VB it/PRP to/TO developers/NNS	1
+number/NN of/IN recruits/NNS (\w+)/VBP high-school/NN diplomas/NNS ,/, (\w+)/VBP	1
+rates/NNS (\w+)/VBP ,/, fixed/JJ income/NN prices/NNS (\w+)/VBP ./.	1
+would/MD (\w+)/VB to/TO (\w+)/VB Cleveland/NNP	1
+unit/NN to/TO (\w+)/VB and/CC (\w+)/VB	2
+to/TO (\w+)/VB the/DT ball/NN and/CC (\w+)/VB	1
+I/PRP would/MD rather/RB (\w+)/VB my/PRP$ way/NN than/IN (\w+)/VB	1
+Stearns/NNP will/MD neither/RB (\w+)/VB nor/CC (\w+)/VBP charges/NNS of/IN securities/NNS	1

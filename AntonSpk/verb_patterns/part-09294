@@ -1,0 +1,28 @@
+for/IN me/PRP to/TO (\w+)/VB this/DT game/NN than/IN to/TO (\w+)/VB	1
+'s/POS (\w+)/VB and/CC (\w+)/VB ,/, pointed/VBD and/CC	1
+Americans/NNPS (\w+)/VBP rights/NNS and/CC recreation/NN but/CC (\w+)/VBP	1
+lines/NNS to/TO either/DT (\w+)/VB or/CC (\w+)/VB	1
+to/TO (\w+)/VB and/CC (\w+)/VB consumer/NN items/NNS that/WDT	1
+(\w+)/VB or/CC (\w+)/VB layers/NNS as/RB	1
+people/NNS who/WP could/MD (\w+)/VB and/CC (\w+)/VB	1
+where/WRB you/PRP (\w+)/VBP from/IN or/CC where/WRB you/PRP (\w+)/VBP --/: it/PRP 's/VBZ	1
+(\w+)/VB benefits/NNS or/CC (\w+)/VB the/DT minimum/JJ	1
+elections/NNS (\w+)/VB and/CC (\w+)/VB	2
+can/MD (\w+)/VB people/NNS enough/JJ time/NN to/TO (\w+)/VB even/RB	1
+election/NN ,/, ``/`` (\w+)/VB ,/, (\w+)/VB or/CC draw/VB ,/,	2
+(\w+)/VB some/DT of/IN them/PRP and/CC (\w+)/VB	1
+be/VB reluctant/JJ to/TO (\w+)/VB more/JJR bonds/NNS and/CC would/MD (\w+)/VB their/PRP$ current/JJ	1
+sworn/VBN not/RB to/TO (\w+)/VB or/CC (\w+)/VB down/RP	1
+can/MD (\w+)/VB or/CC (\w+)/VB a/DT certain/JJ environment/NN	1
+)/RB to/TO (\w+)/VB and/CC (\w+)/VB the/DT India/NNP market/NN	1
+it/PRP to/TO (\w+)/VB its/PRP$ guidance/NN ,/, (\w+)/VB	1
+may/MD (\w+)/VB or/CC (\w+)/VB various/JJ assets/NNS	4
+house/NN to/TO (\w+)/VB and/CC a/DT house/NN to/TO (\w+)/VB	1
+he/PRP 'll/MD either/RB (\w+)/VB or/CC (\w+)/VB	1
+Do/VBP they/PRP (\w+)/VB hay/NN or/CC (\w+)/VB	1
+checks/NNS they/PRP (\w+)/VB ,/, people/NNS who/WP (\w+)/VB money/NN	1
+drug/NN seizures/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+now/RB ,/, (\w+)/VB or/CC (\w+)/VB the/DT odd/JJ	1
+have/VB to/TO (\w+)/VB out/RP and/CC I/PRP (\w+)/VBP some/DT tough/JJ choices/NNS	1
+shoot/VB (/NNS and/CC (\w+)/VB )/NNP what/WP would/MD (\w+)/VB	2
+other/JJ color/NN can/MD (\w+)/VB traffic/NN or/CC (\w+)/VB a/DT	1

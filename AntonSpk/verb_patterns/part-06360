@@ -1,0 +1,32 @@
+country/NN (\w+)/VBP to/TO (\w+)/VB ./.	1
+and/CC (\w+)/VBP or/CC (\w+)/VB with/IN	1
+payments/NNS could/MD (\w+)/VB even/RB as/IN home/NN values/NNS (\w+)/VBP	1
+(\w+)/VBP half-empty/JJ and/CC machines/NNS (\w+)/VBP idle/JJ ./.	1
+respectively/RB ,/, (\w+)/VB and/CC (\w+)/VB	1
+goodbyes/NNS ,/, (\w+)/VB one/CD more/JJR picture/NN and/CC (\w+)/VB them/PRP	1
+they/PRP (\w+)/VB telling/VBG their/PRP$ stories/NNS and/CC (\w+)/VB telling/VBG	1
+Tract/NNP 19/CD (\w+)/VB and/CC (\w+)/VB ,/,	1
+and/CC close/VB and/CC (\w+)/VB and/CC (\w+)/VB ./.	1
+the/DT wall/NN and/CC (\w+)/VB or/CC (\w+)/VB on/IN top/NN	1
+(\w+)/VB to/TO work/VB or/CC (\w+)/VB out/RP	2
+not/RB going/VBG to/TO (\w+)/VB or/CC (\w+)/VB them/PRP ./.	3
+(\w+)/VB or/CC (\w+)/VB intensely/RB ./.	1
+entire/JJ Labour/NNP party/NN (\w+)/VBP been/VBN (\w+)/VB leading/VBG ,/,	1
+(\w+)/VB back/RP here/RB or/CC (\w+)/VB elsewhere/RB ,/, I/PRP	1
+"/'' I/PRP just/RB (\w+)/VBP what/WP they/PRP (\w+)/VBP me/PRP	1
+you/PRP (\w+)/VB and/CC (\w+)/VB a/DT program/NN	1
+that/IN prices/NNS would/MD (\w+)/VB and/CC yields/NNS would/MD (\w+)/VB also/RB put/VBD some/DT	1
+said/VBD some/DT "/`` (\w+)/VB the/DT rumor/NN ,/, (\w+)/VB the/DT	1
+'s/VBZ better/JJR to/TO (\w+)/VB it/PRP than/IN to/TO (\w+)/VB it/PRP happen/VB	1
+(\w+)/VBP to/TO make/VB them/PRP (\w+)/VB before/IN you/PRP can/MD	1
+loan/NN were/VBD (\w+)/VBN to/TO (\w+)/VB two/CD percentage/NN points/NNS	1
+action/NN ,/, (\w+)/VB away/RP or/CC (\w+)/VB	1
+to/TO (\w+)/VB their/PRP$ existing/VBG homes/NNS and/CC (\w+)/VB larger/JJR	1
+could/MD (\w+)/VB the/DT tax/NN base/NN and/CC (\w+)/VB welfare/NN obligations/NNS	1
+heaters/NNS ;/: (\w+)/VB or/CC (\w+)/VB a/DT	1
+,/, helped/VBD (\w+)/VB and/CC (\w+)/VB the/DT	1
+could/MD (\w+)/VB many/JJ items/NNS and/CC (\w+)/VB them/PRP to/TO the/DT	1
+It/PRP will/MD (\w+)/VB a/DT chapter/NN and/CC (\w+)/VB	1
+the/DT "/`` (\w+)/VB to/TO (\w+)/VB "/'' file/NN	1
+(\w+)/VBP when/WRB other/JJ things/NNS (\w+)/VBP well/RB ./.	1
+and/CC whether/IN we/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, hold/VB	1

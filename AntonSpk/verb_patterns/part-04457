@@ -1,0 +1,32 @@
+(\w+)/VB ,/, (\w+)/VB ,/, celebrate/VB	1
+(\w+)/VB us/PRP ,/, (\w+)/VB us/PRP	2
+rates/NNS (\w+)/VBP ,/, fixed-income/JJ securities/NNS (\w+)/VBP in/IN value/NN	1
+course/NN ,/, (\w+)/VBP him/PRP or/CC (\w+)/VBP him/PRP he/PRP	1
+can/MD now/RB (\w+)/VB ultimatums/NNS to/TO Bush/NNP --/: (\w+)/VB it/PRP or/CC	1
+stand/VB together/RB ,/, (\w+)/VB being/VBG greedy/JJ and/CC instead/RB (\w+)/VB working/VBG together/RB ./.	1
+1999/CD :/: (\w+)/VBP all/DT questions/NNS ,/, and/CC (\w+)/VBP frank/JJ answers/NNS ./.	2
+better/JJR to/TO (\w+)/VB a/DT shot/NN than/IN to/TO (\w+)/VB	1
+the/DT car/NN and/CC (\w+)/VB the/DT bus/NN ,/, (\w+)/VB up/RP	1
+(\w+)/VB the/DT cameras/NNS and/CC (\w+)/VB	1
+(\w+)/VB that/DT home/NN and/CC (\w+)/VB	1
+(\w+)/VB what/WP they/PRP wanted/VBD and/CC (\w+)/VB the/DT	1
+right/JJ to/TO (\w+)/VB and/CC (\w+)/VB private/JJ land/NN ,/,	1
+need/NN will/MD (\w+)/VB or/CC (\w+)/VB whether/IN the/DT	1
+national/JJ team/NN can/MD (\w+)/VB or/CC (\w+)/VB	1
+pitchers/NNS (\w+)/VB and/CC (\w+)/VB ,/, rise/VB and/CC	1
+devices/NNS that/WDT can/MD (\w+)/VB and/CC (\w+)/VB high-definition/JJ TV/NN streams/NNS	1
+n't/RB (\w+)/VB ,/, you/PRP (\w+)/VBZ ./. "/''	1
+company/NN can/MD (\w+)/VB and/CC (\w+)/VB shares/NNS	1
+before/IN they/PRP (\w+)/VBP the/DT field/NN to/TO (\w+)/VB	1
+game/NN to/TO (\w+)/VB and/CC (\w+)/VB items/NNS through/IN a/DT	3
+to/TO (\w+)/VB that/DT home/NN and/CC (\w+)/VB	1
+would/MD neither/RB (\w+)/VB nor/CC (\w+)/VB	15
+of/IN bilateral/VBG (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB prices/NNS and/CC (\w+)/VB earnings/NNS	1
+they/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, ''/''	1
+skilled/JJ at/IN the/DT (\w+)/VB and/CC (\w+)/VB that/IN has/VBZ	1
+see/VB him/PRP (\w+)/VB ,/, (\w+)/VB	2
+It/PRP was/VBD either/CC (\w+)/VB to/TO a/DT condo/NN or/CC (\w+)/VB here/RB	1
+go/VBP ,/, mayors/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+(\w+)/VB ,/, ca/MD n't/RB (\w+)/VB ,/,	2
+gathered/VBD to/TO (\w+)/VB and/CC (\w+)/VB private/JJ	1

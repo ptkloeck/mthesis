@@ -1,0 +1,32 @@
+you/PRP (\w+)/VB or/CC (\w+)/VB money/NN	1
+it/PRP can/MD (\w+)/VB ,/, (\w+)/VB ,/, caress/NNS ,/,	1
+lot/NN to/TO (\w+)/VB and/CC a/DT lot/NN to/TO (\w+)/VB ./. ''/''	1
+n't/RB (\w+)/VB or/CC (\w+)/VB too/RB	1
+to/TO (\w+)/VB and/CC easy/JJ to/TO (\w+)/VB	1
+wants/VBZ to/TO (\w+)/VB at/IN the/DT club/NN and/CC (\w+)/VB it/PRP forward/RB under/IN	1
+prices/NNS are/VBP (\w+)/VBN to/TO (\w+)/VB further/RBR this/DT	1
+of/IN Columbia/NNP to/TO (\w+)/VB talking/VBG and/CC (\w+)/VB doing/VBG	1
+them/PRP to/TO (\w+)/VB in/RP or/CC (\w+)/VB	1
+(\w+)/VB superintendents/NNS ,/, he/PRP can/MD (\w+)/VB a/DT	1
+individual/JJ investors/NNS who/WP (\w+)/VBP and/CC (\w+)/VBP a/DT combined/VBN	1
+will/MD (\w+)/VB the/DT rules/NNS or/CC (\w+)/VB	1
+and/CC stop/VB ,/, (\w+)/VB and/CC (\w+)/VB ,/, start/VB	1
+companies/NNS (\w+)/VB or/CC (\w+)/VB their/PRP$ payouts/NNS over/IN	1
+(\w+)/VB or/CC (\w+)/VB these/DT positions/NNS ./.	1
+that/IN you/PRP can/MD (\w+)/VB or/CC (\w+)/VB the/DT flow/NN	1
+They/PRP had/VBD to/TO (\w+)/VB the/DT Harlem/NNP Globetrotters/NNPS and/CC (\w+)/VB	1
+(\w+)/VB it/PRP easier/RBR to/TO (\w+)/VB filibusters/NNS that/WDT	2
+(\w+)/VBP and/CC (\w+)/VBP ,/, they/PRP 'd/MD	1
+ca/MD n't/RB (\w+)/VB there/RB and/CC (\w+)/VB	1
+(\w+)/VB this/DT opportunity/NN to/TO (\w+)/VB him/PRP my/PRP$	1
+as/IN producers/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+I/PRP (\w+)/VB more/JJR cases/NNS than/IN I/PRP (\w+)/VBP ,/, Ã/NNP	1
+to/TO (\w+)/VB than/IN to/TO (\w+)/VB	41
+(\w+)/VB the/DT playoffs/NNS and/CC (\w+)/VB	1
+for/IN farmers/NNS to/TO (\w+)/VB ,/, (\w+)/VB ,/, order/VB	1
+to/TO (\w+)/VB or/CC (\w+)/VB games/NNS ./.	1
+will/MD (\w+)/VB and/CC (\w+)/VB at/IN the/DT Battle/NNP	1
+Shaq/NNP ,/, (\w+)/VB or/CC (\w+)/VB	1
+renters/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, and/CC where/WRB	1
+to/TO (\w+)/VB and/CC a/DT house/NN to/TO (\w+)/VB ,/, but/CC then/RB	1
+-/: (\w+)/VB it/PRP or/CC (\w+)/VB	1

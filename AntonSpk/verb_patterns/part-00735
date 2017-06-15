@@ -1,0 +1,24 @@
+with/IN power/NN to/TO (\w+)/VB ,/, (\w+)/VB and/CC	2
+same/JJ chance/NN to/TO (\w+)/VB or/CC (\w+)/VB ./.	1
+Saturday/NNP and/CC (\w+)/VB playing/NN ,/, or/CC (\w+)/VB ,/, go/VB home/NN	1
+can/MD (\w+)/VB ,/, bid/VB on/RP and/CC (\w+)/VB products/NNS from/IN eBay/RB	1
+(\w+)/VB or/CC (\w+)/VB 81/CD findings/NNS	1
+train/NN and/CC (\w+)/VB and/CC (\w+)/VB its/PRP$ doors/NNS when/WRB	1
+we/PRP could/MD (\w+)/VB it/PRP or/CC we/PRP could/MD (\w+)/VB	1
+easier/JJR to/TO (\w+)/VB --/: or/CC (\w+)/VB	1
+serious/JJ (\w+)/VB --/: and/CC --/: (\w+)/VB	1
+They/PRP can/MD (\w+)/VB to/TO (\w+)/VB patches/NNS	1
+option/NN to/TO (\w+)/VB and/CC (\w+)/VB it/PRP	1
+son/NN to/TO (\w+)/VB and/CC the/DT other/JJ to/TO (\w+)/VB ./.	1
+for/IN players/NNS to/TO (\w+)/VB and/CC (\w+)/VB virtual/JJ	1
+do/VBP n't/RB (\w+)/VB to/TO (\w+)/VB work/NN ./. "/''	1
+(\w+)/VBP when/WRB we/PRP (\w+)/VBP	1
+to/TO (\w+)/VB or/CC (\w+)/VB on/IN the/DT war/NN	2
+to/TO (\w+)/VB veterans/NNS something/NN to/TO (\w+)/VB	1
+not/RB (\w+)/VB and/CC (\w+)/VB on/IN best/JJS	1
+We/PRP (\w+)/VBP to/TO (\w+)/VB a/DT lot/NN	1
+is/VBZ win/VB and/CC (\w+)/VB going/VBG or/CC (\w+)/VB	1
+,/, output/NN is/VBZ (\w+)/VBN to/TO (\w+)/VB during/IN the/DT	1
+(\w+)/VB to/TO (\w+)/VB and/CC socialize/VB ,/,	1
+:/: Because/IN I/PRP (\w+)/VBP music/NN but/CC (\w+)/VBP mindless/JJ	1
+fads/NNS (\w+)/VB and/CC (\w+)/VB that/IN you/PRP	1

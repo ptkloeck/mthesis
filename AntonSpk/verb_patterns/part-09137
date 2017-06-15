@@ -1,0 +1,40 @@
+city/NN would/MD (\w+)/VB a/DT way/NN to/TO (\w+)/VB ,/,	1
+cakes/NNS may/MD (\w+)/VB and/CC (\w+)/VB ,/, but/CC	1
+'s/VBZ (\w+)/VBN to/TO ,/, why/WRB (\w+)/VB on/RP ?/.	1
+'s/POS (\w+)/VBP or/CC (\w+)/VBP	3
+(\w+)/VB or/CC (\w+)/VB a/DT house/NN or/CC	2
+matter/VB if/IN you/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, seemed/VBN	1
+(\w+)/VB up/RP with/IN menus/NNS that/WDT (\w+)/VBP well/RB with/IN	1
+prompt/VB investors/NNS to/TO (\w+)/VB stocks/NNS and/CC (\w+)/VB bonds/NNS	1
+(\w+)/VB stocks/NNS to/TO (\w+)/VB bonds/NNS	3
+novels/NNS will/MD (\w+)/VB and/CC which/WDT will/MD (\w+)/VB	1
+prickly/JJ (\w+)/VB and/CC (\w+)/VB among/IN senior/JJ aides/NNS	1
+'s/VBZ free/JJ to/TO (\w+)/VB and/CC (\w+)/VB	1
+1.91/CD metres/NNS to/TO (\w+)/VB gold/NN and/CC (\w+)/VB	1
+not/RB (\w+)/VB taxes/NNS but/CC would/MD not/RB (\w+)/VB them/PRP ,/,	1
+government/NN that/WDT will/MD (\w+)/VB you/PRP the/DT tools/NNS to/TO (\w+)/VB care/NN	1
+,/, who/WP (\w+)/VBP to/TO (\w+)/VB New/NNP Jersey/NNP ,/,	1
+to/TO (\w+)/VB ,/, (\w+)/VB or/CC distribute/VB syringes/NNS	1
+™/NNP fortunes/NNS will/MD (\w+)/VB and/CC (\w+)/VB on/IN	1
+'s/POS career/NN ,/, (\w+)/VB and/CC (\w+)/VB	1
+that/DT is/VBZ (\w+)/VBN to/TO (\w+)/VB to/TO 9,000/CD by/IN	1
+birds/NNS and/CC animals/NNS (\w+)/VB and/CC (\w+)/VB	1
+they/PRP (\w+)/VBP and/CC (\w+)/VBP people/NNS ,/, how/WRB	1
+power/NN to/TO (\w+)/VB or/CC (\w+)/VB reputations/NNS and/CC	1
+(\w+)/VB in/IN late/RB June/NNP and/CC (\w+)/VB	1
+moviegoers/NNS and/CC can/MD (\w+)/VB or/CC (\w+)/VB industry/NN careers/NNS ./.	1
+that/WDT (\w+)/VB in/IN tiny/JJ raindrops/NNS and/CC (\w+)/VB	1
+the/DT tax/NN (\w+)/VBP ,/, it/PRP does/VBZ n't/RB (\w+)/VB	1
+simple/JJ ,/, you/PRP (\w+)/VBP or/CC (\w+)/VBP and/CC	1
+Dreams/NNP will/MD (\w+)/VB and/CC (\w+)/VB	1
+enough/JJ to/TO (\w+)/VB ,/, (\w+)/VB ,/,	1
+allowed/VBN to/TO (\w+)/VB or/CC (\w+)/VB from/IN 1.26/CD %/NN	1
+for/IN to/TO (\w+)/VB tonight/RB and/CC Ill/NNP (\w+)/VBP	1
+``/`` People/NNS can/MD (\w+)/VB or/CC (\w+)/VB ,/, but/CC I/PRP	1
+(\w+)/VB or/CC (\w+)/VB ?/. was/VBD it/PRP	1
+(\w+)/VB the/DT heat/NN rather/RB than/IN (\w+)/VB it/PRP ,/,	1
+and/CC presidents/NNS ,/, (\w+)/VB and/CC (\w+)/VB	1
+juncture/NN to/TO (\w+)/VB the/DT proceedings/NNS or/CC (\w+)/VB	2
+merely/RB (\w+)/VB agencies/NNS to/TO close/VB or/CC (\w+)/VB	1
+entire/JJ Reagan/NNP administration/NN (\w+)/VB and/CC (\w+)/VB	1
+of/IN people/NNS still/RB (\w+)/VB and/CC (\w+)/VB the/DT	2

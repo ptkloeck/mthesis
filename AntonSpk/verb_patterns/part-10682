@@ -1,0 +1,28 @@
+to/TO (\w+)/VB it/PRP and/CC not/RB (\w+)/VB	1
+with/IN 40/CD ,/, (\w+)/VB or/CC (\w+)/VB	1
+date/NN (\w+)/VBP and/CC (\w+)/VBP and/CC the/DT project/NN	1
+can/MD not/RB (\w+)/VB or/CC (\w+)/VB the/DT allegations/NNS in/IN	1
+--/: the/DT (\w+)/VBP and/CC (\w+)/VBP over/IN the/DT budget/NN	1
+work/VB with/IN ,/, (\w+)/VB from/IN or/CC (\w+)/VB to/TO	1
+may/MD also/RB (\w+)/VB muscle/NN spasms/NNS ,/, (\w+)/VB relaxation/NN ,/, improve/VB	1
+things/NNS (\w+)/VBP ,/, the/DT more/JJR they/PRP (\w+)/VBP the/DT same/JJ ,/,	6
+ready/JJ to/TO (\w+)/VB the/DT preseason/NN and/CC (\w+)/VB defending/VBG	1
+The/DT problem/NN we/PRP (\w+)/VBP is/VBZ we/PRP (\w+)/VBP	1
+`/`` (\w+)/VB the/DT rumor/NN and/CC (\w+)/VB the/DT fact/NN ,/,	1
+teams/NNS can/MD (\w+)/VB or/CC (\w+)/VB your/PRP$ team/NN ./.	1
+bonds/NNS ,/, investors/NNS (\w+)/VB bond/NN exposure/NN and/CC (\w+)/VB	1
+(\w+)/VBP suspended/VBN their/PRP$ careers/NNS may/MD (\w+)/VB the/DT skills/NNS needed/VBN	1
+(\w+)/VB it/PRP away/RB ,/, so/RB (\w+)/VBP the/DT charitable/JJ deduction/NN	1
+(\w+)/VBN or/CC (\w+)/VB with/IN	1
+do/VBP n't/RB (\w+)/VB to/TO (\w+)/VB any/DT more/JJR	1
+can/MD (\w+)/VB and/CC (\w+)/VB ./.	40
+grounds/NNS did/VBD (\w+)/VB and/CC (\w+)/VB	1
+mechanical/JJ piping/NN must/MD (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VBP ,/, the/DT kiddies/NNS (\w+)/VBP because/IN	1
+chefs/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN	2
+to/TO (\w+)/VB or/CC (\w+)/VB on/IN every/DT	1
+start/VB to/TO (\w+)/VB their/PRP$ value/NN when/WRB you/PRP (\w+)/VBP floundering/VBG on/IN	1
+funds/NNS do/VBP n't/RB (\w+)/VB through/RP ,/, we/PRP might/MD (\w+)/VB	1
+(\w+)/VB this/DT risk/NN and/CC (\w+)/VB this/DT	1
+'/POS rise/NN ,/, (\w+)/VB ,/, and/CC (\w+)/VB again/RB	1
+that/WDT wants/VBZ to/TO (\w+)/VB and/CC (\w+)/VB shares/NNS	3

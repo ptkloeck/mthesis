@@ -1,0 +1,39 @@
+market/NN -/: (\w+)/VB ,/, (\w+)/VB ,/, buy/VB	1
+acts/NNS which/WDT may/MD (\w+)/VB or/CC (\w+)/VB it/PRP	1
+(\w+)/VB on/IN Sunday/NNP if/IN they/PRP (\w+)/VB another/DT day/NN of/IN	1
+We/PRP had/VBD to/TO (\w+)/VB and/CC (\w+)/VB the/DT	1
+If/IN Jefferson/NNP voters/NNS (\w+)/VBP to/TO (\w+)/VB the/DT issue/NN	1
+young/JJ professionals/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, the/DT people/NNS	1
+fans/NNS (\w+)/VB and/CC (\w+)/VB tickets/NNS ./.	11
+,/, (\w+)/VBP away/RB ,/, and/CC (\w+)/VBP	1
+to/TO (\w+)/VB energy/NN efficiencies/NNS and/CC (\w+)/VB	1
+Cases/NNS every/DT day/NN (\w+)/VBP and/CC (\w+)/VBP	2
+month/NN :/: (\w+)/VB ,/, (\w+)/VB and/CC hold/VB	1
+,/, then/RB (\w+)/VB it/PRP out/RP and/CC (\w+)/VB it/PRP	1
+(\w+)/VB rapidly/RB to/TO (\w+)/VB focused/VBN on/IN a/DT	1
+individual/NN can/MD (\w+)/VB or/CC (\w+)/VB	2
+are/VBP (\w+)/VBN to/TO (\w+)/VB in/IN early/JJ	1
+will/MD either/RB (\w+)/VB even/RB ,/, (\w+)/VB a/DT small/JJ profit/NN	1
+investors/NNS (\w+)/VBP it/PRP to/TO (\w+)/VB dollars/NNS	1
+to/TO (\w+)/VB screaming/VBG poverty/NN and/CC (\w+)/VB screaming/VBG productivity/NN	1
+to/TO (\w+)/VB or/CC (\w+)/VB stocks/NNS at/IN	6
+politician/NN to/TO (\w+)/VB and/CC (\w+)/VB on/IN populist/JJ	1
+player/NN to/TO (\w+)/VB open/RP a/DT game/NN or/CC (\w+)/VB	1
+sponsors/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, and/CC you/PRP	1
+but/CC they/PRP (\w+)/VBP and/CC they/PRP (\w+)/VBP together/RB ./.	1
+have/VB to/TO (\w+)/VB more/JJR development/NN rights/NNS to/TO (\w+)/VB	1
+must/MD (\w+)/VB or/CC (\w+)/VB the/DT commission/NN list/NN	1
+used/VBN it/PRP to/TO (\w+)/VB or/CC (\w+)/VB	2
+Books/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+-/: would/MD (\w+)/VB the/DT system/NN ,/, not/RB (\w+)/VB it/PRP	1
+(\w+)/VB and/CC (\w+)/VB items/NNS ,/, and/CC	1
+helps/VBZ people/NNS (\w+)/VB and/CC (\w+)/VB properties/NNS in/IN	1
+(\w+)/VB or/CC (\w+)/VB stocks/NNS at/IN	8
+to/TO (\w+)/VB running/VBG and/CC (\w+)/VB riding/NN	1
+Dime/NNP shareholders/NNS (\w+)/VBP the/DT merger/NN and/CC (\w+)/VB the/DT North/NNP Fork/NNP	2
+,/, but/CC horses/NNS (\w+)/VBP or/CC (\w+)/VBP	1
+(\w+)/VB or/CC (\w+)/VB the/DT subway/NN ./.	2
+that/WDT can/MD (\w+)/VB or/CC (\w+)/VB her/PRP$	1
+Our/PRP$ listeners/NNS can/MD (\w+)/VB ,/, (\w+)/VB ,/, rewind/JJ	1
+to/TO (\w+)/VB out/RP if/IN she/PRP will/MD (\w+)/VB financial/JJ	1
+learned/VBD how/WRB to/TO (\w+)/VB and/CC (\w+)/VB	1

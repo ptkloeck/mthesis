@@ -1,0 +1,36 @@
+time/NN bills/NNS often/RB (\w+)/VBP or/CC (\w+)/VBP	2
+change/VB ,/, (\w+)/VB or/CC (\w+)/VB ,/,	1
+'s/PRP just/RB (\w+)/VBP to/TO (\w+)/VB sometimes/RB ,/, and/CC	1
+(\w+)/VB or/CC (\w+)/VB Internet/NN investor/NN optimism/NN	2
+day/NN ,/, (\w+)/VBP or/CC (\w+)/VBP	1
+company/NN ,/, not/RB (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB ,/, for/IN	8
+retail/JJ stores/NNS to/TO (\w+)/VB and/CC (\w+)/VB trading/manufacturing/JJ companies/NNS	1
+(\w+)/VB to/TO (\w+)/VB his/PRP$ scheduled/JJ	2
+(\w+)/VB compromised/JJ accounts/NNS and/CC (\w+)/VB new/JJ	1
+six/CD decades/NNS (\w+)/VB and/CC (\w+)/VB ,/,	3
+(\w+)/VBN to/TO (\w+)/VB by/IN 19.5/JJ	1
+400megs/CD ,/, (\w+)/VB or/CC (\w+)/VB ,/, both/DT	1
+to/TO (\w+)/VB and/CC she/PRP would/MD (\w+)/VB her/PRP$ blessing/NN	1
+'re/VBP going/VBG to/TO (\w+)/VB or/CC (\w+)/VB with/IN you/PRP ,/,	2
+place/NN to/TO (\w+)/VB ,/, as/RB well/RB as/IN (\w+)/VB ,/, CD/NNP 's/POS	1
+and/CC (\w+)/VB deadlines/NNS because/IN officials/NNS (\w+)/VBP not/RB adequately/RB	1
+was/VBD to/TO (\w+)/VB coach/NN Larry/NNP Krystkowiak/NNP and/CC (\w+)/VB Scott/NNP Skiles/NNP	1
+limited/JJ ,/, so/RB (\w+)/VB or/CC (\w+)/VB your/PRP$ bike/NN	1
+not/RB (\w+)/VB ,/, it/PRP does/VBZ not/RB (\w+)/VB either/RB	1
+students/NNS (\w+)/VB and/CC (\w+)/VB ,/, improving/VBG their/PRP$	1
+Senators/NNS (\w+)/VBP ,/, and/CC senators/NNS (\w+)/VBP ,/, but/CC Scott/NNP	2
+to/TO (\w+)/VB themselves/PRP and/CC (\w+)/VB the/DT sources/NNS	1
+(\w+)/VB ,/, and/CC not/RB (\w+)/VB	3
+higher/JJR tariffs/NNS may/MD (\w+)/VB or/CC (\w+)/VB	1
+any/DT time/NN to/TO (\w+)/VB and/CC (\w+)/VB shares/NNS	2
+good/JJ sportsmanship/NN ,/, (\w+)/VB or/CC (\w+)/VB	1
+own/JJ team/NN 's/VBZ (\w+)/VB or/CC (\w+)/VB clash/NN with/IN	1
+Senate/NNP is/VBZ to/TO (\w+)/VB or/CC (\w+)/VB	1
+able/JJ to/TO (\w+)/VB the/DT ace/NN and/CC (\w+)/VB	1
+products/NNS consumers/NNS (\w+)/VBP or/CC (\w+)/VBP	2
+now/RB can/MD (\w+)/VB and/CC (\w+)/VB data/NN	1
+(\w+)/VB back/RP stock/NN and/CC (\w+)/VB	4
+,/, (\w+)/VB on/RP ,/, you/PRP (\w+)/VBP in/IN	2
+"/`` (\w+)/VB their/PRP$ commitments/NNS differently/RB ,/, (\w+)/VB war/NN differently/RB ,/,	1
+(\w+)/VB and/CC (\w+)/VB the/DT tour/NN near/IN	1

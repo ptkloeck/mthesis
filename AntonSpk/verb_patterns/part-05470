@@ -1,0 +1,33 @@
+expected/VBN to/TO neither/RB (\w+)/VB nor/CC (\w+)/VB	2
+(\w+)/VBP ,/, rise/VB and/CC (\w+)/VB again/RB ./.	1
+they/PRP can/MD (\w+)/VB and/CC (\w+)/VB ,/, help/VB	1
+chance/NN to/TO (\w+)/VB down/RP -/: or/CC (\w+)/VB up/RP ,/, rather/RB	1
+only/RB to/TO (\w+)/VB two/CD and/CC (\w+)/VB two/CD	1
+will/MD (\w+)/VB something/NN and/CC (\w+)/VB something/NN	3
+(\w+)/VB and/CC talk/VB and/CC (\w+)/VB on/IN each/DT	1
+'s/VBZ easy/RB (\w+)/VBN ,/, easy/RB (\w+)/VB	1
+trade/NN especially/RB (\w+)/VB and/CC (\w+)/VB very/RB important/JJ ./.	1
+card/NN fees/NNS (\w+)/VBN to/TO (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB a/DT manager/NN	1
+up/RP characters/NNS ,/, (\w+)/VB and/CC (\w+)/VB property/NN	1
+(\w+)/VBP and/CC fans/NNS (\w+)/VBP ./.	2
+may/MD (\w+)/VB the/DT legal/JJ battle/NN but/CC (\w+)/VBP the/DT corporate/JJ war/NN	1
+Hormones/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP in/IN the/DT menstrual/JJ	1
+the/DT office/NN to/TO (\w+)/VB and/CC (\w+)/VB thoroughbreds/NNS ./.	2
+who/WP do/VBP n't/RB (\w+)/VB class/NN (\w+)/VBP key/JJ slides/NNS ,/,	1
+the/DT good/JJ ones/NNS (\w+)/VBP a/DT way/NN to/TO not/RB (\w+)/VB the/DT confidence/NN or/CC	1
+(\w+)/VBP ,/, (\w+)/VBP and/CC change/VBP	1
+boxes/NNS seemed/VBD to/TO (\w+)/VB riders/NNS ,/, not/RB (\w+)/VB them/PRP	1
+would/MD (\w+)/VB it/PRP and/CC three/CD would/MD (\w+)/VB it/PRP	1
+which/WDT would/MD (\w+)/VB and/CC (\w+)/VB and/CC started/VBD to/TO	1
+them/PRP to/TO (\w+)/VB and/CC (\w+)/VB ,/, "/''	4
+hate/VB to/TO (\w+)/VB this/DT world-class/JJ operation/NN and/CC (\w+)/VB it/PRP	1
+"/`` We/PRP 're/VBP (\w+)/VBN and/CC (\w+)/VBP ./.	1
+are/VBP refusing/VBG to/TO (\w+)/VB up/RP ,/, vowing/VBG to/TO (\w+)/VB their/PRP$ complaints/NNS to/TO	2
+weights/NNS as/IN they/PRP (\w+)/VBP and/CC (\w+)/VBP	1
+,/, shouting/VBG (\w+)/VB and/CC (\w+)/VB orders/NNS to/TO one/CD	1
+businesses/NNS (\w+)/VBP and/CC which/WDT ones/NNS should/MD (\w+)/VB	1
+manage/VBP to/TO (\w+)/VB irritating/JJ ways/NNS to/TO (\w+)/VB	1
+Do/VBP you/PRP (\w+)/VB or/CC (\w+)/VB of/IN legal/JJ fishing/NN	1
+(\w+)/VB what/WP they/PRP (\w+)/VBP you/PRP ,/,	2
+--/: Bank/NNP brands/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, but/CC Robert/NNP	1

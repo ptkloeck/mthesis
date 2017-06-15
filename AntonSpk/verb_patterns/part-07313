@@ -1,0 +1,30 @@
+woman/NN you/PRP (\w+)/VBP to/TO (\w+)/VB ./.	3
+who/WP 'd/MD (\w+)/VB to/TO (\w+)/VB her/PRP ,/,	1
+to/TO (\w+)/VB the/DT Reagan/NNP Administration/NNP to/TO (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB him/PRP by/IN	1
+to/TO (\w+)/VB the/DT nomination/NN and/CC (\w+)/VB in/IN	1
+(\w+)/VB to/TO (\w+)/VB the/DT FDA/NNP 's/VBZ	2
+(\w+)/VBP to/TO (\w+)/VB their/PRP$ teams/NNS	1
+(\w+)/VBP ,/, he/PRP (\w+)/VB	1
+traders/NNS to/TO (\w+)/VB index/NN futures/NNS and/CC (\w+)/VB the/DT	2
+rather/RB (\w+)/VB 20-7/CD than/IN (\w+)/VB 20-7/CD ./. One/CD	1
+want/VBP to/TO (\w+)/VB out/RP can/MD (\w+)/VB to/TO meetings/NNS of/IN	6
+(\w+)/VB or/CC (\w+)/VB depending/VBG on/IN factors/NNS	1
+Index/NNP funds/NNS typically/RB (\w+)/VBP or/CC (\w+)/VBP securities/NNS at/IN	1
+troops/NNS here/RB (\w+)/VBP and/CC (\w+)/VBP for/IN 30/CD	1
+-/: (\w+)/VBP and/CC (\w+)/VBP in/IN virtual/JJ lockstep/NN	1
+them/PRP invariably/RB (\w+)/VBP high/JJ and/CC (\w+)/VBP low/JJ	1
+(\w+)/VB aside/RB and/CC (\w+)/VB to/TO other/JJ parties/NNS	1
+if/IN you/PRP (\w+)/VBP it/PRP ,/, (\w+)/VBD up/RP IFC.com/NNP	1
+was/VBD a/SYM (\w+)/VBP and/CC (\w+)/VBP on/IN	1
+market/NN to/TO (\w+)/VB dollars/NNS and/CC (\w+)/VB yen/NNS to/TO stem/VB	1
+kind/NN of/IN (\w+)/VBP and/CC (\w+)/VBP	2
+n't/RB you/PRP (\w+)/VB a/DT week/NN off/RP and/CC (\w+)/VB Randy/NNP	1
+./. ``/`` You/PRP (\w+)/VB around/RP ,/, go/VB (\w+)/VB	1
+And/CC guaranteed/VBN ,/, (\w+)/VB or/CC (\w+)/VB ,/, when/WRB Weghorn/NNP	1
+(\w+)/VB but/CC should/MD n't/RB (\w+)/VB	1
+t/NN (\w+)/VBP and/CC (\w+)/VBP with/IN	1
+can/MD we/PRP possibly/RB (\w+)/VB (/NNS or/CC (\w+)/VB )/NNP AvalonBay/NNP 's/POS	1
+Obama/NNP could/MD (\w+)/VB the/DT state/NN and/CC still/RB (\w+)/VB the/DT election/NN	1
+people/NNS will/MD (\w+)/VB ,/, and/CC people/NNS will/MD (\w+)/VB the/DT	1
+(\w+)/VB orders/NNS overwhelmed/VBD (\w+)/VB offers/NNS ./.	1

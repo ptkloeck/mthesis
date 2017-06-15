@@ -1,0 +1,35 @@
+A/NN 's/VBZ (\w+)/VB in/IN Chicago/NNP and/CC (\w+)/VB	1
+resignation/NN will/MD (\w+)/VB or/CC (\w+)/VB the/DT presidency/NN	1
+Expo/NNP ,/, (\w+)/VB ,/, (\w+)/VB ,/, trade/NN	1
+prices/NNS may/MD (\w+)/VB or/CC (\w+)/VB the/DT same/JJ depending/VBG	1
+(\w+)/VB patenting/NN and/CC (\w+)/VB charging/VBG royalties/NNS ./.	1
+Hawai'i/NNP roads/NNS "/`` (\w+)/VBP desirable/JJ safety/NN features/NNS ,/, (\w+)/VBP inadequate/JJ	1
+(\w+)/VB up/RP as/IN they/PRP (\w+)/VBP along/IN this/DT road/NN	2
+her/PRP$ symptoms/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+did/VBD n't/RB (\w+)/VB down/RB here/RB to/TO (\w+)/VB	1
+has/VBZ to/TO (\w+)/VB talking/VBG and/CC (\w+)/VB	2
+(\w+)/VB dollars/NNS and/CC (\w+)/VB yen/NNS to/TO	4
+to/TO (\w+)/VB your/PRP$ home/NN and/CC (\w+)/VB another/DT --/:	1
+(\w+)/VBP to/TO (\w+)/VB ,/, was/VBD	2
+to/TO (\w+)/VB or/CC (\w+)/VB equipment/NN ,/, "/''	1
+did/VBD (\w+)/VB the/DT rumor/NN and/CC (\w+)/VB (/NNS or/CC not/RB	1
+dealers/NNS who/WP match/VBP (\w+)/VB and/CC (\w+)/VB orders/NNS	2
+and/CC letting/VBG companies/NNS (\w+)/VB and/CC (\w+)/VB	1
+each/DT has/VBZ (\w+)/VBN its/PRP$ minimum/JJ wage/NN to/TO (\w+)/VB	1
+it/PRP would/MD (\w+)/VB and/CC (\w+)/VB ,/,	1
+'s/VBZ been/VBN '/`` (\w+)/VBN or/CC (\w+)/VBN '/''	1
+jobs/NNS and/CC relationships/NNS (\w+)/VBP and/CC (\w+)/VBP	2
+government/NN in/IN Iraq/NNP (\w+)/VBP rather/RB than/IN (\w+)/VBP	1
+a/DT permit/NN to/TO (\w+)/VB or/CC (\w+)/VB their/PRP$	1
+to/TO (\w+)/VB him/PRP permission/NN to/TO (\w+)/VB a/DT holiday/NN	1
+things/NNS in/IN diabetes/NN (\w+)/VB and/CC (\w+)/VB ,/, "/'' Atkinson/NNP	1
+user/NN could/MD (\w+)/VB or/CC (\w+)/VB private/JJ information/NN	1
+(\w+)/VBP and/CC (\w+)/VBP ./. When/WRB	1
+operations/NNS to/TO (\w+)/VB or/CC (\w+)/VB the/DT	1
+They/PRP all/DT (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VBP or/CC (\w+)/VBP ,/, I/PRP know/VBP	1
+(\w+)/VBN over/RP and/CC we/PRP (\w+)/VBP	1
+will/MD (\w+)/VB their/PRP$ division/NN unless/IN they/PRP (\w+)/VBP two/CD of/IN their/PRP$	1
+those/DT who/WP (\w+)/VBP and/CC (\w+)/VB	2
+educated/VBN guesses/NNS (\w+)/VBP ,/, they/PRP do/VBP n't/RB (\w+)/VB	1
+to/TO (\w+)/VB her/PRP$ friends/NNS and/CC (\w+)/VB her/PRP$ enemies/NNS	1

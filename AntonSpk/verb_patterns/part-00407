@@ -1,0 +1,38 @@
+'s/POS stock/NN can/MD (\w+)/VB or/CC (\w+)/VB	2
+,/, (\w+)/VBP ,/, or/CC (\w+)/VBP a/DT bicycle/NN when/WRB	1
+But/CC ,/, (\w+)/VB or/CC (\w+)/VB ,/,	12
+people/NNS who/WP (\w+)/VB and/CC (\w+)/VB shares/NNS on/IN	9
+ability/NN to/TO (\w+)/VB or/CC (\w+)/VB large/JJ blocks/NNS	1
+ailment/NN and/CC may/MD (\w+)/VB to/TO (\w+)/VB one/CD or/CC more/JJR	1
+they/PRP (\w+)/VBP offstage/JJ and/CC sometimes/RB they/PRP (\w+)/VBP back/RB	1
+kind/RB of/IN easy/JJ (\w+)/VBN ,/, easy/RB (\w+)/VB	1
+the/DT commodity/NN they/PRP (\w+)/VBP or/CC (\w+)/VBP ./.	1
+its/PRP$ time/NN to/TO (\w+)/VB a/DT developer/NN and/CC will/MD (\w+)/VB control/NN of/IN the/DT	1
+(\w+)/VBP them/PRP a/DT chance/NN to/TO (\w+)/VB the/DT	1
+advice/NN to/TO (\w+)/VB and/CC (\w+)/VB up/RP	1
+tries/VBZ to/TO (\w+)/VB over/IN Wilhelmina/NNP --/: or/CC (\w+)/VB	1
+(\w+)/VBP when/WRB you/PRP (\w+)/VBP to/TO Elijay/NNP	1
+so/RB far/RB (\w+)/VBP been/VBN hit/VBN or/CC (\w+)/VB	1
+shots/NNS can/MD (\w+)/VB or/CC (\w+)/VB sales/NNS	1
+and/CC whether/IN they/PRP (\w+)/VBP or/CC (\w+)/VBP ,/,	1
+in/IN folk/NN art/NN (\w+)/VB and/CC (\w+)/VB	1
+recommendation/NN to/TO '/`` (\w+)/VB '/'' from/IN (\w+)/VB '/'' after/IN	1
+of/IN red/JJ pinstripes/NNS (\w+)/VB the/DT Mets/NNPS (\w+)/VB out/RP	1
+to/TO (\w+)/VB and/CC (\w+)/VB damaged/VBN property/NN	2
+(\w+)/VB quickly/RB ,/, and/CC mostly/RB (\w+)/VB about/RB five/CD miles/NNS	1
+radios/NNS ,/, (\w+)/VB or/CC (\w+)/VB a/DT Philco/NNP	1
+may/MD (\w+)/VB or/CC (\w+)/VB of/IN	1
+time/NN to/TO (\w+)/VB those/DT old/JJ bulbs/NNS and/CC (\w+)/VB	1
+that/IN people/NNS may/MD (\w+)/VB or/CC (\w+)/VB but/CC that/IN nobody/NN	2
+n't/RB (\w+)/VB his/PRP$ weight/NN (\w+)/VB him/PRP	1
+:/: I/PRP (\w+)/VB Susan/NNP Orlean/NNP ,/, I/PRP (\w+)/VBP Susan/NNP Orlean/NNP ,/,	1
+(\w+)/VB in/IN September/NNP and/CC (\w+)/VB in/IN	1
+It/PRP can/MD only/RB (\w+)/VB or/CC (\w+)/VB	1
+wish/VBP to/TO (\w+)/VB and/CC (\w+)/VB as/IN	2
+authority/NN to/TO (\w+)/VB and/CC (\w+)/VB or/CC perform/VB evaluations/NNS	1
+are/VBP (\w+)/VB or/CC (\w+)/VB for/IN	1
+n't/RB (\w+)/VB one/CD pitcher/NN (\w+)/VB	1
+candidates/NNS will/MD not/RB (\w+)/VB or/CC (\w+)/VB their/PRP$ races/NNS on/IN	1
+(\w+)/VB or/CC (\w+)/VB they/PRP 'll/MD	1
+can/MD (\w+)/VB ,/, or/CC (\w+)/VB ,/, a/DT race/NN	1
+known/VBN to/TO (\w+)/VB or/CC (\w+)/VB bond/NN prices/NNS ./.	1

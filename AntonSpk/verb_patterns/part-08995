@@ -1,0 +1,23 @@
+you/PRP (\w+)/VBP ,/, (\w+)/VBP ,/, or/CC	2
+can/MD sometimes/RB (\w+)/VB or/CC (\w+)/VB	5
+when/WRB you/PRP (\w+)/VBP ,/, once/RB when/WRB you/PRP (\w+)/VBP ,/, ''/''	1
+we/PRP (\w+)/VB or/CC did/VBD we/PRP (\w+)/VBP ./.	1
+(\w+)/VB back/RP stock/NN and/CC (\w+)/VB some/DT	2
+power/NN companies/NNS would/MD (\w+)/VB and/CC (\w+)/VB like/IN stock/NN	1
+(\w+)/VB and/CC (\w+)/VB based/VBN	18
+so/CC please/VB (\w+)/VB the/DT chance/NN to/TO (\w+)/VB RSSMicro/NNP a/DT	1
+and/CC seem/VBP to/TO (\w+)/VB as/RB quickly/RB as/IN they/PRP (\w+)/VBP ./.	1
+does/VBZ not/RB (\w+)/VB hospitals/NNS to/TO (\w+)/VB life-saving/JJ	1
+(\w+)/VB tonight/NN when/WRB the/DT lights/NNS (\w+)/VBP	1
+ensemble/NN stamp/NN ,/, (\w+)/VB and/CC (\w+)/VB	1
+to/TO (\w+)/VB them/PRP a/DT chance/NN to/TO (\w+)/VB up/RP gainful/JJ employment/NN	1
+procedures/NNS would/MD (\w+)/VB ,/, or/CC (\w+)/VB further/JJ	1
+we/PRP can/MD easily/RB (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB even/RB or/CC even/RB (\w+)/VB a/DT	1
+last/JJ skiers/NNS (\w+)/VBP and/CC the/DT first/JJ drunks/NNS (\w+)/VBP ./.	1
+has/VBZ to/TO (\w+)/VB or/CC (\w+)/VB the/DT report/NN	2
+it/PRP easier/RBR to/TO (\w+)/VB and/CC (\w+)/VB young/JJ people/NNS ./.	6
+we/PRP (\w+)/VB close/NN to/TO home/NN or/CC (\w+)/VB far/RB away/RB	1
+interested/JJ in/IN the/DT (\w+)/VBP and/CC (\w+)/VBP of/IN the/DT	1
+to/TO (\w+)/VB and/CC (\w+)/VB private/JJ jets/NNS on/IN	1
+that/WDT will/MD (\w+)/VB us/PRP or/CC (\w+)/VB us/PRP ,/, ''/''	1

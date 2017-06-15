@@ -1,0 +1,27 @@
+'s/POS status/NN could/MD (\w+)/VB or/CC (\w+)/VB	1
+may/MD (\w+)/VB or/CC (\w+)/VB committee/NN recommendations/NNS ,/,	1
+in/IN May/NNP is/VBZ (\w+)/VBN to/TO (\w+)/VB further/RBR	1
+(\w+)/VBP across/IN good/JJ furniture/NN ,/, (\w+)/VB for/IN	1
+implications/NNS that/WDT (\w+)/VBP could/MD (\w+)/VB ./.	1
+(\w+)/VB staff/NN turnover/NN ,/, (\w+)/VB competitive/JJ advantage/NN	1
+resistance/NN ,/, (\w+)/VBP and/CC (\w+)/VBP	1
+"/`` We/PRP 'll/MD (\w+)/VB what/WP they/PRP (\w+)/VBP us/PRP ./.	1
+But/CC Johnson/NNP says/VBZ (\w+)/VB or/CC (\w+)/VB Saturday/NNP in/IN	1
+(\w+)/VBP a/DT pill/NN to/TO (\w+)/VB	1
+tax/NN (\w+)/VBP the/DT industry/NN hopes/VBZ to/TO (\w+)/VB permanent/JJ ./.	1
+we/PRP just/RB (\w+)/VB everything/NN they/PRP (\w+)/VBP us/PRP ./.	1
+itself/PRP does/VBZ n't/RB (\w+)/VB or/CC (\w+)/VB	2
+holiday/NN season/NN wouldnt/NN (\w+)/VBP or/CC (\w+)/VBP their/PRP$ business/NN ,/,	1
+fear/VBP it/PRP could/MD (\w+)/VB away/RP business/NN and/CC (\w+)/VB minors/NNS an/DT easy/JJ	2
+just/RB (\w+)/VB your/PRP$ money/NN and/CC (\w+)/VB it/PRP to/TO them/PRP	1
+``/`` You/PRP (\w+)/VB it/PRP down/RP and/CC (\w+)/VB	1
+had/VBD to/TO (\w+)/VB or/CC (\w+)/VB the/DT entire/JJ agreement/NN	1
+should/MD (\w+)/VB protecting/VBG Obama/NNP and/CC (\w+)/VB	1
+may/MD (\w+)/VB and/CC contestants/NNS may/MD (\w+)/VB ;/:	1
+(\w+)/VB been/VBN hard/JJ to/TO (\w+)/VB the/DT hooded/JJ	1
+to/TO (\w+)/VB the/DT rally/NN and/CC (\w+)/VB a/DT	1
+same/JJ guys/NNS ,/, (\w+)/VB out/RP there/RB and/CC (\w+)/VB to/TO	1
+,/, one/PRP to/TO (\w+)/VB badly/CD and/CC one/CD to/TO (\w+)/VB slightly/RB	1
+songs/NNS that/WDT (\w+)/VB and/CC (\w+)/VB each/DT episode/NN	1
+on/IN stage/NN generally/RB (\w+)/VBP or/CC (\w+)/VBP	1
+Eagles/NNPS (\w+)/VB defense/NN or/CC offense/NN (\w+)/VB the/DT draft/NN ?/.	1

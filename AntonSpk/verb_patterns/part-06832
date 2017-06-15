@@ -1,0 +1,26 @@
+politicians/NNS can/MD (\w+)/VB and/CC (\w+)/VB ,/,	1
+200/CD ,/, (\w+)/VBP or/CC (\w+)/VBP a/DT few/JJ bucks/NNS	1
+-/: whether/IN they/PRP (\w+)/VB by/IN 30/CD points/NNS or/CC (\w+)/VB	1
+make/VB the/DT customer/NN (\w+)/VB farther/RB and/CC (\w+)/VB here/RB ,/, Borders/NNP	1
+Argentines/NNPS (\w+)/VBP to/TO (\w+)/VB because/IN they/PRP	1
+to/TO (\w+)/VB or/CC (\w+)/VB in/IN crunchtime/JJ	1
+able/JJ to/TO (\w+)/VB and/CC (\w+)/VB ETF/NNP units/NNS in/IN	1
+to/TO (\w+)/VB and/CC (\w+)/VB ?/. ''/''	1
+(\w+)/VB a/DT way/NN to/TO (\w+)/VB here/RB ,/,	1
+zero-sum/NN ``/`` you/PRP (\w+)/VB ,/, I/PRP (\w+)/VB ''/''	1
+will/MD (\w+)/VB the/DT information/NN and/CC (\w+)/VB it/PRP	1
+I/PRP (\w+)/VBP him/PRP most/JJS when/WRB I/PRP (\w+)/VBP a/DT visceral/JJ memory/NN	1
+contract/NN will/MD not/RB (\w+)/VB or/CC (\w+)/VB	1
+otherwise/RB (\w+)/VB calls/NNS or/CC (\w+)/VB	2
+(\w+)/VBP the/DT sinner/NN ,/, (\w+)/VBP the/DT sin/NN	2
+you/PRP (\w+)/VBP or/CC (\w+)/VBP Ani/NNP	1
+(\w+)/VBP and/CC once/RB when/WRB they/PRP (\w+)/VBP ./.	1
+less/JJR things/NNS (\w+)/VBP ,/, the/DT more/JJR they/PRP (\w+)/VBP the/DT same/JJ ./.	1
+a.m./RB PST/NNP ,/, (\w+)/VB or/CC (\w+)/VB	1
+regardless/RB if/IN they/PRP (\w+)/VBP or/CC (\w+)/VBP	1
+,/, the/DT songs/NNS (\w+)/VB and/CC (\w+)/VB ,/,	1
+homeowners/NNS (\w+)/VB neighborhoods/NNS foreclosures/NNS (\w+)/VB neighborhoods/NNS	1
+(\w+)/VB and/CC let/VB us/PRP (\w+)/VBZ --/: but/CC not/RB	1
+)/NNP _/NN who/WP (\w+)/VBP to/TO (\w+)/VB the/DT	1
+I/PRP (\w+)/VBP than/IN doing/VBG something/NN I/PRP (\w+)/VBP	1
+to/TO try/VB and/CC (\w+)/VB those/DT feelings/NNS and/CC (\w+)/VB the/DT good/JJ	1

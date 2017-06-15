@@ -1,0 +1,22 @@
+let/VBD Nouvelle/NNP Cuisine/NNP (\w+)/VBP and/CC (\w+)/VBP	1
+two/CD (/NNS (\w+)/VB ital/JJ )/JJ inexperienced/JJ (/NNS (\w+)/VB ital/JJ )/JJ quarterbacks/NNS	1
+(\w+)/VBP and/CC (\w+)/VBP ,/, only/RB	1
+of/IN people/NNS (\w+)/VB and/CC (\w+)/VB ,/, and/CC ,/,	1
+:/: (\w+)/VB economic/JJ gain/NN and/CC (\w+)/VB	1
+(\w+)/VBP a/SYM ca/MD n't/RB (\w+)/VB	1
+22.8/CD million/CD ,/, (\w+)/VBP or/CC (\w+)/VBP	1
+private/JJ ,/, (\w+)/VB or/CC (\w+)/VB	1
+food/NN stocks/NNS could/MD (\w+)/VB ,/, grain/NN prices/NNS could/MD (\w+)/VB ,/, water/NN	2
+AHL/NNP season/NN to/TO (\w+)/VB it/PRP or/CC (\w+)/VB it/PRP ,/, and/CC	1
+seen/VBN it/PRP (\w+)/VB behavior/NN problems/NNS and/CC (\w+)/VB	1
+phrases/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP	3
+Individual/JJ musicians/NNS (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+unfortunate/JJ that/IN I/PRP (\w+)/VBP to/TO (\w+)/VB games/NNS ,/, because/IN	1
+allowed/VBD subscribers/NNS to/TO (\w+)/VB and/CC (\w+)/VB stocks/NNS under/IN the/DT	1
+foot/NN (\w+)/VBP forced/VBN him/PRP to/TO (\w+)/VB significant/JJ playing/NN time/NN	1
+and/CC wants/VBZ to/TO (\w+)/VB it/PRP and/CC (\w+)/VB me/PRP	1
+(\w+)/VBP ,/, tails/NNS I/PRP (\w+)/VBP	2
+they/PRP (\w+)/VBP and/CC (\w+)/VBP through/IN the/DT	1
+Some/DT things/NNS you/PRP (\w+)/VBP and/CC some/DT things/NNS you/PRP (\w+)/VBP at/IN the/DT	1
+(\w+)/VB saving/VBG for/IN retirement/NN and/CC (\w+)/VB cashing/VBG in/IN their/PRP$	1
+finding/VBG ways/NNS to/TO (\w+)/VB games/NNS we/PRP should/MD (\w+)/VB ./.	1

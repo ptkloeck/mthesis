@@ -1,0 +1,35 @@
+shipments/NNS as/IN they/PRP (\w+)/VB in/RP or/CC (\w+)/VB out/RP	2
+time/NN to/TO (\w+)/VB than/IN (\w+)/VB ,/,	1
+But/CC a/DT tower/NN (\w+)/VBN to/TO (\w+)/VB	2
+time/NN has/VBZ now/RB (\w+)/VBN for/IN him/PRP to/TO (\w+)/VB home/NN ,/, "/''	1
+pumps/NNS can/MD (\w+)/VB as/RB well/RB as/IN (\w+)/VB a/DT home/NN ./.	1
+exclusivity/NN ,/, houses/NNS (\w+)/VBP and/CC (\w+)/VBP	15
+Some/DT restaurants/NNS (\w+)/VBP or/CC (\w+)/VBP only/RB on/IN	1
+either/RB (\w+)/VBP it/PRP or/CC they/PRP (\w+)/VBP	2
+that/WDT (\w+)/VB and/CC (\w+)/VB it/PRP ,/, and/CC	1
+Congolese/NNS ,/, who/WP (\w+)/VBP and/CC (\w+)/VBP minerals/NNS	1
+to/TO retire/VB ,/, (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VBP a/DT step/NN back/RB ,/, (\w+)/VB	1
+(\w+)/VBN what/WP may/MD ,/, could/MD (\w+)/VB a/DT	1
+can/MD (\w+)/VB our/PRP$ hearts/NNS and/CC (\w+)/VB us/PRP	1
+s/NNP ratings/NNS may/MD (\w+)/VB and/CC (\w+)/VB but/CC	1
+,/, (\w+)/VB or/CC (\w+)/VB ,/, faced/VBD tough/JJ	1
+will/MD (\w+)/VB under/IN irresistible/JJ pressure/NN to/TO (\w+)/VB	1
+(\w+)/VB the/DT military/JJ powers/NNS to/TO (\w+)/VB over/IN the/DT government/NN	1
+the/DT customer/NN (\w+)/VB farther/RB and/CC (\w+)/VB	1
+the/DT freedom/NN to/TO (\w+)/VB and/CC (\w+)/VB and/CC eat/VB and/CC	1
+be/VB used/VBN to/TO (\w+)/VB or/CC (\w+)/VB nearly/RB	1
+teach/VB how/WRB to/TO (\w+)/VB ,/, (\w+)/VB ,/, multiply/VB and/CC	1
+still/RB continue/VBP to/TO (\w+)/VB and/CC (\w+)/VB ,/, but/CC	1
+(\w+)/VB and/CC (\w+)/VB time/NN even/RB when/WRB	1
+the/DT right/NN to/TO (\w+)/VB and/CC (\w+)/VB ,/, corporates/NNS	1
+commitment/VB to/TO (\w+)/VB --/: not/RB (\w+)/VB	1
+just/RB (\w+)/VB ,/, or/CC to/TO (\w+)/VB	1
+(\w+)/VBP ,/, (\w+)/VBP and/CC lean/VBP	1
+in/IN London/NNP to/TO (\w+)/VB people/NNS (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB financial/JJ	3
+(\w+)/VB or/CC (\w+)/VB the/DT Sandinistas/NNS ./.	1
+lawyers/NNS (\w+)/VBP ,/, working/JJ families/NNS (\w+)/VBP ./.	1
+Italy/NNP (\w+)/VBP to/TO (\w+)/VB over/IN Baghdad/NNP	1
+allowed/VBD Iraq/NNP to/TO (\w+)/VB oil/NN and/CC (\w+)/VB food/NN and/CC other/JJ	1
+The/DT remaining/VBG leaders/NNS (\w+)/VBP mostly/RB remained/VBN underground/RB and/CC (\w+)/VBP	1

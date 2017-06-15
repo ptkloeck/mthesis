@@ -1,0 +1,31 @@
+in/IN a/SYM (\w+)/VBP and/CC (\w+)/VBP	1
+out/RP how/WRB to/TO (\w+)/VB and/CC (\w+)/VB the/DT	2
+(\w+)/VB or/CC (\w+)/VB ,/, sometimes/RB	3
+(\w+)/VB and/CC (\w+)/VB employees/NNS ?/.	1
+could/MD (\w+)/VB the/DT popular/JJ vote/NN and/CC (\w+)/VB in/IN the/DT Electoral/NNP	1
+place/NN Americans/NNS (\w+)/VBP to/TO (\w+)/VB	1
+you/PRP looking/VBG to/TO (\w+)/VB or/CC (\w+)/VB your/PRP$ home/NN	1
+to/TO (\w+)/VB back/RP control/NN and/CC hopefully/RB (\w+)/VB them/PRP some/DT leverage/NN	1
+to/TO (\w+)/VB top-level/JJ positions/NNS and/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB UnionBanCal/NNP 's/POS stock/NN	1
+"/`` It/PRP could/MD (\w+)/VB or/CC (\w+)/VB the/DT institution/NN ./.	1
+(\w+)/VB immediately/RB the/DT red/JJ lights/NNS (\w+)/VBP	1
+(\w+)/VB the/DT Ukrainian/JJ presidency/NN and/CC (\w+)/VB the/DT Parliament/NNP	2
+(\w+)/VB to/TO (\w+)/VB drugs/NNS next/JJ year/NN	1
+(\w+)/VBP and/CC go/VBP and/CC teenagers/NNS (\w+)/VBP on/IN racing/VBG their/PRP$	1
+while/IN he/PRP couldnt/VBP (\w+)/VB out/RP ,/, players/NNS could/MD (\w+)/VB to/TO him/PRP ./.	1
+you/PRP (\w+)/VBP them/PRP or/CC you/PRP (\w+)/VBP them/PRP	2
+Gorbachev/NNP will/MD (\w+)/VB ,/, or/CC (\w+)/VB ,/,	1
+going/VBG to/TO (\w+)/VB our/PRP$ promise/NN to/TO (\w+)/VB sure/JJ	1
+customers/NNS can/MD (\w+)/VB or/CC (\w+)/VB almost/RB anything/NN or/CC	1
+(\w+)/VB ,/, (\w+)/VB and/CC move/VB the/DT	1
+is/VBZ about/IN (\w+)/VB and/CC (\w+)/VB ,/,	1
+year/NN before/IN they/PRP (\w+)/VBP taking/VBG courses/NNS ,/, so/RB (\w+)/VB up/RP taking/VBG	1
+meets/VBZ tomorrow/NN to/TO (\w+)/VB or/CC (\w+)/VB the/DT prime/JJ	1
+harvest/NN production/NN was/VBD (\w+)/VBN to/TO (\w+)/VB to/TO 25/CD	1
+would/MD (\w+)/VB that/DT (\w+)/VB under/IN protest/NN	1
+assemble/VB ,/, (\w+)/VB or/CC (\w+)/VB a/DT	1
+I/PRP have/VBP to/TO (\w+)/VB back/RP what/WP I/PRP (\w+)/VBP	1
+the/DT museum/NN would/MD (\w+)/VB artworks/NNS ,/, but/CC (\w+)/VB them/PRP 10/CD	1
+to/TO (\w+)/VB underexposed/JJ areas/NNS and/CC (\w+)/VB overexposed/JJ	1
+(\w+)/VB games/NNS that/IN you/PRP should/MD (\w+)/VB	1

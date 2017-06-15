@@ -1,0 +1,32 @@
+Do/VBP you/PRP (\w+)/VB or/CC (\w+)/VB with/IN any/DT	1
+match/VBP (\w+)/VB and/CC (\w+)/VB orders/NNS ,/, and/CC	1
+routine/NN can/MD (\w+)/VB or/CC (\w+)/VB a/DT	1
+rolls/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+more/JJR to/TO (\w+)/VB and/CC (\w+)/VB property/NN in/IN Texas/NNP	1
+crowd/NN ,/, (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB their/PRP$ deductions/NNS and/CC (\w+)/VB	1
+(\w+)/VBP ,/, they/PRP have/VBP to/TO (\w+)/VB ./.	1
+ceiling/NN to/TO (\w+)/VB and/CC then/RB (\w+)/VB ,/,	2
+to/TO (\w+)/VB medication/NN that/WDT helps/VBZ her/PRP (\w+)/VB	1
+(\w+)/VBN to/TO (\w+)/VB in/IN steps/NNS	1
+they/PRP can/MD (\w+)/VB back/RB and/CC (\w+)/VB back/RP on/IN the/DT	1
+pitch/NN policies/NNS that/WDT (\w+)/VBP votes/NNS but/CC (\w+)/VBP money/NN ./.	1
+and/CC (\w+)/VB their/PRP$ children/NNS (\w+)/VB	1
+big/JJ party/NN (\w+)/VBP or/CC (\w+)/VBP ?/.	1
+either/DT you/PRP (\w+)/VBP him/PRP or/CC you/PRP (\w+)/VBP him/PRP ./.	1
+can/MD also/RB (\w+)/VB or/CC (\w+)/VB bonds/NNS on/IN	1
+you/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, the/DT decision/NN	1
+the/DT ability/NN to/TO (\w+)/VB and/CC (\w+)/VB the/DT chancellor/NN	1
+planning/VBG to/TO (\w+)/VB shares/NNS in/IN the/DT T3/NN (\w+)/VB off/RP	1
+Rose/NNP and/CC I/PRP (\w+)/VBP and/CC (\w+)/VBP on/IN ,/,	1
+Unemployment/NN will/MD (\w+)/VB ,/, spending/NN will/MD (\w+)/VB ,/, and/CC our/PRP$	1
+9/CD ,/, (\w+)/VB her/PRP$ eyes/NNS and/CC then/RB (\w+)/VB	1
+for/IN farmers/NNS to/TO (\w+)/VB ,/, (\w+)/VB	1
+(\w+)/VB lawmakers/NNS a/DT chance/NN to/TO (\w+)/VB any/DT action/NN they/PRP	1
+quotation/NN marks/NNS that/WDT (\w+)/VB in/IN one/CD chapter/NN and/CC (\w+)/VB pages/NNS	3
+(\w+)/VBN to/TO (\w+)/VB above/IN 20/CD	1
+things/NNS (\w+)/VBP the/DT more/JJR they/PRP (\w+)/VBP the/DT same/JJ ./.	4
+be/VB successful/JJ :/: (\w+)/VB focused/JJ and/CC (\w+)/VB fast/RB	1
+trees/NNS and/CC (\w+)/VB them/PRP to/TO (\w+)/VB food/NN _/NNS whether/IN	1
+(\w+)/VB caused/VBN many/JJ Israelites/NNS to/TO (\w+)/VB their/PRP$ dental/JJ	1
+you/PRP (\w+)/VBP when/WRB you/PRP (\w+)/VBP ./.	1

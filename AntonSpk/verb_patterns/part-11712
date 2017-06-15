@@ -1,0 +1,27 @@
+radiologist/NN can/MD (\w+)/VB ,/, (\w+)/VB	1
+(\w+)/VB rather/RB than/IN just/RB (\w+)/VB with/IN its/PRP$	1
+are/VBP competitive/JJ -/: (\w+)/VB them/PRP or/CC (\w+)/VB them/PRP	1
+(\w+)/VBP orders/NNS and/CC people/NNS who/WP (\w+)/VBP	1
+to/TO (\w+)/VB or/CC (\w+)/VB a/DT third-party/JJ	1
+try/VB and/CC (\w+)/VB to/TO (\w+)/VB something/NN	1
+could/MD (\w+)/VB or/CC (\w+)/VB the/DT season/NN against/IN	1
+,/, and/CC we/PRP (\w+)/VB here/RB and/CC (\w+)/VB there/EX	1
+was/VBD his/PRP$ to/TO (\w+)/VB or/CC (\w+)/VB ./.	2
+(\w+)/VB ,/, Microsoft/NNP has/VBZ to/TO (\w+)/VB ./.	1
+often/RB (\w+)/VB the/DT paste/NN themselves/PRP and/CC (\w+)/VB	1
+Most/JJS songs/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN	2
+now/RB will/MD (\w+)/VB to/TO Congress/NNP ,/, (\w+)/VB to/TO Congress/NNP	1
+to/TO (\w+)/VB an/DT example/NN and/CC (\w+)/VB above/IN	1
+(\w+)/VBP to/TO (\w+)/VB that/IN they/PRP have/VBP	2
+that/IN coaches/NNS (\w+)/VBP or/CC (\w+)/VBP you/PRP	1
+that/WDT can/MD (\w+)/VB and/CC (\w+)/VB government/NN securities/NNS	1
+(\w+)/VB his/PRP$ decision/NN not/RB to/TO (\w+)/VB Mr/NNP	1
+If/IN you/PRP (\w+)/VBP early/RB and/CC you/PRP (\w+)/VBP to/TO	4
+,/, fix/VB ,/, (\w+)/VB or/CC (\w+)/VB	1
+recessions/NNS (\w+)/VB and/CC (\w+)/VB ,/, "/'' Mr./NNP	1
+``/`` We/PRP could/MD (\w+)/VB 150/CD games/NNS and/CC (\w+)/VB 12/CD ,/, ''/''	1
+that/WDT (\w+)/VB and/CC (\w+)/VB the/DT wing/NN flaps/NNS	1
+€/JJ œThe/NN restaurants/NNS (\w+)/VBP and/CC (\w+)/VBP so/RB quickly/RB	1
+really/RB (\w+)/VBP and/CC (\w+)/VBP to/TO	1
+(\w+)/VB this/DT a/DT go/NN --/: (\w+)/VB her/PRP to/TO see/VB	1
+and/CC manifestoes/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN	1

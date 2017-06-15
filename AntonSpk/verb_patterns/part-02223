@@ -1,0 +1,27 @@
+(\w+)/VB at/IN 8:30/CD a.m./RB and/CC (\w+)/VB by/IN 11:30/CD	1
+,/, (\w+)/VB and/CC unite/VB -/: not/RB (\w+)/VBP	1
+orders/NNS to/TO (\w+)/VB or/CC (\w+)/VB stock/NN ./.	1
+he/PRP would/MD (\w+)/VB into/IN the/DT newsroom/NN and/CC (\w+)/VB straight/RB over/IN to/TO	1
+it/PRP took/VBD to/TO (\w+)/VB up/RP to/TO (\w+)/VB back/RB down/RB	1
+friends/NNS (\w+)/VBP to/TO a/DT doctor/NN they/PRP (\w+)/VBP back/RB with/IN with/IN	1
+you/PRP (\w+)/VBP or/CC (\w+)/VBP the/DT series/NN ,/,	1
+(\w+)/VB or/CC (\w+)/VB securities/NNS without/IN severely/RB	1
+to/TO (\w+)/VB underexposed/JJ areas/NNS and/CC (\w+)/VB overexposed/JJ ones/NNS	1
+fine/NN art/NN ,/, (\w+)/VB rather/RB than/IN (\w+)/VB in/IN value/NN ./.	1
+to/TO (\w+)/VB government/NN inspections/NNS only/RB to/TO (\w+)/VB again/RB subsequently/RB	1
+to/TO (\w+)/VB or/CC (\w+)/VB to/TO determine/VB	1
+miners/NNS used/VBD to/TO (\w+)/VB and/CC (\w+)/VB coal/NN cars/NNS through/IN	1
+(\w+)/VB and/CC still/RB (\w+)/VB the/DT White/NNP House/NNP	2
+be/VB a/SYM (\w+)/VB and/CC (\w+)/VB ,/, "/''	1
+well-funded/JJ rival/NN (\w+)/VBP to/TO (\w+)/VB the/DT limits/NNS	2
+no/RB longer/RB (\w+)/VB (/JJ i.e./NNS ,/, (\w+)/VB )/VBG the/DT	1
+to/TO (\w+)/VB some/DT small/JJ steps/NNS to/TO (\w+)/VB these/DT girls/NNS	1
+Elvis/NNP "/'' will/MD (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB in/IN different/JJ directions/NNS	2
+(\w+)/VB to/TO be/VB able/JJ to/TO (\w+)/VB back/RP	1
+years/NNS (\w+)/VBP or/CC (\w+)/VB	1
+,/, because/IN they/PRP (\w+)/VBP productive/JJ investing/NN and/CC (\w+)/VB unproductive/JJ tax/NN sheltering/VBG	1
+people/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, they/PRP	2
+Giants/NNPS not/RB only/JJ (\w+)/VBP motivation/NN ,/, but/CC (\w+)/VBP legitimate/JJ cause/NN to/TO	1
+far/RB sooner/RBR (\w+)/VB the/DT shield/NN than/IN (\w+)/VBP it/PRP ./.	1
+are/VBP (\w+)/VB or/CC (\w+)/VB ,/,	2

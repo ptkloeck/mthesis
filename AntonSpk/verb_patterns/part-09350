@@ -1,0 +1,33 @@
+must/MD (\w+)/VB ,/, not/RB (\w+)/VBP	3
+'m/VBP (/VBG (\w+)/VB ital/JJ )/NNS always/RB (/RB (\w+)/VB ital/JJ )/JJ	1
+expected/VBN to/TO (\w+)/VB Paramount/NNP yesterday/NN and/CC (\w+)/VB Burlington/NNP	1
+(\w+)/VB using/VBG fossil/JJ fuels/NNS and/CC (\w+)/VB riding/VBG bikes/NNS ,/,	1
+another/DT that/WDT would/MD (\w+)/VB states/NNS to/TO (\w+)/VB a/DT public/JJ	1
+really/RB (\w+)/VB or/CC really/RB (\w+)/VB ?/.	1
+'s/VBZ going/VBG to/TO (\w+)/VB some/DT excavation/NN to/TO (\w+)/VB	2
+to/TO roll-over/VB ,/, (\w+)/VB ,/, (\w+)/VB and/CC	1
+to/TO (\w+)/VB the/DT sinner/NN and/CC (\w+)/VB the/DT sin/NN	2
+the/DT power/NN to/TO (\w+)/VB and/CC (\w+)/VB the/DT prime/JJ minister/NN	1
+portfolio/NN managers/NNS often/RB (\w+)/VBP or/CC (\w+)/VBP Telmex/NNP	1
+this/DT is/VBZ (\w+)/VBN to/TO (\w+)/VB to/TO ??/VB	1
+,/, it/PRP can/MD (\w+)/VB ,/, (\w+)/VB	1
+card/NN charges/NNS look/VBP (\w+)/VBN to/TO (\w+)/VB as/IN	1
+'/`` I/PRP (\w+)/VB football/NN but/CC I/PRP (\w+)/VBP	1
+young/JJ professionals/NNS will/MD (\w+)/VB here/RB or/CC (\w+)/VB	1
+side/NN seems/VBZ to/TO (\w+)/VB and/CC (\w+)/VB	1
+like/IN us/PRP that/WDT (\w+)/VBN from/IN America/NNP (\w+)/VB	1
+primary/JJ campaign/NN may/MD (\w+)/VB ,/, not/RB (\w+)/VB	1
+(\w+)/VB those/DT who/WP (\w+)/VBP you/PRP	1
+,/, (\w+)/VB or/CC (\w+)/VB ./. As/IN	1
+subplots/NNS (\w+)/VB and/CC (\w+)/VB	1
+time-consuming/JJ need/NN to/TO (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VBP and/CC (\w+)/VBP every/DT five/CD years/NNS	2
+are/VBP permitted/VBN to/TO (\w+)/VB and/CC (\w+)/VB shares/NNS in/IN companies/NNS	1
+(\w+)/VB out/RP and/CC (\w+)/VB back/RB ,/,	1
+(\w+)/VB and/CC the/DT terrorists/NNS will/MD (\w+)/VB ./. ''/''	1
+high/JJ returns/NNS ,/, (\w+)/VB and/CC (\w+)/VB stocks/NNS more/RBR	1
+librarian/NN ,/, I/PRP (\w+)/VBP books/NNS and/CC (\w+)/VBP to/TO see/VB	1
+assistive/JJ technology/NN to/TO (\w+)/VB productivity/NN and/CC (\w+)/VB the/DT potential/NN and/CC	1
+is/VBZ to/TO (\w+)/VB doors/NNS ,/, not/RB to/TO (\w+)/VB	1
+(\w+)/VBP more/RBR than/IN we/PRP (\w+)/VBP	6
+cycles/NNS can/MD (\w+)/VB and/CC (\w+)/VB in/IN a/DT matter/NN	1

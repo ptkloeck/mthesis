@@ -1,0 +1,31 @@
+expected/VBN to/TO (\w+)/VB even/RB but/CC not/RB (\w+)/VB	1
+online/JJ game/NN to/TO (\w+)/VB and/CC (\w+)/VB	1
+expected/VBN to/TO (\w+)/VB enough/JJ money/NN to/TO (\w+)/VB even/RB over/IN	6
+(\w+)/VBP to/TO (\w+)/VB her/PRP$	1
+views/NNS (\w+)/VBP and/CC (\w+)/VBP at/IN the/DT laboratory/NN	1
+,/, (\w+)/VB their/PRP$ products/NNS ,/, and/CC (\w+)/VB	1
+basketball/NN tradition/NN ,/, (\w+)/VB or/CC (\w+)/VB ,/, to/TO	1
+Oil/NNP prices/NNS (\w+)/VBD to/TO (\w+)/VB in/IN world/NN of/IN	1
+Did/VBD Immelman/NNP (\w+)/VB Masters/NN or/CC did/VBD Tiger/NNP (\w+)/VBP	1
+to/TO (\w+)/VB Ferguson/NNP and/CC (\w+)/VB Fletcher/NNP	1
+(\w+)/VB and/CC (\w+)/VB from/IN the/DT bridge/NN	1
+to/TO (\w+)/VB ,/, but/CC nobody/NN (\w+)/VBP	2
+output/NN to/TO (\w+)/VB so/RB that/IN prices/NNS would/MD (\w+)/VB in/IN the/DT	1
+when/WRB you/PRP (\w+)/VBP to/TO (\w+)/VB a/DT payment/NN to/TO	1
+States/NNPS to/TO (\w+)/VB stuff/NN to/TO (\w+)/VB in/IN	1
+used/VBN to/TO (\w+)/VB or/CC (\w+)/VB nearly/RB anything/NN	1
+tenure/NN ,/, (\w+)/VB or/CC (\w+)/VB in/IN	1
+must/MD (\w+)/VB and/CC (\w+)/VB the/DT field/NN quickly/RB	1
+Kidder/NNP did/VBD not/RB (\w+)/VB or/CC (\w+)/VB guilt/NN in/IN	1
+they/PRP (\w+)/VB and/CC we/PRP (\w+)/VBP	1
+do/VBP n't/RB (\w+)/VB their/PRP$ faces/NNS or/CC (\w+)/VB cowardly/JJ	1
+Um/NNP al-Qura/NNP often/RB (\w+)/VBP or/CC (\w+)/VBP	1
+(\w+)/VB quacking/VBG like/IN ducks/NNS and/CC (\w+)/VB soaring/VBG like/IN	1
+"/'' (\w+)/VBP and/CC (\w+)/VBP as/IN doll-like/JJ figures/NNS	1
+to/TO (\w+)/VB action/NN and/CC (\w+)/VB them/PRP	1
+(\w+)/VB in/IN these/DT places/NNS and/CC (\w+)/VB out/RP with/IN paperwork/NN	1
+takes/VBZ ,/, (\w+)/VB or/CC (\w+)/VB	1
+,/, (\w+)/VB or/CC (\w+)/VB a/DT couple/NN cheeseburgers/NNS	1
+knowledge/NN of/IN customer/NN (\w+)/VB and/CC (\w+)/VB	1
+50/CD eggs/NNS ,/, (\w+)/VB or/CC (\w+)/VB	1
+the/DT right/NN to/TO (\w+)/VB and/CC (\w+)/VB the/DT museum/NN director/NN	1

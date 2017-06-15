@@ -1,0 +1,39 @@
+YORP/NNP can/MD (\w+)/VB or/CC (\w+)/VB the/DT	1
+authority/NN to/TO (\w+)/VB or/CC (\w+)/VB any/DT	2
+continuous/JJ symptoms/NNS ,/, (\w+)/VB more/JJR ER/NNP visits/NNS ,/, (\w+)/VB more/JJR days/NNS	1
+(\w+)/VB or/CC (\w+)/VB ./. "/`` The/DT	3
+people/NNS to/TO (\w+)/VB and/CC (\w+)/VB a/DT building/NN	1
+Every/DT piece/NN should/MD (\w+)/VB you/PRP something/NN to/TO (\w+)/VB home/NN with/IN	4
+should/MD (\w+)/VB the/DT supplies/NNS and/CC (\w+)/VB	1
+sure/JJ I/PRP (\w+)/VBP or/CC (\w+)/VBP with/IN	1
+hopes/VBZ for/IN closer/JJR (\w+)/VB and/CC (\w+)/VB	1
+think/VBP it/PRP could/MD (\w+)/VB or/CC (\w+)/VB him/PRP	1
+stop/VB smoking/NN ,/, (\w+)/VB going/VBG to/TO church/NN ,/, (\w+)/VB gambling/NN ,/,	1
+game/NN ,/, (\w+)/VB or/CC (\w+)/VB ,/, whether/IN	1
+going/VBG to/TO (\w+)/VB or/CC (\w+)/VB us/PRP ,/,	1
+be/VB (\w+)/VBN and/CC (\w+)/VB at/IN times/NNS ,/,	1
+would/MD (\w+)/VB away/RP ,/, failing/VBG to/TO (\w+)/VB the/DT vehicle/NN from/IN	1
+were/VBD able/JJ to/TO (\w+)/VB some/DT halftime/NN adjustments/NNS to/TO (\w+)/VB the/DT press/NN	1
+free/JJ to/TO (\w+)/VB and/CC (\w+)/VB but/CC on/IN	1
+need/VBP you/PRP ,/, (\w+)/VB back/RB ready/JJ to/TO (\w+)/VB because/IN you/PRP	1
+Hurricanes/NNPS (\w+)/VBP and/CC (\w+)/VBP ,/,	2
+``/`` some/DT (\w+)/VB and/CC (\w+)/VB	1
+videos/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN that/DT	1
+gathering/NN to/TO (\w+)/VB or/CC (\w+)/VB close/RB together/RB and/CC	1
+(\w+)/VB from/IN or/CC (\w+)/VB to/TO	4
+particularly/RB (\w+)/VB it/PRP or/CC (\w+)/VBP	1
+,/, Bradley/NNP could/MD (\w+)/VB the/DT popular/JJ vote/NN but/CC (\w+)/VBP to/TO Gore/NNP	1
+who/WP (\w+)/VBP or/CC (\w+)/VBP the/DT names/NNS and/CC	2
+you/PRP (\w+)/VB and/CC (\w+)/VB on/IN one/CD of/IN	2
+to/TO (\w+)/VB and/CC for/IN someone/NN to/TO (\w+)/VB	1
+either/RB have/VBP to/TO (\w+)/VB here/RB or/CC (\w+)/VB to/TO Davenport/VB	1
+business/NN (\w+)/VB and/CC (\w+)/VB all/DT	1
+aims/VBZ to/TO (\w+)/VB or/CC (\w+)/VB urban/JJ legends/NNS	1
+court/NN can/MD either/RB (\w+)/VB the/DT trial/NN and/CC (\w+)/VB	1
+But/CC you/PRP (\w+)/VBP a/DT few/JJ and/CC you/PRP (\w+)/VBP	1
+second/JJ individual/NN to/TO (\w+)/VB the/DT land/NN or/CC to/TO (\w+)/VB it/PRP	1
+of/IN features/NNS that/WDT (\w+)/VBP or/CC (\w+)/VB value/NN	1
+to/TO (\w+)/VB the/DT exit/NN polls/NNS but/CC (\w+)/VBP the/DT presidency/NN	2
+Moments/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+guys/NNS will/MD (\w+)/VB way/NN down/IN and/CC then/RB (\w+)/VB up/RP ./.	1
+'/POS (/NN (\w+)/VB ital/JJ )/JJ seven-run/JJ (/NNS (\w+)/VB	1

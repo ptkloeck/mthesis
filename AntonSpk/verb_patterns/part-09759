@@ -1,0 +1,23 @@
+employer/NN will/MD (\w+)/VB or/CC (\w+)/VB	1
+is/VBZ to/TO (\w+)/VB the/DT asset/NN and/CC (\w+)/VB it/PRP at/IN	1
+does/VBZ not/RB (\w+)/VB unnoticed/JJ (\w+)/VBP	1
+the/DT commission/NN can/MD (\w+)/VB ,/, (\w+)/VB	2
+agree/VBP to/TO (\w+)/VB or/CC (\w+)/VB it/PRP	1
+had/VBD wanted/VBN to/TO (\w+)/VB what/WP I/PRP had/VBD to/TO (\w+)/VB	1
+to/TO (\w+)/VB them/PRP here/RB before/IN they/PRP (\w+)/VBP ./.	1
+'/POS we/PRP (\w+)/VBP houses/NNS ,/, we/PRP (\w+)/VBP houses/NNS ,/, '/''	1
+power/NN to/TO (\w+)/VB and/CC (\w+)/VB at/IN will/NN ./.	1
+that/IN help/NN farmers/NNS (\w+)/VB variability/RB and/CC (\w+)/VB production/NN in/IN	1
+(\w+)/VB or/CC can/MD (\w+)/VB from/IN a/DT file/NN	1
+still/RB (\w+)/VB and/CC (\w+)/VB democratically/NNS based/VBN on/IN	1
+either/RB (\w+)/VBP or/CC (\w+)/VBP and/CC Andy/NNP definitely/RB	1
+not/RB whether/IN you/PRP (\w+)/VBP or/CC (\w+)/VB ,/, but/CC	1
+(\w+)/VBP and/CC they/PRP watch/VBP me/PRP (\w+)/VB	1
+difference/NN between/IN (\w+)/VB and/CC (\w+)/VB	1
+medium/NN enterprises/NNS or/CC (\w+)/VB and/CC (\w+)/VB	1
+Quarterbacks/NNS (\w+)/VBP or/CC (\w+)/VBP titles/NNS	1
+program/NN begins/VBZ to/TO (\w+)/VB even/RB or/CC (\w+)/VB	1
+the/DT middle/NN ,/, (\w+)/VB the/DT double/JJ play/NN and/CC (\w+)/VB up/RP the/DT	1
+what/WP furniture/NN to/TO (\w+)/VB to/TO (\w+)/VB drugs/NNS	1
+recommendations/NNS to/TO (\w+)/VB or/CC (\w+)/VB ,/, just/RB	1
+war/NN should/MD (\w+)/VB and/CC that/IN negotiations/NNS should/MD (\w+)/VB ,/, General/NNP	1

@@ -1,0 +1,39 @@
+(\w+)/VBP and/CC (\w+)/VBP organs/NNS ?/.	1
+write/VB ,/, (\w+)/VB ,/, (\w+)/VB ,/,	1
+decide/VBP when/WRB you/PRP (\w+)/VB and/CC (\w+)/VB ,/, giving/VBG	1
+and/CC their/PRP$ breadths/NNS (\w+)/VB and/CC (\w+)/VB	1
+a/DT slate/NN of/IN (\w+)/VB ,/, hold/VB ,/, and/CC (\w+)/VB recommendations/NNS	1
+help/VB you/PRP (\w+)/VB or/CC (\w+)/VB your/PRP$ home/NN	4
+'s/VBZ been/VBN (\w+)/VBN or/CC (\w+)/VBP with/IN	3
+refused/VBD to/TO (\w+)/VB the/DT mayor/NN permission/NN to/TO (\w+)/VB	1
+,/, refuse/VB to/TO (\w+)/VB furloughs/NNS or/CC (\w+)/VB	1
+(\w+)/VBP )/JJ or/CC negative/JJ (/NNS (\w+)/VB )/JJ return/NN figure/NN	1
+animals/NNS -/: looks/VBZ (\w+)/VBN to/TO (\w+)/VB by/IN	1
+got/VBN to/TO (\w+)/VB ,/, (\w+)/VBP up/RP ,/, keep/VB	2
+so/IN many/JJ generations/NNS (\w+)/VBP and/CC (\w+)/VBP	2
+fishing/NN is/VBZ (\w+)/VBN and/CC (\w+)/VB depending/VBG mostly/RB on/IN	1
+entire/JJ Reagan/NNP administration/NN (\w+)/VB and/CC (\w+)/VB ./. )/NNP	1
+fades/VBZ and/CC prices/NNS (\w+)/VBP ,/, their/PRP$ yields/NNS (\w+)/VBP ,/, and/CC	1
+situations/NNS (\w+)/VB or/CC (\w+)/VB the/DT same/JJ	1
+to/TO you/PRP ,/, (\w+)/VBP to/TO (\w+)/VB ,/, then/RB	1
+(\w+)/VBP for/IN yen/NNS ,/, they/PRP (\w+)/VBP for/IN	1
+brokerage/NN service/NN to/TO (\w+)/VB and/CC (\w+)/VB	3
+where/WRB they/PRP (\w+)/VB and/CC (\w+)/VB ,/, you/PRP	2
+dieting/NN ,/, (\w+)/VB smoking/NN and/CC (\w+)/VB	1
+authority/NN to/TO (\w+)/VB bonds/NNS to/TO (\w+)/VB land/NN that/WDT is/VBZ	1
+(\w+)/VB some/DT of/IN this/DT money/NN (\w+)/VBP	1
+(\w+)/VB revenue/NN and/CC (\w+)/VB school/NN	1
+to/TO help/VB (\w+)/VB China/NNP the/DT win/NN and/CC (\w+)/VB the/DT	1
+(\w+)/VB to/TO America/NNP ,/, (\w+)/VB to/TO	1
+Japan/NNP Airlines/NNPS to/TO (\w+)/VB with/IN Boeing/NNP did/VBD not/RB (\w+)/VB as/IN a/DT	1
+company/NN that/WDT can/MD (\w+)/VB ,/, (\w+)/VB and/CC manage/VB	1
+run/VB ,/, (\w+)/VB and/CC (\w+)/VB ,/, hold/VB	1
+a/DT year/NN --/: (\w+)/VB or/CC (\w+)/VB --/:	1
+philosophy/NN to/TO (\w+)/VB employee/NN loyalty/NN and/CC (\w+)/VB unionism/NN	1
+listings/NNS to/TO (\w+)/VB ,/, (\w+)/VB ,/,	1
+technology/NN to/TO (\w+)/VB or/CC (\w+)/VB a/DT campus/NN ,/,	1
+athletics/NNS typically/RB (\w+)/VBP more/JJR games/NNS to/TO (\w+)/VB	1
+stretch/NN that/WDT can/MD (\w+)/VB or/CC (\w+)/VB the/DT season/NN	1
+He/PRP can/MD also/RB (\w+)/VB and/CC (\w+)/VB his/PRP$ hands/NNS ./.	1
+Harris/NNP '/POS hobbies/NNS (\w+)/VBP and/CC (\w+)/VBP _/NNP the/DT	1
+I/PRP wanted/VBD to/TO (\w+)/VB and/CC (\w+)/VB back/RP on/IN the/DT	1

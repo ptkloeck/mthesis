@@ -1,0 +1,121 @@
+not/RB (\w+)/NN ,/, but/CC (\w+)/NN ,/,	1
+including/VBG a/DT (\w+)/NN ,/, (\w+)/NN and/CC	5
+board/NN -/: the/DT (\w+)/NN or/CC (\w+)/NN behind/IN	1
+be/VB the/DT (\w+)/NN of/IN the/DT (\w+)/NN for/IN embattled/JJ	1
+may/MD be/VB the/DT (\w+)/NN of/IN the/DT (\w+)/NN .../:	1
+an/DT older/JJR (\w+)/NN and/CC a/DT very/RB young/JJ (\w+)/NN ./.	1
+slow/JJ (\w+)/NN ,/, another/DT huge/JJ (\w+)/NN	1
+big/JJ (\w+)/NN followed/VBN by/IN a/DT (\w+)/NN to/TO the/DT head/NN	3
+wife/NN ,/, (\w+)/NN ,/, (\w+)/NN ,/, son/NN or/CC	1
+which/WDT (\w+)/NN Sunnis/NNS controlled/VBD the/DT (\w+)/NN Shiites/NNS ./.	1
+67-year-old/JJ (\w+)/NN and/CC a/DT 62-year-old/JJ (\w+)/NN	2
+as/IN (\w+)/NN quickly/RB outraces/VBZ (\w+)/NN	1
+of/IN a/DT peasant/NN (\w+)/NN and/CC an/DT illiterate/JJ (\w+)/NN ,/, brought/VBN up/RP	1
+the/DT (\w+)/NN of/IN Moliere/NNP and/CC the/DT (\w+)/NN of/IN Beaumarchais/NNP	1
+(\w+)/NN (/NNS and/CC (\w+)/NN )/NNS grow/VB	1
+their/PRP$ (\w+)/NN after/IN the/DT (\w+)/NN of/IN Yasser/NNP	2
+(\w+)/NN required/VBD an/DT (\w+)/NN in/IN the/DT form/NN	1
+anxiety/NN about/IN his/PRP$ (\w+)/NN and/CC (\w+)/NN	1
+great/JJ lake/NN (\w+)/NN and/CC (\w+)/NN	1
+his/PRP$ (\w+)/NN was/VBD dead/JJ and/CC his/PRP$ (\w+)/NN is/VBZ	1
+Ottawa/NNP with/IN their/PRP$ (\w+)/NN ,/, 3/CD ,/, and/CC (\w+)/NN	1
+as/IN a/DT (\w+)/NN and/CC (\w+)/NN and/CC	1
+Jones/NNP '/POS 33-year-old/JJ (\w+)/NN ,/, said/VBD her/PRP$ (\w+)/NN	1
+the/DT laws/NNS of/IN (\w+)/NN and/CC (\w+)/NN --/: and/CC a/DT	1
+mother/NN ,/, (\w+)/NN and/CC (\w+)/NN ,/, chased/VBD by/IN	1
+sash/NN ,/, (\w+)/NN and/CC (\w+)/NN	1
+anything/NN ,/, (\w+)/NN or/CC (\w+)/NN ,/, ''/''	1
+with/IN a/DT (\w+)/NN ,/, a/DT (\w+)/NN	32
+Q/NNP :/: My/PRP$ (\w+)/NN is/VBZ 61/CD and/CC my/PRP$ (\w+)/NN	1
+Romantic/JJ story/NN of/IN (\w+)/NN and/CC (\w+)/NN	1
+that/IN (\w+)/NN will/MD outstrip/VB (\w+)/NN as/IN refiners/NNS struggle/NN	1
+it/PRP gives/VBZ (\w+)/NN ,/, and/CC prevents/VBZ (\w+)/NN and/CC	1
+strong/JJ (\w+)/NN and/CC limited/JJ (\w+)/NN ./.	4
+(\w+)/NN and/CC a/DT young/JJ (\w+)/NN exploring/VBG the/DT toxic/JJ	1
+My/PRP$ (\w+)/NN and/CC (\w+)/NN were/VBD different/JJ	1
+the/DT (\w+)/NN or/CC (\w+)/NN of/IN petitioners/NNS	1
+best/JJS staff/NN from/IN (\w+)/NN to/TO (\w+)/NN	1
+heady/JJ (\w+)/NN and/CC (\w+)/NN	1
+an/DT hour/NN in/IN (\w+)/NN or/CC (\w+)/NN	1
+politicians/NNS on/IN the/DT (\w+)/NN and/CC (\w+)/NN had/VBD	1
+struggle/NN to/TO reconcile/VB (\w+)/NN rule/NN and/CC (\w+)/NN rights/NNS ./.	1
+,/, (\w+)/NN and/CC (\w+)/NN will/MD be/VB there/RB	1
+the/DT (\w+)/NN or/CC (\w+)/NN ceremonies/NNS ,/, and/CC	1
+of/IN (\w+)/NN mixed/JJ with/IN (\w+)/NN ,/, of/IN	1
+Smith/NNP ,/, her/PRP$ (\w+)/NN Marty/NNP ,/, and/CC (\w+)/NN	1
+drug/NN (\w+)/NN ,/, (\w+)/NN and/CC	1
+Both/DT (\w+)/NN and/CC (\w+)/NN would/MD be/VB able/JJ	1
+from/IN a/DT (\w+)/NN of/IN 109.52/CD to/TO a/DT (\w+)/NN of/IN 101.27/CD ,/,	1
+my/PRP$ (\w+)/NN and/CC (\w+)/NN are/VBP alive/JJ	1
+(\w+)/NN to/TO the/DT (\w+)/NN nipping/VBG his/PRP$	1
+off/RB a/DT (\w+)/NN of/IN 1,183.49/CD and/CC a/DT (\w+)/NN of/IN	1
+Any/DT official/JJ (\w+)/NN or/CC (\w+)/NN will/MD only/RB	5
+statements/NNS with/IN a/DT (\w+)/NN ,/, a/DT (\w+)/NN and/CC	1
+man/NN a/DT (\w+)/NN could/MD want/VB ,/, a/DT (\w+)/NN a/DT	1
+making/VBG (\w+)/NN ,/, not/RB (\w+)/NN ,/, ''/''	1
+Chargers/NNPS (\w+)/NN to/TO take/VB the/DT (\w+)/NN ./.	1
+tests/NNS for/IN the/DT (\w+)/NN ,/, or/CC (\w+)/NN ,/, of/IN the/DT	2
+charges/NNS involve/VBP a/DT (\w+)/NN and/CC a/DT (\w+)/NN	1
+(\w+)/NN and/CC every/DT (\w+)/NN they/PRP were/VBD gang-raped/JJ	1
+When/WRB (\w+)/NN stays/VBZ flat/JJ and/CC (\w+)/NN goes/VBZ up/RP	1
+(\w+)/NN and/CC a/DT (\w+)/NN that/WDT dropped/VBD	1
+the/DT units/NNS run/VBP (\w+)/NN to/TO (\w+)/NN ,/,	1
+a/DT Muslim/JJ (\w+)/NN and/CC Catholic/JJ (\w+)/NN ,/,	1
+documentary/NN on/IN the/DT (\w+)/NN ,/, (\w+)/NN and/CC	1
+neither/DT from/IN the/DT (\w+)/NN nor/CC the/DT (\w+)/NN but/CC as/IN objective/NN	1
+its/PRP$ young/JJ (\w+)/NN and/CC a/DT (\w+)/NN	1
+reminder/NN of/IN her/PRP$ (\w+)/NN ,/, and/CC his/PRP$ (\w+)/NN	1
+mode/NN from/IN the/DT (\w+)/NN to/TO the/DT (\w+)/NN of/IN the/DT	1
+(/NN where/WRB a/DT (\w+)/NN eyes/VBZ a/DT hunky/JJ (\w+)/NN and/CC	1
+my/PRP$ (\w+)/NN died/VBN ,/, my/PRP$ (\w+)/NN sat/VBD me/PRP	1
+explosive/JJ (\w+)/NN with/IN a/DT powerful/JJ (\w+)/NN	1
+(\w+)/NN Herbert/NNP Mijo/NNP ,/, (\w+)/NN Betty/NNP Hagihara/NNP	1
+by/IN building/VBG their/PRP$ (\w+)/NN and/CC (\w+)/NN	1
+'s/VBZ a/DT soccer/NN (\w+)/NN or/CC (\w+)/NN to/TO	1
+and/CC slid/VBD from/IN (\w+)/NN to/TO (\w+)/NN whenever/WRB global/JJ	2
+man-to-man/JJ halfcourt/NN (\w+)/NN and/CC are/VBP disciplined/VBN on/IN (\w+)/NN	1
+three/CD girls/NNS and/CC (\w+)/NN to/TO his/PRP$ (\w+)/NN	1
+than/IN any/DT other/JJ (\w+)/NN or/CC (\w+)/NN to/TO	2
+to/TO "/`` snatch/VB (\w+)/NN from/IN the/DT jaws/NNS of/IN (\w+)/NN	3
+(\w+)/NN and/CC smell/VBP pretty/RB every/DT (\w+)/NN !/.	1
+Gotti/NNP bear-hugged/JJ (\w+)/NN Peter/NNP and/CC (\w+)/NNP Angel/NNP and/CC	1
+found/VBD out/RP her/PRP$ (\w+)/NN had/VBD shot/VBN her/PRP$ (\w+)/NN	1
+'s/POS left/NN (\w+)/NN quarter/NN or/CC (\w+)/NN	1
+facial/JJ hair/NN (\w+)/NN ,/, weight/NN (\w+)/NN ,/, emotional/JJ	1
+case/NN your/PRP$ (\w+)/NN or/CC (\w+)/NN predeceases/VBZ you/PRP	1
+global/JJ (\w+)/NN outpacing/VBG the/DT (\w+)/NN	3
+(\w+)/NN 's/POS response/NN to/TO a/DT (\w+)/NN ./.	1
+considering/VBG the/DT (\w+)/NN and/CC the/DT (\w+)/NN ,/,	2
+the/DT (\w+)/NN takes/VBZ another/DT (\w+)/NN ,/, "/'' he/PRP	1
+Pledge/NNP for/IN her/PRP$ (\w+)/NN ,/, (\w+)/NN and/CC	1
+Norma/NN ,/, his/PRP$ (\w+)/NN Randy/NNP ,/, his/PRP$ (\w+)/NN	1
+IC/NNP (\w+)/NN and/CC (\w+)/NN ,/, employment/NN or/CC	1
+The/DT (\w+)/NN met/VBD Gardner/NNP and/CC another/DT (\w+)/NN ,/, Ashley/NNP	1
+that/IN WILLIE/NNP 's/POS (\w+)/NN and/CC FS/NNP 's/POS (\w+)/NN are/VBP n't/RB a/DT	1
+up/RP a/DT (\w+)/NN ,/, to/TO last/VB (\w+)/NN ,/, allowing/VBG	1
+of/IN an/DT attractive/JJ (\w+)/NN and/CC an/DT attractive/JJ (\w+)/NN ./.	1
+the/DT value/NN of/IN (\w+)/NN and/CC (\w+)/NN card/NN spending/NN in/IN	1
+eyeing/VBG the/DT (\w+)/NN or/CC (\w+)/NN sitting/VBG	1
+A/DT (\w+)/NN asks/VBZ a/DT (\w+)/NN if/IN she/PRP can/MD	1
+The/DT (\w+)/NN and/CC the/DT (\w+)/NN came/VBD	1
+angle/NN ,/, (\w+)/NN ,/, (\w+)/NN ,/, top/NN ,/,	1
+opposite/JJ directions/NNS ,/, (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN different/JJ from/IN its/PRP$ (\w+)/NN	1
+(\w+)/NN turn/NN into/IN disheartening/VBG (\w+)/NN ./.	1
+two-shot/JJ (\w+)/NN to/TO a/DT one-stroke/JJ (\w+)/NN behind/IN Woods/NNP and/CC	2
+These/DT (\w+)/NN or/CC (\w+)/NN	2
+her/PRP$ (\w+)/NN and/CC (\w+)/NN succumbed/VBN to/TO	2
+(\w+)/NN Diane/NNP Josefski/NNP ,/, (\w+)/NN Mark/NNP Leake/NNP ,/,	1
+(\w+)/NN who/WP pushed/VBD a/DT (\w+)/NN to/TO death/NN	1
+A/DT (\w+)/NN found/VBD their/PRP$ 3-year-old/JJ (\w+)/NN in/IN	1
+from/IN the/DT Evans-to-Bowens-powered/JJ (\w+)/NN to/TO a/DT (\w+)/NN that/WDT	1
+(\w+)/NN had/VBD more/JJR than/IN one/CD (\w+)/NN ./.	1
+dispute/NN between/IN the/DT (\w+)/NN and/CC the/DT (\w+)/NN centered/VBD on/IN	1
+or/CC (\w+)/NNS or/CC (\w+)/NN	2
+,/, setting/VBG their/PRP$ (\w+)/NN or/CC (\w+)/NN off/RP	1
+(\w+)/NNS and/CC (\w+)/NNS framed/VBN in/IN decorative/JJ	1
+(\w+)/NN became/VBD a/DT 70-67/JJ (\w+)/NN with/IN 2:08/CD	1
+her/PRP$ (\w+)/NN ,/, (\w+)/NN and/CC grandmother/NN ,/,	1
+there/EX is/VBZ decreasing/VBG (\w+)/NN and/CC increasing/VBG (\w+)/NN there/EX	1
+'/`` (\w+)/NN against/IN (\w+)/NN '/'' ,/,	1
+with/IN (\w+)/NN outstripping/NN (\w+)/NN to/TO	1

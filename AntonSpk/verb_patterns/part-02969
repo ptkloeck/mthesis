@@ -1,0 +1,24 @@
+'s/POS ability/NN to/TO (\w+)/VB and/CC (\w+)/VB has/VBZ been/VBN	1
+not/RB (\w+)/VB and/CC (\w+)/VB at/IN her/PRP$ classroom/NN	1
+to/TO (\w+)/VB or/CC (\w+)/VB prospective/JJ buyers/NNS	3
+that/WDT was/VBD hurt/VBN (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB to/TO (\w+)/VB BOTH/DT candidates/NNS ,/,	1
+Tacomas/NNP (\w+)/VBP ,/, they/PRP (\w+)/VBP in/RP and/CC	2
+who/WP (\w+)/VBP or/CC do/VBP not/RB (\w+)/VB basic/JJ safety/NN rules/NNS	1
+whether/IN they/PRP (\w+)/VBP or/CC (\w+)/VBP against/IN the/DT Broncos/NNS	1
+to/TO (\w+)/VB the/DT constitution/NN to/TO (\w+)/VB on/RB	1
+who/WP (\w+)/VBP (/NNS and/CC also/RB (\w+)/VBP )/NNP	1
+is/VBZ necessarily/RB (\w+)/VB or/CC (\w+)/VB	1
+helped/VBD it/PRP (\w+)/VB school/NN enrollment/NN levels/NNS ,/, (\w+)/VB infant/JJ mortality/NN	1
+(\w+)/VB whatever/WDT Miller/NNP could/MD (\w+)/VB them/PRP ./.	1
+and/CC (\w+)/VBP ;/: business/NN leaders/NNS (\w+)/VBP and/CC go/VBP	1
+water/NN that/WDT will/MD (\w+)/VB or/CC (\w+)/VB the/DT proposed/VBN	2
+(\w+)/VB ,/, as/IN they/PRP (\w+)/VBP	1
+high/JJ volume/NN of/IN (\w+)/VB and/CC (\w+)/VB signals/NNS generated/VBN	1
+things/NNS (\w+)/VBP ,/, the/DT more/JJR others/NNS (\w+)/VBP the/DT same/JJ	1
+I/PRP did/VBD not/RB (\w+)/VB a/DT promise/NN like/IN they/PRP (\w+)/VBP saying/VBG ,/, "/``	1
+As/IN bills/NNS (\w+)/VBP or/CC (\w+)/VBP	1
+win/VB or/CC (\w+)/VB ,/, Mr./NNP Giuliani/NNP will/MD (\w+)/VB a/DT	1
+,/, they/PRP would/MD (\w+)/VB rather/RB than/IN (\w+)/VB ,/, and/CC that/IN	1
+,/, which/WDT may/MD (\w+)/VB ,/, not/RB (\w+)/VB ,/,	1
+Continental/NNP says/VBZ forecasts/NNS (\w+)/VB storms/NNS more/RBR often/RB than/IN (\w+)/VBP ,/, and/CC so/IN	1

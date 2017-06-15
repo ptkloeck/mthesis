@@ -1,0 +1,30 @@
+He/PRP can/MD (\w+)/VB and/CC (\w+)/VB	3
+Ninos/NNP may/MD (\w+)/VB and/CC (\w+)/VB according/VBG	8
+things/NNS might/MD (\w+)/VB and/CC (\w+)/VB ,/,	1
+You/PRP should/MD (\w+)/VB a/DT cold/NN and/CC (\w+)/VB a/DT fever/NN	1
+whether/IN we/PRP (\w+)/VBP or/CC (\w+)/VBP	35
+(\w+)/VB on/IN June/NNP 6/CD and/CC (\w+)/VB on/IN July/NNP 15/CD	1
+n't/RB going/VBG to/TO (\w+)/VB or/CC (\w+)/VB the/DT weekend/NN	1
+to/TO (\w+)/VB here/RB every/DT year/NN and/CC (\w+)/VB	2
+to/TO (\w+)/VB the/DT violence/NN and/CC (\w+)/VB a/DT process/NN	1
+could/MD (\w+)/VB or/CC (\w+)/VB the/DT market/NN	1
+mice/NNS (\w+)/VB and/CC (\w+)/VB ./.	1
+ability/NN to/TO (\w+)/VB or/CC (\w+)/VB any/DT staff/NN	2
+,/, we/PRP (\w+)/VBP encouraging/JJ and/CC (\w+)/VBP criticizing/VBG ./.	1
+(\w+)/VB the/DT list/NN or/CC (\w+)/VB	2
+Bowl/NNP could/MD (\w+)/VB or/CC (\w+)/VB their/PRP$	1
+(\w+)/VB its/PRP$ position/NN and/CC (\w+)/VB Euroatlantic/JJ ties/NNS	1
+River/NNP will/MD (\w+)/VB November/NNP 1/CD and/CC (\w+)/VB November/NNP	1
+the/DT bluff/NN and/CC (\w+)/VB or/CC (\w+)/VB	1
+a/DT plan/NN to/TO (\w+)/VB property/NN taxes/NNS and/CC (\w+)/VB	1
+may/MD (\w+)/VB a/DT day/NN when/WRB you/PRP (\w+)/VBP to/TO the/DT john/NN	1
+experiments/NNS alternately/RB (\w+)/VB big/JJ and/CC (\w+)/VB catastrophically/RB ,/, in/IN	1
+(\w+)/VB ,/, (\w+)/VB --/:	3
+12/CD (\w+)/VB and/CC (\w+)/VB programs/NNS yesterday/NN	1
+,/, (\w+)/VBP or/CC (\w+)/VBP a/DT few/JJ bucks/NNS	1
+(\w+)/VBP Davis/NNP or/CC (\w+)/VBP	1
+that/WDT (\w+)/VBP taking/VBG a/DT rest/NN (\w+)/VB a/DT little/RB	1
+(\w+)/VBP into/IN the/DT product/NN (\w+)/VBP	1
+I/PRP (\w+)/VBP and/CC (\w+)/VB them/PRP	1
+routes/NNS (\w+)/VB and/CC (\w+)/VB at/IN	1
+as/IN employees/NNS (\w+)/VB and/CC (\w+)/VB to/TO work/VB	1

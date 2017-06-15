@@ -1,0 +1,93 @@
+paid/VBN ,/, substitute/JJ (\w+)/NN for/IN someone/NN else/RB 's/POS (\w+)/NN	1
+(\w+)/NN and/CC a/DT (\w+)/NN ,/, etc./FW	1
+a/DT 9-year-old/JJ (\w+)/NN and/CC an/DT 11-year-old/JJ (\w+)/NN reported/VBD the/DT	1
+,/, Jason/NNP 's/POS (\w+)/NN ,/, (\w+)/NNP David/NNP and/CC	1
+when/WRB a/DT small/JJ (\w+)/NN opposes/VBZ a/DT large/JJ commercial/JJ (\w+)/NN with/IN extensive/JJ	1
+51/CD percent/NN (\w+)/NN and/CC 49/CD percent/NN (\w+)/NN as/RB	1
+its/PRP$ diverse/JJ (\w+)/NNS and/CC (\w+)/NN	1
+establishes/VBZ that/IN the/DT (\w+)/NN and/CC the/DT (\w+)/NN	1
+(\w+)/NN turned/VBD to/TO its/PRP$ (\w+)/NN Friday/NNP	1
+a/DT second/JJ (\w+)/NN ,/, Debbie/NNP Vetal/NNP ;/: (\w+)/NN Bill/NNP	2
+(\w+)/NN games/NNS off/RP after/IN (\w+)/NN	1
+(\w+)/NN and/CC the/DT 32-year-old/JJ (\w+)/NN got/VBD	1
+world/NN (\w+)/NN --/: and/CC (\w+)/NN	1
+for/IN (\w+)/NN ,/, one/PRP for/IN a/DT (\w+)/NN	1
+Its/PRP$ (\w+)/NN and/CC (\w+)/NN dates/NNS are/VBP	1
+(\w+)/NN ,/, and/CC he/PRP created/VBD (\w+)/NN	1
+Monogo/NNP said/VBD a/DT (\w+)/NN and/CC a/DT (\w+)/NN from/IN the/DT	1
+a/DT status-conscious/JJ (\w+)/NN and/CC a/DT (\w+)/NN whose/WP$	1
+coaching/VBZ both/DT (\w+)/NN 's/POS and/CC (\w+)/NN 's/POS teams/NNS	1
+a/DT (\w+)/NN ,/, brother/NN and/CC (\w+)/NN to/TO all/PDT those/DT	2
+confronting/VBG (\w+)/NN and/CC (\w+)/NN -/: paintings/NNS on/IN	1
+(\w+)/NN to/TO destroy/VB a/DT (\w+)/NN 's/POS adult/NN life/NN	1
+(\w+)/NN for/IN the/DT (\w+)/NN of/IN	11
+which/WDT ban/VBP the/DT (\w+)/NN and/CC (\w+)/NN of/IN	1
+either/DT (\w+)/NN or/CC (\w+)/NN from/IN	1
+tied/VBN to/TO an/DT (\w+)/NN or/CC (\w+)/NN	1
+(\w+)/NN in/IN London/NNP and/CC her/PRP$ (\w+)/NN ,/, a/DT	1
+With/IN mortgage/NN (\w+)/NN slipping/VBG a/DT bit/NN and/CC (\w+)/NN rising/VBG ,/,	2
+must/MD have/VB a/DT (\w+)/NN of/IN four/CD and/CC a/DT (\w+)/NN of/IN 18/CD in/IN	1
+of/IN Chinese/NNP expressing/VBG (\w+)/NN to/TO those/DT showing/NN (\w+)/NN has/VBZ actually/RB eroded/VBN	1
+stay/VB put/NN ,/, (\w+)/NN and/CC (\w+)/NN ,/,	1
+the/DT seeds/NNS of/IN (\w+)/NN it/PRP 's/VBZ a/NNP '/POS (\w+)/NN '/''	1
+couple/NN of/IN (\w+)/NN ,/, (\w+)/NN cards/NNS and/CC baseball/NN	1
+his/PRP$ (\w+)/NN ,/, Kirstie/NNP Boyle/NNP ;/: (\w+)/NN ,/, Glenn/NNP	1
+Australian/JJ dollar/NN gained/VBD (\w+)/NN on/IN the/DT back/NN of/IN (\w+)/NN	1
+an/DT (\w+)/NN for/IN the/DT most/RBS important/JJ (\w+)/NN :/:	1
+a/DT 2-year-old/JJ (\w+)/NN ,/, and/CC a/DT (\w+)/NN will/MD be/VB born/VBN	1
+and/CC figured/VBN the/DT (\w+)/NN and/CC (\w+)/NN splitting/VBG an/DT expensive/JJ	1
+and/CC (\w+)/NN and/CC (\w+)/NN are/VBP equilibrated/VBN ./.	1
+Zoe/NNP 's/POS (\w+)/NN ,/, Singaporean/JJ (\w+)/NN and/CC two/CD	1
+devotees/NNS from/IN the/DT (\w+)/NN Sunni/NNP Muslim/NNP and/CC the/DT (\w+)/NN Shiite/JJ	1
+is/VBZ the/DT 5-year-old/JJ (\w+)/NN of/IN McCartney/NNP 's/POS 25-year-old/JJ (\w+)/NN ,/, Kristi/NNP	1
+for/IN their/PRP$ (\w+)/NN or/CC (\w+)/NN ./. "/''	4
+,/, a/DT (\w+)/NN and/CC (\w+)/NN who/WP had/VBD been/VBN	1
+Despite/IN the/DT (\w+)/NN of/IN Liska/NNP 's/POS inside/JJ (\w+)/NN ,/, Falmouth/NNP	1
+already/RB working/VBG (\w+)/NN and/CC (\w+)/NN in/IN	1
+filled/VBN with/IN amazing/JJ (\w+)/NNS and/CC (\w+)/NNS ,/, then/RB	1
+,/, a/DT (\w+)/NN and/CC (\w+)/NN lived/VBD together/RP	1
+(\w+)/NN to/TO prevent/VB one/CD 's/POS (\w+)/NN from/IN behaving/VBG	1
+A/DT (\w+)/NN told/VBD police/NNS that/IN a/DT (\w+)/NN had/VBD	1
+series/NN of/IN computer/NN (\w+)/NN ,/, (\w+)/NN and/CC	1
+included/VBD (\w+)/NN and/CC (\w+)/NN ,/,	1
+containers/NNS ,/, a/DT (\w+)/NN and/CC a/DT (\w+)/NN who/WP were/VBD separating/VBG	1
+(\w+)/NN charged/VBN with/IN murdering/VBG her/PRP$ (\w+)/NN ,/, a/DT	1
+theory/NN that/IN (\w+)/NN sells/VBZ tickets/NNS but/CC (\w+)/NN wins/NNS championships/NNS ,/,	1
+in/IN (\w+)/NN and/CC in/IN (\w+)/NN ./. "/''	1
+country/NN from/IN (\w+)/NN to/TO (\w+)/NN would/MD require/VB 200,000/CD	1
+with/IN a/DT wide-open/JJ (\w+)/NN ,/, an/DT opportunistic/JJ (\w+)/NN and/CC	1
+,/, sides/NNS ,/, (\w+)/NN and/CC (\w+)/NN panels/NNS	1
+The/DT growth/NN of/IN (\w+)/NN has/VBZ been/VBN faster/RBR than/IN (\w+)/NN	1
+,/, a/DT (\w+)/NN and/CC (\w+)/NN are/VBP both/DT	1
+matter/VB at/IN the/DT (\w+)/NN of/IN April/NNP and/CC the/DT (\w+)/NN of/IN	1
+(\w+)/NN of/IN ,/, (\w+)/NN for/IN and/CC flow/NN	1
+using/VBG American/JJ (\w+)/NN ,/, (\w+)/NN and/CC A.T.M./NNP cards/NNS	1
+husband/NN ,/, a/DT (\w+)/NN loses/VBZ a/DT (\w+)/NN	3
+contact/NN between/IN the/DT (\w+)/NN and/CC the/DT (\w+)/NN	1
+keep/VB (\w+)/NN ahead/RB of/IN (\w+)/NN this/DT year/NN ./.	1
+were/VBD in/IN short/JJ (\w+)/NN and/CC high/JJ (\w+)/NN for/IN several/JJ	1
+neighbors/NNS stopped/VBD in/IN (\w+)/NN and/CC (\w+)/NN to/TO pay/VB respects/NNS	1
+entirely/RB on/IN the/DT (\w+)/NN or/CC (\w+)/NN of/IN the/DT	2
+a/DT (\w+)/NN over/IN a/DT hitter/NN 's/POS (\w+)/NN ,/,	1
+and/CC even/RB the/DT (\w+)/NN and/CC (\w+)/NN with/IN the/DT	1
+A/DT (\w+)/NN accused/VBN of/IN shooting/VBG a/DT (\w+)/NN ,/,	1
+(\w+)/NN frustrated/VBD the/DT Northbridge/NNP (\w+)/NN ./.	1
+rapt/JJ young/JJ (\w+)/NN ,/, a/DT (\w+)/NN balancing/VBG a/DT large/JJ	1
+(\w+)/NN over/IN (\w+)/NN increased/VBD ,/,	1
+(\w+)/NN and/CC (\w+)/NN like/VBP	2
+a/DT (\w+)/NN and/CC (\w+)/NN in/IN activity/NN ./.	1
+her/PRP$ (\w+)/NN is/VBZ eclipsed/VBN by/IN the/DT (\w+)/NN	1
+the/DT Ravens/NNPS '/POS (\w+)/NN confronts/VBZ the/DT Raiders/NNPS '/POS (\w+)/NN	1
+Cypriot/NNP (\w+)/NN and/CC the/DT (\w+)/NN Turkish/JJ Cypriots/NNS	1
+caused/VBN the/DT (\w+)/NN and/CC (\w+)/NN of/IN	1
+Coleman/NNP 's/POS (\w+)/NN is/VBZ Russell/NNP 's/POS (\w+)/NN ,/, tangibly/NN	1
+(\w+)/NN acting/VBG like/IN a/DT (\w+)/NN ,/, a/DT feat/NN	1
+right/NN to/TO a/DT (\w+)/NN and/CC (\w+)/NN	3
+every/DT (\w+)/NN and/CC every/DT (\w+)/NN --/: the/DT world/NN	1
+henpecked/JJ British/JJ (\w+)/NN who/WP killed/VBD his/PRP$ Korean-born/JJ (\w+)/NN	1
+the/DT (\w+)/NN talks/NNS on/IN the/DT southern/JJ (\w+)/NN to/TO include/VB the/DT	1
+(\w+)/NN sold/VBD insurance/NN and/CC his/PRP$ (\w+)/NN was/VBD a/DT school/NN	1
+wide/JJ ,/, turning/VBG (\w+)/NN into/IN (\w+)/NN against/IN	1
+vendor/NN 's/POS WLAN/NN (\w+)/NN and/CC (\w+)/NN	1
+the/DT (\w+)/NN barely/RB merits/VBZ an/DT (\w+)/NN	1
+an/DT empty/JJ (\w+)/NN and/CC an/DT (\w+)/NN zone/NN beckoning/NN	2

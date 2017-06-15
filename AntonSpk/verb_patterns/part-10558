@@ -1,0 +1,35 @@
+and/CC (\w+)/VB or/CC (\w+)/VB arrest/NN warrants/NNS	1
+(\w+)/VB and/CC (\w+)/VB sails/NNS and/CC	1
+(\w+)/VB again/RB and/CC (\w+)/VB again/RB	2
+juggle/VB ,/, (\w+)/VB the/DT tightrope/NN and/CC (\w+)/VB	1
+today/NN to/TO (\w+)/VB talking/VBG about/IN democracy/NN and/CC (\w+)/VB	1
+want/VB to/TO (\w+)/VB or/CC (\w+)/VB	6
+(\w+)/VB his/PRP$ small/JJ farmhouse/NN and/CC (\w+)/VB a/DT bigger/JJR property/NN	1
+execute/VBP (\w+)/VB and/CC (\w+)/VB orders/NNS for/IN	1
+remote/JJ control/NN to/TO (\w+)/VB and/CC (\w+)/VB the/DT	1
+Polls/NNS (\w+)/VB at/IN 6:30/CD a.m./RB and/CC (\w+)/VB at/IN 7:30/CD	1
+(\w+)/VBN for/IN me/PRP to/TO (\w+)/VB fishing/NN	1
+it/PRP (\w+)/VBP and/CC we/PRP saw/VBD it/PRP (\w+)/VBP ,/,	1
+(\w+)/VB and/CC (\w+)/VB real/JJ estate/NN from/IN	1
+their/PRP$ children/NNS could/MD (\w+)/VB themselves/PRP and/CC (\w+)/VB a/DT	1
+either/RB (\w+)/VBP it/PRP or/CC you/PRP (\w+)/VB	3
+you/PRP (\w+)/VBP an/DT hour/NN ,/, you/PRP (\w+)/VBP to/TO start/VB over/RP	1
+the/DT care/NN they/PRP (\w+)/VB and/CC (\w+)/VB pride/NN	1
+We/PRP can/MD (\w+)/VB to/TO Slovenia/NNP and/CC (\w+)/VB back/RP	1
+may/MD (\w+)/VB it/PRP or/CC (\w+)/VB it/PRP ./. "/''	1
+(\w+)/VBP or/CC you/PRP (\w+)/VBP ,/, "/''	1
+of/IN (/NNP (\w+)/VBP italics/NNP )/NNP ciao/FW (/NNP (\w+)/VB italics/NNS )/JJ ,/,	1
+could/MD n't/RB (\w+)/VB ,/, I/PRP could/MD n't/RB (\w+)/VB ,/,	1
+,/, have/VBP to/TO (\w+)/VB and/CC (\w+)/VB as/RB	1
+(\w+)/VBP to/TO (\w+)/VB about/IN Bush/NNP	1
+(\w+)/VB or/CC (\w+)/VB ,/, their/PRP$ work/NN	1
+sense/NN of/IN (\w+)/VB and/CC (\w+)/VB	2
+not/RB free/JJ to/TO (\w+)/VB and/CC (\w+)/VB	6
+,/, which/WDT could/MD (\w+)/VB or/CC (\w+)/VB New/NNP York/NNP	1
+like/VB to/TO (\w+)/VB and/CC (\w+)/VB real/JJ	1
+(\w+)/VB or/CC (\w+)/VB on/RP ./.	3
+as/IN quality/NN is/VBZ (\w+)/VBN to/TO (\w+)/VB further/RBR ./.	1
+with/IN umbrellas/NNS (\w+)/VBP and/CC (\w+)/VBP like/IN	1
+(\w+)/VBP is/VBZ we/PRP (\w+)/VBP a/DT	1
+farmers/NNS eventually/RB to/TO (\w+)/VB ,/, (\w+)/VB	1
+spreads/NNS between/IN (\w+)/VB and/CC (\w+)/VB prices/NNS artificially/RB	1

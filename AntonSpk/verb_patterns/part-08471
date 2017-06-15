@@ -1,0 +1,51 @@
+weeks/NNS ,/, (\w+)/VB or/CC (\w+)/VB	3
+afternoon/NN (\w+)/VB ,/, bike/NN (\w+)/VB or/CC drive/VB ./.	1
+and/CC can/MD (\w+)/VB or/CC (\w+)/VB 4/CD feet/NNS	1
+loyalty/NN ploy/NN -/: (\w+)/VB or/CC (\w+)/VB	1
+``/`` This/DT will/MD (\w+)/VB Jose/NNP a/DT chance/NN to/TO (\w+)/VB a/DT deep/JJ	1
+Republicans/NNPS (\w+)/VBP the/DT House/NNP ,/, but/CC (\w+)/VB	1
+writing/NN duties/NNS (\w+)/VBP and/CC their/PRP$ producing/VBG duties/NNS (\w+)/VBP ./.	1
+how/WRB they/PRP (\w+)/VBP doors/NNS ,/, how/WRB they/PRP (\w+)/VB doors/NNS ./.	1
+guesses/NNS (\w+)/VBP ,/, they/PRP do/VBP n't/RB (\w+)/VB much/RB better/JJR than/IN	1
+(\w+)/VB to/TO Arsenal/NNP and/CC (\w+)/VB away/RP in/IN	1
+kind/NN of/IN (\w+)/VB and/CC (\w+)/VB ,/, of/IN going/VBG	1
+people/NNS (\w+)/VBP to/TO send/VB but/CC (\w+)/VBP to/TO receive/VB ,/,	1
+firms/NNS to/TO (\w+)/VB and/CC (\w+)/VB ,/,	1
+their/PRP$ instructions/NNS to/TO (\w+)/VB or/CC (\w+)/VB the/DT	1
+authority/NN to/TO (\w+)/VB and/CC (\w+)/VB	41
+they/PRP (\w+)/VB out/RP on/IN childhood/NN and/CC (\w+)/VB	1
+the/DT sort/NN of/IN (\w+)/VB and/CC (\w+)/VB	1
+half/PDT its/PRP$ people/NNS (\w+)/VBP to/TO (\w+)/VB	1
+inclined/JJ to/TO (\w+)/VB than/IN to/TO (\w+)/VB ,/, and/CC	1
+learned/VBD to/TO (\w+)/VB and/CC (\w+)/VB the/DT	1
+who/WP did/VBD (\w+)/VB work/NN to/TO (\w+)/VB a/DT rally/NN	1
+who/WP you/PRP either/CC (\w+)/VBP or/CC (\w+)/VBP	1
+will/MD (\w+)/VB a/DT start/NN and/CC (\w+)/VB	2
+neither/RB (\w+)/VB nor/CC (\w+)/VB participation/NN in/IN such/PDT	1
+cardinal/NN can/MD then/RB (\w+)/VB or/CC (\w+)/VB the/DT decision/NN	1
+likely/JJ both/DT to/TO (\w+)/VB their/PRP$ contribution/NN and/CC to/TO (\w+)/VB how/WRB	2
+(\w+)/VB ,/, and/CC (\w+)/VB down/RP and/CC stay/VB	1
+I/PRP 'd/MD rather/RB (\w+)/VB with/IN quality/NN than/IN (\w+)/VB with/IN junk/NN	1
+(\w+)/VB rather/RB than/IN (\w+)/VBP the/DT	1
+them/PRP to/TO either/CC (\w+)/VB or/CC (\w+)/VBN ,/, "/'' he/PRP	1
+people/NNS (\w+)/VB and/CC (\w+)/VB ,/, often/RB carrying/VBG	1
+people/NNS still/RB (\w+)/VB and/CC (\w+)/VB	2
+bodies/NNS burn/VBP (\w+)/VB faster/RBR ,/, (\w+)/VB energy/NN longer/RBR and/CC	1
+you/PRP (\w+)/VBP or/CC (\w+)/VBP Jane/NNP	2
+can/MD (\w+)/VB customers/NNS when/WRB they/PRP (\w+)/VBP out/RP they/PRP	1
+yell/VB out/RP (\w+)/VB and/CC (\w+)/VB orders/NNS	1
+csv/NNPS )/NNP (\w+)/VB and/CC (\w+)/VB	1
+will/MD (\w+)/VB June/NNP 22/CD and/CC (\w+)/VB	1
+then/RB (\w+)/VB on/RP or/CC (\w+)/VB from/IN	1
+''/'' People/NNS (\w+)/VBP to/TO talk/VB but/CC (\w+)/VBP to/TO listen/VB ./.	1
+discounts/NNS can/MD sometimes/RB (\w+)/VB or/CC (\w+)/VB a/DT	2
+n't/RB (\w+)/VB ,/, sleep/VB or/CC (\w+)/VB	1
+do/VBP n't/RB just/RB (\w+)/VB or/CC (\w+)/VB from/IN the/DT bottom/NN	1
+many/JJ people/NNS (\w+)/VBP to/TO (\w+)/VB ,/, no/DT	1
+'ll/MD (\w+)/VB you/PRP cuttings/NNS to/TO (\w+)/VB ./. "/''	1
+(\w+)/VB or/CC (\w+)/VB brake/NNP pressure/NN ./.	1
+,/, does/VBZ not/RB (\w+)/VB or/CC (\w+)/VB a/DT season/NN ./.	1
+to/TO (\w+)/VB and/CC (\w+)/VB for/IN the/DT coming/JJ	1
+(\w+)/VBP ,/, it/PRP does/VBZ n't/RB (\w+)/VB	1
+road/NN trip/NN ,/, (\w+)/VB him/PRP two/CD at-bats/NNS and/CC (\w+)/VB him/PRP out/RP ./.	1
+they/PRP do/VBP not/RB (\w+)/VB to/TO the/DT store/NN or/CC (\w+)/VB a/DT horse/NN	1

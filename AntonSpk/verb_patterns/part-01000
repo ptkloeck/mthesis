@@ -1,0 +1,38 @@
+game/NN to/TO (\w+)/VB or/CC (\w+)/VB	18
+(\w+)/VBP ital/JJ )/JJ splat/NN (/NNS (\w+)/VB ital/JJ )/NNS ./.	1
+(\w+)/VB and/CC (\w+)/VB "/`` stock/NN	1
+campus/NN ,/, (\w+)/VB pedestrian/JJ safety/NN ,/, (\w+)/VB	1
+Labor/NNP Day/NNP (\w+)/VB and/CC (\w+)/VB ,/, and/CC	1
+"/`` I/PRP usually/RB (\w+)/VBP ,/, but/CC when/WRB I/PRP (\w+)/VBP I/PRP	1
+(\w+)/VB stocks/NNS than/IN to/TO (\w+)/VB them/PRP	4
+the/DT ability/NN to/TO (\w+)/VB and/CC (\w+)/VB and/CC	5
+(\w+)/VB artworks/NNS ,/, but/CC (\w+)/VB	1
+n't/RB going/VBG to/TO (\w+)/VB Katrina/NNP 's/POS aftermath/NN (\w+)/VB her/PRP$	1
+(\w+)/VBP to/TO (\w+)/VB on/IN recommendations/NNS to/TO	1
+Boys/NNPS (\w+)/VB or/CC (\w+)/VB scholarships/NNS to/TO	1
+signs/NNS that/WDT (\w+)/VB up/RP in/IN the/DT garbage/NN (\w+)/VBP to/TO	1
+attempt/NN to/TO (\w+)/VB fairly/RB ordinary-looking/JJ stuff/NN and/CC (\w+)/VB it/PRP class/NN	1
+fob/NN to/TO (\w+)/VB and/CC (\w+)/VB doors/NNS and/CC start/VB	1
+polls/NNS after/IN the/DT (\w+)/VB and/CC (\w+)/VB showed/VBD Obama/NNP	1
+(\w+)/VBP an/DT attempt/NN to/TO (\w+)/VB that/DT cycle/NN	1
+(\w+)/VB and/CC (\w+)/VB faster/RBR	4
+one/NN would/MD (\w+)/VB or/CC (\w+)/VB Russian/JJ	2
+I/PRP tried/VBD to/TO (\w+)/VB in/RP ,/, (\w+)/VB to/TO the/DT	3
+fruits/NNS ,/, they/PRP (\w+)/VBP and/CC (\w+)/VBP quickly/RB ,/, adding/VBG	1
+,/, would/MD also/RB (\w+)/VB to/TO (\w+)/VB the/DT Asian/JJ championships/NNS	1
+(\w+)/VB like/IN a/DT person/NN and/CC (\w+)/VB	1
+months/NNS that/WDT could/MD (\w+)/VB or/CC (\w+)/VB the/DT	1
+could/MD (\w+)/VB the/DT popular/JJ vote/NN but/CC (\w+)/VBP to/TO Gore/NNP in/IN	1
+need/NN to/TO (\w+)/VB and/CC (\w+)/VB back/JJ holdings/NNS	1
+(\w+)/VB when/WRB things/NNS (\w+)/VBP	1
+does/VBZ n't/RB (\w+)/VB you/PRP permission/NN to/TO (\w+)/VB it/PRP ./. ''/''	1
+(\w+)/VB and/CC miss/VB ,/, mostly/RB (\w+)/VB ./.	1
+,/, to/TO (\w+)/VB the/DT lead/NN and/CC to/TO (\w+)/VB	1
+either/RB to/TO (\w+)/VB or/CC (\w+)/VB Mr./NNP Menotti/NNP	1
+Republicans/NNPS (\w+)/VBP majority/NN control/NN or/CC Democrats/NNS (\w+)/VB the/DT Republican/JJ lock/NN	1
+school/NN lunches/NNS ,/, (\w+)/VB before-lunch/JJ recess/NN and/CC (\w+)/VB	1
+called/VBN market-makers/NNS ,/, (\w+)/VB and/CC (\w+)/VB	1
+firms/NNS did/VBD not/RB (\w+)/VB or/CC (\w+)/VB	1
+Cubs/NNP (\w+)/VB ,/, (\w+)/VB 2008/CD against/IN Brewers/NNS	1
+(\w+)/VB us/PRP rather/RB than/IN (\w+)/VB us/PRP ./.	1
+being/VBG all-too-willing/JJ to/TO (\w+)/VB low/JJ and/CC (\w+)/VB high/JJ leads/NNS	1

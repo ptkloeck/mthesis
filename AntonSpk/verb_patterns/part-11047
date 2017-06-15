@@ -1,0 +1,35 @@
+be/VB able/JJ to/TO (\w+)/VB ,/, not/RB (\w+)/VB ./. "/''	1
+'ll/MD (\w+)/VB tomorrow/NN ready/JJ to/TO (\w+)/VB ./. "/''	1
+of/IN who/WP will/MD (\w+)/VB and/CC who/WP will/MD (\w+)/VB ./.	1
+the/DT showcase/NN can/MD (\w+)/VB or/CC (\w+)/VB	1
+atmosphere/NN of/IN (\w+)/VB and/CC (\w+)/VB with/IN the/DT artists/NNS	1
+solutions/NNS can/MD not/RB (\w+)/VB or/CC (\w+)/VB with/IN just/RB	1
+so/IN many/JJ editors/NNS (\w+)/VBP and/CC (\w+)/VBP at/IN this/DT paper/NN	1
+to/TO (\w+)/VB or/CC (\w+)/VB it/PRP ,/,	9
+(\w+)/VBP ,/, to/TO (\w+)/VB with/IN	1
+who/WP (\w+)/VBP ,/, (\w+)/VBP and/CC	2
+plebiscite/NN will/MD (\w+)/VB on/IN July/NNP 1/CD and/CC (\w+)/VB	1
+The/DT festivals/NNS will/MD (\w+)/VB at/IN 1/CD P.M./NN and/CC (\w+)/VB at/IN	1
+as/IN a/DT responsive/NN (\w+)/VB and/CC (\w+)/VB punctuates/NNS I/PRP	1
+to/TO (\w+)/VB their/PRP$ large/JJ house/NN to/TO (\w+)/VB	1
+members/NNS who/WP (\w+)/VBP to/TO (\w+)/VB political/JJ action/NN	1
+way/NN beyond/IN (\w+)/VB and/CC (\w+)/VB ./.	1
+to/TO (\w+)/VB his/PRP$ nuanced/NN (\w+)/VB	1
+hours/NNS after/IN I/PRP (\w+)/VBP ,/, I/PRP (\w+)/VBP	1
+who/WP (\w+)/VBP Awol/NNP (\w+)/VB back/RB to/TO	1
+™/NNP ll/NNP (\w+)/VBP the/DT people/NNS who/WP (\w+)/VBP been/VBN	1
+generations/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, this/DT is/VBZ	1
+possible/JJ to/TO (\w+)/VB the/DT popular/JJ vote/NN and/CC (\w+)/VB	1
+it/PRP ,/, Presidents/NNS (\w+)/VB and/CC (\w+)/VB	1
+confidence/NN is/VBZ (\w+)/VBN to/TO (\w+)/VB as/IN turnovers/JJ	1
+can/MD manually/RB (\w+)/VB and/CC (\w+)/VB the/DT	1
+to/TO (\w+)/VB (/NNP then/RB (\w+)/VB	2
+defense/NN allows/VBZ ,/, (\w+)/VB or/CC (\w+)/VB 10/CD yards/NNS	1
+locomotives/NNS that/WDT (\w+)/VB trains/NNS east/RB and/CC (\w+)/VB them/PRP west/NN ./.	1
+of/IN commentary/NN both/DT (\w+)/VB and/CC (\w+)/VB creative/JJ acts/NNS ./.	1
+''/'' They/PRP may/MD (\w+)/VB the/DT battle/NN but/CC (\w+)/VBP the/DT war/NN ,/,	1
+(\w+)/VB them/PRP presents/NNS ,/, (\w+)/VB them/PRP on/IN holidays/NNS	1
+Feinstein/NNP would/MD neither/RB (\w+)/VB nor/CC (\w+)/VB the/DT charges/NNS	1
+you/PRP can/MD (\w+)/VB ,/, even/RB if/IN you/PRP (\w+)/VBP	1
+(\w+)/VB and/CC (\w+)/VB cigarettes/NNS	1
+(\w+)/VB here/RB than/IN to/TO (\w+)/VB downtown/NN	1

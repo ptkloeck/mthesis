@@ -1,0 +1,29 @@
+(\w+)/VB them/PRP than/IN (\w+)/VB them/PRP ,/,	1
+share/NN they/PRP (\w+)/VBP or/CC (\w+)/VBP	1
+You/PRP may/MD (\w+)/VB him/PRP ,/, you/PRP may/MD (\w+)/VB him/PRP ,/,	1
+Center/NNP has/VBZ to/TO (\w+)/VB and/CC (\w+)/VB on/IN its/PRP$	1
+will/MD soon/RB (\w+)/VB to/TO (\w+)/VB them/PRP	1
+going/VBG to/TO (\w+)/VB here/RB or/CC will/MD they/PRP (\w+)/VBP somewhere/RB else/RB	1
+after/IN that/DT ,/, (\w+)/VB or/CC (\w+)/VB ,/,	1
+the/DT lawmakers/NNS to/TO (\w+)/VB or/CC (\w+)/VB --/: but/CC not/RB	1
+minute/NN will/MD (\w+)/VB and/CC (\w+)/VB around/IN 7/CD	1
+fun/NN trip/NN to/TO (\w+)/VB over/RP and/CC miss/VB and/CC (\w+)/VB	1
+``/`` Heads/NNP I/NNP (\w+)/VBP ,/, tails/NNS you/PRP (\w+)/VBP ''/''	2
+meeting/NN should/MD "/`` (\w+)/VB and/CC (\w+)/VB	2
+(\w+)/VBP and/CC (\w+)/VBP with/IN Viking/JJ	1
+purchase/VB ,/, (\w+)/VB ,/, (\w+)/VB or/CC even/RB	1
+not/RB (\w+)/VB or/CC (\w+)/VB on/RP	1
+(\w+)/VB at/IN the/DT absurdity/NN ,/, (\w+)/VB	1
+Davydenko/NNP was/VBD (\w+)/VBN or/CC (\w+)/VBP throughout/IN the/DT	1
+is/VBZ to/TO (\w+)/VB doors/NNS ,/, not/RB to/TO (\w+)/VB them/PRP	1
+81/CD ``/`` (\w+)/VBP or/CC (\w+)/VBP ''/'' questions/NNS	1
+lights/NNS do/VBP n't/RB (\w+)/VB on/RP ,/, she/PRP 'll/MD (\w+)/VB	1
+that/IN one/PRP can/MD (\w+)/VB with/IN nothing/NN and/CC (\w+)/VB up/RP with/IN	1
+his/PRP$ team/NN must/MD (\w+)/VB hitting/VBG it/PRP shots/NNS and/CC (\w+)/VB losing/VBG the/DT battle/NN	1
+you/PRP can/MD (\w+)/VB to/TO (\w+)/VB ./.	2
+those/DT who/WP (\w+)/VBP and/CC (\w+)/VBP again/RB ,/,	1
+on/IN the/DT Sun/NNP (\w+)/VBP and/CC (\w+)/VBP every/DT 11/CD	1
+getting/VBG to/TO (\w+)/VB and/CC (\w+)/VB the/DT car/NN	1
+fund/NN aims/VBZ to/TO (\w+)/VB companies/NNS that/WDT (\w+)/VBP for/IN	1
+(\w+)/VB drugs/NNS directly/RB and/CC (\w+)/VB them/PRP	1
+do/VBP n't/RB (\w+)/VB on/RP too/RB much/RB or/CC (\w+)/VB in/RP	1

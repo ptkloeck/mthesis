@@ -1,0 +1,31 @@
+'s/POS fortunes/NNS (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+(\w+)/VB or/CC (\w+)/VB 250/CD	2
+While/IN weather/NN can/MD (\w+)/VB or/CC (\w+)/VB	1
+those/DT who/WP (\w+)/VBP bears/NNS and/CC those/DT who/WP (\w+)/VBP	1
+(\w+)/VB and/CC you/PRP can/MD (\w+)/VB ,/, ''/'' Calhoun/NNP	1
+Broncos/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN Elway/NNP	1
+puts/VBZ them/PRP to/TO (\w+)/VB ,/, and/CC they/PRP (\w+)/VBP up/RP	3
+(\w+)/VBP to/TO (\w+)/VB this/DT reality/NN ./.	1
+have/VB to/TO (\w+)/VB bad/JJ shots/NNS to/TO (\w+)/VB these/DT greens/NNS and/CC	1
+mortgage/NN notes/NNS are/VBP (\w+)/VBN to/TO (\w+)/VB ./.	1
+Fad/NNP diets/NNS may/MD (\w+)/VB and/CC (\w+)/VB ,/,	1
+(\w+)/VB down/RP these/DT barriers/NNS and/CC (\w+)/VB it/PRP easy/JJ for/IN	1
+hard/JJ to/TO (\w+)/VB incompetent/JJ workers/NNS and/CC to/TO (\w+)/VB and/CC promote/VB good/JJ	1
+power/NN to/TO (\w+)/VB or/CC (\w+)/VB people/NNS 's/POS careers/NNS	1
+,/, who/WP can/MD (\w+)/VB or/CC (\w+)/VB them/PRP but/CC not/RB	1
+magnetism/NNS can/MD (\w+)/VB or/CC (\w+)/VB	1
+the/DT market/NN will/MD (\w+)/VB or/CC (\w+)/VB	3
+will/MD (\w+)/VB everybody/NN a/DT chance/NN to/TO (\w+)/VB a/DT deep/JJ breath/NN	1
+square/NN and/CC (\w+)/VB ,/, before/IN we/PRP (\w+)/VBP to/TO remove/VB	1
+to/TO (\w+)/VB what/WP we/PRP (\w+)/VBP ,/, and/CC more/RBR	1
+can/MD you/PRP (\w+)/VB and/CC (\w+)/VB Market/NNP	1
+prices/NNS ,/, (\w+)/VB or/CC (\w+)/VB on/IN Tuesday/NNP	1
+wants/VBZ to/TO (\w+)/VB more/JJR support/NN ,/, pls/NN (\w+)/VBP preserve/VB	1
+,/, (\w+)/VB without/IN pain/NN ,/, (\w+)/VB away/RP from/IN	1
+begins/VBZ to/TO (\w+)/VB and/CC surprising/JJ objects/NNS promptly/RB (\w+)/VB	1
+that/IN I/PRP would/MD (\w+)/VB to/TO (\w+)/VB class/NN	1
+were/VBD designed/VBN to/TO (\w+)/VB and/CC (\w+)/VB elevator/NN doors/NNS and/CC	1
+gates/NNS where/WRB fans/NNS (\w+)/VB and/CC (\w+)/VB ,/,	1
+(\w+)/VB with/IN women/NNS may/MD (\w+)/VB at/IN the/DT dealer/NN	1
+(\w+)/VB or/CC (\w+)/VB blood/NN	1
+Other/JJ airlines/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN the/DT	2

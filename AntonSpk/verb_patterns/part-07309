@@ -1,0 +1,44 @@
+can/MD make/VB you/PRP (\w+)/VB ,/, (\w+)/VB ,/,	1
+day/NN that/WDT could/MD (\w+)/VB or/CC (\w+)/VB	2
+States/NNPS should/MD neither/RB (\w+)/VB nor/CC (\w+)/VB the/DT United/NNP Nations/NNPS	1
+people/NNS (\w+)/VBP the/DT (\w+)/VB	1
+the/DT results/NNS were/VBD (\w+)/VBN or/CC (\w+)/VBP	2
+game/NN ,/, (\w+)/VB or/CC (\w+)/VB ;/:	1
+unlikely/JJ to/TO (\w+)/VB and/CC may/MD (\w+)/VB up/RP as/IN	1
+(\w+)/VB and/CC not/RB further/RBR (\w+)/VBP	1
+,/, one/PRP can/MD (\w+)/VB it/PRP or/CC (\w+)/VB	1
+will/MD (\w+)/VB you/PRP (\w+)/VB	1
+(\w+)/VB a/DT cart/NN to/TO (\w+)/VB sandwiches/NNS	1
+(\w+)/VBP and/CC (\w+)/VBP for/IN fair/JJ market/NN	1
+to/TO (\w+)/VB the/DT stand/NN (\w+)/VB testimony/NN in/IN a/DT	1
+Hightower/NNP ,/, (\w+)/VB ,/, (\w+)/VB or/CC draw/VB ,/,	1
+exhibitions/NNP (\w+)/VB and/CC (\w+)/VB all/PDT the/DT time/NN	1
+steer/VB riders/NNS (\w+)/VB or/CC (\w+)/VB each/DT tip/NN	1
+'s/POS (\w+)/VB or/CC (\w+)/VB Champions/NNPS League/NNP	1
+postseason/NN could/MD be/VB (\w+)/VB or/CC (\w+)/VB ./.	1
+to/TO (\w+)/VB and/CC (\w+)/VB shares/NNS	59
+fans/NNS who/WP (\w+)/VBP short/JJ attention/NN spans/NNS will/MD (\w+)/VB	2
+and/CC I/PRP (\w+)/VBP to/TO (\w+)/VB on/IN quite/PDT a/DT	1
+E/NNP that/WDT (\w+)/VBP and/CC (\w+)/VBP power/NN daily/RB	1
+as/IN "/`` (\w+)/VB the/DT rumor/NN and/CC (\w+)/VB the/DT fact/NN ./.	1
+not/RB (\w+)/VB or/CC (\w+)/VB the/DT politically/RB	2
+its/PRP$ (\w+)/VB and/CC (\w+)/VB ,/, its/PRP$ compromises/NNS	1
+(\w+)/VB more/RBR than/IN they/PRP (\w+)/VBP	9
+seen/VBN six/CD decades/NNS (\w+)/VB and/CC (\w+)/VB	3
+members/NNS come/VBP and/CC (\w+)/VBP and/CC mayors/NNS (\w+)/VBP and/CC go/VBP	1
+six/CD times/NNS (/RB (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB a/DT process/NN to/TO formally/RB (\w+)/VB	1
+free/JJ to/TO (\w+)/VB and/CC (\w+)/VB ,/, one/PRP would/MD	1
+(\w+)/VB back/RP to/TO us/PRP or/CC (\w+)/VB	1
+not/RB (\w+)/VB today/NN I/PRP have/VBP to/TO (\w+)/VB to/TO	1
+(\w+)/VB options/NNS for/IN others/NNS to/TO (\w+)/VB them/PRP ,/, can/MD	1
+asked/VBN to/TO (\w+)/VB or/CC (\w+)/VB a/DT	4
+and/CC hell/NN (\w+)/VB whatever/WDT you/PRP (\w+)/VBP	1
+(\w+)/VB patients/NNS the/DT chance/NN to/TO (\w+)/VB their/PRP$ complaints/NNS to/TO	5
+times/NNS to/TO (\w+)/VB dollars/NNS and/CC (\w+)/VB yen/NNS	4
+who/WP so/RB magnanimously/RB (\w+)/VBP the/DT sinner/NN and/CC (\w+)/VBP the/DT sin/NN ./.	1
+force/VBP him/PRP to/TO (\w+)/VB growth/NN predictions/NNS and/CC (\w+)/VB borrowing/NN	1
+(\w+)/VBP and/CC (\w+)/VBP onto/IN my/PRP$	1
+be/VB able/JJ to/TO (\w+)/VB or/CC (\w+)/VB their/PRP$ service/NN	1
+frequency/NN that/WDT could/MD (\w+)/VB and/CC (\w+)/VBP the/DT safety/NN device/NN	1
+He/PRP may/MD not/RB (\w+)/VB or/CC (\w+)/VB coaches/NNS ,/,	2

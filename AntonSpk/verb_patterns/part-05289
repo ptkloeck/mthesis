@@ -1,0 +1,30 @@
+prices/NNS (\w+)/VBN to/TO (\w+)/VB on/RP Jan./NNP 8/CD	1
+--/: their/PRP$ eyes/NNS (\w+)/VB and/CC (\w+)/VB --/: but/CC	1
+and/CC family/NN (\w+)/VBP and/CC (\w+)/VBP	1
+'s/VBZ seen/VBN him/PRP (\w+)/VB and/CC (\w+)/VB and/CC then/RB rise/VB	1
+(\w+)/VB as/RB well/RB as/IN I/PRP (\w+)/VBP	1
+various/JJ moves/NNS (\w+)/VBP or/CC (\w+)/VBP ,/, Mr./NNP Newhouse/NNP	1
+baseball/NN players/NNS who/WP (\w+)/VBP practice/NN to/TO (\w+)/VB today/NN 's/POS march/NN	1
+a/DT detainee/NN (\w+)/VB up/RP and/CC then/RB (\w+)/VB down/RB	2
+"/`` Bad/NNP karma/NNP (\w+)/VB away/RP ,/, (\w+)/VB again/RB another/DT	1
+going/VBG to/TO (\w+)/VB in/IN pretty/RB full/JJ and/CC (\w+)/VB out/RP pretty/RB	1
+reasons/NNS to/TO (\w+)/VB securities/NNS than/IN to/TO (\w+)/VB them/PRP ./.	2
+can/MD (\w+)/VB and/CC (\w+)/VB at/IN their/PRP$	1
+hand/NN ,/, is/VBZ (\w+)/VBN or/CC (\w+)/VBP every/DT time/NN	1
+,/, companies/NNS that/WDT (\w+)/VBP to/TO (\w+)/VB environmental/JJ	1
+(\w+)/VB their/PRP$ morning/NN trips/NNS and/CC (\w+)/VB their/PRP$ evening/NN trips/NNS	1
+to/TO make/VB me/PRP (\w+)/VB or/CC (\w+)/VB a/DT mistake/NN	1
+desire/NN to/TO (\w+)/VB away/RP from/IN parents/NNS and/CC (\w+)/VB decisions/NNS is/VBZ	1
+(\w+)/VB unpaid/JJ work/NN and/CC (\w+)/VB social/JJ and/CC environmental/JJ	1
+"/'' (\w+)/VB or/CC (\w+)/VB a/DT year/NN	1
+who/WP want/VBP to/TO (\w+)/VB and/CC (\w+)/VB can/MD	1
+you/PRP love/VBP to/TO (\w+)/VB (/NNS and/CC hate/VB to/TO (\w+)/VB	1
+to/TO steer/VB riders/NNS (\w+)/VB or/CC (\w+)/VB each/DT tip/NN	1
+do/VB was/VBD (\w+)/VB up/RP and/CC (\w+)/VB down/RP	1
+million/CD farmers/NNS (\w+)/VBN and/CC (\w+)/VB to/TO cities/NNS to/TO	1
+lawmakers/NNS (\w+)/VBP to/TO (\w+)/VB is/VBZ to/TO hold/VB	1
+'s/POS hands/NNS to/TO (\w+)/VB or/CC (\w+)/VB the/DT game/NN	2
+(\w+)/VB and/CC (\w+)/VB the/DT underworld/NN	1
+(\w+)/VB or/CC (\w+)/VB the/DT elephant/NN ,/,	1
+gadgets/NNS ,/, but/CC (\w+)/VB or/CC (\w+)/VB a/DT few/JJ	1
+(\w+)/VBP down/RP while/IN injuries/NNS (\w+)/VBP untreated/JJ ./.	1

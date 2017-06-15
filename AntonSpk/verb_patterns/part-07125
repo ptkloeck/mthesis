@@ -1,0 +1,35 @@
+to/TO (\w+)/VB or/CC (\w+)/VB a/DT designer/NN ,/,	1
+service/NN times/NNS ,/, (\w+)/VB inventory/NN shrinkage/NN and/CC (\w+)/VB	2
+can/MD (\w+)/VB and/CC (\w+)/VB at/IN speed/NN ,/,	1
+defects/NNS that/WDT (\w+)/VBP caused/VBN them/PRP to/TO (\w+)/VB their/PRP$ targets/NNS ./.	1
+momentarily/RB (\w+)/VB and/CC (\w+)/VB ,/,	1
+employees/NNS (\w+)/VBD or/CC (\w+)/VB	1
+play/NN can/MD (\w+)/VB or/CC (\w+)/VB a/DT	3
+she/PRP can/MD (\w+)/VB or/CC (\w+)/VB her/PRP$	1
+will/MD (\w+)/VB you/PRP than/IN will/MD (\w+)/VB you/PRP ,/,	1
+Do/VBP you/PRP (\w+)/VB Alaska/NNP ,/, and/CC do/VB (\w+)/VB any/DT plans/NNS to/TO	1
+(\w+)/VB or/CC (\w+)/VB filter/NN	1
+(\w+)/VBP likely/JJ expenses/NNS and/CC (\w+)/VB likely/JJ revenue/NN	2
+Fashion/NN trends/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, but/CC	1
+drivers/NNS (\w+)/VBP something/NN younger/JJR drivers/NNS (\w+)/VBP	1
+(\w+)/VB under/IN pressure/NN to/TO (\w+)/VB from/IN the/DT	1
+you/PRP (\w+)/VBP or/CC (\w+)/VBP then/RB you/PRP	1
+status/NN could/MD (\w+)/VB or/CC (\w+)/VB at/IN every/DT	1
+(\w+)/VB Thursday/NNP and/CC (\w+)/VB in/IN Washington/NNP ,/,	1
+neurons/RB (\w+)/VBP and/CC (\w+)/VBP all/PDT the/DT time/NN	1
+to/TO (\w+)/VB or/CC (\w+)/VB notes/NNS at/IN the/DT	3
+whites/NNS (\w+)/VB in/IN these/DT places/NNS and/CC (\w+)/VB out/RP	1
+(\w+)/VB up/RP things/NNS and/CC (\w+)/VB	1
+Anyone/NN hoping/VBG to/TO (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VBP ,/, the/DT Knicks/NNPS (\w+)/VBP the/DT	1
+Kansans/NNP who/WP (\w+)/VB or/CC switch/VB jobs/NNS to/TO (\w+)/VB their/PRP$ old/JJ health/NN	1
+element/NN of/IN civilized/VBG (\w+)/VB and/CC (\w+)/VB	1
+population/NN --/: they/PRP (\w+)/VBP and/CC (\w+)/VBP	1
+Kyoto/NNP ,/, (\w+)/VBP and/CC (\w+)/VBP "/JJ carbon/NN	1
+how/WRB to/TO (\w+)/VB out/RP ,/, fight/VB and/CC (\w+)/VB back/RP to/TO	1
+the/DT county/NN could/MD (\w+)/VB or/CC (\w+)/VB	1
+freedom/NN to/TO (\w+)/VB and/CC (\w+)/VB those/DT working/VBG there/RB	1
+people/NNS (\w+)/VB or/CC (\w+)/VB to/TO change/VB the/DT	1
+rhythmic/JJ patterns/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+(\w+)/VB where/WRB they/PRP are/VBP or/CC (\w+)/VB up/RP	1
+(\w+)/VB if/IN they/PRP can/MD (\w+)/VB with/IN	1

@@ -1,0 +1,27 @@
+for/IN businesses/NNS to/TO (\w+)/VB and/CC (\w+)/VB employees/NNS ./.	1
+allowing/VBG it/PRP to/TO (\w+)/VB ,/, partly/RB to/TO (\w+)/VB	1
+who/WP (\w+)/VBP Morse/NNP Code/NNP (\w+)/VBP	1
+Papers/NNP lets/VBZ you/PRP (\w+)/VB and/CC (\w+)/VB reference/NN	1
+interest/NN ratesâ/NNS (\w+)/VBP ,/, gold/NN will/MD (\w+)/VB	1
+(\w+)/VB defections/NNS and/CC (\w+)/VB	1
+force/NN as/IN you/PRP (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VBP or/CC (\w+)/VBP at/IN rural/JJ airports/NNS	1
+to/TO constantly/RB (\w+)/VB his/PRP$ game/NN plan/NN to/TO (\w+)/VB on/IN top/NN despite/IN	1
+watching/VBG prospects/NNS (\w+)/VB and/CC (\w+)/VB ./.	1
+plus/NN --/: (\w+)/VB ,/, (\w+)/VB or/CC	4
+about/IN heroin/NN (\w+)/VB and/CC (\w+)/VB the/DT	1
+made/VBN them/PRP (\w+)/VB and/CC (\w+)/VB ,/, tore/VBD	1
+pull/VB ,/, (\w+)/VB ,/, (\w+)/VB ,/, pile/VB	1
+will/MD (\w+)/VB and/CC (\w+)/VB on/IN their/PRP$	2
+good/JJ ,/, (\w+)/VB or/CC (\w+)/VB a/DT couple/NN	1
+votes/VBZ to/TO (\w+)/VB or/CC (\w+)/VB the/DT motion/NN ,/,	1
+are/VBP n't/RB (/JJ (\w+)/VBP ital/JJ )/NNS more/RBR (/JJ (\w+)/VB ital/JJ	1
+of/IN technology/NN companies/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+time/NN to/TO (\w+)/VB and/CC (\w+)/VB shares/NNS in/IN direct/JJ	2
+which/WDT can/MD (\w+)/VB or/CC (\w+)/VB with/IN its/PRP$ irreverent/JJ	1
+people/NNS (\w+)/VBP jobs/NNS but/CC most/RBS (\w+)/VBP other/JJ ones/NNS	2
+has/VBZ (\w+)/VBN for/IN me/PRP to/TO (\w+)/VB fishing/NN	1
+subsidiary/NN to/TO (\w+)/VB ,/, (\w+)/VB	1
+(\w+)/VB down/RP three/CD and/CC (\w+)/VB	1
+Cannabis-related/JJ schizophrenia/NN (\w+)/VBD to/TO (\w+)/VB ,/, say/VBP	1
+would/MD (\w+)/VB its/PRP$ debt/NN and/CC (\w+)/VB its/PRP$	1

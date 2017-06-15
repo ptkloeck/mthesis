@@ -1,0 +1,30 @@
+'s/POS right/NN to/TO (\w+)/VB and/CC (\w+)/VB a/DT	1
+match/VBP (\w+)/VB and/CC (\w+)/VB orders/NNS	11
+(\w+)/VB or/CC (\w+)/VB big/JJ	3
+(\w+)/VB to/TO (\w+)/VB together/RB as/IN	1
+Gotti/NNP ,/, (\w+)/VB and/CC (\w+)/VB --/: some/DT to/TO	1
+my/PRP$ bills/NNS ,/, (\w+)/VB me/PRP an/DT allowance/NN and/CC (\w+)/VB care/NN of/IN	1
+(\w+)/VB and/CC (\w+)/VB The/DT Journal/NNP 's/POS	2
+phrases/NNS (\w+)/VBP and/CC (\w+)/VBP like/IN overnight/JJ	1
+`/`` I/PRP (\w+)/VB Winterthur/NNP but/CC I/PRP (\w+)/VBP Lyndhurst/NNP ,/, '/''	1
+has/VBZ been/VBN more/RBR (\w+)/VBN and/CC (\w+)/VBP	1
+I/PRP (\w+)/VBP directing/VBG ,/, I/PRP (\w+)/VBP	1
+homes/NNS (\w+)/VBP and/CC (\w+)/VBP at/IN	1
+that/WDT (\w+)/VBP and/CC (\w+)/VBP elections/NNS	1
+Rossoneri/NNP rarely/RB (\w+)/VB their/PRP$ patience/NN and/CC (\w+)/VB	1
+going/VBG to/TO (\w+)/VB taking/VBG their/PRP$ SUV/NN and/CC (\w+)/VB to/TO take/VB	1
+(\w+)/VB rather/RB than/IN playing/VBG to/TO (\w+)/VB ./. "/''	1
+:/: men/NNS who/WP (\w+)/VBP to/TO (\w+)/VB the/DT legitimacy/NN	1
+trip/NN that/WDT could/MD (\w+)/VB or/CC (\w+)/VB the/DT season/NN against/IN	1
+jurisdictions/NNS to/TO (\w+)/VB fighting/NN and/CC to/TO (\w+)/VB working/VBG together/RB ./.	1
+n't/RB expected/VBN to/TO (\w+)/VB anytime/RB soon/RB as/IN hackers/NNS (\w+)/VBP a/DT step/NN ahead/RB	1
+to/TO (\w+)/VB or/CC (\w+)/VB ,/, there/EX	1
+plan/NN designed/VBN to/TO (\w+)/VB property/NN taxes/NNS and/CC (\w+)/VB other/JJ taxes/NNS	1
+She/PRP went/VBD to/TO (\w+)/VB but/CC wo/MD n't/RB (\w+)/VB up/RP "/``	1
+to/TO (\w+)/VB or/CC (\w+)/VB money/NN from/IN the/DT	1
+,/, (\w+)/VB or/CC (\w+)/VB 1.1/CD billion/CD ./.	1
+(\w+)/VB star/NN but/CC (\w+)/VB	1
+rather/RB (\w+)/VB Chavez/NNP (\w+)/VB one/CD game/NN than/IN	1
+Freeman/NNP -/: Incumbents/NNP (\w+)/VB ,/, (\w+)/VB Independence/NN primaries/NNS	1
+law/NN to/TO (\w+)/VB ,/, (\w+)/VB or/CC consume/VB	1
+Election/NNP Committee/NNP will/MD (\w+)/VB or/CC (\w+)/VB	1

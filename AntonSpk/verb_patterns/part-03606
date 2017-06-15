@@ -1,0 +1,38 @@
+rules/NNS (\w+)/VB or/CC (\w+)/VB last-minute/JJ bidding/NN	1
+(\w+)/VB shrugging/VBG our/PRP$ shoulders/NNS and/CC (\w+)/VB rolling/VBG up/RP	1
+validly/RB (\w+)/VB ,/, and/CC not/RB (\w+)/VB ,/, not/RB less/JJR	1
+(\w+)/VB concessions/NNS to/TO (\w+)/VB	3
+who/WP (\w+)/VBP and/CC (\w+)/VBP at/IN their/PRP$ leisure/NN	1
+(\w+)/VBP or/CC do/VBP n't/RB (\w+)/VB how/WRB to/TO	1
+"/`` (\w+)/VB less/JJR and/CC (\w+)/VB more/JJR ,/,	1
+(/VBG 43/CD percent/NN (\w+)/VB ,/, 40/CD percent/NN (\w+)/VB )/NNP	1
+heart/NN ,/, (\w+)/VB them/PRP presents/NNS ,/, (\w+)/VB	1
+is/VBZ basically/RB a/DT (\w+)/VBP and/CC (\w+)/VBP affair/NN	1
+competition/NN will/MD either/RB (\w+)/VB or/CC (\w+)/VB points/NNS for/IN the/DT	1
+So/IN stocks/NNS should/MD (\w+)/VB and/CC (\w+)/VB only/RB in/IN response/NN	1
+cryptography/NN will/MD (\w+)/VB it/PRP harder/JJR to/TO (\w+)/VB coded/JJ transmissions/NNS sent/VBN	1
+had/VBD to/TO (\w+)/VB away/RP and/CC (\w+)/VB up/RP with/IN	1
+(/RB (\w+)/VB ital/JJ )/JJ master/NN (/NNS (\w+)/VB ital/JJ	1
+to/TO (\w+)/VB negotiations/NNS and/CC (\w+)/VB the/DT war/NN ./.	1
+Q./NNP I/NNP (\w+)/VB and/CC (\w+)/VB my/PRP$ two-bedroom/JJ townhouse/NN	1
+'s/POS advice/NN to/TO (\w+)/VB and/CC (\w+)/VB up/RP	1
+has/VBZ nothing/NN to/TO (\w+)/VB or/CC (\w+)/VB Saturday/NNP	2
+(\w+)/VBP chemical/JJ lawns/NNS but/CC (\w+)/VBP endangered/JJ	1
+can/MD (\w+)/VB or/CC (\w+)/VB their/PRP$ systems/NNS ,/,	1
+and/CC (\w+)/VB home/NN and/CC then/RB (\w+)/VB back/RB ,/,	1
+Both/DT figures/NNS are/VBP (\w+)/VBN to/TO (\w+)/VB ,/, however/RB	1
+Before/IN you/PRP (\w+)/VBP ,/, you/PRP have/VBP to/TO (\w+)/VB	1
+(\w+)/VB to/TO Kashmir/NNP than/IN to/TO (\w+)/VB to/TO Mauritius/NNP ,/,	1
+international/JJ community/NN (\w+)/VB up/RP on/IN negotiations/NNS and/CC (\w+)/VB another/DT path/NN ,/,	1
+(\w+)/VB and/CC where/WRB does/VBZ it/PRP (\w+)/VB ,/,	1
+(\w+)/VB forced/VBN Cage/NNP to/TO (\w+)/VB	1
+(\w+)/VB it/PRP down/RP and/CC (\w+)/VB reviewing/VBZ ,/,	1
+only/RB (\w+)/VB or/CC (\w+)/VB the/DT temperature/NN	1
+"/`` Labor/NNP can/MD (\w+)/VB the/DT election/NN and/CC still/RB (\w+)/VB the/DT government/NN	1
+continue/VB to/TO (\w+)/VB growth/NN stocks/NNS but/CC not/RB (\w+)/VB value/NN	1
+(\w+)/VB and/CC (\w+)/VB both/PDT White/NNP House/NNP	1
+spends/VBZ money/NN to/TO (\w+)/VB roads/NNS ,/, not/RB (\w+)/VB them/PRP ./.	1
+we/PRP (\w+)/VB ,/, we/PRP (\w+)/VB ,/, we/PRP	1
+(\w+)/VBN to/TO (\w+)/VB ;/: Asian/JJ	1
+allowed/VBN Iraq/NNP to/TO (\w+)/VB oil/NN to/TO (\w+)/VB	5
+to/TO (\w+)/VB to/TO (\w+)/VB cash/NN	1

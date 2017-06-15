@@ -1,0 +1,37 @@
+might/MD (\w+)/VB it/PRP or/CC (\w+)/VB	1
+does/VBZ --/: (\w+)/VB low/JJ ,/, (\w+)/VB high/JJ	1
+world/NN does/VBZ not/RB (\w+)/VB and/CC (\w+)/VB	2
+want/VBP to/TO (\w+)/VB ,/, (\w+)/VB or/CC	1
+Windows/NNP environment/NN will/MD (\w+)/VB or/CC (\w+)/VB	1
+season/NN will/MD (\w+)/VB and/CC (\w+)/VB	3
+(\w+)/VB one/CD race/NN (\w+)/VB us/PRP from/IN	1
+(\w+)/VBP up/RB ./. Lair/NNP has/VBZ (\w+)/VB	1
+learn/VB together/RB ,/, (\w+)/VB together/RB and/CC (\w+)/VB	1
+While/IN members/NNS (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+can/MD magically/RB (\w+)/VB ,/, and/CC (\w+)/VB for/IN that/DT	1
+â/NNPS €/NNP may/MD (\w+)/VB and/CC (\w+)/VB	1
+that/IN people/NNS (\w+)/VBP to/TO send/VB but/CC (\w+)/VBP to/TO receive/VB	1
+no/DT one/NN could/MD (\w+)/VB or/CC (\w+)/VB the/DT buildings/NNS ,/,	1
+(\w+)/VB what/WP defenses/NNS (\w+)/VBP him/PRP and/CC	1
+(\w+)/VB ewe/NN mortality/NN and/CC (\w+)/VB the/DT value/NN	1
+"/`` How/WRB (\w+)/VBP we/PRP ca/MD n't/RB (\w+)/VB home/NN after/IN	1
+once/RB you/PRP (\w+)/VBP ,/, you/PRP never/RB (\w+)/VBP ./.	1
+students/NNS (\w+)/VBP to/TO (\w+)/VB ,/, programs/NNS	1
+or/CC to/TO (\w+)/VB or/CC (\w+)/VB	2
+who/WP (\w+)/VB you/PRP ,/, and/CC (\w+)/VB him/PRP who/WP	1
+(\w+)/VB before/IN people/NNS can/MD (\w+)/VB by/IN doing/VBG wrong/JJ	1
+Cliff/NNP Floyd/NNP will/MD (\w+)/VB knee/NN surgery/NN Friday/NNP and/CC (\w+)/VB 4-6/CD weeks/NNS ./.	1
+you/PRP (\w+)/VBP a/DT school/NN ,/, you/PRP (\w+)/VBP a/DT jail/NN	1
+be/VB able/JJ to/TO (\w+)/VB and/CC (\w+)/VB honest/JJ criticism/NN to/TO	1
+or/CC (\w+)/VB me/PRP (\w+)/VB any/DT	1
+to/TO (\w+)/VB or/CC (\w+)/VB games/NNS in/IN	1
+"/`` They/PRP 'll/MD (\w+)/VB off/RP the/DT football/NN and/CC (\w+)/VB downhill/RB	1
+(\w+)/VBP him/PRP most/JJS when/WRB I/PRP (\w+)/VBP a/DT visceral/JJ memory/NN	1
+emotional/JJ morning/NN because/IN (\w+)/VB or/CC (\w+)/VB I/PRP	2
+(\w+)/VBP in/IN early/JJ and/CC (\w+)/VB home/NN	1
+(\w+)/VB you/PRP training/NN ,/, (\w+)/VB	1
+that/WDT match/VBP (\w+)/VB and/CC (\w+)/VB orders/NNS	3
+by/IN others/NNS to/TO (\w+)/VB the/DT books/NNS or/CC (\w+)/VB	1
+many/JJ coaches/NNS (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB principals/NNS	8
+``/`` Whether/IN they/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, they/PRP 're/VBP	1

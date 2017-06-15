@@ -1,0 +1,103 @@
+'s/POS (\w+)/NN should/MD marry/VB his/PRP$ (\w+)/NN ,/,	1
+versions/NNS of/IN (\w+)/NN and/CC (\w+)/NN sometimes/RB with/IN images/NNS	1
+A/DT (\w+)/NN and/CC (\w+)/NN were/VBD caught/VBN on/IN	1
+a/DT young/JJ black/JJ (\w+)/NN and/CC a/DT white/JJ (\w+)/NN touched/VBN off/IN	1
+paid/VBN for/IN via/IN (\w+)/NN card/debit/NN cards/NNS and/CC sometimes/RB (\w+)/NN ./.	1
+could/MD mean/VB (\w+)/NN or/CC (\w+)/NN for/IN	2
+Auditorium/NNP the/DT (\w+)/NN and/CC (\w+)/NN team/NN of/IN Chargins/NNP	1
+the/DT very/JJ (\w+)/NN or/CC (\w+)/NN of/IN sleep/NN	1
+illustrated/VBD the/DT (\w+)/NN and/CC (\w+)/NN of/IN the/DT	1
+for/IN (\w+)/NN during/IN a/DT time/NN of/IN (\w+)/NN on/IN the/DT air/NN	1
+A/DT middle-aged/JJ (\w+)/NN and/CC (\w+)/NN ran/VBD like/IN children/NNS	1
+interested/JJ in/IN (\w+)/NN rather/RB than/IN (\w+)/NN	1
+by/IN a/DT (\w+)/NN or/CC a/DT (\w+)/NN to/TO have/VB	4
+have/VB only/RB a/DT (\w+)/NN and/CC (\w+)/NN	1
+grim/JJ (\w+)/NN to/TO whip/VB a/DT (\w+)/NN when/WRB the/DT	1
+capable/JJ (\w+)/NN ,/, Gertrude/JJ a/DT noble/JJ (\w+)/NN ,/, Ophelia/NNP	1
+(\w+)/NN to/TO a/DT second/JJ (\w+)/NN that/WDT touched/VBD another/DT	1
+think/VBP tying/VBG the/DT (\w+)/NN to/TO the/DT (\w+)/NN and/CC	1
+on/IN both/DT (\w+)/NN and/CC (\w+)/NN ,/, we/PRP 're/VBP	1
+(\w+)/NN of/IN the/DT three/CD (\w+)/NN	1
+quality/NN ;/: a/DT (\w+)/NN suggests/VBZ an/DT (\w+)/NN ./.	1
+(\w+)/NN mum/NN (/NNS and/CC her/PRP$ (\w+)/NN or/CC consort/NN	1
+to/TO any/DT (\w+)/NN who/WP married/VBD a/DT local/JJ (\w+)/NN ./.	1
+on/IN (\w+)/NN ,/, (\w+)/NN and/CC centre/NN ./.	1
+A/DT British/JJ (\w+)/NN and/CC (\w+)/NN revealed/VBD the/DT secrets/NNS	1
+Batista/NNP in/IN (\w+)/NN and/CC (\w+)/NN	1
+green/NN seemed/VBD stronger/JJR (\w+)/NN to/TO (\w+)/NN than/IN	1
+(\w+)/NN and/CC turns/VBZ the/DT (\w+)/NN	1
+move/VBP toward/IN (\w+)/NN and/CC away/RB from/IN (\w+)/NN ,/, â/NNP €/NNP	1
+the/DT (\w+)/NN and/CC (\w+)/NN point/NN	1
+a/DT (\w+)/NN of/IN 4/CD and/CC a/DT (\w+)/NN of/IN 2/CD ./.	1
+this/DT boy/NN 's/POS (\w+)/NN and/CC (\w+)/NN were/VBD deeply/RB touched/VBN	1
+the/DT (\w+)/NN has/VBZ to/TO appreciate/VB a/DT (\w+)/NN	1
+and/CC her/PRP$ (\w+)/NN lived/VBD together/RB ;/: her/PRP$ (\w+)/NN lives/VBZ elsewhere/RB	1
+an/DT (\w+)/NN to/TO that/DT age-old/JJ village/NN (\w+)/NN :/:	1
+the/DT region/NN 's/POS (\w+)/NN or/CC (\w+)/NN	2
+A/DT (\w+)/NN who/WP attacked/VBD a/DT (\w+)/NN on/IN	1
+An/DT 88-year-old/JJ (\w+)/NN and/CC an/DT 82-year-old/JJ (\w+)/NN were/VBD	1
+Dr./NNP Li/NNP 's/POS (\w+)/NN ,/, (\w+)/NN and/CC	1
+(\w+)/NN and/CC (\w+)/NN followed/VBD their/PRP$ children/NNS	1
+all/RB offer/VB excellent/JJ (\w+)/NN and/CC (\w+)/NN support/NN	1
+(\w+)/NN ,/, claimed/VBD her/PRP$ (\w+)/NN	1
+no/DT (\w+)/NN and/CC no/DT (\w+)/NN ,/,	15
+connection/NN between/IN the/DT (\w+)/NN or/CC (\w+)/NN of/IN	1
+not/RB out/IN of/IN (\w+)/NN but/CC out/RB of/IN (\w+)/NN ./.	1
+the/DT (\w+)/NN bumped/VBD into/IN the/DT (\w+)/NN during/IN recess/NN	1
+findings/NNS that/IN the/DT (\w+)/NN or/CC (\w+)/NN of/IN executions/NNS	1
+(\w+)/NN was/VBD deported/JJ and/CC her/PRP$ (\w+)/NN interrogated/VBN by/IN	1
+(\w+)/NN but/CC hidden/VBN by/IN the/DT (\w+)/NN and/CC his/PRP$ parents/NNS	1
+trial/NN for/IN a/DT (\w+)/NN accused/VBN of/IN beating/VBG a/DT (\w+)/NN to/TO death/NN	1
+(\w+)/NN and/CC a/DT 15-year-old/JJ (\w+)/NN ./.	3
+(\w+)/NN and/CC her/PRP$ (\w+)/NN ,/, mother/NN of/IN	1
+perfect/JJ (\w+)/NN to/TO Lloyd/NNP 's/POS intense/JJ (\w+)/NN ./.	1
+throughout/IN the/DT (\w+)/NN and/CC (\w+)/NN of/IN the/DT	1
+rehearse/VB all/DT (\w+)/NN after/IN working/VBG all/DT (\w+)/NN	1
+death/NN ,/, (\w+)/NN ,/, (\w+)/NN and/CC blame/NN ,/,	2
+(\w+)/NN to/TO a/DT trivia/NNS (\w+)/NN after/IN	1
+visible/JJ as/IN any/DT (\w+)/NN and/CC (\w+)/NN in/IN	1
+your/PRP$ young/JJ (\w+)/NN ,/, (\w+)/NN or/CC even/RB you/PRP	1
+(\w+)/NN ,/, (\w+)/NN ,/, upstream/NN	2
+her/PRP$ (\w+)/NN as/IN the/DT authority/NN (\w+)/NN	1
+That/DT makes/VBZ (\w+)/NN Mike/NNP and/CC (\w+)/NN	1
+'s/POS (\w+)/NN ,/, her/PRP$ (\w+)/NN and/CC her/PRP$ three/CD	1
+the/DT ubiquitous/JJ (\w+)/NN and/CC (\w+)/NN of/IN	1
+,/, if/IN the/DT (\w+)/NN disgraced/VBD his/PRP$ (\w+)/NN --/: the/DT	1
+slow/JJ (\w+)/NN ,/, poor/JJ (\w+)/NN (/NNP Titel/NNP	1
+the/DT (\w+)/NN or/CC tyranny/NN of/IN the/DT (\w+)/NN	1
+as/IN motorist/NN (\w+)/NN slowed/VBD and/CC refiners/NNS boosted/VBD (\w+)/NN ,/,	2
+is/VBZ not/RB (\w+)/NN ;/: it/PRP 's/VBZ (\w+)/NN	1
+(\w+)/NN so/IN a/DT (\w+)/NN of/IN Americans/NNPS	1
+show/NN where/WRB a/DT (\w+)/NN and/CC a/DT (\w+)/NN have/VBP had/VBN good/JJ	1
+,/, off/IN a/DT (\w+)/NN of/IN 6,117.66/CD and/CC a/DT (\w+)/NN of/IN	2
+audience/NN for/IN a/DT (\w+)/NN and/CC (\w+)/NN period/NN	1
+nation/NN for/IN ethnic/JJ (\w+)/NN Tamils/NNS ,/, accusing/VBG the/DT (\w+)/NN Sinhalese/NN of/IN discrimination/NN	1
+Mormons/NNPS have/VBP an/DT (\w+)/NN to/TO the/DT long-debated/JJ (\w+)/NN of/IN formal/JJ prayer/NN	2
+of/IN (\w+)/NN requiring/VBG faster/JJR (\w+)/NN to/TO run/VB	2
+the/DT (\w+)/NN and/CC (\w+)/NN ,/, gripping/JJ	1
+an/DT extra/JJ (\w+)/NN 's/POS rest/NN last/JJ (\w+)/NN	1
+the/DT (\w+)/NN and/CC the/DT (\w+)/NN have/VBP calls/NNS into/IN	1
+(\w+)/NN of/IN an/DT unfaithful/JJ (\w+)/NN ./.	1
+found/VBN on/IN her/PRP$ (\w+)/NN ,/, on/IN her/PRP$ (\w+)/NN of/IN	2
+an/DT (\w+)/NN to/TO that/DT (\w+)/NN could/MD be/VB	1
+mother/NN ,/, his/PRP$ (\w+)/NN ,/, his/PRP$ (\w+)/NN	2
+a/DT (\w+)/NN and/CC a/DT (\w+)/NN ,/, Nathaniel/NNP	1
+the/DT (\w+)/NN to/TO one/CD all-important/JJ summer/NN (\w+)/NN :/: How/WRB will/MD	1
+children/NNS ,/, a/DT (\w+)/NN of/IN 13/CD and/CC a/DT (\w+)/NN of/IN 15/CD	1
+portraiture/NN of/IN modern/JJ (\w+)/NN (/NNS and/CC (\w+)/NN )/NNS	1
+ease/VB the/DT rising/VBG (\w+)/NN and/CC (\w+)/NN	1
+"/'' charged/VBD from/IN (\w+)/NN to/TO (\w+)/NN of/IN a/DT	1
+,/, with/IN the/DT (\w+)/NN calling/VBG the/DT (\w+)/NN "/`` Squidgy/NNP ,/,	1
+(\w+)/NN ,/, one/CD a/DT (\w+)/NN ,/, arrived/VBD at/IN	1
+to/TO monitor/VB (\w+)/NN and/CC (\w+)/NN ./.	1
+defense/NN ,/, the/DT (\w+)/NN blames/VBZ the/DT (\w+)/NN	1
+become/VB the/DT (\w+)/NN to/TO a/DT trivia/NNS (\w+)/NN for/IN becoming/VBG the/DT	1
+teams/NNS are/VBP loaded/VBN (\w+)/NN to/TO (\w+)/NN	1
+confused/JJ young/JJ (\w+)/NN inhabiting/VBG an/DT old/JJ (\w+)/NN 's/POS infirm/NN ,/,	1
+mollify/VB the/DT (\w+)/NN ,/, the/DT (\w+)/NN agrees/VBZ to/TO	1
+angry/JJ (\w+)/NN shot/VBD dead/RP his/PRP$ estranged/VBN (\w+)/NN	1
+(\w+)/NN and/CC (\w+)/NN disrobe/VBP each/DT other/JJ	1
+land/NN to/TO the/DT (\w+)/NN and/CC (\w+)/NN	1
+from/IN his/PRP$ 6-month-old/JJ (\w+)/NN Haitham/NN to/TO his/PRP$ (\w+)/NN Alia/NN ,/, 25/CD	1
+here/RB as/IN a/DT (\w+)/NN of/IN Israel/NNP and/CC (\w+)/NN of/IN all/DT	1
+the/DT proud/JJ (\w+)/NN both/DT (\w+)/NN and/CC child/NN	1

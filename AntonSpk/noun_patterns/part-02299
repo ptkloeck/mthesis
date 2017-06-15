@@ -1,0 +1,119 @@
+ice/NN all/DT (\w+)/NN ,/, all/DT (\w+)/NN	1
+,/, a/DT 19-year-old/JJ (\w+)/NN and/CC 22-year-old/JJ (\w+)/NN	1
+student/NN ,/, (\w+)/NN ,/, (\w+)/NN or/CC friend/NN	1
+hold/NN their/PRP$ (\w+)/NN ,/, Masato/NNP ,/, and/CC (\w+)/NN ,/, Maria/NNP ,/,	1
+to/TO a/DT (\w+)/NN or/CC (\w+)/NN you/PRP ca/MD	1
+80-year-old/JJ (\w+)/NN and/CC my/PRP$ (\w+)/NN flew/VBD in/RP from/IN	1
+regard/NN to/TO (\w+)/NN and/CC (\w+)/NN factors/NNS ,/,	1
+police/NN ,/, both/DT (\w+)/NN and/CC (\w+)/NN of/IN Grants/NNPS	1
+about/IN tornado/JJ (\w+)/NN ,/, life/NN and/CC (\w+)/NN ./.	3
+when/WRB a/DT (\w+)/NN and/CC (\w+)/NN sing/VBP together/RB	1
+A/DT (\w+)/NN and/CC a/DT (\w+)/NN flirt/NN	1
+(\w+)/NN of/IN 8.0506/CD and/CC a/DT (\w+)/NN	1
+in/IN (\w+)/NN and/CC retirement/NN savings/NNS in/IN (\w+)/NN are/VBP	1
+of/IN the/DT (\w+)/NN of/IN the/DT peasantry/NN and/CC (\w+)/NN of/IN an/DT opposite/JJ	1
+,/, as/IN (\w+)/NN remains/VBZ in/IN excess/NN of/IN (\w+)/NN	1
+(\w+)/NN stop/VB a/DT Junior/NNP Varsity/NNP (\w+)/NN	1
+(\w+)/NN sees/VBZ his/PRP$ (\w+)/NN	2
+(\w+)/NN to/TO meet/VB (\w+)/NN and/CC this/DT could/MD	1
+(\w+)/NN and/CC (\w+)/NN exerted/VBN by/IN the/DT	3
+binding/JJ (\w+)/NN and/CC (\w+)/NN in/IN	1
+strength/NN and/CC his/PRP$ (\w+)/NN is/VBZ made/VBN perfect/JJ in/IN (\w+)/NN (/VBG 2/CD	1
+on/IN the/DT (\w+)/NN and/CC coconut/NN sorbet/NN on/IN (\w+)/NN	1
+raise/VB her/PRP$ (\w+)/NN 's/POS 4-year-old/JJ (\w+)/NN ,/, William/NNP	1
+'s/VBZ about/IN the/DT (\w+)/NN versus/IN the/DT (\w+)/NN	1
+Susie/NNP Lynch/NNP 's/POS (\w+)/NN ,/, lost/VBD his/PRP$ (\w+)/NN ,/, parents/NNS ,/,	1
+day/NN a/DT church-reared/JJ (\w+)/NN or/CC (\w+)/NN	1
+(\w+)/NN advance/NN on/IN his/PRP$ (\w+)/NN card/NN	1
+her/PRP$ (\w+)/NN in/IN Pristina/NNP while/IN her/PRP$ (\w+)/NN	1
+move/NN from/IN (\w+)/NN to/TO (\w+)/NN before/IN putting/VBG	1
+understood/VBN by/IN the/DT (\w+)/NN and/CC (\w+)/NN ,/, then/RB the/DT	1
+swings/NNS in/IN (\w+)/NN and/CC (\w+)/NN	1
+a/DT (\w+)/NN must/MD have/VB only/RB one/CD (\w+)/NN (/NNS and/CC	1
+a/DT (\w+)/NN rather/RB than/IN a/DT (\w+)/NN when/WRB it/PRP	1
+sagging/VBG (\w+)/NN and/CC the/DT (\w+)/NN bottled/VBN	1
+(\w+)/NN which/WDT subdues/VBZ (\w+)/NNS ,/, "/'' he/PRP	1
+to/TO their/PRP$ (\w+)/NN and/CC (\w+)/NN ,/, actively/RB involved/VBN	5
+A/DT (\w+)/NN should/MD never/RB hit/VB a/DT (\w+)/NN ,/, "/'' Ed/NNP	1
+(\w+)/NN panics/VBZ when/WRB a/DT (\w+)/NN disappears/VBZ	1
+plan/VBP for/IN (\w+)/NN or/CC (\w+)/NN in/IN the/DT region/NN	4
+both/DT (\w+)/NN and/CC (\w+)/NN games/NNS	2
+(\w+)/NN of/IN a/DT young/JJ (\w+)/NN ,/,	4
+A/DT 32-year-old/JJ (\w+)/NN and/CC a/DT 24-year-old/JJ (\w+)/NN were/VBD located/VBN	1
+the/DT (\w+)/NN and/CC (\w+)/NN were/VBD clicking/VBG	1
+expects/VBZ "/`` a/DT (\w+)/NN of/IN six/CD and/CC a/DT (\w+)/NN of/IN	1
+the/DT situations/NNS the/DT (\w+)/NN put/VBD the/DT (\w+)/NN in/IN ,/, the/DT	1
+age/NN ,/, (\w+)/NN and/CC (\w+)/NN contributions/NNS	1
+North/NNP Carolina/NNP (/NNP (\w+)/NN Terri/NNP Acosta/NNP and/CC (\w+)/NNP Mike/NNP Rikard/NNP	1
+(\w+)/NN in/IN the/DT midst/NN of/IN (\w+)/NN is/VBZ that/IN	1
+(\w+)/NN while/IN ultimately/RB embracing/VBG (\w+)/NN ./.	1
+core/NN (\w+)/NN and/CC (\w+)/NN ,/, the/DT	1
+(\w+)/NN has/VBZ caught/VBN up/RP with/IN (\w+)/NN ./.	2
+the/DT apartment/NN a/DT (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN or/CC black/JJ (\w+)/NN for/IN president/NN ./.	1
+over/RP the/DT gardens/NNS (\w+)/NN and/CC (\w+)/NN	1
+on/IN the/DT (\w+)/NN and/CC (\w+)/NN for/IN your/PRP$	1
+yesterday/NN ,/, a/DT (\w+)/NN and/CC a/DT (\w+)/NN	2
+(\w+)/NN and/CC (\w+)/NN ,/, at/IN a/DT	2
+Indian/JJ (\w+)/NN and/CC (\w+)/NN are/VBP	1
+depression/NN ,/, a/DT (\w+)/NN talks/VBZ about/IN a/DT (\w+)/NN	1
+that/IN be/VB (\w+)/NN or/CC (\w+)/NN	1
+of/IN (\w+)/NNS and/CC (\w+)/NNS ,/, stressing/VBG the/DT	1
+a/DT 14-point/JJ (\w+)/NN to/TO take/VB a/DT one-point/JJ (\w+)/NN	1
+8-point/JJ halftime/NN (\w+)/NN into/IN a/DT 3-point/JJ (\w+)/NN going/VBG	1
+(\w+)/NN met/VBD my/PRP$ (\w+)/NN when/WRB he/PRP	1
+for/IN a/DT young/JJ (\w+)/NN and/CC a/DT (\w+)/NN tells/VBZ	1
+has/VBZ an/DT African-American/JJ (\w+)/NN and/CC a/DT white/JJ (\w+)/NN	1
+from/IN running/VBG bought/VBD (\w+)/NN on/IN the/DT (\w+)/NN of/IN	1
+as/IN (\w+)/NN kills/VBZ (\w+)/NN with/IN a/DT	1
+over/IN (\w+)/NN money/NN ,/, check/NN or/CC (\w+)/NN card/NN ,/,	1
+is/VBZ a/DT (\w+)/NN or/CC a/DT (\w+)/NN ,/, black/JJ	1
+elegant/JJ flow/NN between/IN (\w+)/NN and/CC (\w+)/NN	2
+,/, (\w+)/NNS and/CC (\w+)/NN --/: to/TO	1
+listing/VBG the/DT (\w+)/NN and/CC (\w+)/NN prices/NNS for/IN each/DT	1
+(\w+)/NN "/'' and/CC "/`` (\w+)/NN "/'' with/IN Parent/NNP	1
+heel/NN ,/, (\w+)/NN 's/POS conquest/NN over/IN (\w+)/NN ,/,	1
+could/MD foster/VB more/JJR (\w+)/NN and/CC less/JJR (\w+)/NN as/IN	1
+of/IN (\w+)/NN power/NN and/CC (\w+)/NN powerlessness/NNS ,/,	1
+between/IN (\w+)/NN and/CC (\w+)/NN at/IN Summerdale/NNP Lane/NNP	1
+(\w+)/NN and/CC a/DT (\w+)/NN ,/, apparently/RB were/VBD	1
+always/RB sit/VB up/RP (\w+)/NN instead/RB of/IN near/IN the/DT (\w+)/NN so/IN people/NNS	1
+a/DT Sunday/NNP (\w+)/NN break/NN with/IN a/DT work/NN (\w+)/NN coming/VBG	1
+a/DT (\w+)/NN rubbing/NN against/IN a/DT (\w+)/NN	1
+to/TO my/PRP$ (\w+)/NN and/CC Thursday/NNP to/TO my/PRP$ (\w+)/NN	1
+by/IN his/PRP$ (\w+)/NN and/CC (\w+)/NN ,/, Abe/NNP	1
+her/PRP$ older/JJR (\w+)/NN and/CC (\w+)/NN were/VBD picked/VBN up/RP	1
+(/VBG one/CD (\w+)/NN and/CC one/CD (\w+)/NN )/NNS that/WDT are/VBP	1
+(\w+)/NN and/CC (\w+)/NN ,/, Gene/NNP	1
+her/PRP$ (\w+)/NN ,/, she/PRP and/CC her/PRP$ (\w+)/NN had/VBD	1
+With/IN the/DT Princeton-style/JJ (\w+)/NN and/CC tough/JJ (\w+)/NN that/IN his/PRP$	1
+For/IN one/CD blessed/VBN (\w+)/NN and/CC deep/JJ into/IN last/JJ (\w+)/NN -/: at/IN least/JJS	1
+future/JJ (\w+)/NN with/IN an/DT (\w+)/NN	1
+despite/IN their/PRP$ ugly/JJ (\w+)/NN ,/, their/PRP$ (\w+)/NN could/MD	1
+Along/IN with/IN the/DT (\w+)/NN ,/, Farmville/NNP welcomes/VBZ the/DT (\w+)/NN --/:	1
+(\w+)/NN into/IN a/DT 5-2/CD (\w+)/NN	1
+until/IN their/PRP$ (\w+)/NN or/CC (\w+)/NN has/VBZ cycled/VBN	1
+large/JJ antiroll/JJ bars/NNS (\w+)/NN and/CC (\w+)/NN	2
+young/JJ white/JJ (\w+)/NN from/IN a/DT black/JJ (\w+)/NN	1
+(\w+)/NN who/WP ever/RB let/VBP a/DT (\w+)/NN play/VB through/RP ./.	1
+the/DT (\w+)/NN or/CC (\w+)/NN fascia/NN or/CC	1
+(\w+)/NNS ,/, the/DT other/JJ (\w+)/NN ./.	2
+Gogh/NNP ,/, (\w+)/NN Rosemarie/NNP Tapfar/NNP ,/, (\w+)/NN Harrison/NNP	1
+patrol/NN on/IN (\w+)/NN and/CC (\w+)/NN missions/NNS and/CC house/NN	1
+party/NN (/VBD either/RB (\w+)/NN or/CC (\w+)/NN )/NN requests/NNS a/DT	1
+spade/JJ (\w+)/NN was/VBD led/VBN to/TO the/DT (\w+)/NN ,/, and/CC	1
+my/PRP$ (\w+)/NN called/VBD my/PRP$ (\w+)/NN a/DT little/RB later/RBR	1
+,/, ranging/VBG from/IN (\w+)/NN to/TO (\w+)/NN	1
+,/, an/DT (\w+)/NN in/IN desire/NN and/CC a/DT (\w+)/NN in/IN	1
+this/DT (\w+)/NN deserves/VBZ an/DT (\w+)/NN capable/JJ of/IN	1
+soldier/NN 's/POS (\w+)/NN ,/, who/WP nudged/VBD her/PRP$ (\w+)/NN into/IN making/VBG	1
+list/NN the/DT (\w+)/NN before/RB and/CC spent/VBD his/PRP$ (\w+)/NN	1
+of/IN 40/CD percent/NN (\w+)/NN athletes/NNS to/TO 60/CD percent/NN (\w+)/NN	1
+(\w+)/NN and/CC (\w+)/NN were/VBD placed/VBN under/IN	1
+just/RB as/IN a/DT (\w+)/NN or/CC grandparent/JJ prizes/NNS a/DT (\w+)/NN 's/POS	1
+decapitated/JJ (\w+)/NN and/CC the/DT other/JJ a/DT (\w+)/NN who/WP	1
+make/VB (\w+)/NN and/CC (\w+)/NN statements/NNS and/CC to/TO	1
+Neptune/NNP provided/VBD the/DT (\w+)/NN to/TO the/DT second/JJ (\w+)/NN ,/, which/WDT had/VBD	1
+week/NN for/IN one/CD (\w+)/NN and/CC (\w+)/NN ,/, which/WDT	1
+OS/NNP provides/VBZ (\w+)/NN manufacturers/NNS and/CC (\w+)/NN developers/NNS the/DT opportunity/NN	1
+We/PRP snatched/VBD (\w+)/NN from/IN the/DT jaws/NNS of/IN (\w+)/NN ./.	1

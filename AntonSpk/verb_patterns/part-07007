@@ -1,0 +1,34 @@
+all/DT over/RB to/TO (\w+)/VB down/RB here/RB to/TO (\w+)/VB	1
+small/JJ ,/, (\w+)/VBP and/CC (\w+)/VBP from/IN	1
+years/NNS ,/, (\w+)/VB or/CC (\w+)/VB an/DT	1
+residents/NNS (\w+)/VBP their/PRP$ bicycles/NNS and/CC (\w+)/VBP	1
+'s/VBZ a/SYM (\w+)/VB and/CC (\w+)/VB endeavor/NN	1
+be/VB to/TO (\w+)/VB rather/RB than/IN (\w+)/VB the/DT	2
+where/WRB officials/NNS neither/RB (\w+)/VB nor/CC (\w+)/VBP abuse/NN ./. "/''	1
+,/, do/VBP we/PRP (\w+)/VB and/CC trust/VB he/PRP 'll/MD (\w+)/VB	1
+helped/VBN (\w+)/VB and/CC (\w+)/VB careers/NNS --/: and/CC	1
+clearly/RB did/VBD not/RB (\w+)/VB or/CC (\w+)/VB on/IN	1
+demand/NN (\w+)/VBD to/TO (\w+)/VB 2.2/CD	3
+(\w+)/VB and/CC (\w+)/VB the/DT strings/NNS ,/,	1
+:/: Driven/NNP to/TO (\w+)/VB ,/, Landis/NNP may/MD (\w+)/VB it/PRP	1
+chop/VB wood/NN and/CC (\w+)/VB and/CC (\w+)/VB	1
+this/DT means/VBZ they/PRP (\w+)/VB and/CC (\w+)/VB	1
+and/CC would/MD (\w+)/VB to/TO (\w+)/VB money/NN	1
+,/, most/JJS people/NNS (\w+)/VB and/CC (\w+)/VB lovers/NNS	1
+is/VBZ the/DT (\w+)/VBP and/CC (\w+)/VBP of/IN negotiation/NN ./.	1
+seemed/VBD able/JJ to/TO (\w+)/VB and/CC (\w+)/VB through/IN the/DT U.S./NNP	1
+turtles/NNS that/WDT (\w+)/VB and/CC ,/, well/RB ,/, (\w+)/VB ,/, may/MD they/PRP	2
+on/IN whether/IN you/PRP (\w+)/VBP or/CC (\w+)/VBP ./.	1
+free/JJ to/TO (\w+)/VB and/CC (\w+)/VB at/IN any/DT	1
+Bill/NNP Clinton/NNP ,/, (\w+)/VB him/PRP or/CC (\w+)/VB him/PRP	3
+trays/NNS ,/, (\w+)/VB napkin/NN holders/NNS ,/, (\w+)/VB wastebaskets/NNS ,/,	1
+in/IN :/: (\w+)/VB from/IN the/DT poor/JJ and/CC (\w+)/VB to/TO	1
+(\w+)/VB and/CC the/DT temperatures/NNS (\w+)/VBP ,/, there/EX have/VBP	1
+is/VBZ (\w+)/VB or/CC (\w+)/VB ,/, "/'' Dungy/NNP	1
+(\w+)/VBP more/RBR than/IN we/PRP (\w+)/VBP and/CC many/JJ	1
+said/VBD that/IN (\w+)/VB or/CC (\w+)/VB ,/, she/PRP plans/VBZ	3
+would/MD say/VB (\w+)/VBN and/CC I/PRP 'd/MD (\w+)/VB ./.	1
+County/NNP officials/NNS (\w+)/VBP said/VBD they/PRP (\w+)/VBP the/DT staff/NN	1
+authority/NN to/TO (\w+)/VB and/CC (\w+)/VB securities/NNS	1
+power/NN to/TO (\w+)/VB or/CC (\w+)/VB genocide/NN suspects/NNS	1
+Russia/NNP is/VBZ (\w+)/VBN to/TO (\w+)/VB over/IN the/DT	1

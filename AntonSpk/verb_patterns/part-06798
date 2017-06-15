@@ -1,0 +1,31 @@
+High/NNP School/NNP will/MD (\w+)/VB and/CC (\w+)/VB its/PRP$	1
+games/NNS that/WDT could/MD (\w+)/VB or/CC (\w+)/VB its/PRP$	1
+nothing/NN to/TO (\w+)/VB the/DT test/NN scores/NNS or/CC (\w+)/VB	1
+allowed/VBN to/TO (\w+)/VB ,/, (\w+)/VB	2
+his/PRP$ group/NN could/MD (\w+)/VB or/CC (\w+)/VB depending/VBG on/IN	1
+drive/NN can/MD be/VB (\w+)/VB or/CC (\w+)/VB ./. "/''	1
+is/VBZ expected/VBN to/TO (\w+)/VB early/RB next/JJ year/NN and/CC (\w+)/VB in/IN 2008/CD	1
+seems/VBZ all/RB (\w+)/VB to/TO (\w+)/VB in/IN the/DT	1
+will/MD (\w+)/VB stocks/NNS and/CC (\w+)/VB	1
+These/DT companies/NNS will/MD (\w+)/VB or/CC (\w+)/VB on/IN the/DT	2
+who/WP (\w+)/VBP and/CC (\w+)/VBP pools/NNS of/IN	1
+As/IN mortgage/NN payments/NNS (\w+)/VBP ,/, many/JJ homeowners/NNS (\w+)/VBP deeper/RBR into/IN	1
+Whether/IN you/PRP (\w+)/VBP Davis/NNP or/CC (\w+)/VBP him/PRP	1
+the/DT dump/NN trucks/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+winter/NN and/CC (\w+)/VB when/WRB temperatures/NNS (\w+)/VBP ,/, Bonelli/NNP	1
+time/NN you/PRP (\w+)/VB and/CC (\w+)/VB work/NN relates/VBZ to/TO	1
+(\w+)/VBP to/TO the/DT homes/NNS they/PRP (\w+)/VBP	1
+to/TO (\w+)/VB and/CC (\w+)/VB the/DT under-26s/JJ	1
+,/, (\w+)/VB him/PRP or/CC (\w+)/VB him/PRP	11
+look/NN (\w+)/VBN to/TO (\w+)/VB ./.	1
+,/, we/PRP could/MD (\w+)/VB many/JJ people/NNS (\w+)/VB the/DT start/NN	1
+(\w+)/VB and/CC (\w+)/VB with/IN dizzying/JJ	1
+(\w+)/VB a/DT dog/NN and/CC instead/RB (\w+)/VB	1
+to/TO (\w+)/VB them/PRP ,/, then/RB (\w+)/VB them/PRP into/IN Zimbra/NNP	1
+war/NN and/CC (\w+)/VB to/TO (\w+)/VB that/IN	1
+,/, people/NNS who/WP (\w+)/VB the/DT stock/NN and/CC (\w+)/VB	1
+(\w+)/VB Nutt/NNS and/CC (\w+)/VB	1
+stress/NN of/IN Toronto/NNP (\w+)/VBP our/PRP$ bodies/NNS when/WRB we/PRP (\w+)/VBP ./. "/''	1
+issues/NNS that/WDT (\w+)/VBP rather/RB than/IN (\w+)/VB	1
+longer/RB effectively/RB (\w+)/VB them/PRP or/CC (\w+)/VB	1
+champions/NNS (\w+)/VBP and/CC (\w+)/VBP ,/,	1

@@ -1,0 +1,40 @@
+day/NN will/MD (\w+)/VB at/IN 9:30/CD a.m./RB and/CC (\w+)/VB at/IN 11:30/CD a.m./RB	1
+define/VB this/DT (\w+)/VB and/CC (\w+)/VB of/IN	1
+athlete/NN could/MD (\w+)/VB or/CC (\w+)/VB a/DT wrestling/NN	1
+--/: (\w+)/VB side/NN or/CC (\w+)/VB side/NN ./.	1
+would/MD (\w+)/VB his/PRP$ car/NN to/TO (\w+)/VB close/NN	1
+attempted/VBD to/TO (\w+)/VB his/PRP$ valuables/NNS to/TO (\w+)/VB	1
+offensively/RB is/VBZ (\w+)/VB some/DT guy/NN go/VB (\w+)/VB two/CD	1
+(\w+)/VB them/PRP or/CC (\w+)/VB them/PRP ,/, are/VBP	1
+said/VBD they/PRP could/MD (\w+)/VB the/DT state/NN and/CC still/RB (\w+)/VB the/DT election/NN	1
+But/CC arm/NN injuries/NNS (\w+)/VBP caused/VBN him/PRP to/TO (\w+)/VB	1
+to/TO (\w+)/VB and/CC (\w+)/VB both/DT hands/NNS	2
+Some/DT do/VBP not/RB (\w+)/VB ads/NNS ;/: others/NNS (\w+)/VBP	1
+(\w+)/VB and/CC (\w+)/VB so/RB that/IN we/PRP	1
+Camera/NN angle/NN can/MD (\w+)/VB or/CC (\w+)/VB	1
+matter/NN did/VBD (\w+)/VB here/RB ,/, it/PRP should/MD (\w+)/VB here/RB	2
+on/RP whether/IN you/PRP (\w+)/VBP or/CC (\w+)/VBP ./.	1
+(\w+)/VBP and/CC (\w+)/VBP ,/, but/CC artists/NNS	1
+Department/NNP to/TO (\w+)/VB ,/, hold/VB and/CC eventually/RB (\w+)/VB	1
+sanctions/NNS either/RB (\w+)/VB or/CC (\w+)/VB	1
+where/WRB investors/NNS can/MD (\w+)/VB or/CC (\w+)/VB shares/NNS at/IN	1
+New/NNP rules/NNS that/WDT (\w+)/VBP effect/NN in/IN March/NNP (\w+)/VBP the/DT Department/NNP of/IN	1
+to/TO (\w+)/VB ,/, (\w+)/VB or/CC distribute/VB	1
+request/NN to/TO (\w+)/VB or/CC (\w+)/VB shares/NNS at/IN a/DT	1
+to/TO (\w+)/VB or/CC (\w+)/VB a/DT security/NN ,/,	2
+that/IN restaurants/NNS (\w+)/VB one/CD year/NN and/CC (\w+)/VB	1
+costs/NNS would/MD probably/RB (\w+)/VB rather/RB than/IN (\w+)/VB	1
+peace/NN will/MD (\w+)/VB than/IN that/IN it/PRP will/MD (\w+)/VB	1
+them/PRP we/PRP (\w+)/VBP a/DT way/NN to/TO (\w+)/VB ./.	1
+lawsuit/NN neither/RB (\w+)/VB nor/CC (\w+)/VBP	1
+you/PRP (\w+)/VBD all/DT five/CD numbers/NNS but/CC (\w+)/VBP	1
+buffs/NNS who/WP (\w+)/VBP or/CC (\w+)/VBP	2
+(\w+)/VB and/CC (\w+)/VB songs/NNS and/CC music/NN	1
+trains/NNS (\w+)/VBP and/CC (\w+)/VB after/IN	1
+better/RBR able/JJ to/TO (\w+)/VB or/CC (\w+)/VB your/PRP$	1
+few/JJ role/NN players/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+can/MD (\w+)/VB or/CC (\w+)/VB presidential/JJ campaigns/NNS ./.	1
+Should/NNP Sunday/NNP (\w+)/VBP and/CC (\w+)/VBP	1
+honest/JJ ,/, (\w+)/VB or/CC (\w+)/VB	1
+,/, (\w+)/VBP and/CC (\w+)/VBP messages/NNS	1
+and/CC people/NNS -/: (\w+)/VBP and/CC (\w+)/VBP but/CC the/DT	1

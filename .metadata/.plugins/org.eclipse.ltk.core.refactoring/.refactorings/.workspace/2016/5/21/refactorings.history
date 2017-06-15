@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 3 resources" deleteContents="false" description="Delete 3 resources" element1="/AntonPython/anton/visualize/tree.dot" element2="/AntonPython/anton/visualize/tree.png" element3="/AntonPython/anton/visualize/tree.svg" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1463666132661"/>
+</session>

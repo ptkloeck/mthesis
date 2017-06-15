@@ -1,0 +1,32 @@
+who/WP (\w+)/VBP forward/RB (\w+)/VBP	1
+they/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, we/PRP	1
+on/IN Appointments/NNP will/MD (\w+)/VB up/RP the/DT matter/NN and/CC (\w+)/VB the/DT final/JJ	1
+want/VB Beijing/NNP to/TO (\w+)/VB and/CC (\w+)/VB	1
+that/WDT (\w+)/VBP and/CC (\w+)/VBP on/IN the/DT	2
+or/CC (\w+)/VB election/NN time/NN our/PRP$ contributions/NNS (\w+)/VBP	1
+30/CD protesters/NNS (\w+)/VBP ,/, walk/VBP ,/, (\w+)/VB or/CC	1
+'s/POS promise/NN to/TO (\w+)/VB taxes/NNS ,/, (\w+)/VB military/JJ spending/NN and/CC	1
+school/NN days/NNS will/MD (\w+)/VB at/IN 7:45/CD a.m./RB and/CC (\w+)/VB at/IN 2:50/CD	1
+the/DT Russians/NNPS must/MD (\w+)/VB to/TO (\w+)/VB ,/, ''/''	2
+(\w+)/VB ,/, they/PRP (\w+)/VB the/DT	1
+to/TO (\w+)/VB and/CC (\w+)/VB with/IN minimum/JJ	1
+to/TO (\w+)/VB and/CC (\w+)/VB but/CC to/TO meet/VB	2
+people/NNS who/WP (\w+)/VBP the/DT darkness/NNS (\w+)/VBP the/DT light/NN ./.	1
+n't/RB (\w+)/VBD a/DT physical/JJ setback/NN (\w+)/VB them/PRP	1
+power/NN to/TO (\w+)/VB and/CC (\w+)/VB income/NN taxes/NNS ./.	1
+(\w+)/VBP Bush/NNP the/DT chance/NN to/TO (\w+)/VB	1
+fortunes/NNS (\w+)/VBP and/CC (\w+)/VBP ./.	2
+(\w+)/VB back/RB and/CC we/PRP can/MD (\w+)/VB	1
+-/: traders/NNS who/WP (\w+)/VBP and/CC (\w+)/VBP commodities/NNS	1
+flatly/RB (\w+)/VB to/TO (\w+)/VB the/DT position/NN	1
+(\w+)/VB free/JJ agents/NNS instead/RB of/IN (\w+)/VB them/PRP	1
+guy/NN you/PRP (\w+)/VBP to/TO (\w+)/VB when/WRB	1
+these/DT types/NNS (\w+)/VB and/CC (\w+)/VB -/:	1
+(\w+)/VB her/PRP$ money/NN and/CC (\w+)/VB to/TO people/NNS who/WP	1
+,/, USC/NNP can/MD (\w+)/VB where/WRB they/PRP are/VBP or/CC (\w+)/VB up/RP to/TO	1
+on/IN me/PRP to/TO (\w+)/VB or/CC (\w+)/VB this/DT	2
+hotelier/NN can/MD not/RB (\w+)/VB to/TO (\w+)/VB the/DT	1
+(\w+)/VB and/CC (\w+)/VB speech/NN	2
+(\w+)/VB a/DT player/NN (\w+)/VBP ./.	2
+(\w+)/VB at/IN 6/CD A.M./NN and/CC (\w+)/VB after/IN midnight/NN	1
+„/NNP ¢/NNP t/NNP (\w+)/VB us/PRP ,/, we/PRP will/MD (\w+)/VB it/PRP	1

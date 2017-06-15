@@ -1,0 +1,28 @@
+feels/VBZ to/TO (\w+)/VB and/CC (\w+)/VB ,/,	1
+would/MD (\w+)/VB the/DT job/NN and/CC (\w+)/VB the/DT friendships/NNS	1
+agencies/NNS (\w+)/VBP or/CC (\w+)/VBP	1
+'s/VBZ going/VBG to/TO (\w+)/VB you/PRP or/CC (\w+)/VB you/PRP	1
+(\w+)/VB even/RB one/CD pilot/NN (\w+)/VB	1
+are/VBP likely/JJ to/TO (\w+)/VB rather/RB than/IN (\w+)/VB ./.	2
+be/VB (\w+)/VBN to/TO (\w+)/VB even/RB further/RBR ./.	1
+(\w+)/VBP and/CC (\w+)/VBP almost/RB in/IN	1
+be/VB (\w+)/VBN and/CC (\w+)/VB on/IN	1
+,/, congressional/JJ Democrats/NNPS (\w+)/VBP the/DT galvanizing/VBG ideas/NNS that/WDT (\w+)/VBP driven/VBN Republicans/NNS	1
+(\w+)/VB or/CC (\w+)/VB his/PRP$ theory/NN	1
+greater/JJR ability/NN to/TO (\w+)/VB ,/, (\w+)/VB and/CC enact/VB	1
+(\w+)/VBP through/IN CAS/NNP (\w+)/VBN with/IN some/DT	1
+all/DT (\w+)/VBP and/CC (\w+)/VBP dockside/NN	1
+(\w+)/VB good/JJ cholesterol/NN and/CC (\w+)/VB bad/JJ cholesterol/NN ./.	1
+boxers/NNS ,/, models/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, but/CC	1
+"/`` (\w+)/VB us/PRP ,/, (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB overall/JJ tax/NN revenue/NN	1
+whether/IN to/TO (\w+)/VB or/CC (\w+)/VB the/DT poll/NN results/NNS	6
+(\w+)/VB or/CC (\w+)/VB up/IN to/TO 3/CD	1
+age/NN to/TO (\w+)/VB and/CC (\w+)/VB	1
+and/CC the/DT mayor/NN (\w+)/VBP and/CC (\w+)/VBP over/IN the/DT site/NN	1
+they/PRP (\w+)/VBP or/CC (\w+)/VBP of/IN the/DT	5
+``/`` (\w+)/VB ,/, (\w+)/VB or/CC draw/VB ,/,	3
+to/TO (\w+)/VB once/RB again/RB and/CC then/RB (\w+)/VBP up/RB again/RB	1
+how/WRB they/PRP financially/RB (\w+)/VB or/CC (\w+)/VB	1
+actions/NNS that/WDT (\w+)/VB or/CC (\w+)/VB state/NN revenues/NNS	1
+stadium/NN (\w+)/VB and/CC (\w+)/VB with/IN the/DT	1

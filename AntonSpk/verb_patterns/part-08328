@@ -1,0 +1,30 @@
+is/VBZ (\w+)/VBN ,/, it/PRP does/VBZ n't/RB (\w+)/VB ,/,	1
+was/VBD time/NN to/TO (\w+)/VB running/VBG and/CC (\w+)/VB using/VBG his/PRP$	1
+a/DT rookie/NN to/TO (\w+)/VB rather/RB than/IN (\w+)/VB	1
+matches/VBZ can/MD (\w+)/VB or/CC (\w+)/VB a/DT	2
+to/TO (\w+)/VB and/CC (\w+)/VB working/VBG at/IN	1
+over/RP ,/, and/CC (\w+)/VB or/CC (\w+)/VB it/PRP	1
+allowed/VBD me/PRP to/TO (\w+)/VB and/CC (\w+)/VB as/IN	1
+the/DT market/NN to/TO (\w+)/VB or/CC (\w+)/VB ,/, Zillow/NNP is/VBZ	1
+they/PRP 'd/MD (\w+)/VB to/TO an/DT agreement/NN and/CC (\w+)/VB	1
+the/DT flexibility/NN to/TO (\w+)/VB and/CC (\w+)/VB	1
+I/PRP do/VBP n't/RB (\w+)/VB or/CC (\w+)/VB anyone/NN ./. ''/''	1
+Bowl/NNP spot/NN (\w+)/VBP and/CC another/DT (\w+)/VBP	1
+they/PRP (\w+)/VBP or/CC (\w+)/VBP joint/JJ efforts/NNS ./.	1
+firm/NN to/TO (\w+)/VB and/CC (\w+)/VB stock/NN	1
+so/RB :/: (\w+)/VB or/CC (\w+)/VB the/DT mound/NN	1
+(\w+)/VBP and/CC (\w+)/VBP infrequently/RB ,/, but/CC	1
+never/RB live/VB to/TO (\w+)/VB ,/, (\w+)/VB bikes/NNS	1
+(\w+)/VB up/RP legislation/NN that/WDT would/MD (\w+)/VB Mr./NNP	1
+always/RB required/VBN to/TO (\w+)/VB an/DT account/NN or/CC (\w+)/VB one/CD	1
+Different/JJ surfaces/NNS (\w+)/VB and/CC (\w+)/VB the/DT	1
+will/MD (\w+)/VB and/CC (\w+)/VB the/DT program/NN	1
+can/MD (\w+)/VB time/NN to/TO (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB homeschool/JJ curricula/NN	1
+smokers/NNS (\w+)/VBP together/RB and/CC try/VB to/TO (\w+)/VB smoke-free/JJ	1
+that/WDT can/MD (\w+)/VB or/CC (\w+)/VB a/DT game/NN 's/POS	2
+to/TO see/VB Hillary/NNP (\w+)/VB acting/JJ neo-con/NN and/CC (\w+)/VB acting/VBG like/IN a/DT	1
+to/TO (\w+)/VB or/CC (\w+)/VB her/PRP$ claim/NN ./.	1
+bank/NN to/TO (\w+)/VB the/DT currency/NN and/CC (\w+)/VB German/JJ marks/NNS	1
+delivery/NN process/NN will/MD (\w+)/VB about/RB three/CD hours/NNS ,/, (\w+)/VB or/CC take/VB	1
+candidates/NNS (\w+)/VBP to/TO (\w+)/VB	1

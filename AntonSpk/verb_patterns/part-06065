@@ -1,0 +1,33 @@
+to/TO (\w+)/VB and/CC (\w+)/VB Tuesday/NNP	1
+to/TO (\w+)/VB and/CC (\w+)/VB committee/NN chairmanships/NNS	1
+to/TO swim/VB ,/, (\w+)/VB and/CC (\w+)/VB	1
+easier/JJR to/TO (\w+)/VB back/RB and/CC to/TO (\w+)/VB forward/RB ,/, "/''	1
+would/MD definitely/RB (\w+)/VB the/DT World/NNP Cup/NNP (\w+)/VBP	1
+(\w+)/VB and/CC (\w+)/VB with/IN chardonnay/NN	2
+certain/JJ assets/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP ,/, we/PRP 're/VBP	1
+(\w+)/VB or/CC (\w+)/VB a/DT couple/NN months/NNS	1
+inbound/JJ trips/NNS will/MD (\w+)/VB ,/, and/CC outbound/JJ trips/NNS (\w+)/VBP	1
+even/RB superstars/NNS ,/, (\w+)/VBP and/CC (\w+)/VBP ,/, but/CC	1
+I/PRP tried/VBD to/TO (\w+)/VB him/PRP something/NN to/TO (\w+)/VB ,/, and/CC	1
+to/TO (\w+)/VB instead/RB of/IN expecting/VBG to/TO (\w+)/VB ./.	1
+asked/VBN to/TO (\w+)/VB or/CC (\w+)/VB its/PRP$ money/NN	1
+is/VBZ expected/VBN to/TO (\w+)/VB in/IN April/NNP 2007/CD and/CC (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB the/DT developmental/JJ	1
+99/CD minutes/NNS ,/, (\w+)/VB or/CC (\w+)/VB	1
+"/'' will/MD (\w+)/VB when/WRB we/PRP (\w+)/VBP	1
+(\w+)/VB home/NN and/CC not/RB (\w+)/VB	1
+routine/JJ â/NN (\w+)/VBP early/RB for/IN practice/NN ,/, (\w+)/VBP late/RB ./.	1
+Did/VBD any/DT favorites/NNS (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB again/RB from/IN	1
+(\w+)/VB and/CC (\w+)/VB in/IN my/PRP$	1
+(\w+)/VB and/CC (\w+)/VB ,/, but/CC enemies/NNS	1
+the/DT governor/NN would/MD (\w+)/VB Saturday/NNP and/CC (\w+)/VB in/IN	1
+rather/RB than/IN matching/VBG (\w+)/VB and/CC (\w+)/VB	3
+periodic/JJ improvements/NNS to/TO (\w+)/VB government/NN inspections/NNS only/RB to/TO (\w+)/VB again/RB subsequently/RB ./.	1
+to/TO (\w+)/VB desirable/JJ behavior/NN and/CC (\w+)/VB undesirable/JJ behavior/NN ./.	1
+count/NN is/VBZ (\w+)/VBN to/TO (\w+)/VB exponentially/RB overnight/RB ./.	1
+letting/VBG it/PRP (\w+)/VB and/CC (\w+)/VB between/IN pods/NNS	1
+to/TO (\w+)/VB a/DT place/NN or/CC (\w+)/VB in/IN another/DT ./.	1
+A/DT craft/NN would/MD (\w+)/VB or/CC (\w+)/VB the/DT object/NN	1
+it/PRP 's/VBZ (\w+)/VB or/CC (\w+)/VB for/IN that/DT corporation/NN	1
+"/'' when/WRB couples/NNS (\w+)/VBP in/RP ,/, girls/NNS (\w+)/VBP	1

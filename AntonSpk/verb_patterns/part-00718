@@ -1,0 +1,34 @@
+kids/NNS (\w+)/VB to/TO school/NN and/CC (\w+)/VB home/NN	1
+-/: (\w+)/VB or/CC (\w+)/VB -/:	7
+can/MD be/VB (\w+)/VB or/CC (\w+)/VB with/IN	1
+does/VBZ not/RB (\w+)/VB or/CC (\w+)/VB the/DT facts/NNS	1
+may/MD (\w+)/VB you/PRP or/CC (\w+)/VB you/PRP ,/, but/CC	1
+'/POS children/NNS (\w+)/VBP and/CC (\w+)/VBP ./.	1
+(\w+)/VBP and/CC (\w+)/VBP while/IN	4
+(\w+)/VBP inside/RB and/CC when/WRB you/PRP (\w+)/VBP back/RP out/IN you/PRP	1
+(\w+)/VB or/CC (\w+)/VB a/DT business/NN deal/NN	3
+for/IN companies/NNS to/TO (\w+)/VB ,/, spruce/VB up/RP and/CC (\w+)/VB	2
+they/PRP (\w+)/VB their/PRP$ neighbors/NNS but/CC (\w+)/VB no/DT desire/NN	1
+(\w+)/VB the/DT morale/NN and/CC (\w+)/VB the/DT stress/NN for/IN	1
+tradition/NN ,/, (\w+)/VB or/CC (\w+)/VB some/DT	1
+just/RB want/VBP to/TO (\w+)/VB out/RP (\w+)/VB	1
+(\w+)/VBP and/CC the/DT Giants/NNPS (\w+)/VBP and/CC	1
+(\w+)/VB and/CC (\w+)/VB and/CC branch/VB off/RP	1
+smaller/JJR flowers/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN	1
+Dec./NNP 19/CD to/TO (\w+)/VB or/CC (\w+)/VB it/PRP	1
+(\w+)/VB down/RP whatever/WDT barriers/NNS (\w+)/VBP people/NNS from/IN going/VBG	1
+that/IN serious/JJ collectors/NNS (\w+)/VBP and/CC (\w+)/VBP like/IN rare/JJ	1
+of/IN muscle/NN that/WDT (\w+)/VB and/CC (\w+)/VB across/IN the/DT	6
+to/TO (\w+)/VB or/CC (\w+)/VB in/IN coming/JJ months/NNS	1
+to/TO (\w+)/VB or/CC (\w+)/VB an/DT otherwise/RB	1
+to/TO (\w+)/VB and/CC (\w+)/VB with/IN the/DT	45
+when/WRB to/TO (\w+)/VB up/RP ,/, (\w+)/VB down/RP	1
+What/WP you/PRP (\w+)/VBP and/CC (\w+)/VBP	1
+price/NN when/WRB they/PRP (\w+)/VBP or/CC (\w+)/VB stock/NN and/CC	2
+(\w+)/VB profit/NN and/CC (\w+)/VBP liabilities/NNS from/IN	1
+Stadium/NNP would/MD only/RB (\w+)/VB even/RB ,/, and/CC not/RB (\w+)/VB the/DT solid/JJ	1
+(\w+)/VB the/DT party/NN apart/RB and/CC (\w+)/VB	1
+,/, (\w+)/VBP away/RB ,/, (\w+)/VBN again/RB another/DT day/NN	1
+who/WP wanted/VBD to/TO (\w+)/VB and/CC (\w+)/VB Malaysia/NNP	1
+as/IN MP3/NNP sites/NNS (\w+)/VBP and/CC (\w+)/VB as/IN	2
+might/MD just/RB (\w+)/VB one/CD clean/JJ sheet/NN to/TO (\w+)/VB everyone/NN a/DT boost/NN	1

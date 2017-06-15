@@ -1,0 +1,39 @@
+children/NNS (\w+)/VBP and/CC (\w+)/VB _/NNS to/TO	1
+to/TO (\w+)/VB where/WRB others/NNS (\w+)/VBP ,/, and/CC	1
+(\w+)/VB themselves/PRP and/CC (\w+)/VB themselves/PRP ,/, all/DT	1
+(\w+)/VB Tuesday/NNP and/CC (\w+)/VB Sunday/NNP	1
+need/VBP to/TO (\w+)/VB ours/PRP to/TO (\w+)/VB	1
+see/VB the/DT newlyweds/NNS (\w+)/VB and/CC (\w+)/VB ,/, said/VBD	3
+corporate/JJ sector/NN to/TO (\w+)/VB or/CC (\w+)/VB the/DT	1
+to/TO (\w+)/VB him/PRP some/DT leftovers/NNS to/TO (\w+)/VB home/NN	1
+can/MD (\w+)/VB and/CC (\w+)/VB like/IN shares/NNS	1
+the/DT hordes/NNS (\w+)/VBP and/CC (\w+)/VB quickly/RB ,/, and/CC	1
+the/DT seasons/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN rains/NNS ./.	1
+permit/VB him/PRP to/TO (\w+)/VB one/CD marriage/NN and/CC (\w+)/VB a/DT succession/NN of/IN	1
+(\w+)/VB productivity/NN and/CC even/RB (\w+)/VB absenteeism/NN in/IN	1
+the/DT site/NN and/CC (\w+)/VB to/TO it/PRP or/CC (\w+)/VB hay-covered/JJ wagons/NNS	1
+some/DT residents/NNS (\w+)/VBP but/CC others/NNS (\w+)/VBP	1
+(\w+)/VBP the/DT canopy/NN other/JJ areas/NNS (\w+)/VBP ./.	1
+letting/VBG people/NNS (\w+)/VB to/TO the/DT buses/NNS first/RB (\w+)/VB	1
+(\w+)/VB housing/NN or/CC (\w+)/VB it/PRP ./.	1
+(\w+)/VB around/RP the/DT room/NN and/CC (\w+)/VB to/TO that/DT corner/NN	1
+Street/NNP firms/NNS routinely/RB (\w+)/VBP stock/NN as/RB well/RB as/IN (\w+)/VB it/PRP	1
+how/WRB fashion/NN trends/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+is/VBZ (\w+)/VBN to/TO (\w+)/VB in/IN steps/NNS	1
+its/PRP$ lawyers/NNS (\w+)/VBP or/CC (\w+)/VBP their/PRP$	1
+(\w+)/VBP and/CC (\w+)/VBP pools/NNS of/IN loans/NNS	1
+(\w+)/VBP Chicago/NNP ,/, and/CC I/PRP (\w+)/VBP to/TO leave/VB	1
+stimulus/NN can/MD (\w+)/VB or/CC (\w+)/VB attention/NN and/CC thus/RB	1
+(\w+)/VBP trying/VBG to/TO (\w+)/VB it/PRP close/JJ	1
+grocery/NN stores/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+coils/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+that/WDT (\w+)/VBP and/CC (\w+)/VBP ,/, people/NNS that/WDT	1
+(\w+)/VB and/CC (\w+)/VB on/IN a/DT yearly/JJ	1
+and/CC teams/NNS should/MD (\w+)/VB or/CC (\w+)/VB a/DT game/NN ./.	1
+(\w+)/VB the/DT glass/NN roof/NN ,/, (\w+)/VB the/DT	2
+--/: I/PRP either/CC (\w+)/VBP her/PRP or/CC (\w+)/VBP her/PRP	1
+(\w+)/VBP in/RP and/CC (\w+)/VB out/RB of/IN favor/NN	1
+to/TO either/DT (\w+)/VB or/CC (\w+)/VB	40
+inflation/NN (\w+)/VBP to/TO (\w+)/VB this/DT conclusion/NN ./.	1
+-/: Larger/NNP dividends/NNS (\w+)/VB call/NN prices/NNS and/CC (\w+)/VB put/NN prices/NNS ,/,	1
+Residents/NNS hunt/VBZ ,/, (\w+)/VBP four-wheel/JJ recreational/JJ vehicles/NNS and/CC (\w+)/VBP on/IN the/DT	1

@@ -1,0 +1,17 @@
+df = read.csv(file = "../res/adj/ant_syn_klo_e.tsv", sep="\t")
+
+# extract intra-sentence coocurrence counts
+df_cooc <- df["in_sen_cooc"]
+df_cooc["rel_class"] <- df["rel_class"]
+
+# compute lmi scores
+df_cooc["in_sen_cooc"] <- df["in_sen_cooc"] * log(105000000 * df["in_sen_cooc"] / (df["freq1"] + df["freq2"]))
+df_cooc[is.na(df_cooc)] <- 0
+
+# add one to not get negative log values
+df_cooc["in_sen_cooc"] <- df_cooc["in_sen_cooc"] + 1
+
+library(ggplot2)
+
+# plot intra_sentence lmi scores of antonym pairs vs synonym pairs with a logarithmic scale
+ggplot(df_cooc, aes(x = log(in_sen_cooc))) + geom_histogram(data=subset(df_cooc, rel_class==0), fill="red", alpha=0.2) + geom_histogram(data=subset(df_cooc, rel_class==1), fill="blue", alpha=0.2)

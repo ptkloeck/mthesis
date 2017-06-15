@@ -1,0 +1,117 @@
+'s/POS (\w+)/NN and/CC (\w+)/NN provide/VBP	1
+a/DT pregnant/JJ (\w+)/NN trying/VBG to/TO divorce/VB a/DT (\w+)/NN in/IN jail/NN	1
+white/JJ (\w+)/NN and/CC a/DT (\w+)/NN from/IN a/DT	1
+was/VBD an/DT interesting/JJ (\w+)/NN to/TO a/DT simple/JJ (\w+)/NN ,/,	1
+around/IN her/PRP$ (\w+)/NN and/CC (\w+)/NN ./.	1
+quickly/RB that/IN the/DT (\w+)/NN told/VBD them/PRP that/IN one/CD (\w+)/NN had/VBD told/VBN	1
+pitted/VBD (\w+)/NN against/IN friend/NN and/CC (\w+)/NN against/IN ,/, well/RB	1
+the/DT river/NN 's/POS (\w+)/NNS and/CC (\w+)/NNS ,/,	1
+of/IN a/DT great/JJ (\w+)/NN as/IN the/DT best/JJS (\w+)/NN	2
+the/DT (\w+)/NN of/IN the/DT (\w+)/NN for/IN the/DT United/NNP	1
+including/VBG the/DT (\w+)/NN ,/, the/DT (\w+)/NN ,/,	3
+to/TO forget/VB the/DT (\w+)/NN and/CC concentrate/VB on/IN the/DT (\w+)/NN	1
+a/DT (\w+)/NN and/CC a/DT (\w+)/NN --/: failed/VBD	1
+(\w+)/NN and/CC (\w+)/NN ,/, face/VBP	1
+good/JJ (\w+)/NN followed/VBN by/IN a/DT straight/JJ (\w+)/NN represent/VBP the/DT	1
+(\w+)/NN costs/NNS ,/, (\w+)/NN licenses/NNS (/VBN in/IN	1
+Hayes/NNP 's/POS (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN ,/, (\w+)/NN and/CC beast/NN ./.	1
+to/TO determine/VB (\w+)/NN or/CC (\w+)/NN even/RB for/IN alleged/VBN	1
+Bui/NNP ,/, whose/WP$ (\w+)/NNS is/VBZ French/JJ and/CC (\w+)/NN	1
+from/IN the/DT (\w+)/NN to/TO the/DT (\w+)/NN ,/, added/VBD	1
+(\w+)/NN of/IN 20,438.36/CD and/CC a/DT (\w+)/NN of/IN 20,524.83/CD ./.	1
+(\w+)/NN Gill/NNP Bonenfant/NNP ,/, (\w+)/NN Helen/NNP Bonenfant/NNP ,/,	1
+(\w+)/NN and/CC (\w+)/NN ,/, about/RB	4
+(\w+)/NN ,/, divorced/VBN from/IN his/PRP$ (\w+)/NN but/CC sharing/VBG	1
+one/CD (\w+)/NN shrugged/VBD ,/, a/DT young/JJ (\w+)/NN	2
+(\w+)/NN described/VBD as/IN a/DT crushing/VBG (\w+)/NN )/NN	1
+skeweringthem/NN crosswise/NN at/IN (\w+)/NN and/CC (\w+)/NN	1
+--/: (\w+)/NN of/IN appetite/NN ;/: weight/NN (\w+)/NN or/CC loss/NN	1
+slot/NN machines/NNS ,/, (\w+)/NN or/CC (\w+)/NN ,/, in/IN the/DT	1
+computer-programmer/JJ (\w+)/NN and/CC college/NN student/NN (\w+)/NN ,/, he/PRP	1
+bills/NNS or/CC use/VB (\w+)/NN or/CC (\w+)/NN cards/NNS to/TO	1
+Country/NNP (\w+)/NN and/CC (\w+)/NN have/VBP died/VBN from/IN	1
+,/, killing/VBG a/DT (\w+)/NN and/CC a/DT (\w+)/NN	6
+energy/NN (\w+)/NN continues/VBZ to/TO outpace/VB (\w+)/NN ./.	1
+imagine/VB the/DT (\w+)/NN 's/POS terror/NN and/CC his/PRP$ (\w+)/NN 's/POS horror/NN	1
+her/PRP$ (\w+)/NN who/WP had/VBD murdered/VBN her/PRP$ (\w+)/NN last/JJ month/NN ,/,	1
+tape/NN virtually/RB (\w+)/NN and/CC (\w+)/NN	1
+2-1/JJ (\w+)/NN into/IN a/DT 3-2/CD Penguins/NNPS (\w+)/NN after/IN two/CD	1
+(\w+)/NN as/IN the/DT men/NNS in/IN (\w+)/NN of/IN them/PRP became/VBD	1
+watching/VBG her/PRP$ (\w+)/NN beat/VB her/PRP$ (\w+)/NN ,/,	2
+with/IN (\w+)/NN and/CC (\w+)/NN in/IN the/DT last/JJ	7
+on/IN its/PRP$ (\w+)/NN and/CC (\w+)/NN cards/NNS rose/VBD 26.9/JJ	1
+take/VB your/PRP$ (\w+)/NN or/CC (\w+)/NN ,/,	1
+between/IN (\w+)/NN or/CC (\w+)/NN map/NN colors/NNS	1
+(\w+)/NN ,/, (\w+)/NN and/CC nature/NN ./.	1
+tells/VBZ Morris/NNP 's/POS (\w+)/NN when/WRB she/PRP suggests/VBZ her/PRP$ (\w+)/NN	1
+./. O'Donnell/NNP 's/POS (\w+)/NN after/IN a/DT one-year/JJ (\w+)/NN on/IN Sunday/NNP	1
+(\w+)/NN and/CC (\w+)/NN had/VBD dominated/VBN the/DT	1
+for/IN my/PRP$ human/JJ (\w+)/NN and/CC (\w+)/NN ./.	1
+say/VBP ,/, the/DT (\w+)/NN slashed/VBD the/DT (\w+)/NN 's/POS arm/NN with/IN	1
+Roman/NNP Catholic/NNP (\w+)/NN and/CC an/DT Episcopalian/JJ (\w+)/NN	1
+discovering/VBG that/IN a/DT (\w+)/NN 's/POS response/NN to/TO a/DT (\w+)/NN in/IN	1
+the/DT assessment/NN of/IN (\w+)/NN and/CC (\w+)/NN and/CC in/IN the/DT	1
+of/IN a/DT (\w+)/NN and/CC (\w+)/NN trying/VBG to/TO	1
+the/DT surrounding/VBG hills/NNS (\w+)/NN and/CC (\w+)/NN ./.	1
+the/DT (\w+)/NN while/IN he/PRP caught/VBD the/DT (\w+)/NN	1
+story/NN where/WRB (\w+)/NN leaves/VBZ the/DT (\w+)/NN	1
+,/, civil/JJ (\w+)/NN rends/NNS Iraq/NNP and/CC the/DT (\w+)/NN process/NN sputters/VBZ	1
+(\w+)/NN to/TO this/DT year/NN 's/POS (\w+)/NN of/IN	1
+(\w+)/NN has/VBZ died/VBN and/CC a/DT (\w+)/NN suffered/VBD	1
+billion/CD from/IN (\w+)/NN and/CC (\w+)/NN contributions/NNS	1
+the/DT (\w+)/NN 's/POS suing/VBG the/DT (\w+)/NN who/WP lied/VBD	1
+(\w+)/NN to/TO the/DT (\w+)/NN ,/, "/`` Are/VBP	2
+,/, the/DT Missouri/NNP (\w+)/NN went/VBD silent/JJ and/CC the/DT (\w+)/NN ,/,	1
+brooding/NN about/IN its/PRP$ (\w+)/NN and/CC its/PRP$ (\w+)/NN ,/,	1
+say/VBP the/DT (\w+)/NN and/CC a/DT 48-year-old/JJ (\w+)/NN had/VBD been/VBN	1
+a/DT (\w+)/NN as/RB well/RB as/IN (\w+)/NN implementation/NN of/IN IGMP/NNP	1
+(\w+)/NN and/CC the/DT (\w+)/NN ,/, without/IN cutting/VBG	1
+truthful/JJ (\w+)/NN to/TO this/DT (\w+)/NN	1
+(\w+)/NN following/VBG an/DT exceptional/JJ (\w+)/NN of/IN cricket/NN	1
+80-year-old/JJ husband/NN (\w+)/NN and/CC (\w+)/NN ,/,	1
+on/IN (\w+)/NN ,/, Seattle/NNP 's/POS (\w+)/NN	1
+this/DT is/VBZ the/DT (\w+)/NN of/IN the/DT (\w+)/NN of/IN their/PRP$	1
+for/IN (\w+)/NNS and/CC (\w+)/NN for/IN the/DT	1
+(\w+)/NN than/IN with/IN a/DT (\w+)/NN ,/, "/''	1
+for/IN (\w+)/NN ,/, but/CC open/JJ for/IN (\w+)/NN ,/, because/IN no/DT	1
+that/IN the/DT (\w+)/NN for/IN lithium/NN will/MD outstrip/VB (\w+)/NN in/IN less/JJR	1
+a/DT (\w+)/NN and/CC (\w+)/NN office/NN	1
+this/DT is/VBZ my/PRP$ (\w+)/NN or/CC (\w+)/NN '/'' _/NN and/CC	1
+of/IN the/DT (\w+)/NNS and/CC the/DT (\w+)/NN of/IN the/DT	2
+(\w+)/NN and/CC a/DT (\w+)/NN were/VBD approved/VBN in/IN	1
+(\w+)/NN and/CC a/DT Swiss/JJ (\w+)/NN ,/, acquired/VBD her/PRP$	1
+his/PRP$ (\w+)/NN and/CC (\w+)/NN at/IN their/PRP$ Mt./NNP	1
+between/IN (\w+)/NN Shiite/NNP Muslims/NNPS and/CC (\w+)/NN Sunni/NNP	1
+complete/JJ (\w+)/NN ,/, the/DT only/JJ (\w+)/NN	2
+the/DT big/JJ (\w+)/NN or/CC (\w+)/NN here/RB in/IN	1
+Sun/NNP (\w+)/NN and/CC (\w+)/NN without/IN reports/NNS of/IN	1
+they/PRP run/VBP from/IN (\w+)/NN to/TO (\w+)/NN ./.	1
+not/RB have/VB a/DT (\w+)/NN or/CC a/DT (\w+)/NN ,/, "/''	1
+(\w+)/NN and/CC 15mm/CD in/IN the/DT (\w+)/NN at/IN highway/NN	1
+(\w+)/NN and/CC generate/VB (\w+)/NN from/IN our/PRP$ defense/NN	1
+74-year-old/JJ Coachella/NNP Valley/NNP (\w+)/NN ;/: a/DT 56-year-old/JJ (\w+)/NN from/IN	1
+upfront/NN costs/VBZ like/IN (\w+)/NN or/CC (\w+)/NN	1
+-/: (\w+)/NN and/CC (\w+)/NN of/IN a/DT standard/JJ	1
+a/DT chair/NN (\w+)/NN and/CC (\w+)/NN with/IN	1
+parent/NN or/CC foster/VB (\w+)/NN is/VBZ where/WRB this/DT (\w+)/NN	1
+their/PRP$ (\w+)/NN in/IN response/NN to/TO another/DT (\w+)/NN	1
+politics/NNS ,/, (\w+)/NN ,/, (\w+)/NN	2
+the/DT (\w+)/NN to/TO high/JJ (\w+)/NN -/:	1
+(\w+)/NN to/TO a/DT multiple-choice/JJ (\w+)/NN allows/VBZ another/DT step/NN	2
+28th-ranked/JJ (\w+)/NN and/CC 31st-ranked/JJ (\w+)/NN ,/,	1
+of/IN a/DT (\w+)/NN who/WP stabs/VBZ a/DT (\w+)/NN in/IN	1
+one/CD lucky/JJ (\w+)/NN or/CC (\w+)/NN	1
+the/DT (\w+)/NN and/CC it/PRP reflects/VBZ the/DT (\w+)/NN ,/,	1
+the/DT (\w+)/NN or/CC the/DT (\w+)/NN of/IN Captain/NNP Yee/NNP	1
+Rizal/NNP 's/POS (\w+)/NN ,/, his/PRP$ (\w+)/NN	2
+oil/NN (\w+)/NN is/VBZ adequate/JJ ,/, and/CC (\w+)/NN growth/NN is/VBZ slower/RBR	1
+together/RB enjoying/VBG their/PRP$ (\w+)/NN and/CC (\w+)/NN 's/POS accomplishments/NNS ./.	1
+a/DT one-shot/JJ (\w+)/NN into/IN a/DT six-shot/JJ (\w+)/NN on/IN the/DT front/JJ	4
+including/VBG areas/NNS of/IN (\w+)/NN and/CC (\w+)/NN	1
+a/DT (\w+)/NN and/CC another/DT of/IN a/DT (\w+)/NN strangling/VBG a/DT woman/NN	1
+The/DT (\w+)/NN tried/VBD to/TO remove/VB the/DT (\w+)/NN 's/POS clothes/NNS ,/,	1
+Qaeda/NNP in/IN (\w+)/NN and/CC terrorism/NN in/IN (\w+)/NN ./.	1
+(\w+)/NN and/CC (\w+)/NN ,/, Hollywood/NNP beauty/NN	2
+as/IN (\w+)/NN concerns/NNS and/CC Asian/JJ (\w+)/NN fueled/VBD buying/VBG ./.	1
+(\w+)/NN and/CC (\w+)/NN cards/NNS were/VBD among/IN	1

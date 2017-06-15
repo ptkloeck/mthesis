@@ -1,0 +1,31 @@
+''/'' and/CC ``/`` (\w+)/VB ''/'' or/CC ``/`` (\w+)/VB	1
+(\w+)/VB hope/NN and/CC should/MD (\w+)/VB	1
+will/MD (\w+)/VB and/CC potentially/RB (\w+)/VB in/IN Fenway/NNP Park/NNP	1
+you/PRP (\w+)/VB bowling/NN and/CC (\w+)/VB	1
+water/NN temperatures/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+your/PRP$ accomplishment/NN ,/, (\w+)/VB or/CC (\w+)/VB ,/, after/IN the/DT	1
+might/MD (\w+)/VB Italian/JJ lire/NNS to/TO (\w+)/VB	1
+markets/NNS to/TO (\w+)/VB and/CC (\w+)/VB	2
+about/IN (\w+)/VB and/CC (\w+)/VB ./.	7
+crowned/JJ champions/NNS (\w+)/VBP ,/, (\w+)/VBP or/CC draw/VBP at/IN	1
+to/TO (\w+)/VB his/PRP$ bid/NN to/TO (\w+)/VB a/DT Nairobi/NNP seat/NN	3
+(\w+)/VBP combined/VBN to/TO (\w+)/VB	6
+way/NN the/DT men/NNS (\w+)/VBP and/CC (\w+)/VB	1
+either/DT (\w+)/VB or/CC (\w+)/VB the/DT report/NN	2
+NYSE/NNP ,/, matching/VBG (\w+)/VB and/CC (\w+)/VB orders/NNS	1
+month/NN ,/, (\w+)/VBP or/CC (\w+)/VBP	1
+brands/NNS may/MD (\w+)/VB and/CC (\w+)/VB ,/, jeans/NNS	1
+(\w+)/VB international/JJ pressure/NN to/TO (\w+)/VB	1
+allow/VBP countries/NNS to/TO (\w+)/VB and/CC (\w+)/VB their/PRP$ emission/NN rights/NNS	1
+that/IN he/PRP would/MD (\w+)/VB earlier/JJR promises/NNS and/CC (\w+)/VB his/PRP$ dual/JJ	1
+(\w+)/VBP and/CC (\w+)/VBP early/RB in/IN their/PRP$	1
+conference/NN delegates/NNS to/TO (\w+)/VB or/CC (\w+)/VB their/PRP$ position/NN ./.	1
+what/WP can/MD (\w+)/VB or/CC (\w+)/VB you/PRP ,/,	1
+character/NN actor/NN audiences/NNS (\w+)/VBP to/TO (\w+)/VB (/NNP he/PRP was/VBD	1
+'re/VBP trying/VBG to/TO (\w+)/VB through/IN all/PDT that/DT and/CC (\w+)/VB a/DT	2
+will/MD (\w+)/VB here/RB or/CC (\w+)/VB to/TO Cortland/NNP	1
+and/CC their/PRP$ clients/NNS (\w+)/VB and/CC (\w+)/VB stocks/NNS with/IN large/JJ	1
+Doctors/NNS and/CC nurses/NNS (\w+)/VBP and/CC (\w+)/VBP and/CC the/DT	1
+people/NNS who/WP will/MD (\w+)/VB and/CC (\w+)/VB	2
+to/TO (\w+)/VB ,/, not/RB (\w+)/VB ,/, "/'' he/PRP	2
+(\w+)/VB something/NN in/IN order/NN to/TO (\w+)/VB something/NN else/RB ./.	1

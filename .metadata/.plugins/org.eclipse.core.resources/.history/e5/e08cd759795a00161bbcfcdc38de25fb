@@ -1,0 +1,25 @@
+'''
+Created on Aug 4, 2016
+
+@author: peter
+'''
+import argparse
+
+import os
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), os.pardir, os.pardir))
+
+from anton.eval import eval
+
+def main():
+    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser.add_argument("--features", type=int, nargs='+',
+                    help="list of feature categories to use. possible categories are 1, 2...9")
+    parser.add_argument('--sum', dest='accumulate', action='store_const',
+                    const=sum, default=max,
+                    help='sum the integers (default: find the max)')
+    
+if __name__ == "__main__":
+    
+    main() 

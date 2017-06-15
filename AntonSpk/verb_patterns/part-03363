@@ -1,0 +1,36 @@
+to/TO remember/VB to/TO (\w+)/VB and/CC (\w+)/VB ./.	1
+sport/NN you/PRP (\w+)/VBP some/DT ,/, you/PRP (\w+)/VBP some/DT ,/, that/WDT	1
+time/NN had/VBD (\w+)/VBN to/TO (\w+)/VB back/RP	1
+its/PRP$ decision/NN to/TO (\w+)/VB or/CC (\w+)/VB	1
+to/TO (\w+)/VB and/CC not/RB (\w+)/VB ,/, "/''	1
+interludes/VBZ (\w+)/VB and/CC (\w+)/VB each/DT mission/NN	1
+individual/JJ investors/NNS who/WP (\w+)/VBP and/CC (\w+)/VBP stocks/NNS over/IN sophisticated/JJ	1
+``/`` Americans/NNPS could/MD (\w+)/VB or/CC (\w+)/VB with/IN	1
+Capitol/NNP building/NN could/MD (\w+)/VB and/CC (\w+)/VB as/IN they/PRP pleased/VBD	1
+asking/VBG them/PRP to/TO (\w+)/VB on/IN tasks/NNS that/WDT (\w+)/VBP them/PRP	1
+they/PRP would/MD (\w+)/VB to/TO (\w+)/VB a/DT new/JJ council/NN	1
+places/NNS where/WRB programs/NNS (\w+)/VB and/CC (\w+)/VB from/IN	1
+(\w+)/VB and/CC not/RB (\w+)/VB ,/, "/''	1
+(\w+)/VB before/IN I/PRP (\w+)/VBP crying/VBG	1
+(\w+)/VBP or/CC (\w+)/VBP ,/, they/PRP are/VBP	1
+and/CC Cargill/NNP (\w+)/VBP and/CC (\w+)/VBP commodity/NN crops/NNS	1
+non-dealers/NNS can/MD (\w+)/VB or/CC (\w+)/VB ,/, too/RB	1
+,/, who/WP (\w+)/VBP or/CC (\w+)/VBP nearby/RB ,/, all/DT	1
+and/CC employees/NNS (\w+)/VB and/CC (\w+)/VB	4
+librarians/NNS (\w+)/VBP or/CC (\w+)/VBP ./.	1
+for/IN the/DT (\w+)/VB and/CC (\w+)/VB of/IN diplomacy/NN ./.	1
+orders/NNS to/TO (\w+)/VB or/CC (\w+)/VB at/IN a/DT specified/VBN	1
+The/DT more/JJR things/NNS (\w+)/VBP ,/, the/DT more/JJR they/PRP (\w+)/VBP the/DT same/JJ _/NN	3
+would/MD (\w+)/VB kids/NNS off/IN drugs/NNS and/CC (\w+)/VB them/PRP some/DT	1
+(\w+)/VB ,/, (\w+)/VB or/CC do/VB	3
+be/VB some/DT (\w+)/VB and/CC (\w+)/VB ./. "/''	1
+A/NNP (\w+)/VBP ,/, Minnesota/NNP and/CC Carolina/NNP (\w+)/VB or/CC tie/VB	1
+inspired/VBD him/PRP (\w+)/VB or/CC (\w+)/VB ,/,	1
+other/JJ decisions/NNS could/MD (\w+)/VB or/CC (\w+)/VB	1
+'s/VBZ possible/JJ to/TO (\w+)/VB and/CC still/RB (\w+)/VB	1
+,/, which/WDT (\w+)/VBP and/CC (\w+)/VBP by/IN	10
+supposed/VBN either/RB to/TO (\w+)/VB and/CC (\w+)/VB broadcast/NN	1
+could/MD (\w+)/VB Twilight/NNP and/CC (\w+)/VB it/PRP a/DT	1
+he/PRP will/MD not/RB (\w+)/VB his/PRP$ word/NN to/TO (\w+)/VB their/PRP$ identities/NNS	1
+projects/NNS are/VBP (\w+)/VBN to/TO (\w+)/VB and/CC	2
+BUSINESSES/NNS may/MD (\w+)/VB and/CC (\w+)/VB ,/, but/CC	1

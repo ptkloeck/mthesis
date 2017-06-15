@@ -1,0 +1,28 @@
+to/TO (\w+)/VB one/CD streak/NN and/CC (\w+)/VB	1
+very/RB easily/RB (\w+)/VB each/DT team/NN and/CC (\w+)/VB	1
+that/WDT (\w+)/VBP up/RP always/RB (\w+)/VBP back/RB	1
+attempts/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN inverse/JJ proportion/NN	1
+far/RB _/RB (\w+)/VB or/CC (\w+)/VB	1
+People/NNS (\w+)/VBP ,/, people/NNS (\w+)/VB	2
+can/MD (\w+)/VB or/CC (\w+)/VB a/DT Congressional/JJ	2
+unemployment/NN was/VBD (\w+)/VBN to/TO (\w+)/VB by/IN up/IN	1
+was/VBD (\w+)/VB and/CC (\w+)/VB on/IN all/DT	1
+Governments/NNS (\w+)/VBP and/CC (\w+)/VBP but/CC the/DT	1
+27-acre/JJ campus/NN ,/, (\w+)/VB pedestrian/JJ safety/NN ,/, (\w+)/VB	1
+which/WDT can/MD (\w+)/VB and/CC (\w+)/VB from/IN	1
+(\w+)/VBP to/TO (\w+)/VB a/DT reasonable/JJ threshold/NN	1
+better/JJR to/TO (\w+)/VB with/IN honor/NN than/IN (\w+)/VBP with/IN shame/NN	1
+$/$ 28,525/CD ,/, (\w+)/VB or/CC (\w+)/VB a/DT couple/NN thousand/CD	1
+donâ/VBZ t/NN (\w+)/VB love/NN (/NNS or/CC we/PRP (\w+)/VBP the/DT love/NN	1
+(\w+)/VBP can/MD (\w+)/VB serious/JJ consequences/NNS	1
+Students/NNS (\w+)/VBP confidence/NN and/CC (\w+)/VBP	1
+nothing/NN more/RBR than/IN (\w+)/VB still/RB on/IN weekdays/NNP and/CC (\w+)/VB	1
+be/VB (\w+)/VB or/CC (\w+)/VB ,/,	8
+(\w+)/VB connecting/VBG flights/NNS and/CC (\w+)/VB the/DT first/JJ	1
+(\w+)/VB ,/, (\w+)/VB ,/, interchange/VB	1
+to/TO (\w+)/VB or/CC (\w+)/VB M/A-Com/JJ â/NN €/NNP	1
+some/DT offenders/NNS (\w+)/VBP to/TO (\w+)/VB in/IN prison-run/JJ treatment/NN	1
+6-8/CD will/MD (\w+)/VB on/IN June/NNP 26/CD and/CC (\w+)/VB on/IN July/NNP 8/CD	1
+(\w+)/VB you/PRP everything/NN and/CC (\w+)/VB	1
+values/NNS (\w+)/VBP and/CC (\w+)/VBP over/IN	1
+so/IN drivers/NNS can/MD (\w+)/VB and/CC (\w+)/VB from/IN	1

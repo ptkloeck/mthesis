@@ -1,0 +1,137 @@
+(\w+)/NN and/CC (\w+)/NN	1062	90670	NaN
+(\w+)/NN and/CC (\w+)/NN ./.	391	19430	715.0134
+(\w+)/NN or/CC (\w+)/NN	277	11686	550.9287
+a/DT (\w+)/NN and/CC a/DT (\w+)/NN	154	1416	528.6189
+a/DT (\w+)/NN and/CC a/DT (\w+)/NN ./.	105	504	419.6441
+(\w+)/NN and/CC a/DT (\w+)/NN	173	6110	374.05322
+(\w+)/NN and/CC a/DT (\w+)/NN ./.	108	1035	366.68033
+between/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN	70	48	366.25955
+(\w+)/NN and/CC (\w+)/NN ,/,	180	7857	352.0106
+the/DT (\w+)/NN and/CC (\w+)/NN	186	9282	339.36487
+between/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN ./.	52	30	275.54764
+(\w+)/NN or/CC (\w+)/NN ./.	98	3262	217.53448
+a/DT (\w+)/NN and/CC a/DT (\w+)/NN ,/,	50	215	204.3381
+(\w+)/NN and/CC a/DT (\w+)/NN ,/,	51	447	177.2604
+a/DT (\w+)/NN and/CC (\w+)/NN	78	2679	170.76376
+one/CD (\w+)/NN and/CC one/CD (\w+)/NN	34	47	166.13692
+the/DT (\w+)/NN and/CC (\w+)/NN of/IN	71	2112	165.33722
+between/IN (\w+)/NN and/CC (\w+)/NN	51	668	158.53008
+(\w+)/NN and/CC (\w+)/NN of/IN	94	5765	152.47075
+between/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN ,/,	27	12	145.4421
+(\w+)/NN and/CC one/CD (\w+)/NN ./.	28	27	142.22153
+one/CD (\w+)/NN and/CC one/CD (\w+)/NN ./.	27	17	142.18512
+(\w+)/NN and/CC one/CD (\w+)/NN	35	184	137.22607
+a/DT (\w+)/NN and/CC a/DT (\w+)/NN ./. "/''	28	50	132.439
+(\w+)/NN and/CC (\w+)/NN session/NN	23	4	128.66489
+from/IN (\w+)/NN to/TO (\w+)/NN	52	1453	124.23654
+between/IN (\w+)/NN and/CC (\w+)/NN ./.	36	328	123.87001
+(\w+)/NN and/CC a/DT (\w+)/NN ./. "/''	28	81	123.06911
+the/DT (\w+)/NN and/CC the/DT (\w+)/NN	67	3499	119.25741
+(\w+)/NN or/CC (\w+)/NN ,/,	48	1288	116.55524
+of/IN (\w+)/NN and/CC (\w+)/NN	85	6896	114.42465
+(\w+)/NN and/CC (\w+)/NN ./. "/''	49	1857	102.58282
+(\w+)/NN to/TO that/DT (\w+)/NN	27	245	93.00159
+from/IN (\w+)/NN to/TO (\w+)/NN ./.	34	828	85.733505
+(\w+)/NN or/CC (\w+)/NN of/IN	30	554	83.572945
+a/DT (\w+)/NN or/CC (\w+)/NN	34	1090	76.71012
+the/DT (\w+)/NN or/CC (\w+)/NN	32	888	76.66659
+the/DT (\w+)/NN and/CC the/DT (\w+)/NN ./.	30	738	75.35629
+union/NN between/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN	13	0	74.80809
+between/IN one/CD (\w+)/NN and/CC one/CD (\w+)/NN	13	1	73.84469
+marriage/NN between/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN	13	1	73.84469
+the/DT (\w+)/NN or/CC the/DT (\w+)/NN	24	381	70.28725
+,/, a/DT (\w+)/NN and/CC a/DT (\w+)/NN	21	213	70.21707
+the/DT (\w+)/NN and/CC (\w+)/NN ./.	29	814	69.15913
+of/IN (\w+)/NN and/CC (\w+)/NN ./.	40	2292	67.55466
+(\w+)/NN and/CC (\w+)/NN cards/NNS	14	22	67.3401
+(\w+)/NN and/CC (\w+)/NN of/IN the/DT	35	1581	67.27376
+at/IN the/DT (\w+)/NN and/CC (\w+)/NN of/IN	14	23	66.95651
+the/DT (\w+)/NN of/IN the/DT (\w+)/NN of/IN	27	692	66.75599
+at/IN the/DT (\w+)/NN and/CC (\w+)/NN	18	125	66.275925
+(\w+)/NN and/CC the/DT (\w+)/NN ./.	32	1316	64.442474
+(\w+)/NN and/CC (\w+)/NN ,/, "/''	29	997	63.4619
+is/VBZ between/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN	11	0	63.299152
+a/DT (\w+)/NN and/CC (\w+)/NN ./.	21	344	60.880966
+(\w+)/NN to/TO (\w+)/NN ./.	49	4486	60.10872
+a/DT (\w+)/NN or/CC a/DT (\w+)/NN	23	543	58.68148
+between/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN ,/, "/''	10	1	56.591583
+(\w+)/NN and/CC (\w+)/NN who/WP	19	295	56.04078
+the/DT (\w+)/NN and/CC (\w+)/NN of/IN the/DT	23	615	55.92736
+(\w+)/NN or/CC a/DT (\w+)/NN	29	1309	55.76216
+a/DT (\w+)/NN and/CC a/DT (\w+)/NN ,/, "/''	12	26	55.221466
+one/CD (\w+)/NN and/CC one/CD (\w+)/NN ,/,	10	3	54.921043
+,/, (\w+)/NN and/CC (\w+)/NN ./.	38	2791	54.886295
+the/DT (\w+)/NN or/CC (\w+)/NN of/IN	17	199	54.61086
+of/IN (\w+)/NN or/CC (\w+)/NN	23	654	54.562706
+(\w+)/NN and/CC (\w+)/NN are/VBP	23	654	54.562706
+(\w+)/NN or/CC a/DT (\w+)/NN ./.	20	415	53.497093
+the/DT (\w+)/NN to/TO that/DT (\w+)/NN	11	17	53.021755
+(\w+)/NN ,/, (\w+)/NN and/CC	67	9566	52.676147
+(\w+)/NN and/CC one/CD (\w+)/NN ,/,	10	7	52.238403
+(\w+)/NN and/CC a/DT (\w+)/NN ,/, "/''	12	39	51.690594
+The/DT (\w+)/NN and/CC (\w+)/NN	23	767	51.012386
+(\w+)/NN and/CC the/DT (\w+)/NN	73	11542	49.99591
+,/, a/DT (\w+)/NN and/CC a/DT (\w+)/NN ,/,	11	27	49.662556
+(\w+)/NN or/CC the/DT (\w+)/NN	24	959	49.00592
+the/DT (\w+)/NN of/IN the/DT (\w+)/NN of/IN the/DT	15	171	48.551582
+(\w+)/NN and/CC (\w+)/NN were/VBD	18	370	48.30903
+both/DT (\w+)/NN and/CC (\w+)/NN	18	387	47.53716
+,/, (\w+)/NN or/CC (\w+)/NN	23	952	46.173084
+(\w+)/NN and/CC (\w+)/NN and/CC	26	1428	44.992775
+both/PDT the/DT (\w+)/NN and/CC the/DT (\w+)/NN	13	129	43.72668
+on/IN the/DT (\w+)/NN and/CC the/DT (\w+)/NN	13	136	43.10113
+the/DT (\w+)/NN and/CC the/DT (\w+)/NN ,/,	16	326	43.075943
+and/CC the/DT (\w+)/NN and/CC (\w+)/NN of/IN	10	37	42.06906
+like/IN (\w+)/NN and/CC (\w+)/NN	15	278	41.735195
+,/, (\w+)/NN and/CC (\w+)/NN ,/,	21	901	41.42136
+the/DT (\w+)/NN of/IN the/DT (\w+)/NN for/IN	14	216	41.376255
+,/, (\w+)/NN and/CC (\w+)/NN	61	9781	40.926624
+(\w+)/NN and/CC (\w+)/NN ,/, and/CC	20	798	40.86677
+(\w+)/NN and/CC (\w+)/NN ,/, but/CC	15	296	40.84089
+(\w+)/NN and/CC the/DT (\w+)/NN ,/,	17	517	39.22386
+the/DT (\w+)/NN ,/, not/RB the/DT (\w+)/NN	11	88	39.129684
+from/IN (\w+)/NN to/TO (\w+)/NN ,/,	16	422	39.117416
+the/DT (\w+)/NN and/CC (\w+)/NN ,/,	15	337	38.983315
+(\w+)/NN of/IN the/DT (\w+)/NN of/IN	32	2991	38.59838
+between/IN (\w+)/NN and/CC (\w+)/NN ,/,	12	140	38.585938
+'s/POS (\w+)/NN and/CC (\w+)/NN	29	2393	38.55305
+of/IN a/DT (\w+)/NN and/CC (\w+)/NN	11	94	38.482437
+(\w+)/NN of/IN the/DT (\w+)/NN of/IN the/DT	18	681	37.713413
+'s/POS (\w+)/NN or/CC (\w+)/NN	12	157	37.31372
+of/IN (\w+)/NN and/CC (\w+)/NN ,/,	20	966	37.13089
+(\w+)/NN to/TO that/DT (\w+)/NN ,/,	10	68	37.00345
+(\w+)/NN and/CC (\w+)/NN in/IN	27	2238	35.774334
+(\w+)/NN or/CC (\w+)/NN is/VBZ	11	125	35.6368
+(\w+)/NN ,/, not/RB the/DT (\w+)/NN	12	218	33.61555
+and/CC the/DT (\w+)/NN and/CC (\w+)/NN	11	165	32.80068
+,/, (\w+)/NN or/CC (\w+)/NN ,/,	10	129	31.225798
+on/IN (\w+)/NN and/CC (\w+)/NN	19	1162	30.871025
+(\w+)/NN and/CC (\w+)/NN to/TO	24	2089	30.639801
+(\w+)/NN or/CC (\w+)/NN in/IN	11	223	29.667469
+a/DT (\w+)/NN or/CC a/DT (\w+)/NN ,/,	9	100	29.343107
+(\w+)/NN to/TO (\w+)/NN ,/,	22	1889	28.382843
+as/IN (\w+)/NN and/CC (\w+)/NN	14	582	28.045992
+(\w+)/NN of/IN the/DT (\w+)/NN for/IN	15	784	26.687368
+(\w+)/NN or/CC a/DT (\w+)/NN ,/,	9	157	25.55735
+(\w+)/NN and/CC (\w+)/NN have/VBP	10	270	24.222641
+(\w+)/NN and/CC (\w+)/NN --/:	11	408	23.259424
+(\w+)/NN and/CC (\w+)/NN for/IN	16	1267	21.921616
+,/, the/DT (\w+)/NN and/CC (\w+)/NN	12	621	21.466858
+of/IN the/DT (\w+)/NN and/CC (\w+)/NN	14	951	21.29957
+(\w+)/NN and/CC (\w+)/NN in/IN the/DT	10	649	15.663301
+(\w+)/NN and/CC (\w+)/NN on/IN	10	668	15.379065
+(\w+)/NN ,/, (\w+)/NN ,/,	28	5102	15.22674
+and/CC (\w+)/NN and/CC (\w+)/NN	10	888	12.568836
+a/DT (\w+)/NN ,/, a/DT (\w+)/NN	10	1014	11.255818
+(\w+)/NN to/TO a/DT (\w+)/NN	19	3570	9.7522955
+in/IN (\w+)/NN and/CC (\w+)/NN	10	1958	4.722806
+the/DT (\w+)/NN to/TO the/DT (\w+)/NN	10	2030	4.363486
+a/DT (\w+)/NN ,/, (\w+)/NN	12	4784	-2.8339472
+,/, (\w+)/NN ,/, (\w+)/NN	10	4373	-3.2843497
+(\w+)/NN ,/, a/DT (\w+)/NN	18	11073	-12.042881
+(\w+)/NN to/TO the/DT (\w+)/NN	20	20718	-23.790445
+(\w+)/NN to/TO (\w+)/NN	70	37366	-36.919697
+the/DT (\w+)/NN of/IN the/DT (\w+)/NN	50	34437	-39.092308
+(\w+)/NNS and/CC (\w+)/NN	21	72682	-50.298088
+(\w+)/NN of/IN the/DT (\w+)/NN	54	105728	-98.58688
+(\w+)/NN ,/, (\w+)/NN	103	133798	-145.81282

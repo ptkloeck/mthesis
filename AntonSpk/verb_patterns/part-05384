@@ -1,0 +1,28 @@
+cents/NNS to/TO (\w+)/VB or/CC (\w+)/VB the/DT tollway/NN	1
+party/NN ,/, (\w+)/VB or/CC (\w+)/VB	1
+kids/NNS (\w+)/VBP or/CC (\w+)/VBP to/TO	1
+who/WP (\w+)/VB and/CC (\w+)/VB large/JJ blocks/NNS	1
+matter/NN where/WRB you/PRP (\w+)/VBP or/CC (\w+)/VBP ,/,	1
+(\w+)/VBN to/TO (\w+)/VB above/IN 100/CD ./.	1
+-/NNS nor/CC ever/RB (\w+)/VB or/CC (\w+)/VB the/DT motor/NN -/:	1
+the/DT ???/NN (\w+)/VBP low/JJ ,/, (\w+)/VB high/JJ ???/JJ	1
+to/TO (\w+)/VB profit/NN and/CC (\w+)/VBP liabilities/NNS from/IN claims/NNS	1
+to/TO (\w+)/VB the/DT money/NN and/CC (\w+)/VB	2
+(\w+)/VB the/DT practice/NN and/CC (\w+)/VB a/DT vocational/JJ school/NN	1
+a/SYM (\w+)/VB it/PRP or/CC (\w+)/VB it/PRP game/NN	1
+not/RB (\w+)/VB and/CC (\w+)/VB unnoticed/JJ	1
+his/PRP$ company/NN will/MD (\w+)/VB to/TO (\w+)/VB a/DT job/NN	1
+time/NN frame/NN ,/, (\w+)/VBP or/CC (\w+)/VBP a/DT few/JJ months/NNS	1
+collectors/NNS can/MD (\w+)/VB and/CC (\w+)/VB stamps/NNS ./.	1
+so/IN I/PRP would/MD (\w+)/VB them/PRP and/CC (\w+)/VB them/PRP ./.	1
+offers/VBZ to/TO (\w+)/VB or/CC (\w+)/VB ./.	1
+and/CC you/PRP either/CC (\w+)/VBP him/PRP or/CC (\w+)/VBP him/PRP but/CC	1
+been/VBN (\w+)/VBN or/CC (\w+)/VBP this/DT year/NN on/IN	1
+going/VBG to/TO (\w+)/VB or/CC (\w+)/VB the/DT plan/NN	1
+(\w+)/VB to/TO (\w+)/VB the/DT Cup/NN ./.	1
+in/IN Manhattan/NNP can/MD (\w+)/VB and/CC (\w+)/VB larger/JJR apartments/NNS in/IN	1
+(\w+)/VB the/DT money/NN and/CC (\w+)/VB	4
+(\w+)/VBP practicing/VBG religion/NN when/WRB they/PRP (\w+)/VBP college/NN	1
+a/DT look/NN and/CC (\w+)/VB her/PRP (\w+)/VB on/IN the/DT findings/NNS	1
+will/MD (\w+)/VB or/CC (\w+)/VB next/JJ year/NN	1
+can/MD (\w+)/VB or/CC (\w+)/VB anxiety/NN by/IN	1

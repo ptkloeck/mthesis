@@ -1,0 +1,104 @@
+from/IN (\w+)/NN to/TO (\w+)/NN ,/, with/IN Drake/NNP	1
+(\w+)/NNS and/CC (\w+)/NNS so/RB rich/JJ that/IN	1
+depending/VBG on/IN the/DT (\w+)/NN or/CC (\w+)/NN on/IN	1
+workouts/NNS on/IN (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN to/TO such/PDT a/DT (\w+)/NN is/VBZ the/DT eventual/JJ	4
+A/DT 21-year-old/JJ (\w+)/NN and/CC the/DT (\w+)/NN 's/POS 3-year-old/JJ	1
+(\w+)/NN ,/, (\w+)/NN and/CC cousin/NN and/CC	1
+(\w+)/NN and/CC one/CD (\w+)/NNS on/IN a/DT team/NN	1
+black/JJ (\w+)/NN and/CC a/DT (\w+)/NN	14
+(\w+)/NN ,/, rather/RB than/IN at/IN (\w+)/NN ,/,	1
+class/NN operation/NN from/IN (\w+)/NN to/TO (\w+)/NN ./.	1
+balanced/VBN from/IN (\w+)/NN to/TO (\w+)/NN ./.	1
+off/IN a/DT (\w+)/NN of/IN 4,094.3/CD and/CC a/DT (\w+)/NN	1
+is/VBZ no/DT (\w+)/NN ,/, middle/JJ and/CC (\w+)/NN or/CC blip/NN or/CC	1
+for/IN a/DT full/JJ (\w+)/NN and/CC a/DT (\w+)/NN in/IN the/DT Luxury/NNP	1
+a/DT (\w+)/NN of/IN two/CD and/CC a/DT (\w+)/NN of/IN	3
+from/IN (\w+)/NN to/TO (\w+)/NN ,/, existing/VBG	2
+hummed/VBN by/IN (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN frisking/VBG a/DT (\w+)/NN ./. "/''	1
+in/IN favor/NN of/IN (\w+)/NN and/CC that/IN all/DT (\w+)/NN	1
+randomness/NN of/IN (\w+)/NN (/NN and/CC (\w+)/NN )/NNS or/CC	1
+a/DT (\w+)/NN in/IN Illinois/NNP ,/, a/DT (\w+)/NN in/IN	1
+the/DT (\w+)/NN of/IN a/DT tony/JJ (\w+)/NN of/IN the/DT Jewish/JJ	1
+to/TO this/DT (\w+)/NN 's/POS _/NN and/CC (\w+)/NN	1
+,/, (\w+)/NN and/CC (\w+)/NN &mdash;/NNS appeal/VBP	1
+sadness/NNS of/IN (\w+)/NN and/CC the/DT joy/NN of/IN (\w+)/NN and/CC	1
+imagine/VBP this/DT (\w+)/NN and/CC (\w+)/NN getting/VBG	1
+(\w+)/NN and/CC (\w+)/NN also/RB had/VBD the/DT	1
+shines/NNS from/IN (\w+)/NN to/TO (\w+)/NN ,/, from/IN	1
+is/VBZ not/RB the/DT (\w+)/NN or/CC (\w+)/NN of/IN local/JJ	1
+Grace/NNP (\w+)/NNP is/VBZ first/JJ ,/, (\w+)/NN is/VBZ	1
+say/VB (\w+)/NN or/CC (\w+)/NN	20
+labor/NN (\w+)/NN and/CC (\w+)/NN is/VBZ especially/RB	1
+older/JJR (\w+)/NN ,/, her/PRP$ younger/JJR (\w+)/NN and/CC	1
+the/DT (\w+)/NN and/CC (\w+)/NN of/IN the/DT stock/NN	6
+happy/JJ (\w+)/NN as/IN a/DT (\w+)/NN for/IN No./NN 10-seeded/NN	1
+resentful/JJ fringes/NNS of/IN (\w+)/NN or/CC (\w+)/NN ./.	2
+last/JJ dutiful/JJ (\w+)/NN and/CC unforthcoming/NN (\w+)/NN ,/,	1
+cheaper/JJR ;/: new/JJ (\w+)/NN and/CC (\w+)/NN that/WDT seamlessly/RB connect/VBP	1
+achievement/NN of/IN a/DT (\w+)/NN or/CC (\w+)/NN ,/, then/RB	1
+Mattingly/NNP ,/, whose/WP$ (\w+)/NN ,/, (\w+)/NN and/CC orations/NNS have/VBP	1
+(\w+)/NN never/RB seems/VBZ to/TO approach/VB (\w+)/NN ./.	1
+to/TO COTS/NNP (\w+)/NN and/CC (\w+)/NN ,/,	1
+(\w+)/NN and/CC (\w+)/NN you/PRP have/VBP	3
+think/VBP of/IN (\w+)/NN and/CC (\w+)/NN ,/,	1
+and/CC (\w+)/NN Shiites/NNS over/IN the/DT Sunni/NNP (\w+)/NN	1
+actors/NNS ,/, a/DT (\w+)/NN and/CC a/DT (\w+)/NN ,/,	1
+27/CD for/IN the/DT (\w+)/NN and/CC 29/CD for/IN the/DT (\w+)/NN	1
+This/DT is/VBZ the/DT (\w+)/NN ,/, and/CC the/DT (\w+)/NN	1
+cut/NN (\w+)/NN ,/, then/RB cut/VBN (\w+)/NN	1
+then/RB on/IN the/DT (\w+)/NN ,/, then/RB on/IN the/DT (\w+)/NN again/RB ./.	1
+;/: (\w+)/NN ,/, Pam/NNP Means/NNP ;/: (\w+)/NN ,/, Edward/NNP Leonard/NNP	1
+(\w+)/NN ,/, a/DT (\w+)/NN after/IN Ms./NNP Parrish/NNP	1
+(\w+)/NN of/IN January/NNP ,/, (\w+)/NN of/IN December/NNP is/VBZ	1
+domestic/JJ bookings/NNS (\w+)/NN following/VBG the/DT (\w+)/NN in/IN the/DT Australian/JJ	1
+my/PRP$ (\w+)/NN to/TO your/PRP$ (\w+)/NN ./.	1
+Brunelle/NNP ;/: one/CD (\w+)/NN and/CC one/CD (\w+)/NN ./. Rescuers/NNP find/VBP	1
+actors/NNS --/: two/CD (\w+)/NN and/CC one/CD (\w+)/NN	1
+a/DT 78-year-old/JJ (\w+)/NN and/CC a/DT 77-year-old/JJ (\w+)/NN ,/, werenâ/NNP	1
+(\w+)/NN Warren/NNP comforting/VBZ the/DT (\w+)/NN ./.	1
+beautiful/JJ (\w+)/NN and/CC (\w+)/NN	17
+(\w+)/NN and/CC longer/JJR in/IN the/DT (\w+)/NN ,/, then/RB ./.	1
+had/VBD a/DT 6-year-old/JJ (\w+)/NN and/CC 4-year-old/JJ (\w+)/NN ./. He/PRP	1
+varying/VBG times/NNS of/IN (\w+)/NN and/CC (\w+)/NN and/CC at/IN different/JJ	2
+by/IN a/DT Hispanic/JJ (\w+)/NN and/CC a/DT Caucasian/JJ (\w+)/NN ./.	1
+victim/NN 's/POS (\w+)/NN said/VBD his/PRP$ (\w+)/NN	1
+represented/VBD by/IN her/PRP$ (\w+)/NN because/IN his/PRP$ (\w+)/NN had/VBD committed/VBN	1
+between/IN (\w+)/NN and/CC extreme/NN (\w+)/NN ,/, it/PRP 's/VBZ	1
+(\w+)/NN into/IN a/DT decisive/JJ three-run/JJ (\w+)/NN for/IN Oakland/NNP	1
+(\w+)/NN and/CC the/DT (\w+)/NN is/VBZ NOOOOOOOOOBAMA/NNP	1
+(\w+)/NN to/TO your/PRP$ nasty/JJ little/JJ (\w+)/NN is/VBZ ,/,	1
+again/RB as/IN (\w+)/NN exceeded/VBD (\w+)/NN	1
+cold/JJ (\w+)/NN since/IN the/DT 1967/CD (\w+)/NN ,/, when/WRB	1
+letters/NNS ,/, (\w+)/NN and/CC (\w+)/NN	2
+between/IN a/DT given/VBN (\w+)/NN and/CC (\w+)/NN	1
+the/DT Shiite/JJ (\w+)/NN and/CC the/DT disenchanted/JJ Sunni/NNP (\w+)/NN ./.	1
+'s/POS (\w+)/NN and/CC (\w+)/NN businesses/NNS more/RBR	1
+their/PRP$ (\w+)/NN and/CC (\w+)/NN card/NN features/NNS	1
+both/PDT the/DT (\w+)/NN and/CC (\w+)/NN ,/, who/WP think/VBP	1
+my/PRP$ (\w+)/NN lived/VBD after/IN visiting/VBG my/PRP$ (\w+)/NN	1
+•/NNP Comfortable/NNP seats/VBZ (\w+)/NN and/CC (\w+)/NN ,/, including/VBG adult-size/JJ	1
+to/TO include/VB (\w+)/NN and/CC (\w+)/NN compression/NN ,/,	1
+Mrs./NNP DeCillo/NNP 's/POS (\w+)/NN that/IN her/PRP$ (\w+)/NN had/VBD	1
+"/`` The/DT Nigerian/NNP (\w+)/NN thinks/VBZ that/IN a/DT (\w+)/NN	3
+for/IN certificates/NNS of/IN (\w+)/NN ,/, marriage/NN and/CC (\w+)/NN	1
+turned/VBD the/DT (\w+)/NN into/IN the/DT (\w+)/NN he/PRP wanted/VBD	1
+for/IN the/DT (\w+)/NN or/CC the/DT (\w+)/NN ?/.	1
+(\w+)/NN to/TO get/VB a/DT good/JJ (\w+)/NN 's/POS sleep/NN at/IN	1
+,/, the/DT (\w+)/NN of/IN Heath/NNP 's/POS (\w+)/NN the/DT	1
+leading/VBG causes/NNS of/IN (\w+)/NN among/IN infants/NNS were/VBD (\w+)/NN defects/NNS ,/, low/JJ	1
+(\w+)/NN at/IN Fort/NNP Bragg/NNP whose/WP$ (\w+)/NN served/VBD two/CD	1
+a/DT (\w+)/NN or/CC a/DT (\w+)/NN gets/VBZ nominated/VBN	1
+aides/NNS by/IN (\w+)/NN and/CC (\w+)/NN ,/,	1
+if/IN the/DT common/JJ (\w+)/NN and/CC (\w+)/NN understood/VBD that/IN easy/JJ	1
+the/DT second-floor/JJ apartment/NN (\w+)/NN and/CC (\w+)/NN ,/, and/CC the/DT	1
+a/DT two-tight-end/JJ (\w+)/NN and/CC a/DT stack/JJ (\w+)/NN ,/,	1
+increased/VBN (\w+)/NN and/CC tight/JJ (\w+)/NN have/VBP pushed/VBN	1
+of/IN (\w+)/NN or/CC (\w+)/NN this/DT	1
+)/VBZ :/: An/DT (\w+)/NN whose/WP$ (\w+)/NNS offers/VBZ a/DT dependent/JJ	1
+(\w+)/NN and/CC (\w+)/NN more/RBR successful/JJ than/IN	1
+,/, public/JJ (\w+)/NN by/IN vocal/JJ (\w+)/NN ./.	1
+(\w+)/NN and/CC later/RB his/PRP$ (\w+)/NN ,/, sister/NN	1
+his/PRP$ (\w+)/NN committed/VBD suicide/NNP ./. His/PRP$ (\w+)/NN	1
+names/NNS of/IN an/DT (\w+)/NN and/CC (\w+)/NN of/IN another/DT woman/NN	1

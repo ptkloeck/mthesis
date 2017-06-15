@@ -1,0 +1,38 @@
+only/RB (\w+)/VB to/TO (\w+)/VB two/CD days/NNS	1
+(\w+)/VB and/CC (\w+)/VB in/IN legislation/NN ./.	1
+to/TO (\w+)/VB it/PRP and/CC then/RB (\w+)/VB	1
+VBS/NNP will/MD (\w+)/VB at/IN 6/CD p.m./RB and/CC (\w+)/VB at/IN 8:30/CD p.m./NN	1
+I/PRP will/MD not/RB (\w+)/VB unless/IN I/PRP can/MD (\w+)/VB	1
+will/MD (\w+)/VB what/WP would/MD (\w+)/VB	3
+Off/RB we/PRP (\w+)/VBP again/RB (\w+)/VB on/IN	1
+to/TO (\w+)/VB open/JJ spaces/NNS they/PRP might/MD (\w+)/VB ./.	1
+agreement/NN to/TO (\w+)/VB ,/, (\w+)/VB or/CC vote/VB their/PRP$	1
+resolutions/NNS as/IN they/PRP (\w+)/VBP and/CC (\w+)/VBP	1
+'s/POS authority/NN to/TO (\w+)/VB or/CC (\w+)/VB the/DT number/NN of/IN	1
+(\w+)/VB and/CC (\w+)/VB stocks/NNS ./.	43
+like/VBP ,/, (\w+)/VBP or/CC would/MD (\w+)/VB to/TO see/VB	1
+(\w+)/VB a/DT little/JJ and/CC also/RB (\w+)/VB a/DT	1
+backlit/JJ call/NN (\w+)/VBP and/CC (\w+)/VBP	1
+advise/VBP clients/NNS to/TO (\w+)/VB ,/, (\w+)/VB or/CC hold/VB	1
+(\w+)/VB to/TO another/DT building/NN and/CC (\w+)/VB up/RP behind/IN	1
+to/TO (\w+)/VB or/CC (\w+)/VBP the/DT board/NN 's/POS	1
+when/WRB we/PRP (\w+)/VBP nor/CC when/WRB we/PRP (\w+)/VBP	1
+partisan/JJ aides/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, the/DT professional/JJ	1
+maybe/RB (\w+)/VB September-time/JJ ,/, we/PRP ll/VBP (\w+)/VB in/RP and/CC try/VB	1
+that/WDT could/MD (\w+)/VB or/CC (\w+)/VB Florida/NNP 's/POS season/NN	1
+come/VBP and/CC (\w+)/VBP ,/, chiefs/NNS of/IN staff/NN (\w+)/VBP and/CC go/VBP ,/,	1
+the/DT Indians/NNPS would/MD (\w+)/VB to/TO (\w+)/VB	1
+who/WP (\w+)/VBP it/PRP difficult/JJ to/TO (\w+)/VB weight/NN	1
+Vikings/NNPS also/RB (\w+)/VBP ,/, Detroit/NNP will/MD (\w+)/VB	1
+(\w+)/VBP and/CC (\w+)/VBP ,/, but/CC tracking/NN	1
+(\w+)/VB or/CC (\w+)/VB a/DT coach/NN ,/,	1
+man/NN they/PRP (\w+)/VBP to/TO (\w+)/VB silenced/VBN them/PRP in/IN	1
+wrong/JJ ,/, (\w+)/VBP or/CC (\w+)/VBP ,/, there/EX is/VBZ	1
+tune/VBP in/IN &mdash;/NNP (\w+)/VB or/CC (\w+)/VB	1
+when/WRB couples/NNS (\w+)/VBP in/RP ,/, girls/NNS (\w+)/VBP for/IN	1
+to/TO have/VB to/TO (\w+)/VB here/RB and/CC (\w+)/VB hell/NN	1
+to/TO (\w+)/VB furloughs/NNS or/CC (\w+)/VB some/DT	1
+Diaw/NNP 's/POS confidence/NN (\w+)/VBN -/: and/CC (\w+)/VB ./.	1
+I/PRP did/VBD n't/RB (\w+)/VB this/DT far/RB to/TO (\w+)/VB play/NN in/IN	1
+people/NNS (\w+)/VBP to/TO (\w+)/VB ,/, ''/'' British/NNP	2
+the/DT chance/NN to/TO (\w+)/VB or/CC (\w+)/VB ./.	1

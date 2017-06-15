@@ -1,0 +1,33 @@
+(\w+)/VB and/CC (\w+)/VB ,/, like/IN	2
+to/TO (\w+)/VB back/RB and/CC (\w+)/VB forward/RB ,/,	1
+Hospital/NNP patients/NNS can/MD (\w+)/VB up/RP ,/, (\w+)/VB ,/,	1
+(\w+)/VBP ,/, people/NNS (\w+)/VBD up/RP to/TO me/PRP	1
+boy/NN if/IN they/PRP (\w+)/VBP their/PRP$ court/NN fight/NN to/TO (\w+)/VB him/PRP	3
+(\w+)/VB in/RP and/CC (\w+)/VB long/RB	1
+top/JJ executives/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN	2
+things/NNS (\w+)/VB and/CC (\w+)/VB ,/, but/CC	1
+unlock/VB ,/, (\w+)/VB ,/, (\w+)/VB and/CC	1
+will/MD (\w+)/VB and/CC (\w+)/VB ,/, and/CC	5
+same/JJ --/: (\w+)/VB to/TO school/NN ,/, (\w+)/VB	1
+to/TO (\w+)/VB or/CC (\w+)/VB property/NN in/IN	1
+to/TO (\w+)/VB respecting/VBG it/PRP enough/JJ to/TO (\w+)/VB	1
+going/VBG to/TO (\w+)/VB shots/NNS ,/, but/CC you/PRP (\w+)/VBP to/TO stay/VB	1
+are/VBP still/RB (\w+)/VBN to/TO (\w+)/VB marginally/RB before/IN the/DT	1
+human/JJ to/TO something/NN (\w+)/VB ,/, provide/VB you/PRP (\w+)/VB	1
+but/CC (\w+)/VB or/CC (\w+)/VB he/PRP knows/VBZ	1
+the/DT video/NN would/MD (\w+)/VB and/CC (\w+)/VB every/DT few/JJ seconds/NNS	1
+must/MD (\w+)/VB ,/, (\w+)/VB ,/, pedal/VB	1
+(\w+)/VB them/PRP ,/, hoping/VBG to/TO (\w+)/VB replacement/NN shares/NNS	1
+think/VBP it/PRP would/MD (\w+)/VB been/VBN hypocritical/JJ to/TO (\w+)/VB both/DT games/NNS or/CC	1
+(\w+)/VB ,/, provide/VB you/PRP (\w+)/VB on/IN time/NN ,/,	1
+(\w+)/VB or/CC (\w+)/VB your/PRP$ lineup/NN	1
+used/VBN to/TO (\w+)/VB or/CC (\w+)/VB cash/NN ./.	1
+makes/VBZ you/PRP (\w+)/VB and/CC (\w+)/VB ,/, but/CC makes/VBZ	1
+sects/NNS that/WDT (\w+)/VBP to/TO (\w+)/VB government/NN controls/NNS	1
+to/TO (\w+)/VB and/CC (\w+)/VB parts/NNS ,/, equipment/NN	2
+we/PRP need/VBP to/TO (\w+)/VB thinking/NN and/CC (\w+)/VB	1
+85/CD wins/NNS ,/, (\w+)/VB or/CC (\w+)/VB	2
+,/, (\w+)/VB or/CC (\w+)/VB ,/, he/PRP will/MD	2
+decision/NN that/WDT will/MD (\w+)/VB or/CC (\w+)/VB the/DT $/$	1
+to/TO (\w+)/VB and/CC (\w+)/VB emissions/NNS permits/VBZ ,/,	1
+(\w+)/VBP told/VBN me/PRP that/IN they/PRP (\w+)/VBP the/DT texture/NN of/IN	1

@@ -1,0 +1,27 @@
+can/MD (\w+)/VB or/CC (\w+)/VB special/JJ	1
+market/NN order/NN to/TO (\w+)/VB or/CC (\w+)/VB	1
+know/VBP might/MD (\w+)/VB and/CC (\w+)/VB ,/, but/CC Eric/NNP	1
+(\w+)/VB the/DT roadbed/NN and/CC (\w+)/VB the/DT sidewalk/NN ./.	1
+take/VB :/: To/TO (\w+)/VB at/IN Newcastle/NNP or/CC (\w+)/VB on/RP again/RB ./.	1
+in/IN 2002/CD to/TO (\w+)/VB and/CC (\w+)/VB stocks/NNS	3
+ships/NNS do/VBP not/RB (\w+)/VB and/CC (\w+)/VB unnoticed/JJ ./.	1
+only/RB serve/VBP to/TO (\w+)/VB us/PRP and/CC not/RB (\w+)/VB us/PRP and/CC	1
+(\w+)/VB '/'' from/IN (\w+)/VB	1
+population/NN (\w+)/VBP to/TO (\w+)/VB that/IN the/DT	1
+start/VBP talking/VBG ,/, (\w+)/VB reading/NN and/CC (\w+)/VB	1
+(\w+)/VBP ,/, you/PRP (\w+)/VB ,/,	1
+want/VBP to/TO (\w+)/VB or/CC (\w+)/VB redouble/VBP their/PRP$	1
+requests/NNS to/TO (\w+)/VB or/CC (\w+)/VB	2
+'re/VBP gon/VBG na/TO (\w+)/VB me/PRP (\w+)/VB that/DT	1
+(\w+)/VBP and/CC (\w+)/VB relatively/RB	1
+had/VBD promised/VBN to/TO (\w+)/VB an/DT economic/JJ blockade/NN and/CC (\w+)/VB negotiations/NNS if/IN Lithuania/NNP	1
+the/DT right/NN to/TO (\w+)/VB or/CC (\w+)/VB stock/NN	4
+committee/NN could/MD (\w+)/VB or/CC (\w+)/VB with/IN the/DT	1
+(\w+)/VB marks/NNS traders/NNS must/MD (\w+)/VB other/JJ currencies/NNS ,/,	1
+,/, (\w+)/VB or/CC (\w+)/VB a/DT fondness/NN for/IN	1
+they/PRP (\w+)/VBP in/RP and/CC they/PRP (\w+)/VBP out/RP	3
+managed/VBD to/TO (\w+)/VB out/RP on/IN those/DT and/CC (\w+)/VB	1
+The/DT people/NNS (\w+)/VBP and/CC the/DT people/NNS (\w+)/VBP away/RP ./.	1
+should/MD (\w+)/VB in/IN November/NNP 2006/CD and/CC (\w+)/VB in/IN	1
+wo/MD n't/RB (\w+)/VB or/CC (\w+)/VB the/DT negotiation/NN ,/,	1
+nations/NNS to/TO (\w+)/VB steps/NNS to/TO (\w+)/VB aid/NN workers/NNS better/JJR	2

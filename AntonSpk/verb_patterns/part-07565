@@ -1,0 +1,39 @@
+moves/NNS (\w+)/VBP or/CC (\w+)/VBP ,/,	1
+(\w+)/VBP and/CC 22/CD percent/NN (\w+)/VBP	1
+allowed/VBN companies/NNS to/TO (\w+)/VB and/CC (\w+)/VB ,/,	1
+words/NNS (\w+)/VB and/CC (\w+)/VB ,/, words/NNS are/VBP	1
+,/, will/MD (\w+)/VB or/CC (\w+)/VB with/IN	1
+in/IN it/PRP to/TO (\w+)/VB together/RB or/CC (\w+)/VB	1
+shows/NNS (\w+)/VB and/CC (\w+)/VB ./.	1
+friends/NNS you/PRP can/MD (\w+)/VB to/TO (\w+)/VB	1
+to/TO (\w+)/VB -/: or/CC not/RB to/TO (\w+)/VB	1
+they/PRP (\w+)/VBP to/TO (\w+)/VB a/DT rescue/NN bill/NN	1
+(\w+)/VB Wednesday/NNP and/CC to/TO (\w+)/VB 90/CD days/NNS	1
+group/NN is/VBZ (\w+)/VBN to/TO (\w+)/VB ,/, suggesting/VBG that/IN	1
+on/IN how/WRB to/TO (\w+)/VB ,/, (\w+)/VB and/CC	1
+umbrellas/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP with/IN the/DT tide/NN	1
+view/VB and/CC (\w+)/VB or/CC (\w+)/VB the/DT final/JJ	1
+witnesses/NNS who/WP can/MD (\w+)/VB or/CC (\w+)/VB whether/IN	1
+place/NN may/MD (\w+)/VB or/CC (\w+)/VB a/DT case/NN	1
+performance/NN ,/, (\w+)/VBP or/CC (\w+)/VBP	1
+batteries/NNS continued/VBD to/TO (\w+)/VB and/CC (\w+)/VB under/IN	1
+the/DT (\w+)/VBP and/CC (\w+)/VBP of/IN Teaneck/NNP	1
+(\w+)/VB life/NN ,/, you/PRP (\w+)/VBP other/JJ things/NNS	1
+how/WRB to/TO (\w+)/VB and/CC (\w+)/VB properly/RB	1
+week/NN to/TO (\w+)/VB prices/NNS and/CC consequently/RB (\w+)/VB interest/NN rates/NNS	1
+could/MD (\w+)/VB off/RP some/DT coins/NNS to/TO (\w+)/VB	1
+riders/NNS to/TO (\w+)/VB and/CC (\w+)/VB	1
+leader/NN to/TO (\w+)/VB to/TO (\w+)/VB unpalatable/JJ truths/NNS	1
+you/PRP never/RB (\w+)/VBP to/TO (\w+)/VB a/DT show/NN again/RB	1
+(\w+)/VB -/: or/CC not/RB to/TO (\w+)/VB	1
+'re/VBP going/VBG to/TO (\w+)/VB a/DT record/NN ,/, (\w+)/VB it/PRP hard/JJ	1
+would/MD (\w+)/VB two/CD and/CC then/RB (\w+)/VB one/CD ,/,	1
+Smith/NNP said/VBD (\w+)/VB or/CC (\w+)/VB	1
+,/, persons/NNS who/WP (\w+)/VBP or/CC (\w+)/VBP in/IN the/DT	3
+(\w+)/VB a/DT shot/NN than/IN to/TO (\w+)/VB a/DT shot/NN	1
+(\w+)/VB or/CC (\w+)/VB liquids/NNS	1
+,/, will/MD still/RB (\w+)/VB and/CC (\w+)/VB relative/JJ to/TO the/DT	2
+not/RB to/TO (\w+)/VB ,/, (\w+)/VB	1
+(\w+)/VBP to/TO (\w+)/VB a/DT November/NNP	1
+(\w+)/VB an/DT account/NN or/CC (\w+)/VB one/CD ,/, "/''	1
+empires/NNS (\w+)/VBP only/RB to/TO (\w+)/VB	1

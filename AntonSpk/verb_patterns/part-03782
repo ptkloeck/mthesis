@@ -1,0 +1,47 @@
+four/CD quarters/NNS ,/, (\w+)/VB or/CC (\w+)/VB ./.	1
+schedule/NN -/: (\w+)/VB late/RB and/CC (\w+)/VB early/RB ./.	1
+'s/VBZ (\w+)/VBN or/CC (\w+)/VBP	17
+to/TO (\w+)/VB checking/VBG their/PRP$ gut/NN and/CC (\w+)/VB	2
+"/`` Some/DT skaters/NNS (\w+)/VBP suddenly/RB and/CC (\w+)/VBP just/RB as/RB	1
+to/TO be/VB some/DT (\w+)/VB and/CC (\w+)/VB ,/, "/'' minority/NN	1
+(\w+)/VBP ./. ./. err/VBP (\w+)/VB	1
+will/MD (\w+)/VB ,/, (\w+)/VB ,/,	4
+pools/NNS ,/, which/WDT (\w+)/VB and/CC (\w+)/VB residential/JJ and/CC	1
+companies/NNS to/TO (\w+)/VB and/CC (\w+)/VB workers/NNS and/CC a/DT	2
+pullbacks/NNS were/VBD to/TO (\w+)/VB last/JJ September/NNP and/CC (\w+)/VB next/JJ September/NNP ,/,	1
+world/NN does/VBZ not/RB (\w+)/VB or/CC (\w+)/VB with/IN	1
+us/PRP ,/, (\w+)/VB and/CC (\w+)/VB all/DT	1
+these/DT exceptions/NNS (\w+)/VB the/DT rule/NN rather/RB than/IN (\w+)/VB	1
+,/, meaning/VBG they/PRP (\w+)/VBP to/TO (\w+)/VB new/JJ registrations/NNS	1
+usually/RB (\w+)/VBP and/CC (\w+)/VBP without/IN printed/VBN	1
+,/, (\w+)/VBP and/CC (\w+)/VBP in/IN lockstep/NN	1
+they/PRP (\w+)/VBP and/CC the/DT Patriots/NNPS (\w+)/VBP ./.	1
+speakers/NNS (\w+)/VBP and/CC (\w+)/VBP after/IN a/DT year/NN	1
+Eagles/NNPS (\w+)/VBP or/CC (\w+)/VBP ,/, throw/VB	1
+(\w+)/VB and/CC (\w+)/VB instances/NNS	1
+Matt/NNP Jones/NNP will/MD (\w+)/VB throwing/VBG passes/NNS and/CC (\w+)/VB catching/VBG	1
+fans/NNS (\w+)/VBP complained/VBN that/IN they/PRP (\w+)/VBP	1
+he/PRP would/MD (\w+)/VB to/TO (\w+)/VB any/DT Michelin/NNP	1
+(\w+)/VB and/CC (\w+)/VB ,/, argues/VBZ	1
+that/IN Mommy/NNP will/MD (\w+)/VB away/RP and/CC never/RB (\w+)/VBN back/RP "/'' could/MD	1
+to/TO (\w+)/VB and/CC (\w+)/VB items/NNS through/IN a/DT	3
+will/MD agree/VB to/TO (\w+)/VB and/CC (\w+)/VB the/DT	1
+that/IN they/PRP (\w+)/VBP ,/, and/CC (\w+)/VB the/DT	1
+he/PRP will/MD (\w+)/VB the/DT recruiting/VBG season/NN and/CC (\w+)/VB to/TO wait/VB until/IN	1
+(\w+)/VB their/PRP$ workforce/NN than/IN (\w+)/VB	1
+,/, hedgers/NNS can/MD (\w+)/VB and/CC (\w+)/VB futures/NNS positions/NNS at/IN	1
+smoke/NN continued/VBD to/TO (\w+)/VB from/IN military/JJ buildings/NNS (\w+)/VBN afire/RB	2
+production/NN was/VBD (\w+)/VBN to/TO (\w+)/VB	1
+would/MD (\w+)/VB care/NN of/IN you/PRP ,/, (\w+)/VB you/PRP	1
+to/TO (\w+)/VB it/PRP and/CC (\w+)/VB each/DT individual/JJ page/NN	1
+just/RB to/TO (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB through/RP ,/, but/CC you/PRP (\w+)/VBP out/RB stronger/JJR and/CC	1
+executives/NNS often/RB (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB ,/, and/CC we/PRP will/MD (\w+)/VB ,/, "/''	1
+(\w+)/VB oil/NN ,/, ostensibly/RB to/TO (\w+)/VB	1
+(\w+)/VB to/TO (\w+)/VB walk-ups/NNS	1
+they/PRP should/MD (\w+)/VB wisely/RB and/CC (\w+)/VB from/IN	1
+foreign/JJ governments/NNS (\w+)/VB away/RP our/PRP$ patents/NNS and/CC (\w+)/VB	1
+different/JJ people/NNS (\w+)/VB up/RP to/TO me/PRP and/CC (\w+)/VB ,/, `/``	1
+not/RB a/DT ``/`` (\w+)/VB or/CC (\w+)/VB deal/NN ''/''	2
+that/IN (\w+)/VBP 'em/PRP or/CC (\w+)/VBP 'em/JJ	1

@@ -1,0 +1,31 @@
+salary/NN cap/NN to/TO (\w+)/VB and/CC (\w+)/VB players/NNS ./.	1
+(\w+)/VB and/CC (\w+)/VB on/IN him/PRP	1
+anyone/NN seeking/VBG to/TO (\w+)/VB ,/, (\w+)/VB	1
+could/MD (\w+)/VB you/PRP or/CC (\w+)/VB you/PRP ,/,	1
+,/, (\w+)/VB at/IN galas/NNS and/CC (\w+)/VB at/IN parades/NNS ./.	1
+(\w+)/VB and/CC (\w+)/VB part/NN of/IN the/DT	2
+(\w+)/VB the/DT ball/NN away/RB to/TO (\w+)/VB it/PRP to/TO	1
+who/WP (\w+)/VBP arrived/VBN but/CC still/RB (\w+)/VBP that/IN certain/JJ je/NN	1
+(\w+)/VBP and/CC wise/JJ men/NNS (\w+)/VBP	1
+investors/NNS who/WP (\w+)/VB or/CC (\w+)/VB	1
+want/VBP to/TO (\w+)/VB you/PRP money/NN ,/, (\w+)/VB	1
+(\w+)/VB July/NNP 7/CD and/CC (\w+)/VB July/NNP 16/CD	1
+(\w+)/VBP skills/NNS and/CC only/RB (\w+)/VBP to/TO serve/VB	1
+helped/VBD (\w+)/VB ,/, and/CC (\w+)/VB ,/, the/DT	1
+world/NN where/WRB careers/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+Starks/NNP seemed/VBD to/TO (\w+)/VB and/CC (\w+)/VB with/IN Van/NNP Gundy/NNP	1
+free/JJ agents/NNS (\w+)/VB and/CC (\w+)/VB ./.	1
+to/TO (\w+)/VB at/IN 7am/CD and/CC (\w+)/VB	1
+will/MD (\w+)/VB or/CC (\w+)/VB with/IN him/PRP ,/,	1
+(\w+)/VB from/IN the/DT RBI/NNP and/CC (\w+)/VB in/IN the/DT market/NN	1
+(\w+)/VBP them/PRP an/DT incentive/NN to/TO (\w+)/VB less/JJR medicine/NN	1
+The/DT critics/NNS (\w+)/VBP it/PRP ,/, you/PRP 'll/MD (\w+)/VB it/PRP ./.	3
+1993/CD to/TO (\w+)/VB floor-area/JJ ratios/NNS and/CC (\w+)/VB lot/NN sizes/NNS ,/,	1
+may/MD (\w+)/VB and/CC (\w+)/VB bikes/NNS safely/RB	1
+circus/NN that/WDT will/MD (\w+)/VB to/TO town/NN and/CC (\w+)/VB ;/: and/CC once/RB	1
+car/NN doors/NNS routinely/RB (\w+)/VB and/CC (\w+)/VB each/DT day/NN ./.	1
+Students/NNS (\w+)/VBP and/CC (\w+)/VBP at/IN their/PRP$	1
+and/CC who/WP (\w+)/VB or/CC (\w+)/VB a/DT bicycle/NN	1
+(\w+)/VB to/TO us/PRP and/CC then/RB (\w+)/VB to/TO the/DT	1
+can/MD (\w+)/VB while/IN he/PRP must/MD (\w+)/VB	1
+able/JJ to/TO (\w+)/VB and/CC (\w+)/VB as/IN she/PRP pleases/VBZ	1

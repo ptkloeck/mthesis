@@ -1,0 +1,24 @@
+_/NN (\w+)/VB or/CC (\w+)/VB a/DT	2
+I/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, I/PRP 'm/VBP	1
+and/CC (\w+)/VB me/PRP the/DT money/NN to/TO (\w+)/VB care/NN of/IN	1
+Aprils/NNS (\w+)/VBP and/CC (\w+)/VBP ./.	1
+you/PRP can/MD (\w+)/VB or/CC (\w+)/VB it/PRP	2
+up/RP in/IN the/DT (\w+)/VB and/CC (\w+)/VB of/IN	1
+week/NN and/CC (\w+)/VB to/TO (\w+)/VB up/RP	1
+to/TO (\w+)/VB back/RB ,/, I/PRP would/MD (\w+)/VB back/RB ,/, "/''	1
+(/NN (\w+)/VB or/CC (\w+)/VB 10/CD years/NNS	1
+should/MD certainly/RB (\w+)/VB it/PRP and/CC (\w+)/VB MIPS/NNP Class/NNP B./NNP	1
+on/IN islands/NNS to/TO (\w+)/VB their/PRP$ catch/NN and/CC (\w+)/VB food/NN and/CC get/VB	2
+and/CC (\w+)/VB one/CD and/CC (\w+)/VB the/DT other/JJ	1
+Let/NNP 's/POS (\w+)/VB to/TO (\w+)/VB and/CC get/VB	1
+Tri/NNP said/VBD doctors/NNS (\w+)/VBP said/VBD Dickinson/NNP could/MD (\w+)/VB anywhere/RB from/IN three/CD	1
+looking/VBG to/TO (\w+)/VB and/CC (\w+)/VB ./.	1
+still/RB love/VBP to/TO (\w+)/VB and/CC others/NNS still/RB (\w+)/VBP ,/,	1
+composite/NN to/TO (\w+)/VB or/CC (\w+)/VB by/IN a/DT	1
+You/PRP have/VBP to/TO (\w+)/VB up/RP ,/, to/TO (\w+)/VB very/RB straight/JJ	1
+answering/NN machine/NN (\w+)/VB your/PRP$ calls/NNS and/CC (\w+)/VB out/RP	1
+(\w+)/VB or/CC (\w+)/VB those/DT 330-MHz/JJ	1
+narrowboat/NN crews/NNS must/MD (\w+)/VB and/CC (\w+)/VB	1
+passengers/NNS (\w+)/VBP or/CC (\w+)/VBP	1
+,/, the/DT minorities/NNS (\w+)/VBP their/PRP$ rights/NNS to/TO (\w+)/VB	1
+the/DT ability/NN to/TO (\w+)/VB and/CC (\w+)/VB the/DT market/NN	1

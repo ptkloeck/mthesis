@@ -1,0 +1,288 @@
+'''
+Created on Feb 1, 2016
+
+@author: peter
+'''
+import csv
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib
+from sklearn import tree
+import sys
+import os
+from sklearn.linear_model import LogisticRegression
+import seaborn as sns
+from sklearn import metrics
+import pandas
+from mpl_toolkits.axes_grid1.inset_locator import zoomed_inset_axes
+from mpl_toolkits.axes_grid1.inset_locator import mark_inset
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), os.pardir, os.pardir))
+
+from anton.learn import learn
+from anton.util import util
+from anton import feature_extraction
+
+def pattern_freq_histo(pattern_path):
+
+    df = read_patterns(pattern_path)
+    
+    # the maximum number of occurences of a pattern
+    max_occ = df.ix[:, 1].max()
+       
+    plt.figure()
+    
+    # limit x axes: xlim=(1, 10)
+    ax = df.plot.hist(bins=max_occ - 1, logy=True, logx=True, legend=False, title="Distribution of Patterns", edgecolor="none")
+    
+    ax.set_xlabel("Occurences")
+    ax.set_ylabel("Number of patterns")
+
+    plt.show()
+
+def table_most_common_patterns(pattern_path):
+    
+    df = read_patterns(pattern_path)
+    
+    df.columns = ["Pattern", "Occurences"]
+    
+    print(df.sort_values("Occurences", ascending=False).head(40).to_latex(index=False))
+    
+def read_patterns(pattern_path):
+    
+    dfs = []
+
+    for root, _, files in os.walk(pattern_path):
+        for file in files:
+            if file.startswith("part"):
+                dfs.append(pd.read_csv(os.path.join(root, file), sep='\t', header=None, quoting=csv.QUOTE_NONE))
+        
+    return pd.concat(dfs)
+
+def print_not_in_sentence():
+    
+    df = pd.read_csv("../res/data.tsv", sep='\t')
+    print(len(df[(df["in_sen_cooc"] == 0)]))
+
+def print_top5():
+    
+    df = pd.read_csv("../res/data.tsv", sep='\t')
+    
+    df_ant_top5 = df[(df["class"] == 1) & (df["top5_sim"] == 1)]
+    
+    print("Antonym pairs with word 1 in top 5 jos of of word 2: " + str(len(df_ant_top5)))
+    
+    df_syn_top5 = df[(df["class"] == 2) & (df["top5_sim"] == 1)]
+    
+    print("Synonym pairs with word 1 in top 5 jos of of word 2: " + str(len(df_syn_top5)))
+
+def print_decision_tree_wn_adj():
+   
+    clf = tree.DecisionTreeClassifier()
+
+    feature_categories = [x for x in feature_extraction.FeatureCategory]
+    feature_categories.remove(feature_extraction.FeatureCategory.WORD_EMBED)
+
+    df = learn.load_wn_dataset(util.POS.ADJ, True)
+    y = df["rel_class"]
+    X, col_heads = learn.feature_matrix(df, feature_categories)
+       
+    clf = clf.fit(X, y)
+    tree.export_graphviz(clf, out_file='tree.dot', feature_names=col_heads)   
+
+def pattern_recall_precision(web1t):
+    
+    pos_to_df_pattern_scores = {}
+    
+    for pos in util.POS:
+        
+        df = learn.load_wn_dataset(pos, False)
+    
+        pattern_id_to_pattern = util.pattern_id_to_pattern(web1t, pos)
+    
+        index = pattern_id_to_pattern.keys()
+                
+        columns = ["Precision", "Recall", "Label"]
+        
+        df_pattern_scores = pandas.DataFrame(index=index, columns=columns)
+        
+        y_gold = df["rel_class"].values
+        y_gold[y_gold > 1] = 2
+        
+        for pattern_col_header, _ in df_pattern_scores.iterrows():
+                
+            X = df[pattern_col_header].values
+            X = X.reshape(-1, 1)
+            learn.replace_infinite(X)
+            
+            clf = LogisticRegression()
+            clf.fit(X, y_gold)
+                
+            y_predicted = clf.predict(X)
+                
+            precision = metrics.precision_score(y_gold, y_predicted)
+            recall = metrics.recall_score(y_gold, y_predicted)
+            f1_score = metrics.f1_score(y_gold, y_predicted)
+            
+            if web1t and pos == util.POS.ADJ:
+                bestPatternTresh = 0.5
+            elif web1t and pos == util.POS.NOUN:
+                bestPatternTresh = 0.5
+            elif web1t and pos == util.POS.VERB:
+                bestPatternTresh = 0.5
+            elif not web1t and pos == util.POS.ADJ:
+                bestPatternTresh = 0.3
+            elif not web1t and pos == util.POS.NOUN:
+                bestPatternTresh = 0.35
+            elif not web1t and pos == util.POS.VERB:
+                bestPatternTresh = 0.3
+                
+            label = "others"
+            pattern = pattern_id_to_pattern[pattern_col_header]
+            if pattern == "either/DT (\w+)/JJ or/CC (\w+)/JJ" or pattern == "either/DT (\w+)/NN or/CC (\w+)/NN" or pattern == "either/DT (\w+)/VB or/CC (\w+)/VB" or pattern == "either (\w+) or (\w+)":
+                label = pattern 
+            elif pattern == "from/IN (\w+)/JJ to/TO (\w+)/JJ" or pattern == "from/IN (\w+)/NN to/TO (\w+)/NN" or pattern == "from/IN (\w+)/VB to/TO (\w+)/VB" or pattern == "from (\w+) to (\w+)":
+                label = pattern
+            elif pattern == "both/IN (\w+)/JJ and/CC (\w+)/JJ" or pattern == "both/IN (\w+)/NN and/CC (\w+)/NN" or pattern == "both/IN (\w+)/VB and/CC (\w+)/VB" or pattern == "both (\w+) and (\w+)":
+                label = pattern
+            elif pattern == "between/IN (\w+)/JJ and/CC (\w+)/JJ" or pattern == "between/IN (\w+)/NN and/CC (\w+)/NN" or pattern == "between/IN (\w+)/VB and/CC (\w+)/VB" or pattern == "between (\w+) and (\w+)":
+                label = pattern
+            elif f1_score > bestPatternTresh and not recall == 1 and not recall == 0:
+                label = pattern
+    
+            label = label.replace("(\w+)", "<ANT>")
+            label = label.replace("<ANT>/NN", "<ANT>/XX")
+            label = label.replace("<ANT>/VB", "<ANT>/XX")
+            label = label.replace("<ANT>/JJ", "<ANT>/XX")
+            
+            if not label == "others": 
+                df_pattern_scores.loc[pattern_col_header] = pandas.Series({"Precision":precision, "Recall":recall, "Label":label})
+                
+        pos_to_df_pattern_scores[pos] = df_pattern_scores
+    
+    palette = sns.color_palette("deep", 24)
+    
+    markers = [("o", 0.5, 4, palette[0]),
+               (".", 2, 8, palette[1]),
+               ("o", 0.5, 8, palette[2]),
+               ("v", 0.5, 8, palette[3]),
+               ("^", 0.5, 8, palette[4]),
+               ("<", 0.5, 8, palette[5]),
+               (">", 0.5, 8, palette[6]),
+               ("1", 2, 8, palette[7]),
+               ("2", 2, 8, palette[8]),
+               ("3", 2, 8, palette[9]),
+               ("4", 2, 8, palette[10]),
+               ("8", 0.5, 8, palette[11]),
+               ("s", 0.5, 8, palette[12]),
+               ("p", 0.5, 8, palette[13]),
+               ("*", 0.5, 8, palette[14]),
+               ("h", 0.5, 8, palette[15]),
+               ("H", 0.5, 8, palette[16]),
+               ("+", 2, 8, palette[17]),
+               ("x", 2, 8, palette[18]),
+               ("D", 0.5, 8, palette[19]),
+               ("d", 0.5, 8, palette[20]),
+               ("|", 2, 8, palette[21]),
+               ("_", 2, 8, palette[22]),
+               ("s", 0.5, 4, palette[23])]
+
+    label_to_marker = {}
+    
+    labels = set()
+    for pos in util.POS:
+        df_pattern_scores = pos_to_df_pattern_scores[pos]
+        for _, label in df_pattern_scores["Label"].iteritems():
+            if isinstance(label, str):
+                labels.add(label)
+
+    for i, label in enumerate(labels):
+        label_to_marker[label] = markers[i]
+
+    fig = plt.figure(figsize=(5, 15))
+    
+    marker_scale = 1.2
+    
+    for i, pos in enumerate(util.POS):
+        
+        ax = fig.add_subplot(3, 1, i + 1)
+        
+        df_pattern_scores = pos_to_df_pattern_scores[pos]
+        
+        plot_patterns(ax, df_pattern_scores, label_to_marker, marker_scale)
+          
+        if i == 0:
+            handles = [matplotlib.lines.Line2D([], [], color=label_to_marker[label][3], linestyle="none", label=label, marker=label_to_marker[label][0], mfc=label_to_marker[label][3], mew=label_to_marker[label][1], ms=label_to_marker[label][2] * marker_scale) for label in labels]
+            lgd = plt.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0., handles=handles, numpoints=1)
+        
+        ax.set_xlim([-0.1, 1.1])
+        ax.set_ylim([-0.1, 1.1])
+        
+        make_zoom_box(ax, web1t, pos, df_pattern_scores, label_to_marker, marker_scale)
+        
+        ax.set_xlabel("Precision")
+        ax.set_ylabel("Recall")
+        
+        title = {util.POS.ADJ: "Adjectives",
+                 util.POS.NOUN: "Nouns",
+                 util.POS.VERB: "Verbs"}[pos]
+        ax.set_title(title)
+    
+    plt.subplots_adjust(hspace=0.3)
+    
+    fig_name = "pattern_recall_precision_web1t.pdf" if web1t else "pattern_recall_precision_news105m.pdf"
+    fig.savefig(fig_name, bbox_extra_artists=(lgd,), bbox_inches="tight", format="pdf")
+
+def plot_patterns(ax, df_pattern_scores, label_to_marker, marker_scale):
+    
+    groups = df_pattern_scores.groupby("Label")
+    
+    for name, group in groups:
+        ax.plot(group.Precision, group.Recall, color=label_to_marker[name][3], marker=label_to_marker[name][0], linestyle='', mfc=label_to_marker[name][3], mew=label_to_marker[name][1], ms=label_to_marker[name][2] * marker_scale, label=name)
+        
+def make_zoom_box(ax, web1t, pos, df_pattern_scores, label_to_marker, marker_scale):
+    
+    axins = zoomed_inset_axes(ax, zoom=3.2, loc=3)
+    plot_patterns(axins, df_pattern_scores, label_to_marker, marker_scale)
+
+    # border for zoom box
+    for axis in ['top', 'bottom', 'left', 'right']:
+        axins.spines[axis].set_linewidth(1)
+        axins.spines[axis].set_color('0.5')
+    
+    # sub region of the original image
+    x1, x2, y1, y2 = zoom_box_region(web1t, pos)
+    axins.set_xlim(x1, x2)
+    axins.set_ylim(y1, y2)
+    
+    plt.xticks(visible=False)
+    plt.yticks(visible=False)
+
+    # draw a bbox of the region of the inset axes in the parent axes and
+    # connecting lines between the bbox and the inset axes area
+    mark_inset(ax, axins, loc1=2, loc2=4, fc="none", ec="0.5")
+
+def zoom_box_region(web1t, pos):
+    
+    if web1t:
+        return {util.POS.ADJ: (0.85, 1.05, 0.3, 0.55),
+                util.POS.NOUN: (0.8, 1.0, 0.3, 0.45),
+                util.POS.VERB: (0.45, 0.55, 0.85, 1.05)}[pos]
+    else:
+        return {util.POS.ADJ: (0.825, 1.025, 0.05, 0.4),
+                util.POS.NOUN: (0.825, 1.025, 0.1, 0.4),
+                util.POS.VERB: (0.85, 1.0, 0.15, 0.45)}[pos]
+                      
+if __name__ == "__main__":
+
+    sns.set(font_scale=1.4)
+    
+    # adj_patterns_path = config.path_to_res("adj_patterns")
+    # pattern_freq_histo(adj_patterns_path)
+    # table_most_common_patterns(adj_patterns_path)
+    
+    # print_decision_tree_wn_adj()
+    
+    pattern_recall_precision(False)
+    # pattern_recall_precision(True)
+    

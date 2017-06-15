@@ -1,0 +1,44 @@
+can/MD "/`` (\w+)/VB ,/, (\w+)/VB	1
+may/MD (\w+)/VB ,/, (\w+)/VB or/CC	2
+stock/NN markets/NNS is/VBZ (\w+)/VB cheap/JJ and/CC (\w+)/VB when/WRB	1
+not/RB (\w+)/VB or/CC (\w+)/VB the/DT plans/NNS	1
+games/NNS will/MD (\w+)/VB or/CC (\w+)/VB Arsenal/NNP 's/POS	1
+convene/VBP to/TO (\w+)/VB and/CC (\w+)/VB the/DT rights/NNS to/TO	1
+(\w+)/VB and/CC the/DT dollar/NN would/MD (\w+)/VB ./.	1
+turned/VBN to/TO (\w+)/VB or/CC (\w+)/VB the/DT	1
+Jets/NNS (\w+)/VBP and/CC Buffalo/NNP and/CC Denver/NNP (\w+)/VBP	2
+coach/NN to/TO (\w+)/VB him/PRP the/DT opportunity/NN to/TO (\w+)/VB	1
+prices/NNS are/VBP (\w+)/VBN to/TO (\w+)/VB around/RP the/DT	2
+,/, many/DT (\w+)/VBP AIDS/NNP and/CC many/JJ others/NNS (\w+)/VBP the/DT money/NN	1
+you/PRP (\w+)/VB as/IN a/DT team/NN and/CC (\w+)/VB as/IN a/DT team/NN	1
+a/DT certain/JJ (\w+)/VB and/CC (\w+)/VB ,/, "/'' he/PRP	1
+some/DT of/IN whom/WP (\w+)/VBP or/CC (\w+)/VBP for/IN an/DT hour/NN	1
+(\w+)/VB or/CC (\w+)/VB with/IN what/WP he/PRP	1
+must/MD (\w+)/VB and/CC (\w+)/VB in/IN	1
+buyers/NNS research/NN ,/, (\w+)/VBP and/CC (\w+)/VB wine/NN	2
+,/, rivals/NNS can/MD (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VBP and/CC those/DT who/WP (\w+)/VBP --/: tend/VBP	1
+stutter/NN ,/, (\w+)/VB and/CC (\w+)/VB ./.	1
+the/DT state/NN who/WP (\w+)/VBP prescription/NN coverage/NN and/CC (\w+)/VBP difficulty/NN affording/NN	1
+similar/JJ programs/NNS (\w+)/VB and/CC (\w+)/VB ,/,	1
+we/PRP did/VBD is/VBZ (\w+)/VB the/DT phones/NNS to/TO (\w+)/VB and/CC make/VB money/NN	3
+others/NNS (\w+)/VBP shelter/NN but/CC (\w+)/VBP	1
+must/MD (\w+)/VB blaming/VBG the/DT victims/NNS and/CC (\w+)/VB treating/VBG violent/JJ men/NNS	1
+`/`` I/PRP can/MD (\w+)/VB any/DT hit/NN they/PRP (\w+)/VBP me/PRP ./.	1
+revenues/NNS are/VBP (\w+)/VBN to/TO (\w+)/VB dramatically/RB ,/,	1
+"/`` It/PRP was/VBD (\w+)/VBN or/CC (\w+)/VBP	1
+to/TO (\w+)/VB their/PRP$ minds/NNS ,/, not/RB (\w+)/VB them/PRP under/IN	1
+(\w+)/VB and/CC us/PRP (\w+)/VBP ./.	1
+hours/NNS of/IN (\w+)/VB and/CC (\w+)/VB	3
+same/JJ ,/, (\w+)/VBP to/TO school/NN or/CC maybe/RB (\w+)/VBP a/DT	1
+(\w+)/VB the/DT warts/NNS ,/, but/CC (\w+)/VB them/PRP what/WP	1
+people/NNS can/MD (\w+)/VB fighting/VBG one/CD another/DT and/CC (\w+)/VB fighting/VBG	2
+(\w+)/VBP CD/NN drives/NNS and/CC (\w+)/VBP	1
+construction/NN will/MD (\w+)/VB businesses/NNS the/DT confidence/NN to/TO (\w+)/VB a/DT chance/NN	1
+to/TO (\w+)/VB or/CC (\w+)/VB the/DT train/NN	1
+supposed/VBN to/TO (\w+)/VB alone/RB (/JJ or/CC (\w+)/VB at/IN a/DT	1
+to/TO (\w+)/VB back/RP control/NN and/CC hopefully/RB (\w+)/VB them/PRP	1
+of/IN Pittsfield/NNP will/MD (\w+)/VB for/IN the/DT Dukes/NNPS should/MD (\w+)/VB as/IN no/DT surprise/NN	1
+an/DT ethic/NN of/IN (\w+)/VB and/CC (\w+)/VB with/IN respect/NN	1
+but/CC they/PRP (\w+)/VBP you/PRP the/DT same/JJ thing/NN (\w+)/VB after/IN	1
+where/WRB to/TO (\w+)/VB and/CC (\w+)/VB the/DT application/NN ./.	1

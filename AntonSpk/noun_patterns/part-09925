@@ -1,0 +1,127 @@
+'s/POS (\w+)/NN ,/, whose/WP$ (\w+)/NN ,/,	1
+,/, to/TO (\w+)/NNS and/CC (\w+)/NN	1
+the/DT (\w+)/NN and/CC (\w+)/NN were/VBD found/VBN	1
+opens/VBZ before/IN the/DT (\w+)/NN or/CC (\w+)/NN too/RB	1
+for/IN a/DT fresh/JJ (\w+)/NN and/CC a/DT strong/JJ (\w+)/NN for/IN	1
+that/IN the/DT (\w+)/NN and/CC (\w+)/NN started/VBD	1
+gotten/VBN an/DT (\w+)/NN to/TO the/DT (\w+)/NN she/PRP	2
+the/DT (\w+)/NN leader/NN to/TO being/VBG the/DT (\w+)/NN leader/NN in/IN	1
+suffered/VBD (\w+)/NN and/CC (\w+)/NN injuries/NNS	1
+(\w+)/NN and/CC a/DT 29-year-old/JJ (\w+)/NN were/VBD pronounced/VBN	1
+standing/VBG (\w+)/NN to/TO (\w+)/NN in/IN	1
+,/, whether/IN from/IN (\w+)/NN or/CC (\w+)/NN or/CC an/DT addling/JJ	2
+in/IN the/DT (\w+)/NN ,/, or/CC do/VBP both/DT (\w+)/NN and/CC	1
+the/DT (\w+)/NN of/IN the/DT (\w+)/NN of/IN her/PRP$ ordered/JJ	1
+both/PDT the/DT (\w+)/NN and/CC (\w+)/NN portions/NNS of/IN the/DT	1
+likely/JJ ,/, with/IN (\w+)/NN contraction/NN and/CC (\w+)/NN expansion/NN	1
+is/VBZ hawked/VBN (\w+)/NN and/CC (\w+)/NN in/IN commercials/NNS suggesting/VBG	1
+power-sharing/JJ formula/NN between/IN (\w+)/NN Tutsis/NNS and/CC (\w+)/NN	3
+son/NNP Kevin/NNP ,/, (\w+)/NNP Virginia/NNP ,/, (\w+)/NNP Robert/NNP and/CC	1
+A/DT (\w+)/NN urged/VBD her/PRP$ (\w+)/NN to/TO stay/VB strong/JJ	1
+involves/VBZ issues/NNS of/IN (\w+)/NN and/CC (\w+)/NN ,/,	1
+(\w+)/NN benefited/VBD from/IN several/JJ (\w+)/NN witnesses/NNS --/: most/RBS	1
+the/DT (\w+)/NN or/CC (\w+)/NN during/IN adverse/JJ	1
+graphs/NNS for/IN the/DT (\w+)/NN and/CC (\w+)/NN in/IN viewers/NNS	1
+premature/JJ (\w+)/NN and/CC (\w+)/NN of/IN a/DT baby/NN	1
+longing/NN ,/, (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN Mateusz/NN and/CC (\w+)/NN Dagmara/NNP _/NNP	1
+ratio/NN of/IN (\w+)/NN to/TO (\w+)/NN prices/NNS by/IN	2
+the/DT (\w+)/NN of/IN the/DT year/NN or/CC (\w+)/NN	2
+The/DT switch/NN from/IN (\w+)/NN to/TO (\w+)/NN has/VBZ	1
+the/DT (\w+)/NN and/CC (\w+)/NN attorneys/NNS argued/VBD	2
+A/DT bit/NN of/IN (\w+)/NN (/NN or/CC (\w+)/NN )/NNS	1
+show/VB my/PRP$ crazy/JJ (\w+)/NN "/'' and/CC no-good/VBD "/'' (\w+)/NN what/WP they/PRP missed/VBD	1
+alternating/VBG between/IN (\w+)/NN and/CC (\w+)/NN for/IN	1
+(\w+)/NN ,/, Kelvin/NNP ;/: (\w+)/NN	1
+climb/VB ,/, as/IN (\w+)/NN outstrips/VBZ (\w+)/NN ,/, and/CC	1
+of/IN carrying/VBG the/DT (\w+)/NN ,/, the/DT Bears/NNS (\w+)/NN is/VBZ starting/VBG	1
+(\w+)/NN and/CC (\w+)/NN saw/VBD him/PRP	1
+A/DT 55-year-old/JJ (\w+)/NN has/VBZ died/VBN and/CC a/DT (\w+)/NN	1
+(\w+)/NN and/CC geologist/NN (\w+)/NN	1
+an/DT election/NN (\w+)/NN from/IN the/DT jaws/NNS of/IN (\w+)/NN	2
+this/DT as/IN the/DT (\w+)/NN of/IN the/DT (\w+)/NN ,/, ``/`` said/VBD	1
+between/IN this/DT Palestinian/JJ (\w+)/NN and/CC the/DT Israeli/JJ (\w+)/NN	1
+(\w+)/NN compete/VB with/IN Communist/JJ (\w+)/NN	1
+the/DT next/JJ multi-touch/JJ (\w+)/NN and/CC (\w+)/NN wave/NN to/TO	1
+right/NN of/IN (\w+)/NNS and/CC (\w+)/NN	3
+of/IN the/DT (\w+)/NN ,/, (\w+)/NN ,/, digital/JJ	1
+,/, the/DT (\w+)/NN to/TO the/DT (\w+)/NN of/IN whether/IN Jamie/NNP	1
+a/DT crawfish/JJ (\w+)/NN ,/, (\w+)/NN and/CC pre-k/JJ queen/NN	2
+(\w+)/NN for/IN global/JJ (\w+)/NN network/NN and/CC	1
+that/IN both/DT (\w+)/NN and/CC (\w+)/NN work/VBP if/IN they/PRP	1
+an/DT unconvincing/JJ 1-0/CD (\w+)/NN over/IN Wales/NNP and/CC the/DT (\w+)/NN to/TO Northern/NNP	1
+support/VB her/PRP$ (\w+)/NN after/IN her/PRP$ (\w+)/NN and/CC older/JJR	1
+''/'' a/DT ``/`` (\w+)/NN and/CC (\w+)/NN ''/'' represented/VBN by/IN	1
+''/'' a/DT (\w+)/NN and/CC (\w+)/NN have/VBP	1
+talent/NN from/IN (\w+)/NN to/TO (\w+)/NN and/CC blew/VBD	1
+(\w+)/NN and/CC all/DT (\w+)/NN for/IN a/DT	1
+,/, '/'' My/PRP$ (\w+)/NN or/CC my/PRP$ (\w+)/NN who/WP never/RB watches/VBZ	1
+,/, drive/VB backup/JJ (\w+)/NN and/CC (\w+)/NN and/CC OEM/VB solutions/NNS	1
+man/NN ,/, his/PRP$ (\w+)/NN and/CC (\w+)/NN were/VBD	3
+turned/VBN a/DT 14-point/JJ (\w+)/NN into/IN a/DT 10-point/JJ (\w+)/NN ./.	1
+part/NN of/IN the/DT (\w+)/NN to/TO the/DT broader/JJR (\w+)/NN of/IN how/WRB	1
+meeting/NN of/IN (\w+)/NN versus/IN (\w+)/NN ,/, it/PRP was/VBD	1
+is/VBZ the/DT (\w+)/NN and/CC the/DT other/JJ the/DT (\w+)/NN ./.	1
+(\w+)/NN ,/, the/DT (\w+)/NN is/VBZ worse/RBR	1
+a/DT 15-point/JJ Lakers/NNP (\w+)/NN to/TO a/DT three-point/JJ (\w+)/NN (/NN 73-70/CD )/NNS	1
+if/IN the/DT (\w+)/NN talks/VBZ to/TO the/DT (\w+)/NN about/IN what/WP	1
+with/IN any/DT (\w+)/NN and/CC (\w+)/NN	1
+the/DT obvious/JJ (\w+)/NN to/TO your/PRP$ (\w+)/NN is/VBZ	1
+a/DT (\w+)/NN of/IN 6,169.52/CD and/CC a/DT (\w+)/NN of/IN	3
+A/DT (\w+)/NN and/CC a/DT (\w+)/NN were/VBD wounded/VBN Sunday/NNP	1
+Bazzis/NNP (\w+)/NN and/CC (\w+)/NN from/IN the/DT	1
+to/TO the/DT (\w+)/NN ;/: 16/CD to/TO the/DT (\w+)/NN ;/: 7/CD	1
+a/DT plaintive/JJ (\w+)/NN and/CC (\w+)/NN and/CC a/DT	1
+its/PRP$ 80/CD degrees/NNS (\w+)/NN ,/, the/DT (\w+)/NN of/IN your/PRP$ car/NN	1
+(\w+)/NN in/IN a/DT `/`` (\w+)/NN	1
+both/DT on/IN (\w+)/NN and/CC (\w+)/NN ,/, will/MD go/VB	1
+a/DT 13-year-old/JJ (\w+)/NN and/CC a/DT six-year-old/JJ (\w+)/NN	1
+(\w+)/NN Kylie/NN and/CC (\w+)/NN Kolt/NN ,/,	1
+(\w+)/NN )/NNS led/VBD the/DT (\w+)/NN with/IN four/CD	1
+His/PRP$ (\w+)/NN was/VBD Spanish/JJ ,/, his/PRP$ (\w+)/NN	1
+the/DT law/NN of/IN (\w+)/NN and/CC (\w+)/NN ,/, "/''	3
+license/NN for/IN a/DT (\w+)/NN to/TO terrorize/VB his/PRP$ (\w+)/NN while/IN authorities/NNS have/VBP	1
+one/CD new/JJ (\w+)/NN or/CC (\w+)/NN	1
+,/, working/VBG (\w+)/NN and/CC (\w+)/NN with/IN four/CD planters/NNS	1
+a/DT (\w+)/NN or/CC a/DT (\w+)/NN and/CC still/RB not/RB	1
+--/: such/JJ as/IN (\w+)/NN ,/, (\w+)/NN	1
+of/IN (\w+)/NN to/TO go/VB with/IN stifling/VBG (\w+)/NN	1
+more/JJR console/JJ (\w+)/NN and/CC (\w+)/NN this/DT	1
+that/IN his/PRP$ (\w+)/NN would/MD marry/VB Emut/NNP 's/POS (\w+)/NN after/IN	1
+customer/NN has/VBZ the/DT (\w+)/NN and/CC (\w+)/NN to/TO obtain/VB	1
+to/TO democracy/NN and/CC (\w+)/NN after/IN its/PRP$ 1998-2003/JJ (\w+)/NN	1
+have/VBP never/RB known/VBN (\w+)/NN and/CC take/VB (\w+)/NN for/IN granted/JJ	1
+German/JJ on/IN the/DT (\w+)/NN ,/, but/CC on/IN the/DT (\w+)/NN they/PRP 're/VBP Korean/JJ	1
+will/MD be/VB one/CD (\w+)/NN and/CC one/CD (\w+)/NN ;/: using/VBG	1
+to/TO (\w+)/NN ,/, 360/CD to/TO (\w+)/NN and/CC an/DT	1
+tangible/JJ measures/NNS of/IN (\w+)/NN or/CC (\w+)/NN	1
+always/RB ,/, (\w+)/NN and/CC (\w+)/NN set/VBD the/DT price/NN	2
+a/DT battered/JJ (\w+)/NN who/WP left/VBD her/PRP$ (\w+)/NN and/CC wound/VBD up/RP	1
+involving/VBG the/DT (\w+)/NN and/CC the/DT (\w+)/NN ,/, which/WDT has/VBZ	1
+Most/RBS music/JJ (\w+)/NN interfaces/NNS and/CC (\w+)/NN connectivity/RB	1
+of/IN a/DT privilege/NN (\w+)/NN or/CC (\w+)/NN who/WP	1
+(\w+)/NN either/CC planned/VBD his/PRP$ (\w+)/NN 's/POS death/NN	1
+adult/JJ (\w+)/NN and/CC (\w+)/NN ,/, said/VBD he/PRP	1
+as/IN when/WRB a/DT (\w+)/NN abuses/VBZ a/DT (\w+)/NN ,/,	1
+'s/POS Muslim/JJ (\w+)/NN and/CC Christian/JJ (\w+)/NN over/IN the/DT	1
+(\w+)/NN in/IN its/PRP$ (\w+)/NN	4
+the/DT (\w+)/NN to/TO an/DT 18th/JJ place/NN (\w+)/NN ,/, his/PRP$ race/NN	1
+based/VBN on/IN (\w+)/NN and/CC (\w+)/NN of/IN	2
+on/IN (\w+)/NN and/CC middling/VBG on/IN (\w+)/NN ,/,	1
+and/CC the/DT type/NN (\w+)/NN he/PRP is/VBZ to/TO his/PRP$ (\w+)/NN	1
+the/DT (\w+)/NN turned/VBD over/RP her/PRP$ (\w+)/NN 's/POS unregistered/JJ	1
+the/DT woes/NNS on/IN (\w+)/NN ,/, the/DT (\w+)/NN	1
+who/WP portrayed/VBD a/DT (\w+)/NN passing/VBG as/IN a/DT (\w+)/NN	5
+marriage/NN between/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN is/VBZ sacred/JJ ./.	1
+difference/NN between/IN (\w+)/NN and/CC (\w+)/NN in/IN combat/NN	1
+abandoned/VBN (\w+)/NN and/CC Rudd/NNP 's/POS widowed/JJ (\w+)/NN striking/VBG up/RP a/DT	1
+survival/NN ,/, (\w+)/NNS and/CC (\w+)/NNS ,/,	1
+shower/NN turned/VBD (\w+)/NN into/IN (\w+)/NN across/IN	1
+supporter/NN of/IN his/PRP$ (\w+)/NN who/WP told/VBD his/PRP$ (\w+)/NN ,/, ``/``	1
+Moon/NNP 's/POS (\w+)/NN that/IN her/PRP$ (\w+)/NN	1
+one/CD (\w+)/NN to/TO the/DT perpetual/JJ (\w+)/NN	1
+parents/NNS ,/, the/DT (\w+)/NN of/IN my/PRP$ (\w+)/NN and/CC the/DT	1
+was/VBD like/IN (\w+)/NN and/CC (\w+)/NN ,/, "/'' said/VBD	2
+feel/VBP the/DT (\w+)/NN outweighs/VBZ the/DT (\w+)/NN	1
+partners/NNS '/POS (\w+)/NN ,/, (\w+)/NN ,/, and/CC	1
+for/IN (\w+)/NN and/CC one/NN for/IN (\w+)/NN â/NN €/NNP	1

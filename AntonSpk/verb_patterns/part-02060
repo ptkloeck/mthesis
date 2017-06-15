@@ -1,0 +1,29 @@
+that/IN (\w+)/VB or/CC (\w+)/VB ,/, their/PRP$	1
+people/NNS (\w+)/VBP and/CC (\w+)/VB each/DT of/IN	1
+etiquette/NN can/MD (\w+)/VB or/CC (\w+)/VB a/DT deal/NN	1
+"/`` I/PRP will/MD (\w+)/VB adoptions/NNS ,/, (\w+)/VB abortions/NNS	1
+Whether/IN I/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, I/PRP 'm/VBP	1
+there/RB ,/, (\w+)/VB talking/VBG about/IN problems/NNS and/CC (\w+)/VB solving/VBG	1
+TCU/NNP (\w+)/VB or/CC (\w+)/VB Saturday/NNP 's/POS first-round/JJ	1
+the/DT election/NN will/MD (\w+)/VB or/CC (\w+)/VB the/DT	1
+staff/NN 's/POS problems/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+costly/JJ to/TO (\w+)/VB when/WRB one/PRP can/MD (\w+)/VB	1
+majority/NN i/FW (\w+)/VBP met/VBN (\w+)/VBP the/DT	1
+(\w+)/VBP ,/, we/PRP (\w+)/VB ,/, we/PRP play/VB	1
+was/VBD to/TO (\w+)/VB Miss/NNP Collins/NNP (\w+)/VB the/DT contract/NN	1
+,/, many/JJ people/NNS (\w+)/VBP to/TO the/DT world/NN and/CC (\w+)/VBP back/RB	1
+(\w+)/VB them/PRP the/DT incentive/NN to/TO (\w+)/VB it/PRP over/RP	2
+,/, (\w+)/VB suggestions/NNS and/CC (\w+)/VB down/RP	1
+will/MD (\w+)/VB you/PRP (\w+)/VB a/DT	1
+(\w+)/VBP Milken/NNP or/CC they/PRP (\w+)/VBP Milken/NNP ,/, "/''	1
+people/NNS will/MD (\w+)/VB me/PRP ,/, but/CC people/NNS (\w+)/VB ./.	1
+and/CC (\w+)/VB national/JJ with/IN it/PRP ,/, (\w+)/VBN Sunday/NNP ./.	1
+not/RB (\w+)/VB with/IN ,/, but/CC does/VBZ (\w+)/VB with/IN	2
+occasionally/RB (\w+)/VB and/CC (\w+)/VB the/DT ranges/NNS to/TO	1
+variety/NN of/IN (\w+)/VB and/CC (\w+)/VB strategies/NNS that/WDT are/VBP	1
+European/JJ businesses/NNS can/MD (\w+)/VB and/CC (\w+)/VB certificates/NNS allowing/VBG them/PRP	1
+just/RB (\w+)/VBP to/TO (\w+)/VB -/:	1
+election/NN season/NN (\w+)/VB and/CC (\w+)/VB when/WRB I/PRP 'm/VBP	4
+display/NN ,/, (\w+)/VB or/CC (\w+)/VB ./.	1
+,/, (\w+)/VB or/CC (\w+)/VB sleeves/NNS	1
+help/VB homeowners/NNS (\w+)/VB and/CC (\w+)/VB green/JJ homes/NNS (/VBG	1

@@ -1,0 +1,36 @@
+July/NNP 1/CD to/TO (\w+)/VB ,/, (\w+)/VB	1
+,/, who/WP (\w+)/VB or/CC (\w+)/VB	3
+(\w+)/VB whatever/WDT you/PRP want/VBP to/TO (\w+)/VB without/IN charging/VBG	1
+And/CC when/WRB you/PRP (\w+)/VBP and/CC when/WRB you/PRP (\w+)/VBP there/EX	1
+(\w+)/VBP to/TO (\w+)/VB the/DT real/JJ world/NN	1
+homeowners/NNS who/WP (\w+)/VBP themselves/PRP in/IN default/NN actually/RB (\w+)/VBP their/PRP$ homes/NNS to/TO	1
+to/TO be/VB (\w+)/VB or/CC (\w+)/VB ,/, with/IN	1
+to/TO (\w+)/VB up/RP and/CC (\w+)/VB a/DT bus/NN	5
+much/RB rather/RB (\w+)/VB the/DT individual/JJ battle/NN and/CC (\w+)/VB the/DT war/NN ,/,	1
+can/MD not/RB (\w+)/VB or/CC (\w+)/VB	30
+be/VB there/RB to/TO (\w+)/VB your/PRP$ money/NN and/CC to/TO (\w+)/VB	1
+Giants/NNPS (\w+)/VBP and/CC the/DT Eagles/NNPS (\w+)/VBP ,/, the/DT	1
+(\w+)/VB behind/IN lecterns/NNS ,/, (\w+)/VB in/IN	1
+(\w+)/VB or/CC (\w+)/VB with/IN factor/NN	1
+that/WDT (\w+)/VBP the/DT canopy/NN other/JJ areas/NNS (\w+)/VBP ./.	1
+were/VBD told/VBN to/TO (\w+)/VB but/CC had/VBD attempted/VBN to/TO (\w+)/VB up/RP	1
+to/TO Brimfield/VB to/TO (\w+)/VB ,/, (\w+)/VB ,/, bargain/VB ,/,	1
+(\w+)/VB and/CC (\w+)/VB your/PRP$ reputation/NN	2
+office/NN ./. But/CC (\w+)/VB or/CC (\w+)/VB ,/, Edwards/NNP	2
+to/TO (\w+)/VB absenteeism/NN ,/, (\w+)/VB	1
+(\w+)/VBN or/CC (\w+)/VB ,/, though/RB	2
+say/VBP ,/, you/PRP (\w+)/VB some/DT ,/, you/PRP (\w+)/VBP some/DT ./.	1
+But/CC we/PRP (\w+)/VBP to/TO (\w+)/VB all/PDT	1
+can/MD (\w+)/VB or/CC (\w+)/VB the/DT market/NN	1
+must/MD vote/VB to/TO (\w+)/VB or/CC (\w+)/VB without/IN amending/VBG	1
+the/DT Bulls/NNPS (\w+)/VB ,/, or/CC struggle/VB to/TO (\w+)/VB ,/, the/DT	1
+reporters/NNS and/CC photographers/NNS (\w+)/VBP and/CC (\w+)/VBP as/IN our/PRP$	1
+is/VBZ supposed/VBN to/TO (\w+)/VB or/CC (\w+)/VB what/WP is/VBZ proposed/VBN	1
+will/MD (\w+)/VB engine/NN emissions/NNS and/CC (\w+)/VB performance/NN and/CC	1
+UW/NNP will/MD (\w+)/VB and/CC (\w+)/VB	1
+would/MD rather/RB (\w+)/VB it/PRP than/IN (\w+)/VB it/PRP ./. "/''	1
+have/VB one/CD player/NN (\w+)/VB or/CC (\w+)/VB	1
+people/NNS either/CC (\w+)/VBP them/PRP or/CC (\w+)/VBP	1
+after/IN the/DT winter/NN (\w+)/VBP to/TO (\w+)/VB	1
+compete/VB ,/, (\w+)/VB more/RBR than/IN we/PRP (\w+)/VBP	3
+(\w+)/VB ,/, and/CC let/VB them/PRP (\w+)/VB ,/,	1

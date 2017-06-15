@@ -1,0 +1,33 @@
+April/NNP ,/, (\w+)/VB or/CC (\w+)/VB ,/,	1
+day/NN ,/, (\w+)/VB home/NN and/CC (\w+)/VB	1
+(\w+)/VBP one/CD and/CC (\w+)/VB the/DT	1
+club/NN will/MD (\w+)/VB or/CC (\w+)/VB a/DT	1
+something/NN one/PRP can/MD (\w+)/VB and/CC (\w+)/VB playing/NN in/IN	1
+'d/MD like/VB to/TO (\w+)/VB or/CC (\w+)/VB	1
+priests/NNS who/WP (\w+)/VBP other/JJ duties/NNS and/CC may/MD (\w+)/VB	1
+The/DT time/NN has/VBZ (\w+)/VBN for/IN the/DT penny/NN to/TO (\w+)/VB	1
+(\w+)/VB in/IN concrete/JJ bleachers/NNS ,/, (\w+)/VB six/CD	1
+(\w+)/VBP ,/, and/CC sometimes/RB never/RB (\w+)/VB ./.	1
+(\w+)/VBP ,/, approval/NN could/MD (\w+)/VB as/RB early/RB as/IN	3
+panic/VB ,/, (\w+)/VB 's/POS (\w+)/VB	1
+you/PRP can/MD (\w+)/VB or/CC (\w+)/VB them/PRP at/IN the/DT	1
+to/TO (\w+)/VB or/CC (\w+)/VB of/IN any/DT possible/JJ	1
+to/TO (\w+)/VB his/PRP$ gun/NN to/TO (\w+)/VB his/PRP$ mother/NN a/DT	1
+(\w+)/VBP heavily/RB but/CC (\w+)/VBP up/RP periodically/RB to/TO	1
+(\w+)/VB up/RP its/PRP$ turn/NN to/TO (\w+)/VB the/DT rotating/VBG chairmanship/NN	1
+not/RB (\w+)/VB and/CC (\w+)/VB the/DT curtains/NNS	1
+against/IN Gingrich/NNP to/TO (\w+)/VB him/PRP a/DT majority/NN and/CC (\w+)/VB Democrats/NNPS to/TO	1
+Tract/NNP 19/CD (\w+)/VB and/CC (\w+)/VB	1
+will/MD (\w+)/VB in/IN January/NNP 1995/CD and/CC (\w+)/VB in/IN	1
+"/'' to/TO (\w+)/VB and/CC which/WDT to/TO (\w+)/VB	1
+I/PRP had/VBD to/TO (\w+)/VB a/DT lot/NN and/CC (\w+)/VB a/DT	4
+it/PRP ,/, and/CC (\w+)/VB if/IN you/PRP do/VBP n't/RB (\w+)/VB it/PRP	1
+his/PRP$ game/NN (\w+)/VBP and/CC (\w+)/VBP	1
+who/WP want/VBP to/TO (\w+)/VB and/CC (\w+)/VB can/MD have/VB their/PRP$	1
+the/DT Olympics/NNPS somehow/RB (\w+)/VB it/PRP because/IN they/PRP didnt/VBP (\w+)/VB funding/VBG	1
+Customers/NNS (\w+)/VB and/CC (\w+)/VB Wal-Mart/NNP on/IN	1
+(\w+)/VBP T.O./NNP ,/, manage/VBP (\w+)/VB	1
+(\w+)/VB on/IN Sunday/NNP evening/NN and/CC (\w+)/VB on/IN Friday/NNP afternoon/NN	1
+they/PRP want/VBP to/TO (\w+)/VB our/PRP$ hard-earned/JJ money/NN and/CC (\w+)/VB it/PRP to/TO the/DT	2
+can/MD (\w+)/VB the/DT assignment/NN ,/, (\w+)/VB it/PRP	1
+is/VBZ used/VBN to/TO (\w+)/VB and/CC (\w+)/VB items/NNS on/IN the/DT	2

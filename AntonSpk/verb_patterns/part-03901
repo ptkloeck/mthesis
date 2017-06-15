@@ -1,0 +1,33 @@
+to/TO (\w+)/VB you/PRP (\w+)/VB out/RP in/IN	1
+start/VB out/RP to/TO (\w+)/VB or/CC (\w+)/VB	1
+they/PRP 'll/MD (\w+)/VB to/TO (\w+)/VB their/PRP$ young/JJ	1
+They/PRP (\w+)/VBP back/RB more/RBR than/IN they/PRP (\w+)/VBP	1
+Music/NNP can/MD not/RB (\w+)/VB or/CC (\w+)/VB without/IN silence/NN	1
+and/CC that/IN officers/NNS (\w+)/VB up/RP the/DT groups/NNS and/CC (\w+)/VB a/DT	1
+(\w+)/VBP him/PRP ,/, but/CC many/DT (\w+)/VBP him/PRP	1
+path/NN will/MD (\w+)/VB or/CC (\w+)/VB such/PDT	1
+can/MD (\w+)/VB back/RB and/CC we/PRP can/MD (\w+)/VB there/RB	1
+and/CC businesses/NNS (\w+)/VB or/CC (\w+)/VB real/JJ estate/NN	1
+may/MD (\w+)/VB raising/VBG rates/NNS and/CC (\w+)/VB calculating/VBG when/WRB it/PRP	1
+fossil/JJ fuels/NNS to/TO (\w+)/VB and/CC (\w+)/VB a/DT home/NN	1
+(\w+)/VB or/CC (\w+)/VB the/DT 1970/CD	1
+-/: (\w+)/VB or/CC (\w+)/VB ,/, tonight/RB 's/VBZ	1
+(\w+)/VB and/CC (\w+)/VB ,/, extremely/RB well/RB	1
+either/RB (\w+)/VB the/DT list/NN ,/, (\w+)/VB	3
+who/WP (\w+)/VBP troubled/JJ teenagers/NNS not/RB to/TO (\w+)/VB	1
+really/RB (\w+)/VBP is/VBZ to/TO (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB the/DT proposed/JJ	1
+(\w+)/VB on/RP to/TO (\w+)/VB fourth/JJ	2
+are/VBP intended/VBN to/TO (\w+)/VB the/DT U.S./NNP government/NN to/TO (\w+)/VB involvement/NN	1
+,/, buy/VB and/CC (\w+)/VB stocks/NNS ,/, (\w+)/VB	2
+the/DT spring/NN and/CC (\w+)/VB back/RP ready/JJ to/TO (\w+)/VB next/JJ season/NN ./.	1
+to/TO (\w+)/VB officialdom/NN and/CC (\w+)/VB	1
+You/PRP (\w+)/VBP with/IN ability/NN and/CC (\w+)/VBP with/IN dignity/NN ./.	1
+the/DT sport/NN to/TO (\w+)/VB its/PRP$ top/JJ two/CD stars/NNS (\w+)/VBP the/DT	1
+harder/JJR to/TO (\w+)/VB on/RP while/IN you/PRP (\w+)/VBP in/IN the/DT same/JJ	1
+Both/DT countries/NNS (\w+)/VBP and/CC (\w+)/VBP GM/NNP foods/NNS ./.	1
+can/MD (\w+)/VB or/CC (\w+)/VB notes/NNS	1
+to/TO (\w+)/VB asset/NN values/NNS and/CC (\w+)/VB losses/NNS to/TO the/DT	1
+import/NN price/NN -/: (\w+)/VBP and/CC (\w+)/VBP in/IN virtual/JJ lockstep/NN	1
+sought/VBN to/TO (\w+)/VB and/CC (\w+)/VB both/CC	1
+to/TO (\w+)/VB tactics/NNS to/TO (\w+)/VB	1

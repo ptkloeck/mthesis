@@ -1,0 +1,35 @@
+s/VBZ Iraq/JJ to/TO (\w+)/VB oil/NN in/IN order/NN to/TO (\w+)/VB civilian/JJ	1
+(\w+)/VBP or/CC (\w+)/VBP and/CC there/EX	1
+offer/VBP to/TO (\w+)/VB or/CC (\w+)/VB at/IN prices/NNS	1
+(\w+)/VBP Patty/VBN ,/, but/CC we/PRP (\w+)/VBP Maxine/NNP	1
+the/DT Orioles/NNP (\w+)/VB ,/, (\w+)/VB or/CC tie/VB	1
+course/NN ,/, deadlines/NNS (\w+)/VBP been/VBN missed/VBN they/PRP always/RB (\w+)/VBP ,/, "/''	1
+investors/NNS to/TO (\w+)/VB ,/, hold/VB or/CC (\w+)/VB stocks/NNS	1
+be/VB able/JJ to/TO (\w+)/VB or/CC (\w+)/VB assets/NNS	1
+it/PRP to/TO (\w+)/VB here/RB and/CC not/RB just/RB (\w+)/VB into/IN a/DT	1
+who/WP failed/VBD to/TO (\w+)/VB a/DT call/NN and/CC (\w+)/VB a/DT rule/NN	1
+to/TO (\w+)/VB away/RP from/IN home/NN and/CC (\w+)/VB from/IN a/DT	1
+strategy/NN to/TO (\w+)/VB benefits/NNS and/CC (\w+)/VB	1
+may/MD (\w+)/VB and/CC (\w+)/VB but/CC I/PRP have/VBP	1
+not/RB (\w+)/VB or/CC (\w+)/VB the/DT moral/JJ	1
+combine/NN can/MD (\w+)/VB or/CC (\w+)/VB a/DT prospect/NN ,/,	1
+may/MD only/RB (\w+)/VB or/CC (\w+)/VB trade/NN agreements/NNS	1
+which/WDT (\w+)/VBP and/CC (\w+)/VBP along/IN	1
+mate/NN would/MD (\w+)/VB swing/NN voters/NNS who/WP (\w+)/VBP that/IN	2
+,/, but/CC some/DT (\w+)/VBP to/TO (\w+)/VB ,/, give/VBP	1
+(\w+)/VBP and/CC (\w+)/VBP --/: this/DT month/NN	6
+parts/NNS (\w+)/VB and/CC (\w+)/VB all/DT	1
+service/NN times/NNS ,/, (\w+)/VB inventory/NN shrinkage/NN and/CC (\w+)/VB the/DT breadth/NN	2
+(\w+)/VB an/DT false/JJ image/NN to/TO (\w+)/VB to/TO the/DT	1
+Kremes/NNP are/VBP (/VBG (\w+)/VB ital/JJ )/JJ soooo/NN (/NNS (\w+)/VB ital/JJ	1
+country/NN to/TO (\w+)/VB somebody/NN who/WP could/MD (\w+)/VB the/DT	1
+anybody/NN can/MD (\w+)/VB or/CC (\w+)/VB ,/, so/IN	1
+series/NN that/IN critics/NNS (\w+)/VBP and/CC audiences/NNS (\w+)/VBP	1
+to/TO say/VB we/PRP (\w+)/VBP to/TO (\w+)/VB on/IN issues/NNS	1
+down/RP and/CC (\w+)/VB it/PRP (\w+)/VB later/RB ./.	1
+(\w+)/VBP ,/, sometimes/RB you/PRP (\w+)/VBP but/CC do/VBP	1
+why/WRB you/PRP (\w+)/VBP and/CC (\w+)/VBP the/DT	1
+worst/JJS places/NNS (\w+)/VB your/PRP$ money/NN and/CC then/RB (\w+)/VB you/PRP a/DT	1
+(\w+)/VB and/CC (\w+)/VB quickly/RB ,/,	2
+whose/WP$ days/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN a/DT	1
+company/NN to/TO (\w+)/VB his/PRP$ shoes/NNS and/CC (\w+)/VB them/PRP	1

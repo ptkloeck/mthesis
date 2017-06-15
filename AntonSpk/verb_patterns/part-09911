@@ -1,0 +1,23 @@
+to/TO (\w+)/VB until/IN people/NNS (\w+)/VBP	3
+--/: Do/VB you/PRP (\w+)/VB or/CC (\w+)/VB of/IN the/DT way/NN	5
+Businesses/NNS (\w+)/VBP and/CC (\w+)/VBP ./.	1
+able/JJ to/TO (\w+)/VB and/CC (\w+)/VB cash/NN	2
+to/TO (\w+)/VB or/CC (\w+)/VB her/PRP$ knee/NN ./.	1
+(\w+)/VB rights/NNS to/TO (\w+)/VB	3
+trying/VBG to/TO (\w+)/VB soap/NN or/CC (\w+)/VB	1
+people/NNS (\w+)/VBP to/TO (\w+)/VB government/NN ./. "/''	1
+(\w+)/VBD or/CC (\w+)/VB the/DT 99-entry/JJ	1
+,/, employees/NNS (\w+)/VBP or/CC (\w+)/VBP the/DT success/NN	1
+(\w+)/VB or/CC (\w+)/VB trade/NN agreements/NNS but/CC	2
+use/VBP to/TO (\w+)/VB and/CC (\w+)/VBP your/PRP$ car/NN ./.	1
+(\w+)/VB and/CC (\w+)/VBP a/DT	4
+Iraq/NNP to/TO (\w+)/VB petroleum/NN to/TO (\w+)/VB food/NN	1
+Mull/NNP said/VBD officials/NNS (\w+)/VBP sure/JJ they/PRP (\w+)/VBP even/RB for/IN	2
+if/IN you/PRP (\w+)/VBP to/TO (\w+)/VB the/DT current/JJ exhibition/NN	1
+play/VB poorly/RB and/CC (\w+)/VB than/IN play/NN well/RB and/CC (\w+)/VB ./.	1
+If/IN we/PRP (\w+)/VBP hooray/RB and/CC if/IN we/PRP (\w+)/VBP	1
+(/NNS and/CC (\w+)/VB )/NNP what/WP would/MD (\w+)/VB been/VBN Pierce/NNP 's/POS	2
+(\w+)/VB or/CC (\w+)/VB the/DT prices/NNS of/IN	1
+My/PRP$ friends/NNS (\w+)/VBP and/CC (\w+)/VBP of/IN my/PRP$ tactics/NNS	1
+(\w+)/VB and/CC (\w+)/VB "/`` if/IN	1
+Other/JJ people/NNS (\w+)/VBP to/TO museums/NNS ;/: we/PRP (\w+)/VBP here/RB	1

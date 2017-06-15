@@ -1,0 +1,35 @@
+where/WRB it/PRP 's/VBZ (\w+)/VB or/CC (\w+)/VB ./.	1
+,/, (\w+)/VB or/CC (\w+)/VB ,/, the/DT Huskies/NNPS	1
+still/RB )/NNP (\w+)/VBP and/CC (\w+)/VBP in/IN	1
+who/WP investigate/VB ,/, (\w+)/VB and/CC (\w+)/VB those/DT accused/VBN	1
+hate/VBP adults/NNS ,/, (\w+)/VBP people/NNS trying/VBG to/TO (\w+)/VB them/PRP ,/,	1
+%/NN Can/MD (\w+)/VB and/CC (\w+)/VB two-digit/JJ numbers/NNS	1
+(\w+)/VB and/CC (\w+)/VB air/NN	3
+that/WDT (\w+)/VBP and/CC (\w+)/VBP your/PRP$ motorcycle/NN	1
+(\w+)/VB even/RB but/CC not/RB (\w+)/VB a/DT profit/NN	1
+people/NNS will/MD (\w+)/VB ,/, and/CC people/NNS will/MD (\w+)/VB the/DT good/JJ	1
+n't/RB (\w+)/VB ,/, he/PRP would/MD n't/RB (\w+)/VB home/NN	1
+was/VBD asked/VBN to/TO (\w+)/VB or/CC (\w+)/VB a/DT Kissinger/NNP statement/NN	1
+that/IN companies/NNS can/MD (\w+)/VB and/CC (\w+)/VB	2
+should/MD be/VB (\w+)/VB and/CC (\w+)/VB	1
+,/, will/MD they/PRP (\w+)/VB or/CC will/MD they/PRP (\w+)/VB on/RP	1
+who/WP (\w+)/VBP the/DT 500/CD will/MD (\w+)/VB	1
+to/TO (\w+)/VB comfort/NN or/CC (\w+)/VB solace/NN ,/, no/DT	1
+(\w+)/VBP and/CC (\w+)/VBP at/IN a/DT certain/JJ	1
+,/, Upstart/NNP can/MD (\w+)/VB and/CC (\w+)/VB services/NNS upon/IN	1
+,/, (\w+)/VB or/CC (\w+)/VB ,/, than/IN	1
+(\w+)/VB or/CC (\w+)/VB they/PRP play/VB	1
+./. 1-800/NNP (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB the/DT Detroit/NNP bet/NN and/CC (\w+)/VB	1
+and/CC Relics/NNS ,/, (\w+)/VBP and/CC (\w+)/VBP such/JJ fashion/NN trophies/NNS	1
+war/NN and/CC (\w+)/VB to/TO (\w+)/VB that/IN the/DT	1
+Fischer/NNP can/MD (\w+)/VB and/CC (\w+)/VB the/DT bait/NN	1
+play/NN in/IN it/PRP (\w+)/VBP or/CC (\w+)/VBP ./.	1
+they/PRP (\w+)/VBP not/RB to/TO (\w+)/VB pull-tabs/NNS	1
+"/`` Rates/NNS (\w+)/VBP up/RP and/CC rates/NNS (\w+)/VBP	1
+everybody/NN else/RB to/TO (\w+)/VB and/CC us/PRP (\w+)/VBP ./. ''/''	1
+for/IN committees/NNS to/TO (\w+)/VB ,/, (\w+)/VB ,/,	1
+them/PRP either/CC (\w+)/VB working/VBG altogether/RB or/CC (\w+)/VB	1
+state/NN can/MD (\w+)/VB where/WRB parents/NNS (\w+)/VBP ,/,	1
+normal/JJ ,/, they/PRP (\w+)/VBP a/DT little/JJ ,/, they/PRP (\w+)/VB a/DT	1
+to/TO (\w+)/VB ,/, they/PRP have/VBP to/TO (\w+)/VB	1

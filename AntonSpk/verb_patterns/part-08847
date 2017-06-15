@@ -1,0 +1,39 @@
+just/RB do/VB it/PRP (\w+)/VB or/CC (\w+)/VB ./. "/''	1
+would/MD (\w+)/VB Piraeus/NNP on/IN Thursday/NNP and/CC (\w+)/VB	1
+bankers/NNS to/TO (\w+)/VB or/CC (\w+)/VB interest/NN rates/NNS	1
+Republican/JJ candidate/NN can/MD (\w+)/VB in/IN California/NNP and/CC still/RB (\w+)/VB the/DT	1
+might/MD (\w+)/VB and/CC (\w+)/VB with/IN Rosenhaus/NNP	2
+either/RB (\w+)/VB them/PRP or/CC (\w+)/VB	2
+to/TO (\w+)/VB the/DT sin/NN and/CC (\w+)/VB	4
+(\w+)/VB German/JJ marks/NNS and/CC (\w+)/VB other/JJ	1
+``/`` Everywhere/RB we/PRP (\w+)/VBP ,/, people/NNS (\w+)/VB	1
+for/IN employers/NNS to/TO (\w+)/VB and/CC (\w+)/VB workers/NNS in/IN	1
+team/NN had/VBD to/TO (\w+)/VB to/TO (\w+)/VB	1
+;/: interest/NN rates/NNS (\w+)/VBP and/CC (\w+)/VBP as/IN borrowers/NNS	1
+(\w+)/VB out/RP and/CC (\w+)/VB games/NNS exciting/JJ has/VBZ	1
+will/MD (\w+)/VB and/CC (\w+)/VB down/RP	1
+33/CD billion/CD ,/, (\w+)/VB or/CC (\w+)/VB	1
+can/MD (\w+)/VB traffic/NN or/CC (\w+)/VB	1
+"/`` You/PRP (\w+)/VBP some/DT and/CC you/PRP (\w+)/VBP some/DT ,/, but/CC	1
+seek/VB ,/, (\w+)/VBP and/CC not/RB (\w+)/VB for/IN months/NNS an/DT	1
+able/JJ to/TO (\w+)/VB and/CC (\w+)/VB ,/, so/IN they/PRP	1
+easily/RB can/MD (\w+)/VB or/CC (\w+)/VB ornamentation/NN such/JJ	1
+eventually/RB to/TO (\w+)/VB ,/, (\w+)/VB or/CC lease/VB	1
+trying/VBG to/TO (\w+)/VB in/IN San/NNP Francisco/NNP to/TO (\w+)/VB into/IN	1
+fever/NN can/MD (\w+)/VB and/CC (\w+)/VB so/IN it/PRP 's/VBZ	1
+23/CD to/TO (\w+)/VB or/CC (\w+)/VB in/IN	1
+to/TO (\w+)/VB or/CC (\w+)/VB on/IN a/DT simple/JJ	1
+songs/NNS that/WDT (\w+)/VB and/CC (\w+)/VB each/DT episode/NN are/VBP	1
+highway/NN officials/NNS to/TO (\w+)/VB or/CC (\w+)/VB the/DT limit/NN	1
+or/CC (\w+)/VB rules/NNS to/TO (\w+)/VB	1
+Companies/NNS can/MD (\w+)/VB their/PRP$ surplus/NN ,/, or/CC (\w+)/VB further/JJ	2
+"/`` (\w+)/VB or/CC (\w+)/VB "/'' car/NN ./.	1
+may/MD (\w+)/VB up/RP extra/JJ activities/NNS ,/, (\w+)/VB fewer/JJR vacations/NNS or/CC	1
+to/TO (\w+)/VB it/PRP out/RP and/CC (\w+)/VB	2
+DarkAdapted/NNP can/MD (\w+)/VB and/CC (\w+)/VB these/DT presets/NNS and/CC	1
+(\w+)/VB and/CC (\w+)/VB ,/, ideologies/JJ blossom/NN	1
+(\w+)/VBP ,/, we/PRP (\w+)/VBP ,/, at/IN least/JJS	2
+(\w+)/VB or/CC (\w+)/VB the/DT revision/NN	1
+chest/NN (\w+)/VBP and/CC (\w+)/VBP to/TO simulate/JJ breathing/NN	1
+races/NNS (\w+)/VB with/IN policy/NN debate/NN and/CC (\w+)/VB with/IN name-calling/NN	1
+(\w+)/VB unremitting/VBG joint/JJ efforts/NNS to/TO (\w+)/VB the/DT	1

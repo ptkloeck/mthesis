@@ -1,0 +1,116 @@
+control/VB (\w+)/NN ,/, (\w+)/NN ,/,	1
+American/JJ (\w+)/NN ,/, (\w+)/NN ,/, selfesteem/NN	1
+for/IN date-sensitive/JJ (\w+)/NN and/CC (\w+)/NN	1
+about/IN the/DT (\w+)/NNS and/CC (\w+)/NNS of/IN Long/NNP	1
+a/DT warm/JJ (\w+)/NN turned/VBN into/IN a/DT comfortable/JJ (\w+)/NN	1
+Another/DT (\w+)/NN and/CC a/DT (\w+)/NN had/VBD	2
+A/DT (\w+)/NN who/WP hit/VBD a/DT blind/JJ (\w+)/NN and/CC	1
+(\w+)/NN and/CC a/DT zealous/JJ (\w+)/NN of/IN extremist/NNP	1
+that/DT good/NN on/IN (\w+)/NN ,/, or/CC terrible/JJ on/IN (\w+)/NN ?/. ''/''	1
+(\w+)/NN to/TO the/DT (\w+)/NN above/IN is/VBZ A/NNP	1
+every/DT (\w+)/NN and/CC (\w+)/NN had/VBD	1
+high/JJ (\w+)/NN and/CC imminent/JJ (\w+)/NN and/CC its/PRP$ expert/JJ	1
+Islanders/NNPS from/IN (\w+)/NN to/TO (\w+)/NN	1
+unidentified/JJ (\w+)/NN and/CC (\w+)/NN in/IN	1
+do/VBP for/IN a/DT (\w+)/NN or/CC (\w+)/NN who/WP	2
+where/WRB the/DT (\w+)/NN and/CC (\w+)/NN will/MD arrive/VB in/IN	1
+project/NN 's/POS (\w+)/NN or/CC (\w+)/NN than/IN	1
+--/: its/PRP$ (\w+)/NNS and/CC (\w+)/NN	1
+cap/VB the/DT extraordinary/JJ (\w+)/NN and/CC (\w+)/NN of/IN	1
+one/CD (\w+)/NN and/CC one/CD (\w+)/NN _/NNS	1
+put/VB a/DT (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN and/CC woman/NN (\w+)/NN "/''	1
+Louise/NNP ;/: one/CD (\w+)/NN ,/, Joe/NNP ;/: one/CD (\w+)/NN	1
+,/, criminal/JJ (\w+)/NN and/CC (\w+)/NN are/VBP not/RB	1
+yards/NNS up/IN the/DT (\w+)/NN into/IN the/DT Hokie/NNP (\w+)/NN zone/NN ./.	1
+was/VBD bad/JJ from/IN (\w+)/NN to/TO (\w+)/NN ./.	1
+Tennessee/NNP pastor/NN 's/POS (\w+)/NN convicted/VBN of/IN killing/VBG her/PRP$ (\w+)/NN ,/,	1
+then/RB on/IN his/PRP$ (\w+)/NN and/CC again/RB on/IN his/PRP$ (\w+)/NN	1
+,/, but/CC his/PRP$ (\w+)/NN and/CC his/PRP$ (\w+)/NN ,/, Arthur/NNP	1
+(\w+)/NN of/IN the/DT (\w+)/NN ,/, he/PRP came/VBD	1
+and/CC BibTeX/NNP (\w+)/NN and/CC (\w+)/NN functionality/NNS to/TO enable/VB	1
+the/DT (\w+)/NN ,/, (\w+)/NN or/CC middle/NN	3
+Britain/NNP between/IN a/DT (\w+)/NN of/IN fanatics/NNS and/CC a/DT (\w+)/NN of/IN atheists/NNS	1
+Our/PRP$ (\w+)/NN or/CC (\w+)/NN in/IN this/DT	1
+out/RP between/IN the/DT (\w+)/NN and/CC the/DT (\w+)/NN	1
+American/NNP Web/NNP acquired/VBD (\w+)/NN and/CC (\w+)/NN	1
+Chan/NNP accompanied/VBD her/PRP$ (\w+)/NN and/CC (\w+)/NN	2
+of/IN its/PRP$ (\w+)/NN to/TO the/DT (\w+)/NN of/IN same-sex/JJ	1
+(\w+)/NN and/CC (\w+)/NN sequences/NNS and/CC	1
+(\w+)/NN who/WP dressed/VBN as/IN a/DT (\w+)/NN for/IN Halloween/NNP	1
+(\w+)/NN looks/VBZ at/IN the/DT (\w+)/NN who/WP may/MD	1
+your/PRP$ (\w+)/NN and/CC (\w+)/NN wo/MD	1
+Wednesday/NNP (\w+)/NN ,/, the/DT same/JJ (\w+)/NN the/DT	2
+(\w+)/NN and/CC (\w+)/NN through/IN the/DT grief/NN	1
+night/NN and/CC (\w+)/NN and/CC (\w+)/NN reached/VBD perfect/JJ understanding/NN	1
+and/CC every/DT (\w+)/NN thinks/VBZ her/PRP$ (\w+)/NN should/MD	1
+separation/NN of/IN a/DT (\w+)/NN and/CC (\w+)/NN ./. ''/''	5
+(\w+)/NN and/CC his/PRP$ right/JJ (\w+)/NN ./.	1
+a/DT 1-point/JJ (\w+)/NN into/IN a/DT 102-99/CD (\w+)/NN with/IN	1
+charges/NNS of/IN coercing/VBG (\w+)/NN girls/NNS and/CC (\w+)/NN women/NNS into/IN	1
+was/VBD the/DT usual/JJ (\w+)/NN and/CC (\w+)/NN program/NN	1
+whether/IN a/DT (\w+)/NN or/CC a/DT (\w+)/NN is/VBZ at/IN	1
+(\w+)/NN from/IN (\w+)/NN 's/POS jaws/NNS ./.	1
+(\w+)/NN and/CC a/DT (\w+)/NN who/WP have/VBP torn/VBN	1
+alternating/JJ (\w+)/NN and/CC (\w+)/NN shifts/NNS	1
+fool/VB the/DT (\w+)/NN ,/, and/CC the/DT (\w+)/NN	1
+(\w+)/NN with/IN our/PRP$ (\w+)/NN ./. ''/''	3
+of/IN (\w+)/NN against/IN a/DT Georgia/NNP (\w+)/NN that/IN was/VBD ranked/VBN	1
+to/TO raise/VB our/PRP$ (\w+)/NN and/CC (\w+)/NN	1
+worked/VBD through/IN the/DT (\w+)/NN and/CC (\w+)/NN collecting/VBG	1
+bombers/NNS ,/, a/DT (\w+)/NN and/CC a/DT (\w+)/NN ,/, ''/''	1
+(\w+)/NN and/CC (\w+)/NN for/IN 11/CD	1
+at/IN (\w+)/NN and/CC fear/NN of/IN (\w+)/NN	1
+her/PRP$ (\w+)/NN ,/, Randy/NNP ,/, (\w+)/NN	1
+by/IN my/PRP$ (\w+)/NN and/CC painted/VBN by/IN my/PRP$ (\w+)/NN ./.	1
+in/IN (\w+)/NN ,/, side/NN and/CC (\w+)/NN crashes/NNS ./.	3
+elementary/RB aged/VBN (\w+)/NN and/CC (\w+)/NN and/CC some/DT of/IN	1
+underground/NN (\w+)/NN and/CC (\w+)/NN	1
+both/CC a/DT (\w+)/NN and/CC (\w+)/NN based/VBN	1
+humidity/NN every/DT (\w+)/NN and/CC (\w+)/NN for/IN months/NNS at/IN	1
+his/PRP$ (\w+)/NN ,/, Philip/NNP ,/, and/CC (\w+)/NN ,/, Sarah/NNP ,/,	1
+small/JJ buildings/NNS run/VBP (\w+)/NN and/CC (\w+)/NN ,/,	1
+by/IN one/CD (\w+)/NN does/VBZ not/RB doom/VB a/DT (\w+)/NN to/TO failure/NN	1
+relationship/NN between/IN (\w+)/NN and/CC (\w+)/NN ,/, father/NN and/CC	5
+jealousy/NN ,/, (\w+)/NN ,/, (\w+)/NN and/CC intrigue/NN that/WDT	1
+(\w+)/NN as/IN a/DT (\w+)/NN	43
+family/NN said/VBD the/DT (\w+)/NN poked/VBD the/DT (\w+)/NN first/RB and/CC	1
+my/PRP$ (\w+)/NN 's/VBZ gone/VBN ;/: my/PRP$ (\w+)/NN 's/VBZ 88/CD	2
+in/IN (\w+)/NN to/TO your/PRP$ (\w+)/NN about/IN	2
+white/JJ (\w+)/NN as/IN a/DT black/JJ (\w+)/NN so/RB how/WRB	1
+have/VBP a/DT young/JJ (\w+)/NN and/CC (\w+)/NN ,/, both/DT	1
+clustered/VBN near/IN the/DT (\w+)/NN or/CC (\w+)/NN of/IN their/PRP$	1
+(\w+)/NN ???/NN s/VBZ (\w+)/NN names/NNS before/IN	1
+(\w+)/NN ,/, two/CD on/IN the/DT (\w+)/NN	3
+My/PRP$ (\w+)/NN and/CC their/PRP$ (\w+)/NN	1
+(\w+)/NN and/CC (\w+)/NN can/MD map/VB	1
+(\w+)/NN ,/, because/IN (\w+)/NN magnifies/VBZ the/DT feeling/NN	1
+(\w+)/NNP Paul/NNP and/CC (\w+)/NNP Linda/NNP are/VBP	1
+were/VBD different/JJ --/: (\w+)/NN shrank/VBD ,/, rather/RB than/IN (\w+)/NN rising/VBG	1
+(\w+)/NN and/CC (\w+)/NN techies/NNS to/TO beef/VB	1
+750/CD ,/, with/IN (\w+)/NN and/CC (\w+)/NN costs/NNS adding/VBG another/DT	1
+with/IN her/PRP$ (\w+)/NN ,/, while/IN her/PRP$ (\w+)/NN	2
+between/IN (\w+)/NN and/CC (\w+)/NN in/IN the/DT workplace/NN	2
+goods/NNS and/CC obtain/VB (\w+)/NN advances/NNS with/IN (\w+)/NN cards/NNS	1
+cushion/NN of/IN energy/NN (\w+)/NN over/IN (\w+)/NN	1
+a/DT real/JJ (\w+)/NN pretending/VBG to/TO be/VB a/DT (\w+)/NN in/IN drag/NN pretending/VBG	1
+your/PRP$ (\w+)/NN ,/, or/CC (\w+)/NN ,/, or/CC	1
+the/DT schizophrenic/JJ (\w+)/NN convicted/VBN of/IN pushing/VBG a/DT (\w+)/NN off/IN a/DT	1
+values/NNS ,/, the/DT (\w+)/NN and/CC (\w+)/NN are/VBP temptation/NN	2
+-/: now/RB (\w+)/NN or/CC (\w+)/NN --/:	1
+centerpiece/NN of/IN its/PRP$ (\w+)/NN to/TO the/DT (\w+)/NN of/IN same-sex/JJ	1
+(\w+)/NN and/CC a/DT (\w+)/NN said/VBD they/PRP	1
+associate/JJ commissioner/NN for/IN (\w+)/NN and/CC (\w+)/NN statistics/NNS ./.	1
+(\w+)/NN ,/, (\w+)/NN ,/, team/NN drills/NNS	1
+the/DT odd/JJ (\w+)/NN of/IN a/DT makeshift/JJ (\w+)/NN at/IN Oklahoma/NNP	1
+&#039;/CD s/VBZ the/DT (\w+)/NN ,/, and/CC the/DT (\w+)/NN hasn/NN &#039;/CD t/NN	1
+that/IN the/DT (\w+)/NN must/MD produce/VB to/TO the/DT (\w+)/NN ./.	1
+(\w+)/NN ,/, his/PRP$ (\w+)/NN winkingly/RB let/VBP	1
+Irish/JJ (\w+)/NN and/CC an/DT Italian/JJ (\w+)/NN	1
+lawsuit/NN contends/VBZ the/DT (\w+)/NN never/RB told/VBD the/DT (\w+)/NN	2
+18-year-old/JJ (\w+)/NN and/CC his/PRP$ 14-year-old/JJ (\w+)/NN testified/VBD	2
+(\w+)/NN and/CC a/DT lot/NN of/IN (\w+)/NN	1
+(\w+)/NN strangles/VBZ his/PRP$ (\w+)/NN and/CC	1
+(\w+)/NN ,/, sleeping/VBG with/IN her/PRP$ (\w+)/NN ,/, cried/VBD	1
+After/IN all/DT ,/, (\w+)/NN or/CC (\w+)/NN is/VBZ not/RB	1
+from/IN the/DT odd/JJ (\w+)/NN of/IN a/DT makeshift/JJ (\w+)/NN at/IN	1

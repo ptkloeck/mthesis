@@ -1,0 +1,38 @@
+set/VBN up/RP to/TO (\w+)/VB or/CC (\w+)/VB	1
+might/MD (\w+)/VB or/CC (\w+)/VB ,/, save/VB he/PRP	1
+(\w+)/VB and/CC (\w+)/VB during/IN her/PRP$ almost/RB	1
+(\w+)/VBP over/RP the/DT top/NN and/CC (\w+)/VBD back/RP	1
+"/`` We/PRP all/DT (\w+)/VB together/RB and/CC we/PRP all/DT (\w+)/VB together/RB	1
+(\w+)/VB or/CC (\w+)/VB one/CD of/IN	1
+newlyweds/NNS (\w+)/VB and/CC (\w+)/VB	5
+us/PRP to/TO (\w+)/VB or/CC (\w+)/VB a/DT game/NN	1
+to/TO (\w+)/VB or/CC (\w+)/VB the/DT thesis/NN ,/,	2
+(\w+)/VB or/CC (\w+)/VBP political/JJ campaigns/NNS ./.	2
+able/JJ to/TO (\w+)/VB or/CC (\w+)/VB any/DT bonds/NNS on/IN	1
+(\w+)/VB praying/VBG for/IN it/PRP to/TO (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB no/DT	2
+prices/NNS can/MD (\w+)/VB as/IN rates/NNS (\w+)/VBP	1
+to/TO (\w+)/VB guide/NN wires/NNS ,/, (\w+)/VB panel/NN	2
+can/MD (\w+)/VB space/NN ,/, and/CC websites/NNS (\w+)/VBP it/PRP ./.	1
+(\w+)/VB where/WRB they/PRP could/MD (\w+)/VB back/RB	1
+should/MD (\w+)/VB fighting/NN and/CC (\w+)/VB	2
+levels/NNS can/MD (\w+)/VB during/IN a/DT massage/NN and/CC (\w+)/VB in/IN	1
+the/DT weapons/NNS would/MD (\w+)/VB or/CC (\w+)/VB the/DT vulnerability/NN	1
+heirs/NNS tax-free/JJ was/VBD (\w+)/VBN to/TO (\w+)/VB	1
+designed/VBD to/TO (\w+)/VB and/CC (\w+)/VB	1
+does/VBZ not/RB (\w+)/VB hospitals/NNS to/TO (\w+)/VB life-saving/JJ treatment/NN	1
+scenes/NNS often/RB (\w+)/VB and/CC (\w+)/VB with/IN	1
+time/NN to/TO (\w+)/VB and/CC a/DT time/NN to/TO (\w+)/VB in/IN international/JJ	1
+companies/NNS that/IN (\w+)/VB and/CC (\w+)/VB	1
+T./NNP can/MD not/RB (\w+)/VB or/CC (\w+)/VB rates/NNS	1
+(\w+)/VB ,/, bike/NN or/CC (\w+)/VB on/IN causeways/NNS	1
+country/NN (\w+)/VBP to/TO (\w+)/VB the/DT necessity/NN	1
+Starks/NNP seemed/VBD to/TO (\w+)/VB and/CC (\w+)/VB with/IN Van/NNP	1
+to/TO (\w+)/VB and/CC (\w+)/VB doors/NNS and/CC	2
+consumers/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP houses/NNS	1
+ago/RB ,/, (\w+)/VB or/CC (\w+)/VB a/DT few/JJ weeks/NNS	1
+not/RB (\w+)/VB unless/IN it/PRP is/VBZ to/TO (\w+)/VB ourselves/PRP ,/, "/''	1
+you/PRP (\w+)/VBP some/DT and/CC you/PRP (\w+)/VBP some/DT	10
+'s/VBZ (\w+)/VBD to/TO (\w+)/VB	1
+n't/RB airplane/NN passengers/NNS (\w+)/VB the/DT same/JJ way/NN they/PRP (\w+)/VB ?/.	1
+is/VBZ scheduled/VBN to/TO (\w+)/VB in/IN January/NNP and/CC (\w+)/VB in/IN 2009/CD	1

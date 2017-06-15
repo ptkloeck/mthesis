@@ -1,0 +1,25 @@
+search/NN will/MD be/VB (\w+)/VBN or/CC (\w+)/VB	1
+a/SYM '/`` (\w+)/VBP and/CC (\w+)/VBP '/''	1
+he/PRP must/MD (\w+)/VB feared/VBN his/PRP$ penalty/NN (\w+)/VB had/VBD cost/VBN	1
+will/MD (\w+)/VB what/WP they/PRP (\w+)/VBP us/PRP ,/,	3
+should/MD (\w+)/VB home/NN and/CC (\w+)/VB back/RP when/WRB he/PRP	1
+scientific/JJ fields/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN cycles/NNS and/CC	1
+it/PRP simply/RB to/TO (\w+)/VB or/CC (\w+)/VB	1
+not/RB trying/VBG to/TO (\w+)/VB or/CC (\w+)/VBP what/WP	3
+to/TO (\w+)/VB or/CC (\w+)/VB ,/, meaning/VBG there/EX	1
+'re/VBP gon/VBG na/TO (\w+)/VB me/PRP (\w+)/VB that/DT accordion/NN	1
+customers/NNS to/TO (\w+)/VB or/CC (\w+)/VB mutual/JJ fund/NN	1
+expensive/JJ to/TO (\w+)/VB ,/, (\w+)/VB and/CC maintain/VB	1
+(\w+)/VB or/CC (\w+)/VB steering/NN	1
+now/RB he/PRP may/MD (\w+)/VB to/TO (\w+)/VB	1
+(\w+)/VB than/IN (\w+)/VBP trying/VBG to/TO	1
+software/NN routines/NNS ,/, (\w+)/VBZ and/CC then/RB (\w+)/VBZ digitized/JJ	3
+tests/NNS they/PRP can/MD (\w+)/VB or/CC (\w+)/VB by/IN answering/VBG	1
+you/PRP (\w+)/VB off/RP tour/NN and/CC (\w+)/VB home/NN	1
+three/CD days/NNS to/TO (\w+)/VB or/CC (\w+)/VB the/DT assignment/NN to/TO	2
+(\w+)/VB to/TO (\w+)/VB its/PRP$ beautiful/JJ "/''	1
+easier/RBR to/TO (\w+)/VB and/CC (\w+)/VB young/JJ workers/NNS	1
+in/IN weddings/NNS may/MD (\w+)/VB and/CC (\w+)/VB ,/,	1
+Traders/NNS (\w+)/VB and/CC (\w+)/VB natural/JJ gas/NN futures/NNS	1
+(\w+)/VB its/PRP$ books/NNS to/TO (\w+)/VB scrutiny/JJ and/CC due/JJ	1
+since/IN I/PRP (\w+)/VBP you/PRP are/VBP going/VBG to/TO (\w+)/VB my/PRP$	1

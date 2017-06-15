@@ -1,0 +1,28 @@
+miners/NNS (\w+)/VBN to/TO (\w+)/VB	1
+one/CD designer/NN (\w+)/VBP and/CC (\w+)/VBP in/IN	1
+will/MD this/DT proportion/NN (\w+)/VB or/CC (\w+)/VB ?/.	1
+"/`` (\w+)/VB or/CC (\w+)/VB "/'' kind/NN	1
+that/DT output/NN looks/VBZ (\w+)/VBN to/TO (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB one/CD or/CC two/CD	2
+sympathy/NN ,/, (\w+)/VBP and/CC (\w+)/VBP	1
+(\w+)/VBP this/DT meeting/NN because/IN they/PRP (\w+)/VBP problems/NNS	2
+(\w+)/VB and/CC (\w+)/VB around/IN	6
+anguish/NN we/PRP (\w+)/VBP through/RP just/RB to/TO (\w+)/VB	1
+opportunity/NN to/TO (\w+)/VB ,/, and/CC to/TO (\w+)/VB ,/,	1
+(\w+)/VBP ,/, some/DT (\w+)/VBP ,/,	2
+allowed/VBN to/TO (\w+)/VB and/CC (\w+)/VB or/CC	1
+,/, (\w+)/VB the/DT local/JJ approach/NN and/CC (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB the/DT odd/JJ blip/NN	1
+(\w+)/VB and/CC (\w+)/VB ministers/NNS without/IN	1
+little/JJ time/NN to/TO (\w+)/VB her/PRP$ old/JJ home/NN or/CC (\w+)/VB a/DT	1
+understand/VB ,/, people/NNS (\w+)/VBP me/PRP or/CC (\w+)/VBP me/PRP ,/,	1
+conditioned/VBN to/TO (\w+)/VB and/CC (\w+)/VB their/PRP$	2
+ready/JJ to/TO (\w+)/VB up/RP on/IN BA/NNP and/CC (\w+)/VB the/DT Eurostar/NNP train/NN	1
+,/, that/IN we/PRP (\w+)/VBP back/RB more/RBR than/IN we/PRP (\w+)/VBP ,/, "/'' said/VBD	1
+not/RB (\w+)/VB cancer/NN ,/, and/CC could/MD (\w+)/VB 5/CD percent/NN of/IN	1
+they/PRP 'd/MD (\w+)/VB with/IN full/JJ loads/NNS and/CC (\w+)/VB home/NN	1
+time/NN they/PRP may/MD (\w+)/VB or/CC (\w+)/VB currencies/NNS to/TO	1
+where/WRB comics/NNS (\w+)/VBP or/CC (\w+)/VBP their/PRP$ reputations/NNS ./.	1
+"/`` Hey/NNP ,/, (\w+)/VBN on/RP ,/, wanna/NN (\w+)/VBP	1
+31/CD (\w+)/VBP free/JJ trade/NN (\w+)/VBP centralized/JJ economies/NNS	1
+(\w+)/VBP their/PRP$ books/NNS used/VBD and/CC (\w+)/VBP most/JJS of/IN them/PRP	1

@@ -1,0 +1,42 @@
+can/MD not/RB (\w+)/VB --/: or/CC (\w+)/VB --/: an/DT	1
+ballots/NNS (\w+)/VB turnout/NN ,/, (\w+)/VB	1
+helped/VBN (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VBP 100/CD percent/NN and/CC never/RB (\w+)/VBP a/DT pitch/NN	1
+(\w+)/VB someone/NN 's/POS temperature/NN and/CC (\w+)/VB him/PRP antituberculosis/JJ	1
+a/DT joke/NN to/TO (\w+)/VB with/IN ,/, you/PRP might/MD (\w+)/VB up/RP in/IN	1
+a/DT broker/NN and/CC (\w+)/VB them/PRP ,/, hoping/VBG to/TO (\w+)/VB them/PRP back/RB later/RB	2
+I/PRP had/VBD to/TO (\w+)/VB a/DT lot/NN and/CC (\w+)/VB a/DT lot/NN of/IN	4
+'s/POS decision/NN to/TO (\w+)/VB The/DT Chronicle/NNP and/CC (\w+)/VB Hearst/NNP 's/POS flagship/NN	1
+ingredients/NNS that/WDT can/MD (\w+)/VB or/CC (\w+)/VB a/DT restaurant/NN ./.	1
+(\w+)/VB and/CC (\w+)/VB or/CC ,/, as/IN	1
+his/PRP$ competitors/NNS would/MD (\w+)/VB or/CC (\w+)/VB equities/NNS based/VBN	1
+(\w+)/VBP ,/, or/CC national/JJ yields/NNS (\w+)/VBP	1
+they/PRP (\w+)/VBP trouble/NN making/NN friends/NNS and/CC (\w+)/VBP the/DT intuitive/JJ	1
+(\w+)/VB and/CC (\w+)/VB in/IN Congress/NNP	5
+,/, (\w+)/VB or/CC (\w+)/VB against/IN	5
+must/MD (\w+)/VB or/CC (\w+)/VB the/DT panel/NN 's/POS	1
+after/IN all/DT ,/, (\w+)/VB or/CC (\w+)/VB ,/,	1
+to/TO (\w+)/VB the/DT rolling/JJ truck/NN and/CC (\w+)/VB a/DT guard/NN	1
+who/WP (\w+)/VBP and/CC the/DT Americans/NNPS who/WP (\w+)/VBP ./.	1
+allowances/NNS and/CC can/MD (\w+)/VB or/CC (\w+)/VB credits/NNS ,/, depending/VBG	1
+(\w+)/VBP to/TO New/NNP York/NNP they/PRP (\w+)/VBP out/RP to/TO eat/VB	1
+is/VBZ (\w+)/VB or/CC (\w+)/VB as/RB	2
+You/PRP can/MD not/RB (\w+)/VB with/IN one/CD hand/NN and/CC (\w+)/VB	2
+would/MD (\w+)/VB rather/RB than/IN (\w+)/VB	16
+the/DT yuan/NN could/MD (\w+)/VB or/CC (\w+)/VB against/IN the/DT	1
+not/RB going/VBG to/TO (\w+)/VB or/CC (\w+)/VB me/PRP	2
+rush/NN to/TO (\w+)/VB and/CC (\w+)/VB is/VBZ	1
+cost/NN to/TO (\w+)/VB and/CC (\w+)/VB ,/, so/IN	2
+Coffee/NNP can/MD either/RB (\w+)/VB or/CC (\w+)/VB	1
+to/TO (\w+)/VB his/PRP$ failure/NN to/TO (\w+)/VB	1
+deal/NN did/VBD n't/RB (\w+)/VB or/CC (\w+)/VB me/PRP ,/,	1
+(\w+)/VB muscle/NN mass/NN ,/, (\w+)/VB fat/JJ and/CC allow/VB	1
+we/PRP thought/VBD wed/NNP (\w+)/VBP and/CC then/RB well/RB (\w+)/VBP back/RB and/CC	1
+point/NN we/PRP (\w+)/VBP thinking/VBG about/IN them/PRP and/CC (\w+)/VB thinking/VBG about/IN this/DT	1
+(\w+)/VB to/TO North/NNP Dakota/NNP and/CC (\w+)/VB	1
+central/JJ bank/NN to/TO (\w+)/VB government/NN bonds/NNS and/CC (\w+)/VB	1
+can/MD (\w+)/VB or/CC (\w+)/VB levels/NNS of/IN	1
+could/MD (\w+)/VB 1604/CD and/CC (\w+)/VB the/DT	1
+climb/NN that/WDT would/MD (\w+)/VB or/CC (\w+)/VB my/PRP$ attempt/NN	1
+"/`` It/PRP can/MD (\w+)/VB and/CC (\w+)/VB	3
+(\w+)/VB sooner/RBR or/CC (\w+)/VB	1

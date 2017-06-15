@@ -1,0 +1,32 @@
+who/WP (\w+)/VBP and/CC (\w+)/VBP ,/,	10
+they/PRP may/MD (\w+)/VB or/CC (\w+)/VB that/DT bar/NN	1
+``/`` husbands/NNS (\w+)/VB and/CC (\w+)/VB ./.	1
+(\w+)/VB index/NN futures/NNS and/CC (\w+)/VB	2
+(\w+)/VB Japan/NNP but/CC (\w+)/VBP the/DT	1
+and/CC with/IN miners/NNS (\w+)/VBN to/TO (\w+)/VB after/IN	1
+(\w+)/VB and/CC (\w+)/VB ,/, how/WRB to/TO	1
+harder/JJR to/TO (\w+)/VB and/CC (\w+)/VB stocks/NNS ,/,	1
+to/TO (\w+)/VB or/CC (\w+)/VB that/DT advice/NN	1
+(\w+)/VB and/CC (\w+)/VB ,/, "/'' LSU/NNP	1
+fund/NN values/NNS would/MD (\w+)/VB or/CC (\w+)/VB ,/, according/VBG to/TO	1
+1/CD p.m./RB ,/, (\w+)/VB through/IN the/DT evening/NN and/CC (\w+)/VB about/RB	1
+--/: to/TO (\w+)/VB at/IN the/DT trough/NN and/CC (\w+)/VB at/IN	1
+Bourses/NNP (\w+)/VBD to/TO (\w+)/VB after/IN Asian/JJ gains/NNS	1
+which/WDT hasn/NN t/NN (\w+)/VBP easy/JJ ,/, won/VBD t/NN (\w+)/VBP	1
+can/MD (\w+)/VB or/CC (\w+)/VB attention/NN and/CC thus/RB	1
+(\w+)/VB those/DT six/CD before/IN he/PRP (\w+)/VBD those/DT nine/CD	1
+Levee/NNP District/NNP to/TO (\w+)/VB or/CC (\w+)/VB	1
+many/JJ shares/NNS to/TO (\w+)/VB or/CC (\w+)/VB ./.	1
+(\w+)/VBP to/TO "/`` (\w+)/VB	3
+great/JJ characters/NNS to/TO (\w+)/VB or/CC (\w+)/VB	1
+overwhelmingly/RB (\w+)/VBP confidence/NN that/IN Iraq/NNP will/MD (\w+)/VB a/DT stable/JJ government/NN	1
+(\w+)/VB with/IN ,/, (\w+)/VBP up/RP	1
+Mets/NNPS (\w+)/VBP ,/, and/CC the/DT Brewers/NNS (\w+)/VBP ,/,	1
+(\w+)/VB myself/PRP simply/RB do/VBP not/RB (\w+)/VB	1
+run/NN companies/NNS to/TO (\w+)/VB and/CC (\w+)/VB shares/NNS on/IN the/DT	3
+half/NN ,/, (\w+)/VB or/CC (\w+)/VB a/DT few/JJ ,/,	1
+'s/POS plan/NN to/TO (\w+)/VB and/CC (\w+)/VB stocks/NNS based/VBN on/IN	1
+manipulated/VBN to/TO (\w+)/VB or/CC (\w+)/VB a/DT point/NN ./.	1
+to/TO (\w+)/VB and/CC to/TO (\w+)/VB his/PRP$	1
+(\w+)/VB or/CC (\w+)/VB their/PRP$ money/NN	1
+the/DT orchestra/NN (\w+)/VBP to/TO (\w+)/VB ./.	1

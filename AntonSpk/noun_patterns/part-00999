@@ -1,0 +1,100 @@
+Bob/NNP --/: in/IN (\w+)/NN to/TO your/PRP$ (\w+)/NN about/IN	1
+slipping/VBG from/IN (\w+)/NN to/TO (\w+)/NN to/TO	1
+all/DT (\w+)/NN and/CC all/DT (\w+)/NN after/IN moving/VBG from/IN	1
+Monday/NNP ,/, the/DT (\w+)/NN reported/VBD seeing/VBG a/DT (\w+)/NN in/IN the/DT field/NN	1
+(\w+)/NN and/CC (\w+)/NN needed/VBD to/TO be/VB	1
+nagging/VBG (\w+)/NN ,/, beleaguered/VBN (\w+)/NN -/:	1
+obvious/JJ (\w+)/NN to/TO that/DT (\w+)/NN would/MD have/VB been/VBN	1
+(\w+)/NN and/CC (\w+)/NN alive/JJ ,/, which/WDT	1
+mix/NN of/IN (\w+)/NN and/CC (\w+)/NN since/IN 1979/CD ./.	1
+both/CC her/PRP$ (\w+)/NN and/CC (\w+)/NN play/VBP college-level/JJ hockey/NN	1
+verge/NN of/IN snatching/VBG (\w+)/NN from/IN the/DT jaws/NNS of/IN (\w+)/NN after/IN so/RB	1
+and/CC paint/VB the/DT (\w+)/NN and/CC (\w+)/NN of/IN his/PRP$	1
+in/IN the/DT last/JJ (\w+)/NN and/CC (\w+)/NN markets/NNS	1
+give/VB the/DT (\w+)/NN and/CC (\w+)/NN a/DT	1
+by/IN (\w+)/NN ,/, fashion/NN writer/NN by/IN (\w+)/NN	1
+know/VBP how/WRB the/DT (\w+)/NN always/RB accuses/VBZ the/DT (\w+)/NN of/IN taking/VBG	1
+for/IN every/DT (\w+)/NN 's/POS and/CC (\w+)/NN 's/POS hunger/NN ,/,	1
+do/VBP n't/RB say/VB (\w+)/NN or/CC (\w+)/NN	1
+lights/NNS in/IN the/DT (\w+)/NN and/CC the/DT (\w+)/NN ./.	1
+from/IN the/DT (\w+)/NN and/CC not/RB the/DT (\w+)/NN ./.	1
+carefree/JJ Saturday/NNP (\w+)/NN ,/, the/DT first/JJ (\w+)/NN of/IN Christmas/NNP	1
+scores/NNS at/IN the/DT (\w+)/NN and/CC (\w+)/NN of/IN the/DT scale/NN	1
+must/MD by/IN a/DT (\w+)/NN ,/, middle/NN and/CC (\w+)/NN ,/,	1
+know/VB the/DT (\w+)/NN to/TO that/DT (\w+)/NN "/`` I/PRP would/MD	1
+mix/NN of/IN ``/`` (\w+)/NN and/CC (\w+)/NN _/NNS pain/NN	1
+28/CD percent/NN (\w+)/NN ,/, 63/CD percent/NN (\w+)/NN	1
+the/DT whole/JJ "/'' (\w+)/NN turning/VBG into/IN (\w+)/NN ,/, end/NN of/IN	1
+of/IN IBM/NNP (\w+)/NN and/CC (\w+)/NN	1
+Australia-Japan/JJ (\w+)/NN plays/VBZ the/DT (\w+)/NN	1
+(\w+)/NN ,/, concluding/VBG a/DT (\w+)/NN of/IN remembrances/NNS for/IN	1
+(\w+)/NN suspension/NN and/CC multilink/NN (\w+)/NN has/VBZ been/VBN tuned/VBN	1
+a/DT (\w+)/NN in/IN Harlem/NNP and/CC a/DT (\w+)/NN on/IN the/DT Upper/NNP	1
+a/DT (\w+)/NN or/CC older/JJR (\w+)/NN helps/VBZ	1
+of/IN his/PRP$ older/JJR (\w+)/NN Kareem/NN and/CC his/PRP$ younger/JJR (\w+)/NN	1
+at/IN the/DT (\w+)/NN or/CC (\w+)/NN ,/, change/VBP	1
+sessions/NNS for/IN (\w+)/NN and/CC (\w+)/NN include/VBP singing/NN ,/,	1
+either/RB be/VB an/DT (\w+)/NN or/CC a/DT (\w+)/NN	1
+measure/NN of/IN (\w+)/NN or/CC (\w+)/NN that/WDT	1
+,/, its/PRP$ (\w+)/NN lies/VBZ in/IN its/PRP$ industrial/JJ (\w+)/NN	1
+(\w+)/NN and/CC (\w+)/NN end/NN ./. "/''	3
+(\w+)/NN to/TO which/WDT either/DT conventional/JJ (\w+)/NN	1
+railways/NNS through/IN back-yard/JJ (\w+)/NNS and/CC (\w+)/NN	1
+the/DT (\w+)/NN and/CC exit/VB at/IN the/DT (\w+)/NN ,/, reducing/VBG boarding/JJ	1
+her/PRP$ (\w+)/NN 's/POS death/NN ,/, her/PRP$ (\w+)/NN ,/,	1
+no/DT claim/NN of/IN (\w+)/NN and/CC no/DT concession/NN of/IN (\w+)/NN ./.	1
+14-year-old/JJ ,/, (\w+)/NN or/CC (\w+)/NN ,/, do/VB anything/NN	1
+(\w+)/NN ,/, the/DT agony/NN of/IN (\w+)/NN ,/, even/RB	2
+from/IN the/DT (\w+)/NN and/CC (\w+)/NN under/IN advisement/NN during/IN	1
+failing/VBG (\w+)/NN ,/, (\w+)/NN and/CC center/NN ,/,	1
+Darren/NNP ;/: (\w+)/NNP Pamela/NNP ,/, (\w+)/NNP Gary/NNP ;/: their/PRP$	1
+(\w+)/NN before/IN a/DT (\w+)/NN of/IN skiing/NN	1
+'s/POS (\w+)/NN and/CC out/IN the/DT (\w+)/NN of/IN his/PRP$	1
+:/: substantial/JJ (\w+)/NN tucked/VBD deep/RB inside/IN the/DT (\w+)/NN ,/, privilege/NN	1
+(\w+)/NN and/CC Henry/NNP James/NNP in/IN (\w+)/NN ./.	1
+It/PRP addresses/VBZ the/DT (\w+)/NN and/CC not/RB the/DT (\w+)/NN	2
+untested/JJ (\w+)/NN and/CC (\w+)/NN	1
+shows/VBZ a/DT (\w+)/NN charged/VBN with/IN killing/VBG a/DT (\w+)/NN and/CC her/PRP$ 4-year-old/JJ	1
+company/NN 's/POS (\w+)/NN and/CC (\w+)/NN from/IN the/DT	1
+eternal/JJ (\w+)/NN and/CC suggest/VBP a/DT (\w+)/NN	1
+(\w+)/NN ,/, Herb/NNP ;/: her/PRP$ (\w+)/NN ,/, Bonnie/NNP ;/:	1
+build/VB voter/NN (\w+)/NN while/IN exploiting/VBG voter/NN (\w+)/NN	1
+the/DT winning/JJ (\w+)/NN and/CC (\w+)/NN will/MD	1
+explores/VBZ the/DT (\w+)/NN to/TO this/DT (\w+)/NN by/IN collecting/VBG	1
+(\w+)/NN to/TO (\w+)/NN three/CD weeks/NNS	1
+to/TO an/DT American/JJ (\w+)/NN and/CC Armenian-Lebanese/JJ (\w+)/NN ,/, Marcom/NNP moved/VBD	1
+Not/RB every/DT (\w+)/NN wants/VBZ their/PRP$ (\w+)/NN to/TO	1
+back/RB one/CD (\w+)/NN ,/, to/TO Friday/NNP (\w+)/NN in/IN Baltimore/NNP	1
+give/VB the/DT (\w+)/NN to/TO the/DT (\w+)/NN	2
+(\w+)/NN to/TO her/PRP$ restless/JJ rebel/NN (\w+)/NN ./.	2
+(\w+)/NN married/VBN to/TO an/DT African-American/JJ (\w+)/NN	1
+(\w+)/NN with/IN a/DT dependent/JJ (\w+)/NN --/: $/$	1
+(\w+)/NN or/CC a/DT postmenopausal/JJ (\w+)/NN	1
+"/`` (\w+)/NN and/CC just/RB enough/JJ (\w+)/NN	1
+an/DT integrated/VBN (\w+)/NN and/CC (\w+)/NN bundle/NN for/IN the/DT	1
+a/DT (\w+)/NN and/CC a/DT (\w+)/NN ,/, is/VBZ written/VBN	1
+received/VBD an/DT (\w+)/NN to/TO the/DT (\w+)/NN	1
+(\w+)/NN and/CC (\w+)/NN of/IN each/DT cycling/NN	1
+the/DT (\w+)/NN intended/VBD to/TO attack/VB the/DT (\w+)/NN involved/VBN in/IN	1
+server/NN (\w+)/NN and/CC AIX/NNP (\w+)/NN	2
+is/VBZ a/DT (\w+)/NN obsessed/VBN with/IN taking/VBG a/DT (\w+)/NN	1
+with/IN available/JJ (\w+)/NN balances/NNS and/CC existing/VBG (\w+)/NN	1
+and/CC the/DT (\w+)/NN really/RB increases/VBZ but/CC (\w+)/NN does/VBZ n't/RB keep/VB	1
+only/RB a/DT (\w+)/NN and/CC a/DT (\w+)/NN 's/POS disappearance/NN	1
+big/JJ (\w+)/NN to/TO the/DT (\w+)/NN is/VBZ ,/,	2
+higher/JJR at/IN (\w+)/NN than/IN during/IN the/DT (\w+)/NN	2
+by/IN an/DT (\w+)/NN than/IN a/DT (\w+)/NN ./.	1
+(\w+)/NN as/RB opposed/VBN to/TO the/DT (\w+)/NN of/IN	1
+said/VBD Arizona/NNP 's/POS (\w+)/NN continues/VBZ to/TO lag/VB the/DT (\w+)/NN	1
+(\w+)/NN ;/: and/CC (\w+)/NN ./.	2
+everything/NN done/VBN that/DT (\w+)/NN ,/, and/CC later/RBR that/DT (\w+)/NN I/PRP had/VBD more/JJR	1
+a/DT balance/NN of/IN (\w+)/NN and/CC (\w+)/NN of/IN steel/NN products/NNS	1
+good/JJ (\w+)/NN and/CC a/DT good/JJ (\w+)/NN ;/:	1
+the/DT (\w+)/NN to/TO that/DT (\w+)/NN they/PRP probably/RB	1
+-/: Pauline/NNP 's/POS (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN and/CC (\w+)/NN no/RB longer/RB controlled/VBD	1
+foster/JJ (\w+)/NN ,/, the/DT (\w+)/NN or/CC children/NNS	1
+,/, and/CC (\w+)/NN must/MD provide/VB a/DT (\w+)/NN or/CC the/DT	1
+statements/NNS by/IN the/DT (\w+)/NN and/CC (\w+)/NN ./. It/PRP was/VBD	1
+200/CD feet/NNS from/IN (\w+)/NN to/TO (\w+)/NN ,/,	1
+is/VBZ how/WRB thin/JJ (\w+)/NN and/CC (\w+)/NN is/VBZ measured/VBN ./.	1

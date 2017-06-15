@@ -1,0 +1,20 @@
+'s/POS (\w+)/VB or/CC (\w+)/VB	4
+(\w+)/VBN to/TO (\w+)/VB for/IN the/DT	6
+aim/VBP to/TO (\w+)/VB violence/NN and/CC to/TO (\w+)/VB a/DT new/JJ life/NN	1
+(\w+)/VBP ;/: others/NNS go/VBP and/CC (\w+)/VBP back/RB	1
+(\w+)/VB or/CC (\w+)/VB this/DT morning/NN ,/,	1
+(\w+)/VB ads/NNS ,/, (\w+)/VB	1
+(\w+)/VB purified/JJ water/NN and/CC then/RB (\w+)/VB it/PRP ,/, or/CC	1
+the/DT man/NN you/PRP (\w+)/VBP to/TO (\w+)/VB	1
+as/IN they/PRP (\w+)/VB the/DT subways/NNS or/CC (\w+)/VB the/DT streets/NNS	1
+each/DT about/RB 40/CD (\w+)/VB or/CC (\w+)/VB a/DT few/JJ years/NNS	1
+characters/NNS --/: (\w+)/VB or/CC (\w+)/VB some/DT fractional/JJ	1
+the/DT format/NN will/MD (\w+)/VB or/CC (\w+)/VB on/IN its/PRP$ own/JJ	1
+``/`` You/PRP (\w+)/VBP the/DT date/NN that/IN they/PRP (\w+)/VBP you/PRP and/CC	1
+(\w+)/VB smoking/NN ,/, we/PRP (\w+)/VBP	2
+(\w+)/VBP and/CC (\w+)/VBP in/IN sprawling/VBG	1
+to/TO (\w+)/VB or/CC (\w+)/VB the/DT entire/JJ list/NN	9
+(\w+)/VB in/IN ready/JJ to/TO (\w+)/VB ./.	1
+(\w+)/VB or/CC (\w+)/VB network/NN access/NN	1
+Championship/NNP ,/, (\w+)/VB or/CC (\w+)/VB ,/, and/CC LSU/NNP	1
+be/VB encouraged/VBN to/TO (\w+)/VB and/CC (\w+)/VB services/NNS among/IN each/DT	1

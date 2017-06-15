@@ -1,0 +1,38 @@
+some/DT (\w+)/VBP more/RBR than/IN they/PRP (\w+)/VBP at/IN	1
+patterns/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN	1
+the/DT power/NN to/TO (\w+)/VB and/CC (\w+)/VB a/DT chief/JJ executive/JJ	1
+and/CC restaurants/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN the/DT tides/NNS	1
+they/PRP (\w+)/VBP or/CC (\w+)/VBP their/PRP$	4
+to/TO (\w+)/VB rather/RB than/IN to/TO (\w+)/VB information/NN ./.	1
+the/DT struggle/NN to/TO (\w+)/VB and/CC (\w+)/VBP	1
+(\w+)/VBP ital/JJ )/NN sluggers/NNS (/RB (\w+)/VB	1
+it/PRP did/VBD not/RB (\w+)/VB the/DT cost/NN and/CC (\w+)/VB the/DT	1
+percent/NN of/IN Democrats/NNPS (\w+)/VB ,/, while/IN 76/CD percent/NN (\w+)/VBP	1
+whether/IN prices/NNS (\w+)/VBP or/CC (\w+)/VB because/IN they/PRP	1
+`/`` Sometimes/RB you/PRP (\w+)/VBP ,/, sometimes/RB you/PRP (\w+)/VBP ,/, and/CC sometimes/RB	1
+be/VB able/JJ to/TO (\w+)/VB what/WP they/PRP (\w+)/VBP us/PRP ,/,	1
+he/PRP has/VBZ decided/VBN (\w+)/VB or/CC (\w+)/VB ,/, that/IN the/DT	1
+may/MD (\w+)/VB 15/CD years/NNS to/TO (\w+)/VB everyone/NN	1
+(\w+)/VB and/CC (\w+)/VB ,/, promote/VB and/CC	1
+(\w+)/VBP argued/VBN that/IN many/JJ boards/NNS (\w+)/VBP information/NN	1
+years/NNS ,/, (\w+)/VB or/CC (\w+)/VB a/SYM year/NN ./.	1
+and/CC big/JJ issues/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN an/DT instant/NN	1
+are/VBP going/VBG to/TO (\w+)/VB more/JJR matches/VBZ than/IN we/PRP (\w+)/VBP but/CC we/PRP have/VBP	1
+(\w+)/VB the/DT opportunity/NN to/TO (\w+)/VB a/DT drive/NN	1
+to/TO (\w+)/VB considering/VBG rules/NNS that/WDT would/MD (\w+)/VB the/DT official/JJ	3
+the/DT feeling/NN of/IN (\w+)/VB nor/CC (\w+)/VBP	1
+and/CC need/NN will/MD (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB evenly/RB	2
+that/WDT (\w+)/VBP and/CC (\w+)/VBP with/IN satisfying/VBG	1
+(\w+)/VB their/PRP$ deductions/NNS and/CC (\w+)/VB income/NN as/RB	1
+up/RP ,/, (\w+)/VB and/CC (\w+)/VB and/CC change/VB	1
+responses/NNS if/IN you/PRP (\w+)/VBP or/CC (\w+)/VB the/DT	1
+to/TO (\w+)/VB pace/NN or/CC (\w+)/VB	1
+10-mph/JJ wind/NN can/MD (\w+)/VB or/CC (\w+)/VB	1
+,/, tend/VBP to/TO (\w+)/VB and/CC (\w+)/VB as/IN those/DT	1
+professional/JJ skeptics/NNS who/WP (\w+)/VB and/CC (\w+)/VB bonds/NNS	1
+foods/NNS can/MD (\w+)/VB and/CC what/WP foods/NNS can/MD (\w+)/VB your/PRP$	1
+(\w+)/VB and/CC Alcoa/NNP has/VBZ to/TO (\w+)/VB ./. ''/''	1
+willing/JJ to/TO (\w+)/VB and/CC (\w+)/VB a/DT	2
+mission/NN is/VBZ to/TO (\w+)/VB close/NN rather/RB than/IN (\w+)/VB	1
+to/TO (\w+)/VB ,/, (\w+)/VB ,/, celebrate/VB	1

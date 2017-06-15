@@ -1,0 +1,38 @@
+environment/NN ,/, either/CC (\w+)/VB or/CC (\w+)/VB it/PRP	1
+(\w+)/VB it/PRP or/CC (\w+)/VB it/PRP ,/, send/VB	1
+you/PRP (\w+)/VBP and/CC when/WRB you/PRP (\w+)/VBP	5
+the/DT time/NN had/VBD (\w+)/VBN to/TO (\w+)/VB and/CC	2
+you/PRP either/RB (\w+)/VBP or/CC (\w+)/VBP by/IN	2
+(\w+)/VB ,/, (\w+)/VB ,/, ponder/VB	1
+when/WRB to/TO (\w+)/VB or/CC (\w+)/VB more/JJR	1
+,/, (\w+)/VBP or/CC (\w+)/VBP a/DT bike/NN ./.	1
+(\w+)/VB the/DT girls/NNS instead/RB of/IN (\w+)/VB	1
+been/VBN known/VBN to/TO (\w+)/VB high/JJ and/CC (\w+)/VB low/JJ ./.	1
+Bands/NNS tend/VBP to/TO (\w+)/VB or/CC (\w+)/VB	1
+to/TO (\w+)/VB and/CC (\w+)/VBP as/IN	1
+they/PRP did/VBD n't/RB (\w+)/VB a/DT way/NN to/TO (\w+)/VB it/PRP from/IN there/RB	1
+lose/VB ,/, (\w+)/VB and/CC (\w+)/VB ,/, prove/VB	1
+to/TO (\w+)/VB and/CC (\w+)/VB ,/, but/CC it/PRP	1
+an/DT order/NN to/TO (\w+)/VB or/CC (\w+)/VB ,/, it/PRP	1
+issues/NNS that/IN (\w+)/VB Americans/NNPS ,/, not/RB (\w+)/VBP	1
+to/TO (\w+)/VB because/IN if/IN we/PRP (\w+)/VBP again/RB ,/,	1
+Americans/NNPS (\w+)/VB from/IN foreigners/NNS and/CC (\w+)/VB their/PRP$ own/JJ goods/NNS	1
+(\w+)/VBP if/IN Philadelphia/NNP and/CC Atlanta/NNP (\w+)/VBP ,/, plus/CC Minnesota/NNP	1
+(\w+)/VB Jason/NNP ,/, I/PRP actually/RB (\w+)/VB	1
+(\w+)/VB for/IN the/DT day/NN or/CC (\w+)/VB	1
+mid-rise/JJ offices/NNS are/VBP (\w+)/VBN to/TO (\w+)/VB on/IN parking/NN	1
+(\w+)/VB him/PRP or/CC (\w+)/VB him/PRP ,/, declared/VBD	1
+vehicles/NNS (\w+)/VBN and/CC (\w+)/VB throughout/IN the/DT day/NN	1
+expected/VBN to/TO (\w+)/VB and/CC (\w+)/VB without/IN	1
+(\w+)/VB on/RP ,/, (\w+)/VB on/RP	1
+whether/IN you/PRP (\w+)/VBP him/PRP or/CC (\w+)/VBP him/PRP -/: at/IN	1
+days/NNS you/PRP (\w+)/VBP to/TO (\w+)/VB work/NN dealing/VBG with/IN	1
+publications/NNS to/TO (\w+)/VB and/CC (\w+)/VB newspaper/NN advertising/NN	1
+(\w+)/VB your/PRP$ family/NN you/PRP (\w+)/VBP to/TO wake/NN	1
+will/MD (\w+)/VB your/PRP$ promise/NN not/RB to/TO (\w+)/VB American/JJ	1
+tries/VBZ to/TO (\w+)/VB interference/NN and/CC (\w+)/VB battery/NN life/NN	2
+"/`` People/NNS (\w+)/VBP them/PRP or/CC (\w+)/VBP them/PRP ./.	1
+(\w+)/VBP AYP/NNP this/DT year/NN will/MD (\w+)/VB to/TO offer/VB transfers/NNS	1
+have/VB had/VBN to/TO (\w+)/VB or/CC (\w+)/VB several/JJ	2
+who/WP are/VBP called/VBN (\w+)/VBP to/TO (\w+)/VB	1
+are/VBP reluctant/JJ to/TO (\w+)/VB Israeli/JJ products/NNS or/CC to/TO (\w+)/VB their/PRP$ products/NNS	1

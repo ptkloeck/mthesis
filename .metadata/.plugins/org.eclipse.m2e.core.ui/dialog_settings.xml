@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="480" key="width"/>
+		<item value="2436" key="x"/>
+		<item value="258" key="y"/>
+		<item value="562" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Peter\Desktop\Tutorial2"/>
+			<item value="C:\Users\Peter\Desktop\tut2"/>
+			<item value="C:\Users\Peter\Desktop\Michalski Szymon - NLP4WEB - Exercise 2"/>
+			<item value="C:\Users\Peter\Desktop\exercise2"/>
+			<item value="C:\Users\Peter\Desktop\tut2 - Tobias Röding"/>
+			<item value="C:\Users\Peter\Desktop\ZhizhenWang"/>
+			<item value="C:\Users\Peter\Desktop\FelixCaspelherr_EX2"/>
+			<item value="C:\Users\Peter\Desktop\tut2-Jonas_Molina_Ramirez"/>
+			<item value="C:\Users\Peter\Desktop\Bretschneider_tut2"/>
+			<item value="C:\Users\Peter\Desktop\tut2-kai-riemann"/>
+			<item value="C:\Users\Peter\Desktop\Geisler_NLP4Web15_ex2"/>
+			<item value="C:\Users\Peter\Desktop\Kersting_Homework2"/>
+			<item value="C:\Users\Peter\Desktop\Submission2"/>
+			<item value="C:\Users\Peter\Desktop\tut2_oberle"/>
+			<item value="C:\Users\Peter\Desktop\berninger_tut2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/media/peter/FECA5030CA4FE40D/Informatik/Semester12/Masterarbeit/Workspace/AntonSpk"/>
+			<item value="/media/peter/FECA5030CA4FE40D/Informatik/Semester12/Masterarbeit/Workspace/AntonSpk/pom.xml"/>
+			<item value="/media/peter/FECA5030CA4FE40D/Informatik/Semester12/Masterarbeit/Workspace/AntonPython"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="de.peter_kloeckner.anton_jva.anton_jva"/>
+			<item value="de.peter_kloeckner.anton_jva.anton_"/>
+		</list>
+		<list key="groupId">
+			<item value="de.peter_kloeckner.anton-jva"/>
+		</list>
+		<list key="artifactId">
+			<item value="anton-jva"/>
+			<item value="anton-"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

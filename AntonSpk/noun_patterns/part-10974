@@ -1,0 +1,85 @@
+address/VB Gregs/VBZ (\w+)/NN ,/, (\w+)/NN	1
+Our/PRP$ (\w+)/NN sparked/VBD our/PRP$ (\w+)/NN ,/, "/'' said/VBD	1
+couple/NN were/VBD (\w+)/NN and/CC (\w+)/NN at/IN the/DT time/NN	1
+core/JJ (\w+)/NN ,/, the/DT (\w+)/NN is/VBZ easy/JJ ,/,	1
+(\w+)/NN or/CC (\w+)/NN for/IN the/DT new/JJ	1
+James/NNP 's/POS (\w+)/NN ,/, and/CC of/IN his/PRP$ (\w+)/NN William/NNP 's/NNP ,/,	1
+,/, "/'' (\w+)/NN and/CC (\w+)/NN can/MD get/VB	1
+white/JJ (\w+)/NN with/IN a/DT white/JJ (\w+)/NN in/IN the/DT	1
+deadliness/NNS not/RB of/IN (\w+)/NN but/CC of/IN the/DT armed/JJ (\w+)/NN to/TO which/WDT	1
+his/PRP$ (\w+)/NN is/VBZ nothing/NN like/IN his/PRP$ (\w+)/NN ./.	1
+the/DT (\w+)/NN and/CC (\w+)/NN of/IN various/JJ time/NN	1
+(\w+)/NN and/CC (\w+)/NN ,/, liberals/NNS	1
+,/, separating/VBG the/DT (\w+)/NN from/IN the/DT (\w+)/NN and/CC the/DT winners/NNS	1
+seeking/VBG (\w+)/NN and/CC the/DT one/NN making/VBG (\w+)/NN	1
+tried/VBD (\w+)/NN by/IN (\w+)/NN ,/, dealing/VBG	1
+a/DT young/JJ (\w+)/NN and/CC a/DT young/JJ (\w+)/NN who/WP were/VBD	1
+I/PRP 'm/VBP the/DT (\w+)/NN of/IN a/DT gifted/JJ (\w+)/NN	1
+rollercoaster/NN of/IN (\w+)/NN and/CC (\w+)/NN but/CC to/TO	2
+was/VBD her/PRP$ (\w+)/NN who/WP had/VBD murdered/VBN her/PRP$ (\w+)/NN last/JJ	1
+working/VBG (\w+)/NN supporting/VBG one/CD (\w+)/NN would/MD	1
+work/VBP on/RP (\w+)/NN and/CC (\w+)/NN	1
+will/MD earn/VB the/DT (\w+)/NN or/CC (\w+)/NN on/IN his/PRP$ record/NN	1
+raise/VB his/PRP$ (\w+)/NN and/CC (\w+)/NN with/IN his/PRP$ wife/NN	1
+(\w+)/NN kissing/VBG a/DT black/JJ (\w+)/NN or/CC schoolchildren/NNS with/IN	1
+a/DT (\w+)/NN standing/NN beside/IN the/DT middle-aged/JJ (\w+)/NN	1
+(\w+)/NN and/CC dictators/NNS of/IN the/DT (\w+)/NN ,/, with/IN only/RB	1
+say/VB at/IN the/DT (\w+)/NN or/CC (\w+)/NN of/IN the/DT	1
+supports/VBZ dual/JJ 80mm/JJ (\w+)/NN and/CC (\w+)/NN	1
+Third/NNP Reich/NNP in/IN (\w+)/NN and/CC the/DT Holocaust/NN in/IN (\w+)/NN ./.	1
+having/VBG tasted/VBN both/DT (\w+)/NN and/CC (\w+)/NN in/IN	1
+kicker/NN to/TO snatch/VB (\w+)/NN from/IN the/DT jaws/NNS of/IN (\w+)/NN ./.	1
+10/CD (\w+)/NN and/CC 10/CD (\w+)/NN	1
+,/, (\w+)/NN and/CC (\w+)/NN malaria/NN researchers/NNS at/IN	1
+'s/POS (\w+)/NN married/VBD Anne/NNP 's/POS (\w+)/NN	1
+(\w+)/NN get/VB a/DT hot/JJ (\w+)/NN ,/,	1
+'s/POS parents/NNS ,/, (\w+)/NN and/CC (\w+)/NN took/VBD part/NN	2
+Hunter/NNP (\w+)/NN and/CC (\w+)/NN Helen/NNP and/CC Nick/NNP	1
+learned/VBN to/TO combine/VB (\w+)/NN with/IN its/PRP$ new/JJ (\w+)/NN	1
+the/DT museum/NN Thursday/NNP (\w+)/NN ,/, but/CC the/DT (\w+)/NN	1
+company/NN specializing/VBG in/IN (\w+)/NN and/CC (\w+)/NN for/IN ATM/NNP	1
+responded/VBN to/TO (\w+)/NN and/CC (\w+)/NN ,/, to/TO booms/NNS	1
+'s/POS top/JJ (\w+)/NN and/CC (\w+)/NN but/CC	1
+The/DT Singaporean/NNP (\w+)/NN and/CC Chinese/JJ (\w+)/NN	1
+saying/VBG that/IN (\w+)/NN had/VBD met/VBN (\w+)/NN adequately/RB	1
+his/PRP$ late/JJ (\w+)/NN and/CC (\w+)/NN ,/,	1
+Mrs./NNP DeCillo/NNP 's/POS (\w+)/NN that/IN her/PRP$ (\w+)/NN had/VBD been/VBN kidding/VBG	1
+(\w+)/NN ,/, survivors/NNS include/VBP her/PRP$ (\w+)/NN	2
+says/VBZ ,/, his/PRP$ (\w+)/NN to/TO that/WDT (\w+)/NN was/VBD simply/RB	1
+a/DT division/NN between/IN (\w+)/NN and/CC (\w+)/NN ,/, conservatives/NNS	1
+Survived/NNP by/IN (\w+)/NN ,/, Guy/NNP ;/: (\w+)/NN ,/, Collette/NNP Olivera/NNP	1
+(\w+)/NN treaty/NN to/TO end/VB the/DT (\w+)/NN with/IN Germany/NNP	1
+budding/JJ (\w+)/NN and/CC buxom/NN servant/NN (\w+)/NN --/:	1
+(\w+)/NN and/CC (\w+)/NN will/MD take/VB	5
+author/NN of/IN (\w+)/NN guides/NNS on/IN preventing/VBG (\w+)/NN sexual/JJ	1
+a/DT (\w+)/NN ,/, body/NN and/CC (\w+)/NN	2
+her/PRP$ (\w+)/NN is/VBZ Serbian/NNP ,/, her/PRP$ (\w+)/NN Muslim/JJ	1
+a/DT (\w+)/NN and/CC (\w+)/NN who/WP have/VBP not/RB	1
+butchered/VBD ox/NN (\w+)/NN ,/, fresh/JJ "/`` (\w+)/NN and/CC feet/NNS on/IN	1
+(\w+)/NN reported/VBD that/IN a/DT (\w+)/NN there/RB	1
+of/IN computer/NN (\w+)/NN and/CC (\w+)/NN ,/, meaning/VBG that/IN	1
+(\w+)/NN and/CC 4-year-old/JJ (\w+)/NN sitting/VBG	1
+(\w+)/NN without/IN a/DT (\w+)/NN is/VBZ like/IN	5
+fasteners/NNS across/IN the/DT (\w+)/NN and/CC two/CD across/IN the/DT (\w+)/NN	1
+(\w+)/NN Anne/NNP Mulloy/NNP and/CC (\w+)/NN William/NNP Ahern/NNP	1
+Chavez/NNP at/IN (\w+)/NN ,/, Hannahan/NNP by/IN (\w+)/NN	1
+(\w+)/NN ,/, like/IN alpha/NN (\w+)/NN	1
+(\w+)/NN held/VBD their/PRP$ (\w+)/NN to/TO	1
+to/TO appoint/VB a/DT (\w+)/NN or/CC (\w+)/NN to/TO the/DT federal/JJ	1
+His/PRP$ (\w+)/NN and/CC (\w+)/NN were/VBD jailed/VBN	1
+a/DT Fort/NNP Wayne/NNP (\w+)/NN accused/VBD of/IN raping/VBG a/DT (\w+)/NN the/DT morning/NN	1
+with/IN the/DT (\w+)/NN ,/, a/DT (\w+)/NN and/CC a/DT	1
+my/PRP$ (\w+)/NN died/VBD ,/, my/PRP$ (\w+)/NN received/VBD crank/JJ phone/NN	1
+has/VBZ found/VBN the/DT (\w+)/NN to/TO this/DT (\w+)/NN ,/, then/RB	1
+about/IN a/DT (\w+)/NN and/CC (\w+)/NN plotting/VBG	1
+a/DT (\w+)/NN card/NN versus/IN (\w+)/NN ,/, "/'' Smith/NNP	1
+Coast/NNP (\w+)/NN and/CC 3-4/CD (\w+)/NN he/PRP 'll/MD	1
+and/CC the/DT (\w+)/NN survived/VBD ,/, but/CC the/DT (\w+)/NN was/VBD booked/VBN	1
+(\w+)/NN and/CC the/DT way/NN the/DT (\w+)/NN defended/VBD Jackson/NNP ./.	1
+mark/VB the/DT formal/JJ (\w+)/NN of/IN the/DT (\w+)/NN	2
+takes/VBZ sadistic/JJ (\w+)/NN in/IN inflicting/JJ hideous/JJ (\w+)/NN and/CC is/VBZ	1
+column/NN discusses/VBZ electricity/NN (\w+)/NN ,/, (\w+)/NN	1
+Adam/NNP was/VBD a/DT (\w+)/NN and/CC Eve/NNP was/VBD a/DT (\w+)/NN ;/:	1
+thy/NN (\w+)/NN and/CC thy/NN (\w+)/NN .	1
+time/NN ,/, (\w+)/NN and/CC (\w+)/NN lawyers/NNS	1
+a/DT more/RBR acceptable/JJ (\w+)/NN to/TO the/DT (\w+)/NN ``/`` What/WP do/VBP	1

@@ -1,0 +1,43 @@
+to/TO (\w+)/VB ,/, (\w+)/VB or/CC hold/VB	14
+can/MD not/RB (\w+)/VB or/CC (\w+)/VB life/NN ./.	1
+daily/JJ consumption/NN is/VBZ (\w+)/VBN to/TO (\w+)/VB from/IN	2
+he/PRP would/MD (\w+)/VB to/TO (\w+)/VB ./.	1
+suburbs/NNS to/TO (\w+)/VB and/CC (\w+)/VB	1
+they/PRP (\w+)/VBP personally/RB but/CC they/PRP (\w+)/VBP professionally/RB because/IN	1
+scenario/NN to/TO (\w+)/VB the/DT 90/NNPS 's/POS and/CC (\w+)/VB the/DT century/NN ?/.	1
+someone/NN wants/VBZ to/TO (\w+)/VB or/CC (\w+)/VB big/JJ blocks/NNS	1
+(\w+)/VBN to/TO life/NN and/CC (\w+)/VB	1
+both/DT (\w+)/VB and/CC (\w+)/VB Ovitz/NNP was/VBD a/DT	2
+(\w+)/VBP and/CC columns/NNS (\w+)/VBP	1
+to/TO both/DT (\w+)/VB and/CC (\w+)/VB Oates/NNS	1
+not/RB (\w+)/VB or/CC (\w+)/VB their/PRP$ races/NNS	1
+to/TO (\w+)/VB to/TO junior/JJ college/NN and/CC (\w+)/VB back/RP	1
+addiction/NN does/VBZ n't/RB (\w+)/VB away/RP when/WRB prices/NNS (\w+)/VBP	1
+criticism/NN does/VBZ not/RB (\w+)/VB or/CC (\w+)/VB books/NNS	1
+printers/NNS to/TO issue/VB (\w+)/VB and/CC (\w+)/VB orders/NNS	1
+place/NN if/IN they/PRP (\w+)/VBP to/TO (\w+)/VB parliament/NN ./.	1
+an/DT easy/JJ (\w+)/VBP and/CC (\w+)/VBP among/IN students/NNS	1
+be-bop/NNS ,/, the/DT (\w+)/VB and/CC (\w+)/VB	1
+stretch/NN ,/, (\w+)/VB or/CC (\w+)/VB ./.	1
+is/VBZ finished/VBN --/: (\w+)/VB or/CC (\w+)/VB ./.	1
+Those/DT (\w+)/VBP Tuesday/NNP in/IN Rochester/NNP and/CC (\w+)/VB	1
+that/IN tamoxifen/NN could/MD (\w+)/VB cancer/NN cells/NNS as/IN they/PRP (\w+)/VBP to/TO develop/VB	2
+administrations/NNS had/VBD (\w+)/VBP to/TO (\w+)/VB that/IN	1
+(\w+)/VB ,/, you/PRP (\w+)/VB "/`` politics/NNS	1
+exercise/NN (\w+)/VB or/CC (\w+)/VB your/PRP$ appetite/NN ?/.	1
+her/PRP$ time/NN would/MD (\w+)/VB to/TO (\w+)/VB on/RP ,/,	1
+to/TO (\w+)/VB functionality/RB and/CC (\w+)/VB the/DT	1
+(\w+)/VBP or/CC (\w+)/VBP together/RB ,/, ''/''	1
+Athens/NNP bourse/NN will/MD (\w+)/VB and/CC (\w+)/VB	1
+farmers/NNS to/TO (\w+)/VB yields/NNS rather/RB than/IN (\w+)/VB costs/NNS ,/, they/PRP	1
+frozen/VBN )/NNS ,/, (\w+)/VB the/DT heat/NN rather/RB than/IN (\w+)/VB it/PRP	1
+to/TO (\w+)/VB or/CC (\w+)/VB relatively/RB small/JJ	1
+(\w+)/VB and/CC (\w+)/VB guns/NNS on/IN a/DT	3
+(\w+)/VB it/PRP ,/, candidates/NNS can/MD (\w+)/VB it/PRP ,/,	1
+,/, people/NNS could/MD (\w+)/VB to/TO another/DT building/NN and/CC (\w+)/VB up/RP behind/IN	1
+easy/RB (\w+)/VB and/CC (\w+)/VB --/:	1
+to/TO (\w+)/VB it/PRP back/RB and/CC (\w+)/VB	1
+for/IN you/PRP to/TO (\w+)/VB ,/, I/PRP have/VBP to/TO (\w+)/VB '/''	1
+(\w+)/VB ,/, partly/RB to/TO (\w+)/VB imported/VBN inflation/NN but/CC	1
+while/IN they/PRP (\w+)/VBP about/IN solutions/NNS ,/, they/PRP (\w+)/VBP :/:	1
+dont/VBP think/VBP we/PRP (\w+)/VBP character/NN ,/, but/CC we/PRP (\w+)/VBP drawn/VBN	1

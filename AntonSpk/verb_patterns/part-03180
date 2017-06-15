@@ -1,0 +1,38 @@
+packet/NN pickup/NN will/MD (\w+)/VB at/IN 6/CD a.m./RB and/CC (\w+)/VB at/IN	1
+to/TO (\w+)/VB at/IN 1100/NNP GMT/NNP and/CC (\w+)/VB at/IN 1400/CD	3
+(\w+)/VB a/DT World/NNP Series/NNP and/CC (\w+)/VB a/DT	1
+(\w+)/VB there/RB rather/RB than/IN (\w+)/VB	2
+,/, (\w+)/VB and/CC (\w+)/VB all/DT year/NN	1
+these/DT camellias/NNS (\w+)/VBP cool/JJ nights/NNS and/CC (\w+)/VB humid/JJ ,/, 90-degree/JJ	1
+wanted/VBD to/TO (\w+)/VB or/CC (\w+)/VB 1,000/CD shares/NNS had/VBD	1
+bid/NN scheduled/VBN to/TO (\w+)/VB on/IN May/NNP 5/CD and/CC (\w+)/VB	1
+ability/NN to/TO (\w+)/VB internal/JJ drama/NN and/CC (\w+)/VB secrecy/NN	1
+select/VB stocks/NNS to/TO (\w+)/VB and/CC (\w+)/VB in/IN investment/NN	1
+Cleveland/NNP fans/NNS (\w+)/VBP to/TO (\w+)/VB Wallace/NNP ./.	1
+gases/NNS ,/, which/WDT (\w+)/VBP and/CC (\w+)/VBP almost/RB in/IN	1
+was/VBD to/TO (\w+)/VB more/RBR than/IN we/PRP (\w+)/VBP ,/, and/CC to/TO	1
+(\w+)/VB any/DT (\w+)/VB pocket/NN money/NN found/VBN	1
+we/PRP would/MD (\w+)/VB or/CC (\w+)/VB	2
+I/PRP still/RB (\w+)/VBP Bristol/NNP ,/, but/CC I/PRP (\w+)/VBP the/DT finish/NN ,/,	1
+that/WDT (\w+)/VBP and/CC (\w+)/VB seldom/RB disrupt/VB	1
+voters/NNS that/WDT could/MD (\w+)/VB or/CC (\w+)/VB the/DT	1
+(\w+)/VB pictures/NNS of/IN us/PRP and/CC (\w+)/VB us/PRP	1
+to/TO (\w+)/VB more/RBR often/RB than/IN they/PRP (\w+)/VBD ./.	1
+to/TO (\w+)/VB the/DT sinner/NN but/CC (\w+)/VBP the/DT sin/NN	1
+than/IN (\w+)/VBP just/RB trying/VBG to/TO (\w+)/VB it/PRP close/JJ ./.	1
+,/, (\w+)/VB or/CC (\w+)/VB 10/CD yards/NNS ,/,	1
+people/NNS (\w+)/VBN in/IN for/IN dinner/NN then/RB (\w+)/VBP somewhere/RB else/RB	1
+call/NN to/TO (\w+)/VB to/TO (\w+)/VB the/DT results/NNS	4
+Aussie/NNP openers/NNS (\w+)/VB out/RP and/CC (\w+)/VB	1
+gas/NN to/TO (\w+)/VB and/CC (\w+)/VB 25/CD	1
+(\w+)/VBP and/CC (\w+)/VBP in/IN forward/JJ movement/NN	1
+whether/IN it/PRP should/MD (\w+)/VB in/IN Dundee/NNP or/CC (\w+)/VB	1
+recommend/VBP that/IN users/NNS (\w+)/VB shooting/NN and/CC (\w+)/VB recovering/VBG as/RB	1
+violence/NN seemed/VBD to/TO (\w+)/VB and/CC (\w+)/VB in/IN 20-year/JJ cycles/NNS	1
+the/DT yuan/NN could/MD (\w+)/VB or/CC (\w+)/VB over/IN	1
+all/DT engine/NN valves/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+(\w+)/VBP you/PRP can/MD (\w+)/VB much/RB more/RBR ./.	1
+they/PRP simply/RB (\w+)/VB or/CC (\w+)/VB away/RP	1
+things/NNS (\w+)/VBP ,/, the/DT more/JJR others/NNS (\w+)/VBP the/DT same/JJ ./.	1
+changes/VBZ unless/IN we/PRP (\w+)/VBP to/TO (\w+)/VB school-age/JJ	1
+to/TO lawmakers/NNS who/WP (\w+)/VBP to/TO (\w+)/VB	1

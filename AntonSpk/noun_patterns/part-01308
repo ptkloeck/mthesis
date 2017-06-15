@@ -1,0 +1,119 @@
+'s/VBZ a/DT (\w+)/NN whose/WP$ (\w+)/NN	1
+Marquez/NNP 's/POS (\w+)/NN by/IN his/PRP$ (\w+)/NN ,/,	1
+Boy/NNP meets/VBZ (\w+)/NN ,/, (\w+)/NN breaks/NNS up/RB	1
+names/NNS of/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN killed/VBD when/WRB their/PRP$	1
+server/NN and/CC network/NN (\w+)/NN ,/, (\w+)/NN and/CC applications/NNS ./.	1
+for/IN a/DT 21-year-old/JJ (\w+)/NN and/CC a/DT 41-year-old/JJ (\w+)/NN in/IN	1
+public/JJ (\w+)/NN is/VBZ losing/VBG (\w+)/NN	1
+at/IN the/DT (\w+)/NN and/CC near/IN the/DT (\w+)/NN of/IN the/DT hour/NN	1
+a/DT dying/VBG (\w+)/NN ministered/VBD to/TO a/DT dying/VBG (\w+)/NN ./.	1
+are/VBP the/DT (\w+)/NN or/CC (\w+)/NN who/WP spits/NNS	2
+a/DT (\w+)/NN ,/, and/CC here/RB the/DT (\w+)/NN was/VBD the/DT fact/NN	1
+a/DT greater/JJR (\w+)/NN than/IN the/DT current/JJ available/JJ (\w+)/NN	1
+than/IN toward/IN the/DT (\w+)/NN and/CC (\w+)/NN of/IN the/DT month/NN	1
+a/DT (\w+)/NN or/CC (\w+)/NN is/VBZ saved/VBN from/IN	1
+crushing/VBG an/DT elderly/JJ (\w+)/NN to/TO death/NN and/CC a/DT (\w+)/NN sniffing/VBG a/DT dog/NN	1
+get/VB treatment/NN all/DT (\w+)/NN and/CC all/DT (\w+)/NN ,/, ''/''	1
+(\w+)/NN respected/VBD my/PRP$ (\w+)/NN as/IN an/DT	1
+unidentified/JJ (\w+)/NN carjacked/VBD a/DT young/JJ (\w+)/NN at/IN gunpoint/NN and/CC	1
+Every/DT (\w+)/NN who/WP has/VBZ sent/VBN their/PRP$ (\w+)/NN into/IN a/DT nursery/NN	1
+nuclear/JJ (\w+)/NN ,/, (\w+)/NN and/CC	1
+Giving/VBG (\w+)/NN or/CC (\w+)/NN directly/RB	1
+A/DT long/JJ (\w+)/NN and/CC (\w+)/NN for/IN all/DT ,/,	1
+the/DT (\w+)/NN ,/, the/DT (\w+)/NN ,/, the/DT tragicomedy/NN	1
+(\w+)/NN (/NN or/CC (\w+)/NN )/NN writes/VBZ	1
+the/DT statistics/NNS about/IN (\w+)/NN and/CC (\w+)/NN would/MD be/VB	1
+each/DT (\w+)/NN wants/VBZ their/PRP$ (\w+)/NN	1
+nearly/RB every/DT (\w+)/NN requires/VBZ (\w+)/NN ,/, seats/NNS ended/VBD	1
+(\w+)/NN and/CC a/DT strong/JJ (\w+)/NN --/: the/DT same/JJ	1
+(\w+)/NN persuaded/VBD her/PRP$ (\w+)/NN to/TO let/VB	1
+by/IN her/PRP$ (\w+)/NN ,/, her/PRP$ (\w+)/NN ,/, who/WP lives/VBZ	1
+the/DT (\w+)/NN and/CC (\w+)/NN unexpectedly/RB	1
+(\w+)/NN ,/, and/CC more/JJR (\w+)/NN is/VBZ coming/VBG	1
+in/IN (\w+)/NN of/IN their/PRP$ (\w+)/NN	1
+the/DT (\w+)/NN and/CC (\w+)/NN will/MD have/VB a/DT	1
+her/PRP$ sense/NN of/IN (\w+)/NN and/CC (\w+)/NN	1
+brings/VBZ to/TO (\w+)/NN and/CC (\w+)/NN	1
+with/IN his/PRP$ Swedish-born/JJ (\w+)/NN and/CC his/PRP$ (\w+)/NN ,/, a/DT	1
+both/PDT the/DT (\w+)/NN and/CC the/DT (\w+)/NN ,/, giving/VBG	1
+the/DT instant/JJ (\w+)/NN to/TO the/DT (\w+)/NN of/IN	1
+of/IN courses/NN ,/, (\w+)/NN ,/, (\w+)/NN or/CC information/NN ./.	2
+,/, (\w+)/NN and/CC (\w+)/NN along/IN ./.	1
+photographers/NNS to/TO his/PRP$ (\w+)/NN and/CC (\w+)/NN and/CC	1
+2-15/JJ (\w+)/NN and/CC a/DT 2-14/JJ (\w+)/NN ,/, which/WDT was/VBD	1
+A/DT Lakeville/JJ (\w+)/NN and/CC a/DT (\w+)/NN from/IN	1
+replace/VB their/PRP$ (\w+)/NN and/CC (\w+)/NN with/IN more/JJR elaborate/JJ	1
+urged/VBN that/IN (\w+)/NN and/CC (\w+)/NN lawyers/NNS	1
+(\w+)/NN and/CC abrupt/JJ (\w+)/NN of/IN Public/NNP	2
+the/DT 49ers/NNPS on/IN (\w+)/NN and/CC (\w+)/NN ,/, and/CC running/VBG	1
+Their/PRP$ (\w+)/NN outplayed/VBD our/PRP$ (\w+)/NN ./. "/''	1
+(\w+)/NN of/IN the/DT (\w+)/NN ,/, I/PRP think/VBP	1
+18-year-old/JJ (\w+)/NN and/CC a/DT 19-year-old/JJ (\w+)/NN on/IN Chicago/NNP	1
+'/POS slow/JJ (\w+)/NN and/CC the/DT strong/JJ (\w+)/NN	1
+(\w+)/NN or/CC (\w+)/NN of/IN a/DT particular/JJ	1
+(\w+)/NN is/VBZ every/DT (\w+)/NN 's/POS worst/JJS nightmare/NN	2
+disapproval/NN of/IN ignominious/JJ (\w+)/NN or/CC of/IN costly/JJ (\w+)/NN	1
+for/IN (\w+)/NN and/CC (\w+)/NN over/IN the/DT	1
+by/IN herself/PRP ,/, (\w+)/NN and/CC (\w+)/NN ,/, the/DT same/JJ	1
+in/IN (\w+)/NN ,/, were/VBD at/IN (\w+)/NN	1
+about/IN a/DT doofus/JJ (\w+)/NN ,/, his/PRP$ (\w+)/NN	1
+crying/VBG tears/NNS of/IN (\w+)/NN or/CC tears/NNS of/IN (\w+)/NN ,/,	1
+-/: including/VBG (\w+)/NN Sir/NNP Michael/NNP Redgrave/NNP ,/, (\w+)/NN Rachel/NNP Kempson/NNP and/CC	1
+(\w+)/NN in/IN Iraq/NNP but/CC a/DT (\w+)/NN in/IN the/DT rest/NN	1
+(\w+)/NN of/IN the/DT (\w+)/NN of/IN that/DT	8
+the/DT (\w+)/NN or/CC (\w+)/NN of/IN Reed/NNP 's/POS	1
+for/IN years/NNS --/: (\w+)/NN and/CC (\w+)/NN	1
+-/: (\w+)/NN ,/, present/NN and/CC (\w+)/NN -/: that/WDT makes/VBZ	1
+Essentially/RB ,/, the/DT (\w+)/NN and/CC (\w+)/NN appliances/NNS developed/VBN with/IN	1
+A/DT (\w+)/NN can/MD divorce/VB his/PRP$ (\w+)/NN by/IN	1
+a/DT 12-year-old/JJ (\w+)/NN and/CC a/DT 1-year-old/JJ (\w+)/NN in/IN an/DT	1
+by/IN his/PRP$ (\w+)/NN Krista/NN and/CC (\w+)/NN Casey/NN	1
+solution/NN including/VBG (\w+)/NN ,/, (\w+)/NN	1
+the/DT (\w+)/NN but/CC the/DT (\w+)/NN weeks/NNS were/VBD really/RB	1
+about/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN who/WP discover/VBP	1
+once/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN feel/VBP drawn/VBN	1
+can/MD be/VB used/VBN (\w+)/NN or/CC (\w+)/NN and/CC can/MD sense/VB	1
+a.m./RB ./. One/NNP (\w+)/NN was/VBD the/DT (\w+)/NN 's/POS boyfriend/NN	1
+(\w+)/NN ,/, and/CC Greenspan/NNP in/IN (\w+)/NN	2
+Olsen/NNP 's/POS (\w+)/NN and/CC (\w+)/NN	1
+on/IN (\w+)/NN and/CC (\w+)/NN with/IN my/PRP$	1
+(\w+)/NN and/CC a/DT (\w+)/NN ,/, for/IN which/WDT	1
+Protopopovs/NNPS ,/, (\w+)/NN and/CC (\w+)/NN ,/,	1
+(\w+)/NN remarries/VBZ and/CC his/PRP$ (\w+)/NN moves/NNS in/IN	1
+as/RB -/: the/DT (\w+)/NN of/IN the/DT (\w+)/NN	1
+Long-Suffering/JJ political/JJ (\w+)/NN ,/, estranged/VBN from/IN Self-Centered/JJ (\w+)/NN ,/, sashays/VBZ	2
+anticipation/NN for/IN the/DT (\w+)/NN and/CC (\w+)/NN coronation/NN	1
+Like/IN his/PRP$ (\w+)/NN ,/, his/PRP$ (\w+)/NN	1
+the/DT (\w+)/NN from/IN the/DT (\w+)/NN without/IN Aga/NNP	1
+change/VB from/IN (\w+)/NN to/TO female/NN ,/, from/IN (\w+)/NN to/TO	2
+reads/VBZ her/PRP$ cookbooks/NNS (\w+)/NN to/TO (\w+)/NN ,/, Ms./NNP	1
+(\w+)/NN over/IN (\w+)/NN ,/, striving/VBG over/IN	1
+viewed/VBN by/IN their/PRP$ (\w+)/NN and/CC (\w+)/NN as/IN	2
+(\w+)/NN arrested/VBN for/IN (\w+)/NN sex/NN photos/NNS on/IN	1
+why/WRB (\w+)/NN was/VBD right/RB &/CC (\w+)/NN was/VBD left/VBN	1
+Senate/NNP (\w+)/NN that/IN we/PRP wish/VBP the/DT (\w+)/NN to/TO give/VB its/PRP$	1
+out/RP the/DT (\w+)/NN and/CC the/DT (\w+)/NN ,/, ``/``	1
+much/RB of/IN the/DT (\w+)/NN or/CC (\w+)/NN in/IN	3
+until/IN the/DT (\w+)/NN turned/VBN to/TO the/DT (\w+)/NN :/: Would/MD she/PRP	1
+close/JJ as/IN (\w+)/NN and/CC (\w+)/NN	1
+you/PRP go/VBP (\w+)/NN of/IN left/NN and/CC (\w+)/NN of/IN	1
+tax/NN ,/, (\w+)/NN and/CC (\w+)/NN contributions/NNS just/RB	1
+(\w+)/NN and/CC (\w+)/NN ,/, Bartels/NNP said/VBD	1
+(\w+)/NN an/DT "/`` (\w+)/NN "/'' to/TO	1
+one/CD (\w+)/NN has/VBZ asked/VBN that/IN a/DT (\w+)/NN	1
+(\w+)/NN ended/VBN with/IN (\w+)/NN agreement/NN between/IN	1
+to/TO enforce/VB a/DT (\w+)/NN 's/POS obligation/NN to/TO a/DT (\w+)/NN ,/, ``/``	1
+concerned/VBN about/IN (\w+)/NN as/IN (\w+)/NN	1
+(\w+)/NN and/CC the/DT (\w+)/NN politically/RB ,/, the/DT	1
+(\w+)/NN and/CC big-play/JJ (\w+)/NN ./.	1
+system/NN to/TO restrain/VB (\w+)/NN ,/, China/NNP should/MD increase/VB (\w+)/NN	1
+in/IN death/NN by/IN (\w+)/NN Isaac/NNP Levine/NNP ,/, (\w+)/NN Anna/NNP Levine/NNP ,/,	2
+manager/NN reported/VBD a/DT (\w+)/NN and/CC (\w+)/NN stole/VBD two/CD computers/NNS	1
+has/VBZ ordered/VBN (\w+)/NN and/CC (\w+)/NN witnesses/NNS not/RB to/TO	1
+spectrum/NN ,/, from/IN (\w+)/NN and/CC (\w+)/NN developers/NNS to/TO customers/NNS	1
+a/DT jealous/JJ (\w+)/NN who/WP kills/VBZ his/PRP$ (\w+)/NN 's/POS husband/NN	1
+17/CD acres/NNS of/IN (\w+)/NNS and/CC (\w+)/NNS are/VBP	1
+But/CC a/DT single/JJ (\w+)/NN with/IN only/RB one/CD (\w+)/NN	1
+operate/VB with/IN our/PRP$ (\w+)/NN cards/NNS and/CC (\w+)/NN cards/NNS in/IN our/PRP$	1
+(\w+)/NN and/CC (\w+)/NN playing/NN in/IN the/DT	2
+public/JJ (\w+)/NN and/CC escalated/NN (\w+)/NN in/IN	1

@@ -1,0 +1,117 @@
+of/IN an/DT Irish/JJ (\w+)/NN and/CC an/DT Italian/JJ (\w+)/NN ,/,	1
+is/VBZ an/DT (\w+)/NN and/CC an/DT (\w+)/NN ,/,	1
+the/DT (\w+)/NN ,/, (\w+)/NN of/IN	1
+from/IN the/DT (\w+)/NN of/IN June/NNP until/IN the/DT (\w+)/NN of/IN July/NNP ./.	1
+one/CD (\w+)/NN can/MD benefit/VB the/DT other/JJ (\w+)/NN ./.	1
+merge/VB (\w+)/NN and/CC (\w+)/NN	2
+that/IN (\w+)/NN sells/VBZ tickets/NNS but/CC (\w+)/NN	1
+wheelbase/NN ,/, 21-inch/JJ (\w+)/NN wheel/NN ,/, 210/CD mm/NN (\w+)/NN tire/NN and/CC 6-degree/JJ	1
+A/DT mutant/JJ (\w+)/NN caresses/VBZ a/DT young/JJ (\w+)/NN	1
+unstoppable/JJ (\w+)/NN and/CC immovable/NN (\w+)/NN in/IN Denver/NNP	1
+informing/VBG a/DT (\w+)/NN before/IN his/PRP$ (\w+)/NN terminates/VBZ his/PRP$ child/NN	1
+(\w+)/NN ,/, (\w+)/NN and/CC a/DT leg/NN	1
+(\w+)/NN twists/VBZ a/DT (\w+)/NN 's/POS words/NNS to/TO	1
+from/IN a/DT (\w+)/NN of/IN 100/CD to/TO a/DT (\w+)/NN of/IN 500/CD ./.	1
+tax/NN (\w+)/NN ,/, provides/VBZ annual/JJ (\w+)/NN bonuses/NNS of/IN more/JJR	2
+a/DT very/RB wide/JJ (\w+)/NN wing/NN and/CC narrow/JJ (\w+)/NN wing/NN ./.	1
+the/DT (\w+)/NN and/CC turns/VBZ on/IN the/DT (\w+)/NN	1
+(\w+)/NN and/CC a/DT (\w+)/NN line/NN of/IN $/$	1
+The/DT (\w+)/NN and/CC the/DT young/JJ (\w+)/NN did/VBD	1
+(\w+)/NN and/CC reduce/VB nicotine/NN (\w+)/NN to/TO the/DT	1
+price/NN at/IN the/DT (\w+)/NN or/CC the/DT (\w+)/NN of/IN the/DT	1
+,/, (\w+)/NN Archie/NNP Loo/NNP and/CC (\w+)/NN Betty/NNP Loo/NNP	1
+and/CC electronic/JJ (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN and/CC one/CD at/IN the/DT (\w+)/NN -/: led/VBD	1
+said/VBD the/DT (\w+)/NN or/CC (\w+)/NN of/IN Manning/NNP &/CC	1
+include/VBP individual/JJ (\w+)/NN and/CC (\w+)/NN races/NNS	1
+purported/JJ (\w+)/NN or/CC (\w+)/NN of/IN a/DT	2
+one/CD (\w+)/NN 's/POS accommodations/NNS with/IN a/DT (\w+)/NN of/IN	1
+,/, the/DT (\w+)/NN said/VBD ,/, the/DT (\w+)/NN punched/VBD	1
+the/DT moderate/JJ (\w+)/NN and/CC extremist/NN (\w+)/NN ./.	1
+Boone/NNP taking/VBG the/DT (\w+)/NN and/CC Yoast/NN leading/VBG the/DT (\w+)/NN ./.	1
+every/DT (\w+)/NN of/IN a/DT young/JJ (\w+)/NN has/VBZ found/VBN	1
+those/DT whose/WP$ (\w+)/NN and/CC (\w+)/NN contributed/VBD to/TO	1
+After/IN his/PRP$ (\w+)/NN left/VBN again/RB ,/, his/PRP$ (\w+)/NN brought/VBD in/IN some/DT	1
+late/RB in/IN the/DT (\w+)/NN and/CC work/VB through/IN the/DT (\w+)/NN ,/, keeping/VBG aloof/NN	1
+his/PRP$ (\w+)/NN ,/, (\w+)/NN ,/, grandfather/NN ,/,	2
+the/DT golden/JJ (\w+)/NN ,/, the/DT pretty/JJ (\w+)/NN -/: all/DT of/IN	1
+there/EX is/VBZ not/RB (\w+)/NN or/CC (\w+)/NN ,/,	1
+completed/VBN by/IN the/DT (\w+)/NN of/IN June/NNP or/CC the/DT (\w+)/NN	1
+Martz/NNP ;/: one/CD (\w+)/NN ;/: and/CC one/CD (\w+)/NN	1
+--/: the/DT hero/NN (\w+)/NN ,/, the/DT strong/JJ (\w+)/NN ,/, the/DT	1
+difference/NN between/IN (\w+)/NN and/CC (\w+)/NN ,/, prices/NNS have/VBP	1
+way/NN the/DT (\w+)/NN follows/VBZ the/DT (\w+)/NN ./.	1
+Kenyan/JJ (\w+)/NN and/CC American/JJ (\w+)/NN ,/, was/VBD a/DT	1
+from/IN its/PRP$ (\w+)/NN to/TO natural/JJ (\w+)/NN	1
+-/: (\w+)/NN and/CC (\w+)/NN ,/, "/''	1
+contrasting/JJ palette/NN of/IN (\w+)/NN and/CC (\w+)/NN between/IN the/DT fiery/JJ	1
+I/PRP am/VBP both/DT (\w+)/NN and/CC (\w+)/NN ,/,	1
+peaked/JJ at/IN the/DT (\w+)/NN and/CC (\w+)/NN of/IN the/DT workweek/NN	1
+phones/NNS rang/VBD (\w+)/NN and/CC (\w+)/NN ,/, with/IN	1
+Her/PRP$ (\w+)/NN and/CC (\w+)/NN became/VBD nervous/JJ	1
+(\w+)/NN seduces/VBZ a/DT young/JJ (\w+)/NN ,/,	1
+frame/NN at/IN the/DT (\w+)/NN and/CC (\w+)/NN ,/, presumably/RB	1
+(\w+)/NN to/TO the/DT (\w+)/NN of/IN April/NNP if/IN	1
+61-55/JJ (\w+)/NN into/IN a/DT 64-61/CD (\w+)/NN	2
+,/, if/IN the/DT (\w+)/NN to/TO that/DT (\w+)/NN was/VBD	1
+_/NN a/DT 7-year-old/JJ (\w+)/NN and/CC a/DT 6-year-old/JJ (\w+)/NN	1
+(\w+)/NN could/MD mean/VB (\w+)/NN ,/, and/CC	1
+saw/VBD an/DT unidentified/JJ (\w+)/NN sitting/VBG in/IN the/DT (\w+)/NN 's/POS	1
+(\w+)/NN as/IN her/PRP$ (\w+)/NN lies/VBZ perpendicular/NN to/TO	1
+_/NNP three/CD (\w+)/NN and/CC three/CD (\w+)/NN	1
+balance/NN on/IN (\w+)/NN ,/, a/DT solid/JJ (\w+)/NN	1
+husband/NN and/CC (\w+)/NN after/IN her/PRP$ (\w+)/NN died/VBD in/IN	1
+A/DT (\w+)/NN and/CC a/DT (\w+)/NN who/WP saw/VBD the/DT	2
+that/IN a/DT (\w+)/NN or/CC a/DT (\w+)/NN of/IN	1
+,/, the/DT (\w+)/NN will/MD struggle/VB against/IN any/DT (\w+)/NN with/IN	1
+to/TO the/DT (\w+)/NN "/'' (/NN or/CC (\w+)/NN	1
+:/: During/IN the/DT (\w+)/NN ,/, before/IN the/DT (\w+)/NN	1
+(\w+)/NN and/CC an/DT Episcopal/JJ (\w+)/NN with/IN two/CD	1
+and/CC Lisa/NNP ,/, (\w+)/NNP Chris/NNP and/CC (\w+)/NNP Maria/NNP --/:	1
+./. The/DT (\w+)/NN to/TO this/DT (\w+)/NN	1
+from/IN (\w+)/NN to/TO (\w+)/NN before/IN following/VBG up/RP	1
+the/DT attorney/NN (\w+)/NN in/IN (\w+)/NN --/: would/MD make/VB	1
+Native/JJ American/JJ (\w+)/NN and/CC (\w+)/NN from/IN Barbados/NNP	1
+A/DT (\w+)/NN and/CC a/DT (\w+)/NN fled/VBD a/DT	1
+giving/VBG an/DT (\w+)/NN to/TO the/DT bottom-line/JJ (\w+)/NN :/:	1
+firepower/NN --/: on/IN (\w+)/NN or/CC (\w+)/NN --/: to/TO stay/VB	1
+toys/NNS with/IN (\w+)/NN --/: not/RB (\w+)/NN ./.	1
+(\w+)/NN but/CC later/RB became/VBD a/DT (\w+)/NN is/VBZ protected/VBN under/IN	1
+take/VB your/PRP$ (\w+)/NN or/CC (\w+)/NN hunting/NN ,/,	1
+each/DT the/DT (\w+)/NN and/CC the/DT (\w+)/NN gained/VBD 100/CD seats/NNS	1
+(\w+)/NN ,/, (\w+)/NN of/IN capital/NN into/IN	1
+the/DT union/NN between/IN (\w+)/NN and/CC (\w+)/NN ,/,	1
+his/PRP$ 7-year-old/JJ (\w+)/NN Aubrey/NN and/CC 3-year-old/JJ (\w+)/NN Braden/VBG after/IN	1
+the/DT (\w+)/NN attracts/VBZ the/DT (\w+)/NN by/IN flashing/VBG	1
+My/PRP$ (\w+)/NN and/CC (\w+)/NN and/CC their/PRP$ children/NNS	1
+(\w+)/NN and/CC (\w+)/NN and/CC kids/NNS	2
+it/PRP charges/VBZ for/IN (\w+)/NN bundled/VBN into/IN its/PRP$ networking/NN (\w+)/NN ,/, and/CC contended/VBD	1
+brighter/NN than/IN the/DT (\w+)/NN ,/, a/DT (\w+)/NN of/IN	1
+is/VBZ a/DT (\w+)/NN and/CC (\w+)/NN thing/NN	1
+terminals/NNS :/: an/DT (\w+)/NN and/CC (\w+)/NN	1
+imagine/VB a/DT (\w+)/NN who/WP would/MD rather/RB their/PRP$ (\w+)/NN was/VBD	1
+potential/JJ (\w+)/NN and/CC inflate/VB future/JJ (\w+)/NN ./.	1
+'/POS (\w+)/NN restrictions/NNS and/CC (\w+)/NN	1
+(\w+)/NN had/VBD shared/VBN with/IN her/PRP$ (\w+)/NN	1
+(\w+)/NN that/WDT has/VBZ replaced/VBN (\w+)/NN in/IN	1
+Smith/NNP said/VBD his/PRP$ (\w+)/NN and/CC (\w+)/NN gave/VBD the/DT $/$	1
+Apache/NNP Junction/NNP (\w+)/NN and/CC an/DT out-of-state/JJ (\w+)/NN	1
+biological/JJ (\w+)/NN ,/, not/RB the/DT (\w+)/NN you/PRP read/VBP it/PRP	1
+of/IN his/PRP$ (\w+)/NN and/CC (\w+)/NN by/IN his/PRP$	1
+Mitchell/NNP in/IN a/DT (\w+)/NN and/CC (\w+)/NN session/NN	1
+(\w+)/NN to/TO the/DT (\w+)/NN at/IN a/DT feverish/JJ	1
+lavish/JJ (\w+)/NN and/CC abject/NN (\w+)/NN	1
+No./NN 1/CD (\w+)/NN and/CC No./NN 18/CD (\w+)/NN	1
+have/VB a/DT (\w+)/NN or/CC (\w+)/NN in/IN uniform/NN	1
+funds/NNS and/CC the/DT (\w+)/NN and/CC (\w+)/NN of/IN	1
+A/DT (\w+)/NN confronts/VBZ her/PRP$ (\w+)/NN as/IN to/TO	1
+independent/JJ suspensions/NNS at/IN (\w+)/NN and/CC (\w+)/NN	2
+arrested/VBN after/IN (\w+)/NN and/CC before/IN (\w+)/NN ./.	1
+(\w+)/NN and/CC (\w+)/NN cards/NNS denominated/VBN in/IN	1
+the/DT (\w+)/NN "/'' (/NN or/CC (\w+)/NN	1
+measured/JJ move/NN from/IN (\w+)/NN to/TO (\w+)/NN that/WDT	1
+August/NNP (\w+)/NN against/IN the/DT (\w+)/NN	1
+Who/WP is/VBZ a/DT (\w+)/NN and/CC a/DT (\w+)/NN ?/.	1
+own/JJ (\w+)/NN by/IN adding/VBG to/TO the/DT (\w+)/NN of/IN your/PRP$ opponent/NN	1
+walked/VBD to/TO the/DT (\w+)/NN or/CC to/TO the/DT (\w+)/NN ?/.	1
+semiotics/NNS knows/VBZ the/DT (\w+)/NN to/TO that/DT (\w+)/NN ./.	1

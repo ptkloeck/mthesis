@@ -1,0 +1,33 @@
+to/TO (\w+)/VB a/DT property/NN or/CC (\w+)/VB a/DT	1
+when/WRB they/PRP (\w+)/VB ,/, (\w+)/VB	1
+year/NN to/TO (\w+)/VB or/CC (\w+)/VB ,/, "/''	1
+to/TO (\w+)/VB in/IN lines/NNS and/CC to/TO (\w+)/VB in/IN traffic/NN ,/,	1
+says/VBZ (\w+)/VB or/CC (\w+)/VB ,/,	4
+that/IN we/PRP could/MD (\w+)/VB and/CC not/RB (\w+)/VB the/DT	1
+Police/NNP often/RB (\w+)/VBP to/TO (\w+)/VB	1
+seen/VBN them/PRP (\w+)/VB and/CC (\w+)/VB and/CC	1
+is/VBZ (\w+)/VB the/DT gas/NN and/CC (\w+)/VB it/PRP on/RP ,/,	1
+to/TO (\w+)/VB a/DT moment/NN to/TO (\w+)/VB a/DT very/RB	1
+rival/JJ city/NN is/VBZ (\w+)/VBN to/TO (\w+)/VB at/IN	1
+for/IN us/PRP to/TO (\w+)/VB or/CC (\w+)/VB	6
+(\w+)/VB sober/JJ and/CC better/RBR (\w+)/VB sober/JJ ,/, or/CC	1
+able/JJ to/TO (\w+)/VB money/NN or/CC (\w+)/VB	1
+(\w+)/VB lawsuits/NNS against/IN them/PRP and/CC (\w+)/VB	1
+(\w+)/VBP coursework/NN but/CC (\w+)/VBP	1
+,/, (\w+)/VB and/CC (\w+)/VB workers/NNS and/CC	1
+The/DT derby/NN will/MD (\w+)/VB at/IN 8/CD a.m./RB and/CC (\w+)/VB at/IN 11:30/CD a.m./RB	1
+to/TO (\w+)/VB Carlisle/NNP a/DT chance/NN to/TO (\w+)/VB the/DT lead/NN	1
+characterizations/NNS are/VBP (\w+)/VB and/CC (\w+)/VB ,/, with/IN embarrassingly/RB	1
+to/TO (\w+)/VB or/CC (\w+)/VB the/DT building/NN during/IN	1
+that/WDT are/VBP (\w+)/VBN to/TO (\w+)/VB in/IN the/DT coming/VBG	1
+that/WDT (\w+)/VBP and/CC (\w+)/VBP when/WRB	1
+(\w+)/VB strengths/NNS ,/, (\w+)/VB weaknesses/NNS and/CC	1
+earnings/NNS to/TO (\w+)/VB a/DT tricycle/NN had/VBD to/TO (\w+)/VB it/PRP months/NNS	1
+will/MD (\w+)/VB and/CC (\w+)/VB the/DT iris/NNS	1
+expected/VBN to/TO (\w+)/VB and/CC others/NNS to/TO (\w+)/VB ./.	1
+and/CC there/RB to/TO (\w+)/VB or/CC (\w+)/VB	1
+himself/PRP unable/JJ to/TO (\w+)/VB and/CC very/RB likely/JJ to/TO (\w+)/VB votes/NNS on/IN	1
+n't/RB (\w+)/VB too/RB long/RB to/TO (\w+)/VB	1
+,/, but/CC to/TO (\w+)/VB as/IN they/PRP (\w+)/VBP to/TO work/VB	1
+If/IN bond/NN prices/NNS (\w+)/VBP ,/, effective/JJ yields/NNS (\w+)/VBP ,/, sending/VBG	1
+(\w+)/VBP you/PRP more/JJR than/IN I/PRP (\w+)/VBP	1

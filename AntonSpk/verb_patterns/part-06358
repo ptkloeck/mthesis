@@ -1,0 +1,28 @@
+can/MD (\w+)/VB and/CC (\w+)/VB ,/, this/DT	1
+are/VBP (\w+)/VBN and/CC (\w+)/VBP and/CC	2
+players/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, names/NNS	1
+We/PRP saw/VBD it/PRP (\w+)/VBP and/CC we/PRP saw/VBD it/PRP (\w+)/VBP ,/,	1
+be/VB illegal/JJ to/TO (\w+)/VB or/CC (\w+)/VB on/IN sidewalks/NNS	1
+charge/NN to/TO (\w+)/VB or/CC (\w+)/VB a/DT UMoney/NNP	1
+power/NN to/TO (\w+)/VB and/CC (\w+)/VB many/JJ of/IN the/DT	1
+like/VBP to/TO (\w+)/VB low/JJ (/NNS and/CC hopefully/RB (\w+)/VB high/JJ	1
+trends/NNS (\w+)/VB and/CC (\w+)/VB ./.	9
+paper/NN contending/VBG to/TO (\w+)/VB or/CC (\w+)/VB the/DT value/NN	2
+either/RB (\w+)/VBP or/CC (\w+)/VBP (/NNP Clinton/NNP )/NNP	1
+to/TO (\w+)/VB weight/NN ,/, (\w+)/VB it/PRP	2
+could/MD just/RB (\w+)/VB ,/, shoot/VB and/CC (\w+)/VB back/NN ./.	1
+(\w+)/VBP if/IN we/PRP (\w+)/VBP presenting/VBG	1
+(\w+)/VB him/PRP the/DT right/NN to/TO (\w+)/VB matters/NNS	1
+,/, UConn/NNP would/MD (\w+)/VB beating/VBG Yale/NNP and/CC (\w+)/VB	1
+,/, when/WRB you/PRP (\w+)/VBP your/PRP$ car/NN keys/NNS ,/, (\w+)/VBP them/PRP ,/, and/CC	1
+,/, distribute/VB ,/, (\w+)/VB and/CC (\w+)/VB the/DT goods/NNS	1
+its/PRP$ ability/NN to/TO (\w+)/VB or/CC (\w+)/VB shares/NNS in/IN	1
+s/PRP (\w+)/VB ,/, or/CC (\w+)/VB and/CC go/VB	1
+'s/VBZ over/RB ,/, (\w+)/VB or/CC (\w+)/VB ,/, De/NNP	1
+Queens/NNP (\w+)/VBP and/CC (\w+)/VBP	3
+that/IN orders/NNS to/TO (\w+)/VB or/CC (\w+)/VB	2
+shoving/JJ match/NN that/WDT (\w+)/VBP Mr./NNP Wubbe/NNP finally/RB (\w+)/VB out/RP	1
+you/PRP (\w+)/VBP or/CC (\w+)/VBP with/IN it/PRP ./.	1
+it/PRP is/VBZ to/TO (\w+)/VB back/RP like/IN that/DT and/CC (\w+)/VB to/TO the/DT	1
+complex/NN try/VBP to/TO (\w+)/VB and/CC (\w+)/VB through/IN one/CD outlet/NN	1
+in/IN Buhweju/NNP (\w+)/VBP PLE/NNP but/CC (\w+)/VBP to/TO join/VB	1

@@ -1,0 +1,27 @@
+'s/POS (\w+)/VB the/DT leak/NN and/CC (\w+)/VB cleaning/VBG up/RP	1
+Tories/NNPS (\w+)/VB or/CC (\w+)/VB ,/, form/VB	1
+example/NN ,/, they/PRP (\w+)/VB their/PRP$ SUV/NN and/CC (\w+)/VB a/DT pickup/NN truck/NN	1
+We/PRP do/VBP not/RB (\w+)/VB ,/, we/PRP (\w+)/VBP	1
+to/TO either/RB (\w+)/VB the/DT list/NN ,/, (\w+)/VB	3
+(/VBN (\w+)/VB or/CC (\w+)/VB some/DT time/NN	1
+toughest/JJS things/NNS to/TO (\w+)/VB and/CC (\w+)/VB ./.	1
+,/, (\w+)/VBP ,/, or/CC (\w+)/VBP	1
+;/: These/DT girls/NNS (\w+)/VBP no/DT quarter/NN and/CC they/PRP (\w+)/VBP none/NN ,/, either/RB	1
+to/TO B/NNP ,/, (\w+)/VB and/CC (\w+)/VB their/PRP$	1
+(\w+)/VBP down/RP until/IN they/PRP (\w+)/VBP back/RB up/RB	1
+season/NN ,/, (\w+)/VB home/NN and/CC rehab/NN and/CC (\w+)/VB back/RB	1
+President/NNP must/MD (\w+)/VB or/CC (\w+)/VB its/PRP$ decisions/NNS	1
+,/, which/WDT may/MD (\w+)/VB caused/VBN it/PRP to/TO (\w+)/VB a/DT	1
+temperatures/NNS (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+vowed/VBD not/RB to/TO (\w+)/VB ,/, she/PRP will/MD either/DT (\w+)/VB just/RB had/VBN	1
+it/PRP out/IN there/RB (\w+)/VBP him/PRP or/CC (\w+)/VBP	1
+(\w+)/VB and/CC (\w+)/VB ;/: for/IN things/NNS	1
+who/WP (\w+)/VB and/CC (\w+)/VB stocks/NNS on/IN MyTrack/NNP	1
+(\w+)/VBP ital/JJ )/JJ fight/NN (/NNS (\w+)/VB	1
+those/DT guys/NNS you/PRP (\w+)/VBP playing/VBG against/IN and/CC (\w+)/VB	1
+said/VBD resources/NNS were/VBD (\w+)/VBN to/TO (\w+)/VB as/IN investors/NNS	1
+(\w+)/VB and/CC ,/, prayerfully/RB ,/, (\w+)/VB soon/RB	1
+Casting/NNP can/MD (\w+)/VB or/CC (\w+)/VB a/DT movie/NN ,/,	1
+him/PRP (\w+)/VB ,/, (\w+)/VB horses/NNS ,/, even/RB	1
+a/DT chance/NN to/TO (\w+)/VB or/CC (\w+)/VB gently/RB	1
+(\w+)/VB them/PRP or/CC (\w+)/VB them/PRP but/CC	1

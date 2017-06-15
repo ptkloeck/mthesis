@@ -1,0 +1,40 @@
+``/`` a/SYM (\w+)/VB it/PRP or/CC (\w+)/VBP	1
+ask/VB what/WP you/PRP (\w+)/VBP and/CC (\w+)/VBP about/IN	1
+both/DT parties/NNS can/MD (\w+)/VB or/CC (\w+)/VB their/PRP$ contracts/NNS	1
+(\w+)/VB a/DT cart/NN to/TO (\w+)/VB	1
+(\w+)/VBP and/CC (\w+)/VBP stocks/NNS by/IN	2
+Citibank/NNP customers/NNS can/MD (\w+)/VB and/CC (\w+)/VB stocks/NNS on/IN cash/NN	1
+younger/JJR generations/NNS still/RB (\w+)/VBP to/TO (\w+)/VB	1
+in/IN a/DT "/`` (\w+)/VB or/CC (\w+)/VB "/''	1
+allow/VB investors/NNS to/TO (\w+)/VB or/CC (\w+)/VB at/IN any/DT time/NN	1
+to/TO (\w+)/VB those/DT old/JJ bulbs/NNS and/CC (\w+)/VB some/DT	1
+a/DT hand/NN ,/, (\w+)/VB and/CC (\w+)/VB the/DT seat/NN and/CC	3
+wishes/VBZ "/`` to/TO (\w+)/VB ,/, not/RB (\w+)/VB "/``	1
+(\w+)/VB and/CC (\w+)/VB by/IN 50/CD	1
+be/VB ready/JJ to/TO (\w+)/VB or/CC (\w+)/VB ,/, "/''	2
+must/MD (\w+)/VB the/DT case/NN and/CC (\w+)/VB any/DT conviction/NN	1
+(\w+)/VB ,/, tails/SYM you/PRP (\w+)/VBP "/'' proposition/NN	1
+without/IN some/DT (\w+)/VB and/CC (\w+)/VB ,/,	1
+pilot/NN programs/NNS (\w+)/VBP and/CC (\w+)/VBP without/IN	1
+(\w+)/VBP to/TO (\w+)/VB and/CC move/VB on/RP	1
+(\w+)/VB stocks/NNS on/IN dips/NNS and/CC (\w+)/VB them/PRP a/DT	1
+is/VBZ very/RB (\w+)/VBN or/CC (\w+)/VBP --/: a/DT situation/NN	1
+wine/NN ,/, (\w+)/VB or/CC (\w+)/VB a/DT	1
+questions/NNS that/IN reporters/NNS (\w+)/VBP to/TO ask/VB and/CC candidates/NNS (\w+)/VBP to/TO	1
+can/MD place/VB (\w+)/VB and/CC (\w+)/VB orders/NNS	1
+managers/NNS (\w+)/VB credit/NN and/CC (\w+)/VB blame/NN ,/, not/RB	1
+they/PRP (\w+)/VBP job/NN skills/NNS and/CC (\w+)/VBP	1
+clef/NN ,/, (\w+)/VB or/CC (\w+)/VB	1
+that/WDT can/MD help/VB (\w+)/VB or/CC (\w+)/VB projects/NNS ./.	1
+have/VBP to/TO (\w+)/VB a/DT new/JJ team/NN to/TO (\w+)/VB to/TO	4
+to/TO (\w+)/VB our/PRP$ own/JJ rules/NNS to/TO (\w+)/VB the/DT spell/NN ./.	1
+managed/VBD to/TO (\w+)/VB it/PRP ,/, (\w+)/VB it/PRP	1
+(\w+)/VB 100/CD books/NNS each/DT to/TO (\w+)/VB to/TO their/PRP$	3
+that/WDT will/MD (\w+)/VB and/CC (\w+)/VB and/CC take/VB	1
+may/MD (\w+)/VB or/CC (\w+)/VB with/IN him/PRP	2
+the/DT slumping/VBG Penguins/NNS (\w+)/VB or/CC (\w+)/VB ,/,	1
+did/VBD n't/RB (\w+)/VB anyone/NN the/DT right/NN to/TO (\w+)/VB someone/NN	1
+(\w+)/VBP and/CC (\w+)/VBP and/CC dynasties/NNS rise/VB	1
+--/: (\w+)/VB there/RB and/CC then/RB (\w+)/VB home/NN	1
+,/, (\w+)/VB ,/, take/VB and/CC not/RB (\w+)/VB back/RP ./.	1
+figured/VBD to/TO (\w+)/VB or/CC (\w+)/VB	1

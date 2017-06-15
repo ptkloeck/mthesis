@@ -1,0 +1,31 @@
+temperature/NN underground/RB to/TO (\w+)/VB and/CC (\w+)/VB buildings/NNS	1
+advise/VBP clients/NNS to/TO (\w+)/VB ,/, (\w+)/VB or/CC	1
+House/NNP to/TO (\w+)/VB to/TO (\w+)/VB	1
+The/NNP (\w+)/VB and/CC (\w+)/VB can/MD	2
+people/NNS (\w+)/VBP to/TO (\w+)/VB ,/, it/PRP 's/VBZ	1
+the/DT school/NN will/MD (\w+)/VB them/PRP the/DT opportunity/NN to/TO (\w+)/VB advantage/NN of/IN	1
+who/WP would/MD (\w+)/VB a/DT bicycle/NN ,/, or/CC (\w+)/VB	1
+are/VBP (\w+)/VBN to/TO (\w+)/VB 30/CD and/CC 40/CD	1
+,/, (\w+)/VBP drug/NN problems/NNS ,/, (\w+)/VBP	1
+(\w+)/VB my/PRP$ house/NN and/CC (\w+)/VB in/IN	1
+women/NNS because/IN they/PRP (\w+)/VBP most/JJS products/NNS that/IN marketers/NNS (\w+)/VBP ./.	1
+was/VBD to/TO (\w+)/VB the/DT other/JJ parts/NNS ,/, (\w+)/VB the/DT head/NN and/CC	1
+engage/VB in/RP (\w+)/VB and/CC (\w+)/VB and/CC other/JJ	1
+I/PRP (\w+)/VBP ,/, people/NNS (\w+)/VB up/RP to/TO	2
+students/NNS so/IN they/PRP (\w+)/VBP and/CC (\w+)/VBP	1
+the/DT ear/NN may/MD (\w+)/VB and/CC (\w+)/VB with/IN changes/NNS in/IN	1
+production/NN capacity/NN to/TO (\w+)/VB or/CC (\w+)/VB from/IN the/DT total/JJ	1
+big/JJ hair/NN may/MD (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB in/IN Toronto/NNP and/CC (\w+)/VB at/IN	1
+to/TO (\w+)/VB the/DT test/NN scores/NNS or/CC (\w+)/VB	1
+1/CD -/: (\w+)/VB or/CC (\w+)/VB	2
+decision/NN to/TO (\w+)/VB money/NN this/DT season/NN to/TO (\w+)/VB our/PRP$ team/NN	1
+someone/NN audiences/NNS (\w+)/VBP to/TO (\w+)/VB ./.	1
+the/DT power/NN to/TO (\w+)/VB or/CC (\w+)/VB any/DT	1
+(\w+)/VB the/DT first/JJ set/NN and/CC (\w+)/VB themselves/PRP	2
+College/NNP ,/, students/NNS (\w+)/VBP and/CC (\w+)/VBP through/IN	1
+staffs/NNS (\w+)/VB and/CC (\w+)/VB	1
+,/, Congress/NNP must/MD (\w+)/VB or/CC (\w+)/VB the/DT report/NN	1
+when/WRB you/PRP (\w+)/VB or/CC (\w+)/VB an/DT open-end/JJ fund/NN	1
+to/TO (\w+)/VB them/PRP another/DT opportunity/NN to/TO (\w+)/VB an/DT elective/JJ	1
+town/NN to/TO (\w+)/VB a/DT topless/JJ bar/NN but/CC (\w+)/VBP his/PRP$	1

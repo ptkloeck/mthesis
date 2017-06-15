@@ -1,0 +1,31 @@
+continue/VB to/TO (\w+)/VB ,/, (\w+)/VB ,/, trade/VB and/CC	1
+productivity/NN tends/VBZ to/TO (\w+)/VB rather/RB than/IN (\w+)/VB	1
+--/: (\w+)/VB or/CC (\w+)/VB ,/,	3
+want/VBP to/TO (\w+)/VB or/CC (\w+)/VB restricted/JJ stock/NN	1
+they/PRP needed/VBD to/TO (\w+)/VB labor/NN costs/NNS and/CC (\w+)/VB more/JJR flexibility/NN	2
+best/JJS to/TO (\w+)/VB off/and/JJ or/CC (\w+)/VB	1
+Roman/JJ emperor/NN people/NNS (\w+)/VBP to/TO (\w+)/VB	2
+24/CD ,/, (\w+)/VB or/CC (\w+)/VB ,/,	1
+gap/NN as/IN they/PRP (\w+)/VB and/CC (\w+)/VB the/DT train/NN	1
+played/VBD not/RB to/TO (\w+)/VB ,/, instead/RB of/IN to/TO (\w+)/VB ./.	1
+too/RB good/JJ to/TO (\w+)/VB ,/, too/RB bad/JJ to/TO (\w+)/VB ./.	1
+as/IN they/PRP (\w+)/VBP in/IN the/DT morning/NN and/CC (\w+)/VB	1
+makers/NNS had/VBD to/TO (\w+)/VB or/CC (\w+)/VB 1,000/CD	3
+People/NNS (\w+)/VBP and/CC (\w+)/VBP stocks/NNS based/VBN on/IN	1
+to/TO (\w+)/VB their/PRP$ existing/VBG homes/NNS and/CC (\w+)/VB larger/JJR and/CC more/RBR	1
+Society/NNP to/TO (\w+)/VB to/TO hospital/NN patients/NNS to/TO (\w+)/VB home/NN with/IN	1
+Natiello/NNP ``/`` can/MD (\w+)/VB or/CC (\w+)/VB what/WP you/PRP are/VBP	1
+a/DT buck/NN ,/, (\w+)/VB or/CC (\w+)/VB a/DT million/CD ./.	1
+will/MD (\w+)/VB ,/, and/CC some/DT will/MD (\w+)/VB ./. The/DT	1
+'s/POS rules/NNS might/MD (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB ,/, shoot/VB and/CC (\w+)/VB back/NN ./.	1
+movies/NNS often/RB (\w+)/VB uncaptioned/VBN until/IN new/JJ editions/NNS (\w+)/VBN along/RP	1
+Jobs/NNP (\w+)/VBP and/CC (\w+)/VBP	2
+IT/NNP budget/NN to/TO (\w+)/VB ,/, (\w+)/VB or/CC	1
+You/PRP (\w+)/VBP one/PRP target/VB ,/, you/PRP (\w+)/VB another/DT ,/,	1
+(\w+)/VBP and/CC (\w+)/VBP stocks/NNS ,/, sometimes/RB	1
+to/TO (\w+)/VB ,/, and/CC we/PRP 'll/MD (\w+)/VB out/RP	2
+(\w+)/VB or/CC (\w+)/VB Professor/NNP	1
+which/WDT did/VBD not/RB (\w+)/VB or/CC (\w+)/VB	6
+a/DT recommendation/NN to/TO (\w+)/VB ,/, (\w+)/VB	4
+(\w+)/VB it/PRP more/RBR difficult/JJ to/TO (\w+)/VB into/IN local/JJ	1

@@ -1,0 +1,301 @@
+'''
+Created on 05.01.2016
+
+@author: Peter
+'''
+from collections import defaultdict, Counter
+from enum import Enum
+import re
+
+import mysql.connector
+from mysql.connector import errorcode
+
+from util.jobim_reader import readlines
+from util.util import create_pairs
+
+import pandas as pd
+
+class POS(Enum):
+    ADJ = (["jj"])
+    """
+    NN    Noun, singular or mass
+    NNS    Noun, plural
+    NNP    Proper noun, singular
+    NNPS    Proper noun, plural 
+    """
+    NOUN = (["nn", "nns" "nnp", "nnps"])
+    
+    def __init__(self, tags):
+        self.tags = tags
+        
+    @property
+    def pattern(self):
+        regex = "/(" + self.tags[0]
+        for tag in self.tags[1:]:
+            regex += '|' + tag
+        regex += ')'
+        return re.compile(regex)
+
+class CoocCountMem:
+
+    def __init__(self):         
+        self.pair_to_count_adj = Counter()     
+        self.pair_to_count_noun = Counter()
+    
+    def reset(self):
+        
+        self.pair_to_count_adj.clear()    
+        self.pair_to_count_noun.clear()
+        
+    def inc_count(self, pair, pos):
+        
+        if pos is POS.ADJ:
+            self.__inc_count(self.pair_to_count_adj, pair) 
+        elif pos is POS.NOUN:
+            self.__inc_count(self.pair_to_count_noun, pair)
+    
+    def __inc_count(self, pair_to_count, pair):
+    
+        if not pair in pair_to_count:
+            pair = (pair[1], pair[0])
+        
+        pair_to_count[pair] += 1
+
+class CoocDB:
+    
+    def __init__(self):
+        self.cnx = mysql.connector.connect(user='dummy', password='dummy',
+                              host='localhost',
+                              database='cooc')
+        self.cursor = self.cnx.cursor()
+    
+    def create_tables(self):
+        
+        TABLES = {}
+        TABLES["count_adj"] = (
+            "CREATE TABLE `count_adj` ("
+            "    `pair` varchar(60) NOT NULL,"
+            "    `count` int(4) NOT NULL,"
+            "    PRIMARY KEY (`pair`)"
+            ")   ENGINE=InnoDB"
+            )
+
+        TABLES["count_noun"] = (
+            "CREATE TABLE `count_noun` ("
+            "    `pair` varchar(60) NOT NULL,"
+            "    `count` int(4) NOT NULL,"
+            "    PRIMARY KEY (`pair`)"
+            ")   ENGINE=InnoDB"
+            )
+
+        for name, ddl in list(TABLES.items()):
+            try:
+                print("Creating table {}: ".format(name))
+                self.cursor.execute(ddl)
+            except mysql.connector.Error as err:
+                if err.errno == errorcode.ER_TABLE_EXISTS_ERROR:
+                    print("already exists.")
+                else:
+                    print(err.msg)
+            else:
+                print("OK")
+    
+    def dump_cooc_count(self, cooc_count_mem):
+       
+        self.__dump_pair_count(cooc_count_mem.pair_to_count_adj, "`count_adj`")
+        self.__dump_pair_count(cooc_count_mem.pair_to_count_noun, "`count_noun`")
+
+        cooc_count_mem.reset()
+    
+    def __dump_pair_count(self, pair_count, table):
+        
+        for pair, count in pair_count.items():            
+            self.__inc_count(table, pair, count)
+            
+    def __inc_count(self, table, pair, count):
+
+        key = self.__determine_key(pair, table) 
+                        
+        ddl = "INSERT INTO " + table + " (pair, count) VALUES ('" + key + "'," + str(count) + ") ON DUPLICATE KEY UPDATE count=count+" + str(count)            
+        self.cursor.execute(ddl)
+                
+    def get_count(self, pair, pos):
+         
+        if pos == POS.ADJ:
+            table = "`count_adj`"
+        else:
+            table = "`count_noun`"  
+            
+        key = self.__determine_key(pair, table)
+                      
+        ddl = "SELECT count from " + table + " WHERE pair='" + key +"'"
+        
+        count = self.cursor.execute(ddl)
+        self.cursor.fetchall()
+        
+        return count
+    
+    def __determine_key(self, pair, table):
+        
+        key = pair[0] + " " + pair[1]
+        key = key.replace("'", "''")
+        if not self.__row_exists(table, key):
+            key = pair[1] + " " + pair[0]
+        
+        key = key.replace("'", "''")    
+        return key
+    
+    def __row_exists(self, table, key):
+
+        ddl = "SELECT EXISTS(SELECT 1 FROM " + table + " WHERE pair='" + key + "')"  
+        self.cursor.execute(ddl)
+        exists = self.cursor._rowcount >= 1
+        self.cursor.fetchall()     
+        return exists
+                
+    def close(self):
+        self.cursor.close()
+        self.cnx.close()
+                                         
+def extract_tokens_with_pos(tagged_sen, pos):
+    
+    tokens = []
+    
+    for token_pos in tagged_sen.split():
+        
+        parts = token_pos.split('/') 
+        if len(parts) < 2:
+            continue
+        token, pos_tag = parts[0], parts[1]
+        
+        if pos_tag in pos.tags:
+            tokens.append(token)
+
+    return tokens
+
+def extract_tokens(tagged_sen):
+    
+    tokens = []
+    
+    for token_pos in tagged_sen.split():
+        
+        parts = token_pos.split('/') 
+
+        tokens.append(parts[0])
+
+    return tokens
+
+def context_count_on_csv(filename):
+    df = pd.read_csv(filename, sep='\t')
+    instances = set(df["instance"].tolist())
+    
+    context_count(instances, "../res/cooc/context_count.tsv", POS.ADJ)
+    
+def context_count(instances, output_file, pos):
+
+    pair_to_context_count = defaultdict(lambda: Counter())
+
+    num_lines = 0
+    for line in readlines(False):
+
+        parts = line.split('\t')    
+        tagged_sen = parts[1].lower()  
+   
+        tokens = extract_tokens(tagged_sen)
+        
+        tokens_with_pos = extract_tokens_with_pos(tagged_sen, pos)
+        token_pairs = create_pairs(tokens_with_pos)
+        
+        for token_pair in token_pairs:
+
+            token_1 = token_pair[0]
+            token_2 = token_pair[1]
+            
+            instance = token_1 + " " + token_2
+            if not instance in instances:
+                instance = token_2 + " " + token_1
+            if not instance in instances:
+                continue
+
+            token_1_seen = False
+            token_2_seen = False
+            
+            for token in tokens:
+                
+                if not token_1_seen and token == token_1:
+                    token_1_seen = True
+                elif not token_2_seen and token == token_2:
+                    token_2_seen = True
+                else:
+                    if not instance in pair_to_context_count:
+                        words = instance.split()
+                        instance = words[1] + " " + words[0]
+        
+                    pair_to_context_count[instance][token] += 1
+        
+        num_lines += 1
+        
+        if num_lines > 1000000:
+            num_lines = 0
+            print("Processed another million lines.")
+            break
+                    
+    df = pd.DataFrame(pair_to_context_count)
+    df.fillna(0).transpose().to_csv(output_file, sep='\t')
+                
+def in_sentence_cooc():
+    """
+    Inspects the whole 120 million sentences jobim corpus.
+    Fills two tables in the mysql database 'cooc':
+        cooc_adj:
+            the intra-sentence cooccurence counts of all pairs of adjectives in the corpus
+        cooc_noun:
+            the same as above for nouns
+    """
+    cooc_count_mem = CoocCountMem()
+    cooc_count_db = CoocDB()
+    
+    num_lines = 0
+    for line in readlines(False):
+                
+        parts = line.split('\t')    
+        tagged_sen = parts[1].lower()        
+        
+        in_sentence_cooc_pos(cooc_count_mem, POS.ADJ, tagged_sen)
+        in_sentence_cooc_pos(cooc_count_mem, POS.NOUN, tagged_sen) 
+        
+        num_lines += 1
+        
+        if num_lines > 9000:
+            cooc_count_db.dump_cooc_count(cooc_count_mem)
+            num_lines = 0
+            #TODO delete just for test
+            break
+            
+    cooc_count_db.dump_cooc_count(cooc_count_mem)
+
+def in_sentence_cooc_pos(cooc_count, pos, tagged_sen):
+    
+    if len(pos.pattern.findall(tagged_sen)) < 2:
+        return
+        
+    tokens_with_pos = extract_tokens_with_pos(tagged_sen, pos)
+    
+    num_tokens = len(tokens_with_pos)
+    
+    if num_tokens < 2:
+        return
+
+    token_pairs = create_pairs(tokens_with_pos)
+        
+    for token_pair in token_pairs:
+             
+        cooc_count.inc_count(token_pair, pos)
+                           
+if __name__ == "__main__":
+    
+    #in_sentence_cooc()    
+    #cooc_db = CoocDB()    
+    #print(cooc_db.get_count(("good", "bad"), POS.ADJ))
+    
+    context_count_on_csv("../res/data.tsv")

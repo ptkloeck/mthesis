@@ -1,0 +1,22 @@
+permit/VBP owners/NNS to/TO (\w+)/VB and/CC (\w+)/VB property/NN	1
+"/'' they/PRP (\w+)/VBP and/CC (\w+)/VBP mysteriously/RB ,/,	1
+to/TO (\w+)/VB and/CC something/NN to/TO (\w+)/VB in/IN tea/NN ./.	1
+and/CC then/RB (\w+)/VB pairing/VBG only/RB to/TO (\w+)/VB	1
+``/`` There/EX 's/VBZ (\w+)/VB and/CC (\w+)/VB there/RB ,/,	1
+Whatever/WDT people/NNS (\w+)/VBP me/PRP ,/, I/PRP (\w+)/VB it/PRP and/CC	1
+(\w+)/VB out/RP Mitchell-Lama/JJ housing/NN and/CC (\w+)/VB it/PRP at/IN a/DT	1
+who/WP will/MD (\w+)/VB or/CC (\w+)/VB ,/,	2
+(\w+)/VB you/PRP privacy/NN while/IN you/PRP (\w+)/VBP	1
+pot/NN ,/, (\w+)/VB to/TO work/VB and/CC (\w+)/VB home/NN to/TO a/DT	1
+thrillers/NNS (\w+)/VBP or/CC (\w+)/VBP on/IN atmosphere/NN	1
+international/JJ money/NN to/TO (\w+)/VB in/RP rather/RB than/IN (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB simultaneously/RB all/PDT the/DT	1
+better/JJR to/TO (\w+)/VB or/CC (\w+)/VB	2
+to/TO (\w+)/VB illegal/JJ downloading/NN and/CC (\w+)/VB music/NN fans/NNS to/TO	1
+(\w+)/VBP to/TO properly/RB (\w+)/VB	1
+sees/VBZ its/PRP$ price/NN (\w+)/VB or/CC (\w+)/VB in/IN	1
+that/WDT (\w+)/VBP to/TO (\w+)/VB the/DT European/NNP	1
+to/TO (\w+)/VB carbon/NN neutral/JJ has/VBZ (\w+)/VB	1
+(\w+)/VB them/PRP (\w+)/VB ranks/NNS	1
+(\w+)/VB and/CC (\w+)/VB goods/NNS said/VBD that/IN	1
+plus/CD ,/, (\w+)/VB or/CC (\w+)/VB	1

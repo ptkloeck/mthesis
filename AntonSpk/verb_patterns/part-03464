@@ -1,0 +1,35 @@
+Tax/NNP revenues/NNS automatically/RB (\w+)/VBP or/CC (\w+)/VBP in/IN	1
+Both/DT rides/NNS (\w+)/VBP and/CC (\w+)/VBP at/IN	1
+that/IN can/MD (\w+)/VB or/CC (\w+)/VB a/DT	2
+(\w+)/VB minutes/NNS to/TO (\w+)/VB to/TO customers/NNS	1
+(\w+)/VB and/CC (\w+)/VB in/IN a/DT short/JJ	1
+(\w+)/VB ,/, (\w+)/VB your/PRP$	1
+world/NN who/WP (\w+)/VB government/NN service/NN poor/JJ and/CC (\w+)/VB as/IN	4
+every/DT (\w+)/VB and/CC (\w+)/VB of/IN	1
+4/CD %/NN ,/, (\w+)/VB or/CC (\w+)/VB 1-2/CD %/NN	1
+horses/NNS to/TO (\w+)/VB and/CC (\w+)/VB ,/,	1
+654,361/CD ,/, (\w+)/VB or/CC (\w+)/VB a/DT	1
+is/VBZ unsafe/JJ but/CC (\w+)/VBP also/RB said/VBN they/PRP (\w+)/VBP legal/JJ	2
+)/RB could/MD (\w+)/VB but/CC should/MD n't/RB (\w+)/VB their/PRP$ championship/NN hopes/NNS	1
+(\w+)/VBP every/DT time/NN ,/, you/PRP (\w+)/VB ,/,	1
+rates/NNS (\w+)/VBP ,/, fixed-income/JJ securities/NNS (\w+)/VBP	1
+minute/NN will/MD (\w+)/VB and/CC (\w+)/VB	1
+seem/VBP to/TO (\w+)/VB and/CC (\w+)/VB with/IN only/RB	1
+you/PRP who/WP still/RB (\w+)/VBP to/TO (\w+)/VB traffic/NN	1
+medallions/NNS ,/, which/WDT (\w+)/VB for/IN $/$ 14.99/CD and/CC (\w+)/VB	1
+they/PRP (\w+)/VB and/CC (\w+)/VB them/PRP ./.	1
+that/IN Democrats/NNPS most/RBS (\w+)/VBP to/TO (\w+)/VB ,/, saying/VBG	2
+high-tech/JJ things/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, "/''	1
+will/NN (\w+)/VBP or/CC (\w+)/VB based/VBN	1
+will/MD (\w+)/VB customers/NNS the/DT confidence/NN to/TO (\w+)/VB advantage/NN of/IN	1
+already/RB that/IN you/PRP (\w+)/VBP what/WP they/PRP (\w+)/VBP you/PRP	1
+presence/NN )/NN (\w+)/VBP beyond/IN Lebanon/NNP and/CC have/VBP (\w+)/VBN to/TO	1
+that/WDT (\w+)/VBD the/DT foul/JJ pole/NN (\w+)/VBP the/DT	2
+(\w+)/VB school/NN days/NNS to/TO (\w+)/VB	1
+to/TO (\w+)/VB and/CC we/PRP did/VBD n't/RB (\w+)/VB ready/JJ to/TO play/VB	1
+so/RB far/RB or/CC (\w+)/VB so/RB much/RB to/TO (\w+)/VB the/DT	1
+n't/RB (\w+)/VB or/CC (\w+)/VB wrongdoing/NN in/IN a/DT	1
+Annie/NNP ,/, (\w+)/VBP and/CC (\w+)/VBP :/: ``/``	1
+(\w+)/VBP and/CC you/PRP see/VBP people/NNS (\w+)/VBP	1
+in/IN the/DT daily/NN (\w+)/VB and/CC (\w+)/VB	1
+have/VBP to/TO (\w+)/VB the/DT systems/NNS here/RB to/TO (\w+)/VB them/PRP stronger/JJR ./.	2

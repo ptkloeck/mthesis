@@ -1,0 +1,31 @@
+'s/POS case/NN will/MD (\w+)/VB or/CC (\w+)/VB on/IN	3
+government/NN to/TO (\w+)/VB so/IN their/PRP$ lives/NNS can/MD (\w+)/VB	1
+would/MD have/VB to/TO (\w+)/VB the/DT park/NN and/CC (\w+)/VB the/DT	1
+then/RB (\w+)/VB negotiating/VBG with/IN TOT/NNP to/TO (\w+)/VB access/NN charges/NNS ,/,	1
+to/TO (\w+)/VB or/CC (\w+)/VB brake/NNP pressure/NN	1
+(\w+)/VB pushing/VBG ahead/RB to/TO (\w+)/VB into/IN	1
+you/PRP (\w+)/VBP or/CC you/PRP (\w+)/VBP you/PRP have/VBP	1
+fishing/NN aficionados/NN (\w+)/VB their/PRP$ imitation/NN pellets/NNS and/CC (\w+)/VB them/PRP	1
+to/TO (\w+)/VB and/CC (\w+)/VB ,/, and/CC be/VB	1
+(\w+)/VB what/WP I/PRP had/VBD to/TO (\w+)/VB ,/, I/PRP would/MD	1
+as/RB successful/JJ ,/, (\w+)/VB or/CC (\w+)/VB	1
+changed/VBN DST/NNP and/CC (\w+)/VB or/CC (\w+)/VB	1
+few/JJ New/NNP Years/NNS (\w+)/VB and/CC (\w+)/VB ,/, its/PRP$	1
+for/IN students/NNS who/WP (\w+)/VBP to/TO (\w+)/VB	1
+(\w+)/VBP to/TO (\w+)/VB this/DT fact/NN ./.	1
+said/VBD -/: (\w+)/VB or/CC (\w+)/VB ,/,	1
+expert/NN believes/VBZ that/IN (\w+)/VB or/CC (\w+)/VB ,/, Microsoft/NNP	1
+(\w+)/VB and/CC (\w+)/VB by/IN truck/NN ,/,	1
+allowing/VBG a/DT little/JJ (\w+)/VB and/CC (\w+)/VB ,/, from/IN	1
+265/NN pounds/NNS ,/, (\w+)/VB or/CC (\w+)/VB a/DT lunch/NN ./.	1
+people/NNS who/WP (\w+)/VBP it/PRP ,/, those/DT who/WP (\w+)/VBP it/PRP or/CC	1
+emergency/NN key/NN to/TO (\w+)/VB and/CC (\w+)/VBP the/DT car/NN ./.	1
+to/TO "/`` (\w+)/VB "/'' from/IN "/`` (\w+)/VB ./. "/''	2
+round/NN numbers/NNS ,/, (\w+)/VB or/CC (\w+)/VB	1
+Because/IN they/PRP (\w+)/VBP of/IN insurance/NN and/CC (\w+)/VBP no/DT family/NN	1
+India/NNP are/VBP (\w+)/VBN to/TO (\w+)/VB	1
+Many/JJ people/NNS (\w+)/VBP the/DT wage/NN but/CC (\w+)/VB	2
+)/CD _/NNS More/RBR (\w+)/VB and/CC (\w+)/VB	1
+with/IN us/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, "/''	1
+They/PRP can/MD (\w+)/VB whatever/WDT they/PRP want/VBP and/CC (\w+)/VBP nothing/NN ./. "/''	1
+support/NN if/IN you/PRP (\w+)/VBP a/DT season/NN and/CC then/RB (\w+)/VB it/PRP	2

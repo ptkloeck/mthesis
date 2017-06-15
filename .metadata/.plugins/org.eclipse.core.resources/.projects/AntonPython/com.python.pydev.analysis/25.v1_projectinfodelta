@@ -1,0 +1,14 @@
+INSTUPanton.visu
+/media/peter/FECA5030CA4FE40D/Informatik/Semester12/Masterarbeit/Workspace/AntonPython/anton/visu.py
+INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0&&2|6|2|0&&2|7|2|0&&2|8|2|0&&2|9|2|0&&2|10|2|0&&2|11|2|0
+anton.visu=2
+print_decision_tree_wn_adj=7
+print_not_in_sentence=5
+print_top5=6
+pattern_recall_precision=8
+make_zoom_box=10
+pattern_freq_histo=1
+table_most_common_patterns=3
+read_patterns=4
+plot_patterns=9
+zoom_box_region=11

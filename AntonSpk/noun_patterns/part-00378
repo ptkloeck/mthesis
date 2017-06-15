@@ -1,0 +1,101 @@
+'s/POS character/NN or/CC (\w+)/NN or/CC (\w+)/NN ./.	1
+(\w+)/NN and/CC (\w+)/NN of/IN Fannie/NNP Mae/NNP	1
+the/DT (\w+)/NN to/TO that/WDT (\w+)/NN is/VBZ likely/JJ	1
+came/VBD on/IN the/DT (\w+)/NN and/CC (\w+)/NN end/NN of/IN a/DT	1
+(\w+)/NN ran/VBD after/IN a/DT (\w+)/NN who/WP stole/VBD her/PRP$	2
+to/TO cover/VB in/IN (\w+)/NN and/CC (\w+)/NN ,/, but/CC there/EX	2
+"/`` know/VB the/DT (\w+)/NN to/TO your/PRP$ (\w+)/NN	1
+;/: (\w+)/NN ,/, Tom/NNP ;/: (\w+)/NN	1
+the/DT (\w+)/NN to/TO (\w+)/NN curfew/NN	1
+--/: nearly/RB every/DT (\w+)/NN ,/, (\w+)/NN and/CC child/NN	2
+neglectful/JJ (\w+)/NN and/CC sometimes-absent/JJ (\w+)/NN had/VBD not/RB	1
+alongside/IN for/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN actually/RB holds/VBZ the/DT	1
+of/IN (\w+)/NN and/CC attacks/NNS of/IN (\w+)/NN in/IN	1
+(\w+)/NN and/CC Dennis/NNP handled/VBD the/DT (\w+)/NN	1
+of/IN (\w+)/NN or/CC (\w+)/NN still/RB interest/VB him/PRP	1
+Ladies/JJ to/TO the/DT (\w+)/NN ,/, gentlemen/NNS to/TO the/DT (\w+)/NN	1
+be/VB the/DT (\w+)/NN not/RB the/DT (\w+)/NN of/IN changes/NNS	1
+be/VB a/DT (\w+)/NN married/VBN to/TO the/DT only/JJ (\w+)/NN to/TO	1
+to/TO exploit/VB the/DT (\w+)/NNS and/CC (\w+)/NNS of/IN the/DT Galapagos/NNP	1
+every/DT country/NN where/WRB (\w+)/NN of/IN such/JJ employees/NNS exceeds/VBZ (\w+)/NN ./.	1
+ever-present/JJ (\w+)/NN to/TO his/PRP$ (\w+)/NN ,/,	1
+younger/JJR (\w+)/NN or/CC (\w+)/NN ,/, for/IN both/DT	1
+t/NN have/VBP an/DT (\w+)/NN to/TO that/DT (\w+)/NN ,/, this/DT	1
+(\w+)/NN and/CC (\w+)/NN of/IN drenching/NN rain/NN	1
+(\w+)/NN for/IN use/NN in/IN Chinese/JJ (\w+)/NN ,/,	1
+with/IN grinding/VBG (\w+)/NN on/IN one/CD side/NN and/CC (\w+)/NN combined/VBN with/IN	1
+'s/VBZ basically/RB a/DT (\w+)/NN and/CC (\w+)/NN	1
+close/RB to/TO his/PRP$ (\w+)/NN and/CC his/PRP$ (\w+)/NN Gillian/NNP	1
+B./NNP Sue/NNP ;/: (\w+)/NN ,/, David/NNP ;/: (\w+)/NN	1
+will/MD examine/VB the/DT (\w+)/NN ,/, present/NN and/CC (\w+)/NN of/IN black/JJ choreography/NN	5
+are/VBP on/IN all/DT (\w+)/NN and/CC (\w+)/NN	1
+Razr/NNP 's/POS (\w+)/NN and/CC (\w+)/NN unmasked/VBD ./.	1
+during/IN the/DT (\w+)/NN and/CC disco/NN strobes/NNS at/IN (\w+)/NN ,/,	1
+(\w+)/NN ,/, and/CC four-year-old/JJ (\w+)/NN ,/,	1
+(\w+)/NN made/VBD amends/NNS for/IN (\w+)/NN in/IN	1
+,/, both/CC the/DT (\w+)/NN and/CC (\w+)/NN played/VBD much/RB	1
+young/JJ (\w+)/NN kisses/VBD a/DT young/JJ (\w+)/NN on/IN the/DT	2
+(\w+)/NN and/CC (\w+)/NN of/IN TVs/NNS	1
+every/DT market/NN (\w+)/NN and/CC (\w+)/NN since/IN 1980/CD -/:	1
+and/CC his/PRP$ 59-year-old/JJ (\w+)/NN and/CC seriously/RB wounding/VBG his/PRP$ (\w+)/NN ,/, Palestinians/NNPS	1
+after/IN a/DT (\w+)/NN said/VBD a/DT (\w+)/NN attacked/VBD her/PRP ./.	1
+vote/VB on/IN her/PRP$ (\w+)/NN or/CC (\w+)/NN (/NNS 50/CD	1
+that/IN this/DT (\w+)/NN "/`` is/VBZ nothing/NN a/DT (\w+)/NN	1
+decide/VBP the/DT (\w+)/NN to/TO that/DT (\w+)/NN ,/,	2
+"/`` recent/JJ (\w+)/NN and/CC (\w+)/NN	1
+burning/NN (\w+)/NN and/CC (\w+)/NN ./.	1
+from/IN our/PRP$ (\w+)/NN and/CC (\w+)/NN sections/NNS for/IN	1
+anyone/NN ,/, (\w+)/NN or/CC (\w+)/NN regardless/RB of/IN	1
+Durage/NNP 's/POS (\w+)/NN ,/, the/DT 41-year-old/JJ (\w+)/NN of/IN two/CD has/VBZ	1
+(\w+)/NN and/CC (\w+)/NN asking/VBG him/PRP	1
+for/IN an/DT older/JJR (\w+)/NN or/CC (\w+)/NN ./.	1
+sticks/VBZ with/IN them/PRP (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN and/CC (\w+)/NN I/PRP met/VBD	1
+,/, that/IN every/DT (\w+)/NN ,/, (\w+)/NN ,/,	1
+baby/NN ,/, her/PRP$ (\w+)/NN and/CC (\w+)/NN sent/VBD	1
+and/CC the/DT (\w+)/NN and/CC (\w+)/NN leaders/NNS of/IN	3
+(\w+)/NN dead/NN and/CC (\w+)/NN in/IN the/DT hospital/NN	1
+an/DT extensive/JJ (\w+)/NN and/CC (\w+)/NN	2
+his/PRP$ (\w+)/NN has/VBZ left/VBN his/PRP$ (\w+)/NN	1
+97.15-cent/JJ (\w+)/NN and/CC Thursday/NNP 's/POS 96.90-cent/JJ (\w+)/NN	1
+our/PRP$ rich/JJ (\w+)/NNS and/CC (\w+)/NN	1
+demarks/JJ (\w+)/NN from/IN (\w+)/NN ,/, the/DT latest/JJS	1
+(\w+)/NN moves/VBZ in/RP with/IN her/PRP$ (\w+)/NN 's/POS	1
+Schools/NNP prom/NN (\w+)/NN and/CC (\w+)/NN	1
+electricity/NN in/IN (\w+)/NN and/CC (\w+)/NN during/IN the/DT evening/NN	1
+35-31/CD halftime/NN (\w+)/NN and/CC eventually/RB took/VBD the/DT (\w+)/NN on/IN a/DT bucket/NN	1
+(\w+)/NN against/IN which/WDT the/DT (\w+)/NN stands/VBZ	1
+(\w+)/NN age/NN 35-plus/NNS ,/, a/DT (\w+)/NN age/NN 35-plus/JJ	1
+from/IN (\w+)/NN ,/, (\w+)/NN and/CC feet/NNS	1
+a/DT French/JJ (\w+)/NN and/CC Malian/JJ (\w+)/NN	3
+(\w+)/NN to/TO a/DT long/JJ (\w+)/NN :/: Why/WRB	1
+towards/IN the/DT (\w+)/NN of/IN January/NNP or/CC the/DT (\w+)/NN of/IN February/NNP	1
+the/DT Trojans/NNPS '/POS (\w+)/NN was/VBD ,/, Lely/NNP 's/POS (\w+)/NN looked/VBD even/RB	1
+(\w+)/NN talks/VBZ to/TO end/VB that/DT (\w+)/NN	2
+informal/JJ speeches/NNS and/CC (\w+)/NN and/CC (\w+)/NN	1
+,/, if/IN the/DT (\w+)/NN to/TO the/DT second/JJ (\w+)/NN is/VBZ generally/RB "/``	1
+of/IN proprietary/JJ (\w+)/NN and/CC (\w+)/NN designed/VBN to/TO insert/VB	1
+command/NN armies/NNS from/IN (\w+)/NN ,/, present/NN and/CC (\w+)/NN through/IN eight/CD	1
+is/VBZ Taliban/VBN by/IN (\w+)/NN and/CC ostensibly/RB friendly/JJ by/IN (\w+)/NN --/: though/IN many/JJ	1
+child/NN as/IN a/DT (\w+)/NN or/CC a/DT (\w+)/NN and/CC decide/VB whether/IN	1
+would/MD win/VB a/DT (\w+)/NN but/CC lose/VB the/DT (\w+)/NN that/WDT followed/VBD ./.	1
+14-year-old/JJ (\w+)/NN and/CC 18-year-old/JJ (\w+)/NN	2
+have/VBP points/NNS of/IN (\w+)/NN and/CC (\w+)/NN	1
+(\w+)/NN and/CC (\w+)/NN assaulted/VBD	2
+(\w+)/NN and/CC at/IN the/DT (\w+)/NN of/IN the/DT standings/NNS	1
+are/VBP the/DT (\w+)/NN and/CC (\w+)/NN every/DT mother/NN dreams/NNS	1
+only/RB a/DT (\w+)/NN and/CC (\w+)/NN can/MD marry/VB	1
+disconnection/NN between/IN (\w+)/NN and/CC (\w+)/NN in/IN the/DT project/NN	1
+a/DT (\w+)/NN and/CC (\w+)/NN killed/VBN in/IN their/PRP$	1
+(\w+)/NN Polys/NN and/CC (\w+)/NN Clelia/NN	2
+A/DT soon-to-be/JJ (\w+)/NN and/CC a/DT (\w+)/NN	1
+the/DT (\w+)/NN fled/VBD ,/, the/DT (\w+)/NN pulled/VBD	1
+,/, there/EX was/VBD (\w+)/NN ,/, there/EX was/VBD (\w+)/NN ,/, there/EX was/VBD	1
+one/CD but/CC my/PRP$ (\w+)/NN and/CC (\w+)/NN always/RB	1
+or/CC (\w+)/NN and/CC (\w+)/NN ?/.	1
+(\w+)/NN was/VBD NASCAR/NNP 's/POS (\w+)/NN	1
+to/TO mention/VB (\w+)/NN and/CC (\w+)/NN ,/, and/CC	1
+(\w+)/NN but/CC coldblooded/VBN as/IN an/DT (\w+)/NN ./.	1
+linking/VBG the/DT (\w+)/NN and/CC (\w+)/NN of/IN	1
+stop/VB a/DT (\w+)/NN from/IN beating/VBG a/DT (\w+)/NN	1
+far/RB to/TO the/DT (\w+)/NN or/CC the/DT (\w+)/NN on/IN prominent/JJ	1

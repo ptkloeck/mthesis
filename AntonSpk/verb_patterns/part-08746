@@ -1,0 +1,40 @@
+and/CC then/RB (\w+)/VB back/RB and/CC (\w+)/VB	2
+are/VBP either/RB (\w+)/VBN or/CC (\w+)/VB	1
+(\w+)/VBP in/IN you/PRP (\w+)/VBP out/RP in/IN a/DT	1
+by/IN America/NNP ,/, (\w+)/VB for/IN America/NNP ,/, (\w+)/VB down/RP	1
+to/TO class/NN ,/, (\w+)/VB home/NN ,/, (\w+)/VB	1
+you/PRP (\w+)/VBP ,/, and/CC (\w+)/VBP ,/, and/CC tug/VBZ	1
+have/VB money/NN to/TO (\w+)/VB ,/, did/VBD not/RB (\w+)/VB	1
+phone/NN tries/VBZ to/TO (\w+)/VB interference/NN and/CC (\w+)/VB battery/NN life/NN	2
+(\w+)/VBP or/CC (\w+)/VBP campaigns/NNS ./.	1
+prompted/VBD people/NNS to/TO (\w+)/VB ,/, leave/VB or/CC (\w+)/VB in/IN ,/, The/DT	1
+policies/NNS neither/RB (\w+)/VB us/PRP nor/CC (\w+)/VBP the/DT Sandinistas/NNS	1
+have/VBP to/TO both/DT (\w+)/VB and/CC take/VB to/TO (\w+)/VB what/WP	1
+may/MD (\w+)/VB ,/, own/VB and/CC (\w+)/VB virtual/JJ	1
+You/PRP either/RB (\w+)/VB them/PRP or/CC (\w+)/VB them/PRP	1
+so/RB you/PRP can/MD (\w+)/VB it/PRP out/RP and/CC (\w+)/VB	1
+(\w+)/VBP what/WP they/PRP (\w+)/VBP us/PRP ,/,	2
+computers/NNS (\w+)/VBP kaput/NN (\w+)/VBP the/DT year/NN	2
+people/NNS (\w+)/VB and/CC (\w+)/VB as/IN	2
+to/TO (\w+)/VB on/IN the/DT floor/NN or/CC (\w+)/VB on/IN a/DT	1
+to/TO just/RB (\w+)/VB running/VBG when/WRB she/PRP would/MD (\w+)/VB around/RP	1
+to/TO (\w+)/VB or/CC (\w+)/VB depending/VBG upon/IN	1
+borrow/VB shares/NNS and/CC (\w+)/VB them/PRP ,/, hoping/VBG to/TO (\w+)/VB them/PRP back/RP at/IN	2
+to/TO (\w+)/VB Baker/NNP clemency/RB and/CC (\w+)/VB	1
+They/PRP can/MD also/RB (\w+)/VB water/NN apart/RB to/TO (\w+)/VB air/NN (/NNP	1
+or/CC (\w+)/VB ,/, (\w+)/VB	3
+,/, can/MD (\w+)/VB and/CC (\w+)/VB as/RB quickly/RB as/IN	1
+until/IN Tuesday/NNP to/TO (\w+)/VB or/CC (\w+)/VB	2
+more/RBR than/IN we/PRP (\w+)/VBP ,/, and/CC to/TO (\w+)/VB the/DT	1
+be/VB a/SYM (\w+)/VB and/CC (\w+)/VB ./.	2
+businesses/NNS that/WDT (\w+)/VBP to/TO or/CC (\w+)/VB in/IN	1
+to/TO (\w+)/VB and/CC (\w+)/VB before/IN a/DT	5
+(\w+)/VB their/PRP$ policies/NNS ,/, (\w+)/VB their/PRP$	1
+(\w+)/VB and/CC (\w+)/VB at/IN the/DT command/NN	1
+lot/NN of/IN places/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+that/WDT can/MD (\w+)/VB and/CC (\w+)/VB the/DT doors/NNS for/IN	1
+wed/NNP (\w+)/VBP and/CC then/RB well/RB (\w+)/VBP back/RB and/CC	1
+conspirators/NNS who/WP may/MD (\w+)/VBP modern/JJ weapons/NNS but/CC (\w+)/VBP	1
+(\w+)/VBP and/CC (\w+)/VBP with/IN brief/JJ	1
+institution/NN that/WDT will/MD (\w+)/VB and/CC (\w+)/VB emission/NN reduction/NN credits/NNS	1
+reported/VBN profits/NNS to/TO (\w+)/VB one/CD year/NN and/CC (\w+)/VB another/DT simply/RB	1

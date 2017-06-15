@@ -1,0 +1,17 @@
+magnitude/NN ,/, which/WDT (\w+)/VB or/CC (\w+)/VB	1
+it/PRP (\w+)/VBP or/CC (\w+)/VBP ./.	1
+which/WDT can/MD (\w+)/VB deals/NNS ,/, (\w+)/VB them/PRP ,/, or/CC	1
+and/CC Nebraska/NNP (\w+)/VBP (/VBZ or/CC if/IN both/DT (\w+)/VBP ,/, for/IN	1
+to/TO (\w+)/VB it/PRP and/CC subsequently/RB (\w+)/VB it/PRP	1
+I/PRP (\w+)/VBP Tricia/NNP Helfer/NNP but/CC I/PRP (\w+)/VBP	1
+Online/JJ reputations/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN feedback/NN	1
+can/MD (\w+)/VB or/CC (\w+)/VB a/DT message/NN	1
+them/PRP when/WRB to/TO (\w+)/VB ,/, or/CC when/WRB to/TO (\w+)/VB	1
+till/IN the/DT end/NN (\w+)/VBP or/CC (\w+)/VBP ./.	1
+expect/VBP to/TO (\w+)/VB and/CC (\w+)/VB ,/,	1
+"/NNP strongly/RB (\w+)/VBP "/`` to/TO "/`` strongly/RB (\w+)/VB "/`` to/TO see/VB	1
+where/WRB they/PRP (\w+)/VBP and/CC (\w+)/VBP nuclear/JJ weapons/NNS	1
+"/`` They/PRP can/MD (\w+)/VB unless/IN they/PRP choose/VBP to/TO (\w+)/VB on/IN their/PRP$	1
+(\w+)/VB 110/CD percent/NN ,/, (\w+)/VB it/PRP one/CD	1
+metal/NN braces/NNS (\w+)/VB and/CC (\w+)/VB	1
+got/VBN nothing/NN to/TO (\w+)/VB ,/, then/RB (\w+)/VB	1

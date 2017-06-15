@@ -1,0 +1,22 @@
+should/MD (\w+)/VB and/CC (\w+)/VB the/DT	2
+,/, write/VB ,/, (\w+)/VB ,/, (\w+)/VB	2
+watch/VB the/DT bikers/NNS (\w+)/VBN and/CC (\w+)/VBN the/DT mountain/NN ./.	1
+how/WRB long/RB you/PRP (\w+)/VBP or/CC (\w+)/VBP and/CC do/VBP the/DT	3
+If/IN the/DT Penguins/NNPS (\w+)/VBP and/CC the/DT Devils/NNPS (\w+)/VBP ,/, then/RB the/DT	1
+you/PRP to/TO (\w+)/VB or/CC (\w+)/VB from/IN	1
+now/RB you/PRP 'll/MD (\w+)/VB writing/VBG about/IN me/PRP and/CC (\w+)/VB	1
+and/CC will/MD (\w+)/VB or/CC (\w+)/VB as/RB needed/VBN	1
+(\w+)/VB and/CC (\w+)/VB &mdash;/NNS or/CC	1
+vacuum-packed/JJ foods/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+that/IN (\w+)/VB him/PRP or/CC (\w+)/VB him/PRP	2
+prices/NNS were/VBD (\w+)/VBN to/TO (\w+)/VB for/IN	1
+voters/NNS (\w+)/VB cynical/JJ and/CC (\w+)/VB	1
+Leaders/NNP (\w+)/VBP and/CC (\w+)/VBP ,/, but/CC	1
+an/DT acting/JJ superintendent/NN (\w+)/VBP and/CC (\w+)/VBP in/IN the/DT	1
+'/POS golf/NN handicaps/VBZ (\w+)/VB and/CC (\w+)/VB ,/, but/CC work/NN	1
+people/NNS still/RB can/MD (\w+)/VB and/CC (\w+)/VB a/DT	1
+points/NNS ,/, (\w+)/VB or/CC (\w+)/VB a/DT margin/NN of/IN	1
+(\w+)/VB and/CC (\w+)/VB in/IN the/DT dim/NNP	3
+practice/NN would/MD (\w+)/VB or/CC (\w+)/VB the/DT	1
+to/TO (\w+)/VB down/RP and/CC not/RB (\w+)/VB back/RP ,/, we/PRP	1
+(\w+)/VBP ,/, and/CC schools/NNS generally/RB (\w+)/VBP ,/, boys/NNS	1

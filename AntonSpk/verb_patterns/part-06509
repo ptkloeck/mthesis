@@ -1,0 +1,30 @@
+world/NN ,/, (\w+)/VB or/CC (\w+)/VB ./.	1
+review/NN ca/MD n't/RB (\w+)/VB or/CC (\w+)/VB anything/NN ./.	1
+and/CC seen/VBN people/NNS (\w+)/VB and/CC (\w+)/VB ./.	1
+will/MD (\w+)/VB or/CC (\w+)/VB on/IN his/PRP$	1
+earnings/NNS will/MD (\w+)/VB ,/, not/RB (\w+)/VB	1
+when/WRB they/PRP (\w+)/VBP ,/, much/RB less/RBR (\w+)/VBP	1
+We/PRP (\w+)/VBP waiting/VBG for/IN them/PRP to/TO (\w+)/VB	1
+draft/NN could/MD (\w+)/VB or/CC (\w+)/VB that/DT prediction/NN ./.	1
+``/`` potential/NN ''/'' (\w+)/VB and/CC (\w+)/VB	1
+expect/VBP to/TO (\w+)/VB and/CC (\w+)/VB ,/, and/CC	1
+;/: why/WRB not/RB (\w+)/VB a/DT chance/NN and/CC (\w+)/VB him/PRP	1
+to/TO (\w+)/VB and/CC (\w+)/VB construction/NN equipment/NN	1
+Those/DT things/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN cycles/NNS ./.	1
+one/NN to/TO (\w+)/VB or/CC (\w+)/VB a/DT game/NN ./.	1
+who/WP (\w+)/VB something/NN and/CC then/RB (\w+)/VB it/PRP	2
+continue/VBP to/TO (\w+)/VB it/PRP or/CC (\w+)/VB	1
+saw/VBD Mr./NNP Goldstein/NNP (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+people/NNS (\w+)/VBP or/CC (\w+)/VBP in/IN a/DT vehicle/NN	1
+would/MD (\w+)/VB where/WRB yields/NNS (\w+)/VBP	1
+,/, (\w+)/VBN ,/, we/PRP have/VBP to/TO (\w+)/VB	1
+whether/IN to/TO (\w+)/VB here/RB or/CC (\w+)/VB somewhere/RB else/RB to/TO	1
+may/MD also/RB (\w+)/VB muscle/NN spasms/NNS ,/, (\w+)/VB relaxation/NN	1
+(\w+)/VB the/DT tie/NN if/IN you/PRP (\w+)/VBP the/DT doubles/NN	1
+the/DT (\w+)/VB and/CC (\w+)/VB ,/,	13
+newlyweds/NNS (\w+)/VB and/CC (\w+)/VB ,/, and/CC	2
+(\w+)/VBP the/DT time/NN to/TO (\w+)/VB this/DT gift/NN to/TO	1
+power/NN to/TO (\w+)/VB or/CC (\w+)/VB athletes/NNS '/POS	1
+to/TO actively/RB (\w+)/VB and/CC (\w+)/VB stocks/NNS or/CC bonds/NNS	1
+automatically/RB (\w+)/VB and/CC (\w+)/VB information/NN between/IN the/DT	1
+(\w+)/VBP to/TO (\w+)/VB ,/, a/DT	4

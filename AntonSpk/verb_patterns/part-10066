@@ -1,0 +1,32 @@
+tank/NN would/MD (\w+)/VB and/CC (\w+)/VB placing/VBG	1
+(\w+)/VB and/CC (\w+)/VB is/VBZ an/DT	1
+the/DT groupies/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, and/CC the/DT	1
+do/VBP you/PRP (\w+)/VB to/TO (\w+)/VB	1
+(\w+)/VBP and/CC the/DT people/NNS who/WP (\w+)/VBP resale/NN items/NNS	1
+(\w+)/VBP talking/VBG and/CC do/VBP n't/RB (\w+)/VB until/IN	1
+brokers/NNS (\w+)/VB and/CC (\w+)/VB stocks/NNS in/IN a/DT	1
+(\w+)/VB benefits/NNS or/CC (\w+)/VB	1
+you/PRP (\w+)/VBP to/TO (\w+)/VB the/DT underwater/JJ	1
+bills/NNS sought/VBD to/TO (\w+)/VB down/RP barriers/NNS that/WDT (\w+)/VBP media/NNS companies/NNS from/IN	1
+you/PRP (\w+)/VBP (/NNS or/CC (\w+)/VBP )/VBG	1
+press/NN release/NN (\w+)/VBP non-GAAP/JJ measures/NNS that/WDT (\w+)/VBP certain/JJ	1
+the/DT multitudes/NNS who/WP (\w+)/VBP to/TO (\w+)/VB him/PRP	2
+,/, the/DT banks/NNS (\w+)/VBP the/DT leeway/NN to/TO (\w+)/VB their/PRP$	1
+'ll/MD (\w+)/VB or/CC (\w+)/VB --/:	1
+wins/NNS and/CC losses/NNS (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+(\w+)/VB a/DT President/NNP and/CC (\w+)/VB their/PRP$ careers/NNS	1
+it/PRP ,/, Presidents/NNS (\w+)/VB and/CC (\w+)/VB ,/, talking/VBG	1
+are/VBP quick/JJ to/TO (\w+)/VB and/CC quick/JJ to/TO (\w+)/VB	1
+luck/NN to/TO (\w+)/VB and/CC promptly/RB (\w+)/VB	1
+can/MD now/RB (\w+)/VB on/IN tax-exempt/JJ benefits/NNS they/PRP (\w+)/VBP their/PRP$ workers/NNS ./.	4
+their/PRP$ teams/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+(\w+)/VBP the/DT sin/NN but/CC (\w+)/VBP the/DT sinner/NN --/:	1
+race/NN so/RB (\w+)/VB ,/, (\w+)/VB	1
+(\w+)/VBP to/TO (\w+)/VB a/DT new/JJ	2
+we/PRP (\w+)/VB you/PRP this/DT and/CC (\w+)/VB it/PRP	1
+somewhere/RB to/TO (\w+)/VB and/CC (\w+)/VB	1
+corner/NN to/TO (\w+)/VB and/CC (\w+)/VB the/DT turntable/JJ platter/NN	1
+to/TO (\w+)/VB it/PRP going/VBG until/IN we/PRP (\w+)/VBP ,/, and/CC we/PRP	1
+(\w+)/VBP connected/VBN at/IN O'Hare/NNP I/PRP (\w+)/VBP my/PRP$ connection/NN flight/NN	1
+I/PRP could/MD n't/RB (\w+)/VB but/CC did/VBD n't/RB (\w+)/VB	1
+proposals/NNS (\w+)/VBP and/CC (\w+)/VBP without/IN ever/RB	1

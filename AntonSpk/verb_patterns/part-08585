@@ -1,0 +1,27 @@
+They/PRP (\w+)/VB and/CC (\w+)/VB or/CC	1
+The/DT Lakers/NNPS will/MD (\w+)/VB their/PRP$ season/NN and/CC unofficially/RB (\w+)/VB	2
+food/NN products/NNS that/WDT (\w+)/VBP to/TO (\w+)/VB	1
+of/IN issues/NNS that/WDT (\w+)/VBP rather/RB than/IN (\w+)/VB	1
+plants/NNS they/PRP (\w+)/VB or/CC (\w+)/VB ./.	1
+Valves/NNS (\w+)/VB and/CC (\w+)/VB to/TO admit/VB air/NN	1
+and/CC doors/NNS (\w+)/VB or/CC (\w+)/VB in/IN response/NN to/TO	2
+How/WRB can/MD we/PRP (\w+)/VBP one/CD out-of-district/JJ child/NN and/CC (\w+)/VBP another/DT	1
+go/VBP ,/, kids/NNS (\w+)/VB and/CC (\w+)/VB ,/,	1
+the/DT tournament/NN ,/, (\w+)/VB or/CC (\w+)/VB ,/,	1
+performers/NNS to/TO (\w+)/VB and/CC (\w+)/VB speedily/JJ but/CC	1
+a/NNP '/POS (\w+)/VB the/DT rumour/NN ,/, (\w+)/VB	1
+(\w+)/VB Jim/NNP ,/, (\w+)/VB on/RP ,/, Kansas/NNP	1
+(\w+)/VB writing/VBG to/TO politicians/NNS and/CC (\w+)/VB going/VBG	1
+(\w+)/VB or/CC (\w+)/VB decisions/NNS from/IN	1
+acceptable/JJ to/TO (\w+)/VB and/CC (\w+)/VB from/IN ./.	1
+If/IN I/PRP (\w+)/VBP my/PRP$ triple/JJ ,/, I/PRP (\w+)/VBP	1
+(/NN (\w+)/VB ital/JJ )/JJ something/NN (/NNS (\w+)/VB	1
+trips/NNS will/MD (\w+)/VB ,/, and/CC outbound/JJ trips/NNS (\w+)/VBP ,/, at/IN	1
+free/JJ to/TO (\w+)/VB or/CC (\w+)/VB with/IN editorial/JJ	2
+think/VBP ,/, can/MD (\w+)/VB or/CC (\w+)/VB	2
+,/, (\w+)/VBP away/RB ,/, (\w+)/VB	2
+to/TO (\w+)/VB out/RP on/IN those/DT and/CC (\w+)/VB an/DT hour/NN or/CC	1
+to/TO (\w+)/VB them/PRP ,/, they/PRP (\w+)/VBP swearing/NN	1
+payrolls/NNS adjusted/VBN to/TO (\w+)/VB and/CC (\w+)/VB the/DT	1
+Israeli/JJ cabinet/NN could/MD (\w+)/VB to/TO (\w+)/VB the/DT mission/NN ,/,	1
+prices/NNS would/MD (\w+)/VB and/CC yields/NNS would/MD (\w+)/VB also/RB put/VBD	1

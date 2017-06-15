@@ -1,0 +1,29 @@
+puts/VBZ the/DT official/NN (\w+)/VB and/CC (\w+)/VB dates/NNS	1
+calculation/NN to/TO (\w+)/VB or/CC (\w+)/VB	1
+be/VB able/JJ to/TO (\w+)/VB and/CC (\w+)/VB and/CC	1
+told/VBD everyone/NN to/TO (\w+)/VB home/NN and/CC (\w+)/VB	1
+can/MD (\w+)/VB or/CC (\w+)/VB the/DT look/NN	3
+(\w+)/VB some/DT and/CC you/PRP (\w+)/VBP some/DT ,/,	1
+using/VBG momentum/NN to/TO (\w+)/VB or/CC (\w+)/VB the/DT	1
+it/PRP easier/RBR to/TO (\w+)/VB and/CC (\w+)/VB young/JJ people/NNS	14
+of/IN doors/NNS that/WDT (\w+)/VB and/CC (\w+)/VB to/TO the/DT	1
+and/CC Japan/NNP (\w+)/VB ,/, improve/VB and/CC (\w+)/VB	1
+(\w+)/VB 12/CD games/NNS and/CC still/RB (\w+)/VB the/DT Stanley/NNP	1
+sufferers/NNP )/NNP (\w+)/VBP to/TO (\w+)/VB	1
+square/JJ footage/NN to/TO (\w+)/VB and/CC (\w+)/VB ?/.	1
+may/MD (\w+)/VB and/CC (\w+)/VB ,/, Japanese/NNP always/RB	1
+will/MD (\w+)/VB and/CC I/PRP 'll/MD (\w+)/VB ,/,	1
+can/MD (\w+)/VB and/CC (\w+)/VB freely/RB and/CC	1
+with/IN comments/NNS can/MD (\w+)/VB or/CC (\w+)/VB your/PRP$	1
+to/TO (\w+)/VB her/PRP$ threat/NN to/TO ``/`` (\w+)/VB up/RP ,/,	1
+to/TO (\w+)/VB or/CC (\w+)/VB stock/NN	20
+a/DT "/`` (\w+)/VB or/CC (\w+)/VB "/'' year/NN for/IN	2
+to/TO (\w+)/VB a/DT look/NN at/IN and/CC (\w+)/VB some/DT	1
+leagues/NNS (\w+)/VBP and/CC (\w+)/VBP over/IN	1
+to/TO (\w+)/VB Watford/NNP hearts/NNS and/CC (\w+)/VB it/PRP	1
+(\w+)/VB his/PRP$ mind/NN and/CC (\w+)/VB at/IN	1
+Id/NN (\w+)/VBP or/CC (\w+)/VBP ,/, Linn/NNP said/VBD	1
+it/PRP would/MD also/RB (\w+)/VB the/DT bicycle/NN frame/NN and/CC (\w+)/VB the/DT theft/NN pointless/JJ	1
+(\w+)/VB concessions/NNS from/IN unions/NNS to/TO (\w+)/VB costs/NNS	1
+watch/VB the/DT ferries/NNS (\w+)/VB and/CC (\w+)/VB	1
+the/DT power/NN to/TO (\w+)/VB or/CC (\w+)/VB lives/NNS ,/,	1

@@ -1,0 +1,33 @@
+not/RB (\w+)/VB --/: or/CC (\w+)/VB --/:	3
+,/, (\w+)/VB Mexican/JJ parts/NNS and/CC (\w+)/VB	1
+schedule/NN can/MD (\w+)/VB or/CC (\w+)/VB someone/NN	1
+have/VBP to/TO (\w+)/VB to/TO (\w+)/VB on/RP ./.	1
+why/WRB some/DT (\w+)/VBP when/WRB others/NNS (\w+)/VBP have/VBP a/DT	1
+away/RB ,/, planes/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN their/PRP$	1
+(\w+)/VBD more/RBR often/RB than/IN (\w+)/VBP ./.	1
+(\w+)/VBP leverage/NN to/TO (\w+)/VB the/DT leases/NNS	1
+would/MD (\w+)/VB and/CC (\w+)/VB ,/, but/CC	1
+day/NN they/PRP (\w+)/VB or/CC (\w+)/VB such/JJ issues/NNS	1
+n't/RB (\w+)/VB ,/, lenders/NNS wo/MD n't/RB (\w+)/VB and/CC	1
+he/PRP has/VBZ to/TO (\w+)/VB zooming/VBG ahead/RB and/CC (\w+)/VB taking/VBG	1
+problems/NNS ,/, (\w+)/VB off/RP or/CC (\w+)/VB up/RP	1
+of/IN doors/NNS that/WDT (\w+)/VB and/CC (\w+)/VB	1
+liked/VBD to/TO (\w+)/VB new/JJ stocks/NNS and/CC (\w+)/VB them/PRP quickly/RB	1
+is/VBZ not/RB to/TO (\w+)/VB them/PRP ,/, its/PRP$ to/TO (\w+)/VB them/PRP	1
+Why/WRB do/VBP people/NNS (\w+)/VB one/CD and/CC (\w+)/VB the/DT	1
+unwilling/JJ to/TO (\w+)/VB or/CC (\w+)/VB	1
+drug/NN lords/NNS (\w+)/VB and/CC (\w+)/VB Swaziland/NNP 's/POS	2
+owner/NN did/VBD n't/RB (\w+)/VB anyone/NN permission/NN to/TO (\w+)/VB it/PRP	1
+(\w+)/VB out/RP his/PRP$ house/NN and/CC (\w+)/VB towards/IN where/WRB	1
+,/, students/NNS who/WP (\w+)/VBP to/TO (\w+)/VB a/DT state/NN	1
+like/VB to/TO (\w+)/VB his/PRP$ condo/NN and/CC (\w+)/VB a/DT single-family/JJ home/NN	1
+interesting/JJ ways/NNS to/TO (\w+)/VB a/DT conversation/NN ,/, or/CC (\w+)/VB one/CD	1
+the/DT sun/NN is/VBZ (\w+)/VBN to/TO (\w+)/VB over/RP one/CD	2
+live/VB for/IN the/DT (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB search/NN	2
+(\w+)/VB and/CC (\w+)/VB a/DT piece/NN	1
+(\w+)/VBP a/DT way/NN to/TO (\w+)/VB instead/RB	1
+has/VBZ seen/VBN bell-bottoms/NNS (\w+)/VB and/CC (\w+)/VB and/CC come/VB	1
+Had/JJ to/TO (\w+)/VB iPod/NNP then/RB (\w+)/VB it/PRP	1
+to/TO (\w+)/VB or/CC (\w+)/VB a/DT sale/NN	1
+(\w+)/VB in/IN Washington/NNP yesterday/NN and/CC (\w+)/VB	1

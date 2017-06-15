@@ -1,0 +1,36 @@
+Cox/NNP 's/POS star/NN (\w+)/VBD to/TO (\w+)/VB -/: Yahoo/NNP !/.	1
+the/DT Lady/NNP Vols/NNP (\w+)/VBP or/CC (\w+)/VBP ./.	3
+(\w+)/VB VW/NNP and/CC (\w+)/VB the/DT	1
+to/TO (\w+)/VB up/RP and/CC (\w+)/VB down/RP entirely/RB	4
+because/IN California/NNP yields/NNS (\w+)/VBP ,/, or/CC national/JJ yields/NNS (\w+)/VBP ,/,	1
+(\w+)/VB and/CC (\w+)/VB a/DT year/NN	1
+"/`` She/PRP said/VBD (\w+)/VB ,/, let/VBD 's/PRP (\w+)/VBP to/TO my/PRP$ house/NN	1
+no/DT need/NN to/TO (\w+)/VB and/CC (\w+)/VB back/JJ	1
+or/CC lose/JJ ,/, (\w+)/VBP 'em/PRP or/CC (\w+)/VBP 'em/PRP	1
+could/MD then/RB (\w+)/VB or/CC (\w+)/VB a/DT building/NN day/NN	1
+,/, there/EX should/MD (\w+)/VB resolve/VB to/TO (\w+)/VB forward/RB by/IN making/VBG	1
+(\w+)/VBP you/PRP greatly/RB ,/, you/PRP (\w+)/VBP all/RB been/VBN	1
+powers/NNS to/TO (\w+)/VB and/CC (\w+)/VB a/DT prime/JJ	2
+Bechtel/NNP could/MD (\w+)/VB or/CC (\w+)/VB from/IN $/$	1
+'s/POS fortunes/NNS may/MD (\w+)/VB and/CC (\w+)/VB ,/, but/CC here/RB	4
+to/TO (\w+)/VB ahead/RB with/IN amendments/NNS would/MD (\w+)/VB later/RB	1
+prefers/VBZ to/TO (\w+)/VB and/CC (\w+)/VB through/IN	1
+whether/IN to/TO (\w+)/VB or/CC (\w+)/VB the/DT program/NN	1
+tried/VBD to/TO (\w+)/VB to/TO everyone/NN who/WP might/MD (\w+)/VB your/PRP$ product/NN ,/,	1
+consumers/NNS to/TO (\w+)/VB and/CC (\w+)/VB tickets/NNS to/TO	1
+(\w+)/VBP to/TO (\w+)/VB it/PRP ,/, viewing/VBG	1
+days/NNS will/MD (\w+)/VB or/CC (\w+)/VB the/DT season/NN ./.	1
+(\w+)/VB playing/VBG games/NNS and/CC (\w+)/VB playing/VBG straight/RB ,/,	1
+weather/NN ,/, (\w+)/VB and/CC (\w+)/VB stocks/NNS ,/,	2
+are/VBP able/JJ to/TO (\w+)/VB and/CC (\w+)/VB the/DT shares/NNS ./.	1
+to/TO (\w+)/VB and/CC (\w+)/VB by/IN counting/VBG	1
+understands/VBZ the/DT (\w+)/VB and/CC (\w+)/VB nature/NN of/IN	1
+the/DT Western/JJ countries/NNS (\w+)/VBP more/RBR than/IN they/PRP (\w+)/VBP from/IN the/DT	1
+to/TO (\w+)/VB and/CC (\w+)/VB e-mail/JJ messages/NNS	1
+(\w+)/VB realities/NNS into/IN consideration/NN and/CC (\w+)/VB up/RP this/DT	1
+(\w+)/VBP ,/, and/CC sometimes/RB they/PRP (\w+)/VBP	1
+and/CC photographers/NNS (\w+)/VBP and/CC (\w+)/VBP as/IN our/PRP$ handlers/NNS	1
+an/DT hour/NN ,/, (\w+)/VB or/CC (\w+)/VB ,/,	1
+Congress/NNP must/MD (\w+)/VB or/CC (\w+)/VB the/DT result/NN	1
+(\w+)/VBP and/CC (\w+)/VBP New/NNP York/NNP Stock/NNP	1
+did/VBD (\w+)/VB up/RP my/PRP$ car/NN and/CC (\w+)/VB the/DT express/JJ bus/NN	1

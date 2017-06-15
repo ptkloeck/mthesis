@@ -1,0 +1,48 @@
+cell/NN phone/NN -/: (\w+)/VB it/PRP or/CC (\w+)/VB it/PRP	1
+(\w+)/VB and/CC (\w+)/VB mules/NNS	1
+plan/NN :/: (\w+)/VB it/PRP ,/, (\w+)/VB it/PRP	1
+have/VBP (\w+)/VBN from/IN people/NNS who/WP actually/RB (\w+)/VBP into/IN the/DT	1
+(\w+)/VBP waiting/VBG for/IN them/PRP to/TO (\w+)/VB through/RP ,/, "/''	1
+for/IN them/PRP to/TO (\w+)/VB or/CC (\w+)/VB a/DT bike/NN	1
+to/TO (\w+)/VB him/PRP more/JJR tests/NNS and/CC (\w+)/VB more/JJR	1
+caulking/NN will/MD (\w+)/VB and/CC (\w+)/VB with/IN the/DT	2
+friends/NNS (\w+)/VBP to/TO (\w+)/VB	1
+(\w+)/VBP ,/, but/CC I/PRP (\w+)/VBP to/TO say/VB	1
+eight/CD days/NNS could/MD (\w+)/VB or/CC (\w+)/VB their/PRP$	1
+,/, (\w+)/VB or/CC (\w+)/VB 5/CD pounds/NNS	1
+what/WP will/MD (\w+)/VB or/CC (\w+)/VB this/DT title/NN	1
+and/CC (\w+)/VBN to/TO (\w+)/VB more/JJR on/IN higher/JJR	1
+(\w+)/VB ,/, renovate/VB and/CC (\w+)/VB a/DT home/NN	1
+—/NNS seemed/VBD to/TO (\w+)/VB and/CC (\w+)/VB with/IN news/NN	1
+comfortable/JJ enough/RB to/TO (\w+)/VB ,/, but/CC win/VB or/CC (\w+)/VB	1
+'s/POS tournament/NN to/TO (\w+)/VB or/CC (\w+)/VB ,/, "/'' Dryden/NNP	1
+'s/VBZ easier/JJR to/TO (\w+)/VB and/CC (\w+)/VB small-dollar/JJ amounts/NNS	1
+Americans/NNS love/VBP to/TO (\w+)/VB and/CC (\w+)/VB in/IN	1
+,/, it/PRP (/RB (\w+)/VBP ital/JJ )/NNS must/MD (/RB (\w+)/VB ital/JJ	1
+wannabes/VBZ ,/, (\w+)/VB and/CC (\w+)/VB ,/, rise/VB and/CC	1
+bands/NNS (\w+)/VB by/IN him/PRP ,/, or/CC (\w+)/VB to/TO offers/NNS from/IN	2
+Minerals/NNPS to/TO (\w+)/VB and/CC (\w+)/VB copper/NN in/IN	1
+(\w+)/VB up/RP the/DT habit/NN and/CC (\w+)/VB up/RP the/DT habit/NN	2
+(\w+)/VBP to/TO (\w+)/VB ,/, club/NN president/NN	1
+(\w+)/VB the/DT joke/NN but/CC (\w+)/VBP the/DT	1
+is/VBZ going/VBG to/TO (\w+)/VB or/CC (\w+)/VB my/PRP$ Hall/NN	1
+stories/NNS ,/, (\w+)/VB editorial/JJ support/NN and/CC (\w+)/VB on/IN administrative/JJ	1
+(\w+)/VB on/RP ,/, let/VB 's/POS (\w+)/VB see/VB him/PRP	1
+mid-cap/JJ funds/NNS ,/, (\w+)/VB the/DT best/JJS and/CC (\w+)/VB the/DT others/NNS	1
+that/IN the/DT Indians/NNPS (\w+)/VBP and/CC the/DT M/NNP 's/VBZ (\w+)/VB ?/.	1
+be/VB varied/VBN to/TO (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB during/IN the/DT performance/NN	1
+(\w+)/VB and/CC also/RB when/WRB we/PRP (\w+)/VBP and/CC it/PRP 's/VBZ	1
+the/DT (\w+)/VB and/CC (\w+)/VB of/IN the/DT Internet/NN	1
+While/IN other/JJ restaurants/NNS (\w+)/VB and/CC (\w+)/VB ,/, or/CC	1
+more/JJR we/PRP (\w+)/VBP on/RP than/IN (\w+)/VBP on/RP	1
+funds/NNS ,/, which/WDT (\w+)/VBP and/CC (\w+)/VBP with/IN the/DT market/NN	1
+you/PRP (\w+)/VBP from/IN or/CC where/WRB you/PRP (\w+)/VBP --/: it/PRP 's/VBZ	1
+interest/NN rates/NNS (\w+)/VBP and/CC housing/NN prices/NNS (\w+)/VBP ,/, disaster/NN	1
+they/PRP will/MD (\w+)/VB to/TO (\w+)/VB her/PRP$ authority/NN	1
+of/IN stock-car/JJ racing/NN (\w+)/VBP to/TO (\w+)/VB Mr./NNP	1
+jury/NN to/TO (\w+)/VB King/NNP but/CC (\w+)/VB his/PRP$ company/NN	1
+Republican/NNP Democrats/NNPS (\w+)/VBP to/TO (\w+)/VB ,/, proved/VBD unpopular/JJ	1
+to/TO (\w+)/VB interest/NN rates/NNS than/IN (\w+)/VB them/PRP	1
+Let/VB your/PRP$ guests/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+to/TO (\w+)/VB down/RP the/DT walls/NNS that/WDT (\w+)/VBP them/PRP	1

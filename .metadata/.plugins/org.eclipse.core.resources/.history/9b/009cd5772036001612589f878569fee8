@@ -1,0 +1,293 @@
+'''
+Created on Apr 27, 2016
+
+@author: peter
+'''
+from collections import Counter
+import os
+import sys
+
+import nltk
+import pandas
+from sklearn import cross_validation
+from sklearn.ensemble import RandomForestClassifier
+
+from anton import config
+from anton.feature_extraction import base
+from anton.learn import learn
+from anton.util import util
+
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), os.pardir, os.pardir))
+
+
+def gre_to_classifier_tsv():
+    
+    wsj = nltk.corpus.brown.tagged_words(tagset="universal")
+    cfd = nltk.ConditionalFreqDist(wsj)
+
+    with open(config.path_to_res("gre_testset").replace(".tsv", ".txt"), 'r') as gre_raw:
+        with open(config.path_to_res("gre_testset"), 'w') as gre_data:
+            
+            gre_data.write("\tpos_tag\n")
+
+            written_instance_lines = []
+
+            for line in gre_raw:
+
+                target, choices, _ = devide_line(line)
+              
+                words = []
+                words.append(target)
+                words.extend(choices)
+   
+                pos = most_probable_pos_tag(words, cfd)
+            
+                for choice in choices:
+                    pair = util.order_pair((target, choice))
+                    index_key = util.ordered_pair_to_index_key(pair)
+                    
+                    instance_line = index_key + '\t' + pos + '\n'
+                    if not instance_line in written_instance_lines:
+                        written_instance_lines.append(instance_line)
+                        gre_data.write(instance_line)
+
+def devide_line(gre_line):
+    
+    gre_line = gre_line.rstrip('\n')
+                
+    parts = gre_line.split(':')
+
+    target = parts[0]
+    choices = parts[1].strip().split(' ')
+    
+    answer = parts[3].strip()
+    
+    return (target, choices, answer)
+                    
+def most_probable_pos_tag(words, cfd):
+
+    tag_to_freq = Counter()
+    for word in words:
+        most_common_tags = cfd[word].most_common()
+        if most_common_tags:
+            most_common_tag = most_common_tags[0][0]
+            if most_common_tag == "ADV":
+                most_common_tag = "ADJ"
+            tag_to_freq[most_common_tag] += 1
+    
+    most_probable_tag = "adj"
+    max_freq = 0       
+    for tag, freq in tag_to_freq.items():
+        if freq > max_freq:
+            max_freq = freq
+            most_probable_tag = tag.lower()
+        
+    return most_probable_tag
+
+def accuracy_on_gre():
+    
+    # wsj = nltk.corpus.brown.tagged_words(tagset="universal")
+    # cfd = nltk.ConditionalFreqDist(wsj)
+    
+    gre_path = config.path_to_res("gre_testset")
+    learn.extract_features_to_files(gre_path, [base.FeatureCategory.COOC_PAIR, base.FeatureCategory.COOC_CONTEXT])
+    
+    """
+    learn.classify_file(gre_path, True)
+    
+    pos_tag_to_prediction_df = learn.read_prediction_dfs(gre_path)
+
+    num_lines = 0
+    num_right = 0
+    with open(config.path_to_res("gre_testset").replace(".tsv", ".txt"), 'r') as gre_raw:
+        question_index = 0
+        for line in gre_raw:
+            
+            question_index += 1
+            target, choices, answer = devide_line(line)
+            
+            words = []
+            words.append(target)
+            words.extend(choices)
+   
+            pos = most_probable_pos_tag(words, cfd)
+            prediction_df = pos_tag_to_prediction_df[pos]
+                
+            max_ant_proba = 0
+            for choice in choices:
+                index_key = util.pair_to_index_key((target, choice))
+                try:
+                    ant_proba = prediction_df.loc[index_key, learn.PREDICT_PROBA_ANT_COL_HEADER]
+                    ant_proba = float(ant_proba)
+                    # key error because of adv/adj
+                    # type error because of double entries eg noun/verb
+                    # both should be fixed
+                except TypeError:
+                    continue
+                except KeyError:
+                    continue
+                if ant_proba > max_ant_proba:
+                    max_ant_proba = ant_proba
+                    chosen_ant = choice
+            
+            if chosen_ant == answer:
+                num_right += 1
+            num_lines += 1
+            
+    print(float(num_right / num_lines))
+    """
+
+def eval_turn_lzqz(res_id, feature_categories):
+    
+    data_path = config.path_to_res(res_id)
+    # learn.extract_features_to_files(data_path)
+    learn.classify_file(data_path, True, feature_categories)
+    learn.compute_metrics(data_path)
+            
+def eval_turn(feature_categories):
+    eval_turn_lzqz("turn_testset", feature_categories)
+    
+def eval_lqzq(feature_categories):
+    eval_turn_lzqz("lzqz_testset", feature_categories)
+
+def cross_val_turn():
+    
+    data_path = config.path_to_res("turn_testset")
+    dfs = []
+    for pos in util.POS:
+        pos_data_path = data_path.replace(".tsv", "_" + pos.tag + ".tsv")
+        df_pos = learn.read_dataframe(pos_data_path)
+        dfs.append(df_pos)
+    df = pandas.concat(dfs)
+    print(len(df))
+    
+    feature_categories = [x for x in base.FeatureCategory]
+    feature_categories.remove(base.FeatureCategory.PATTERNS)
+     
+    y = df["rel_class"] 
+    X, _ = learn.feature_matrix(df, feature_categories)
+    
+    clf = RandomForestClassifier(n_estimators=100)
+
+    scores = cross_validation.cross_val_score(clf, X, y, cv=10, scoring='f1_weighted', n_jobs=-1)
+    print("Cross-validation for turn data set: " + str(scores.mean()))
+
+def predict_wn_data_sample():
+    
+    df = learn.load_wn_dataset(util.POS.ADJ, True)
+
+    y = df["rel_class"].values
+
+    train, test = cross_validation.train_test_split(df, test_size=0.2, stratify=y)
+    
+    y_train = train["rel_class"].values
+    learn.pop_non_features(train)
+    X_train = train.values
+    
+    y_test = test["rel_class"].values
+    learn.pop_non_features(test)
+    X_test = test.values
+    
+    clf = RandomForestClassifier(n_estimators=100)
+    clf.fit(X_train, y_train)
+    y_predicted = clf.predict(X_test)
+    for i, label in enumerate(y_predicted):
+        print(test.index[i] + " " + str(label) + " " + str(y_test[i]))
+
+def cross_val_wn(feature_categories):
+    
+    print("Crossvalidation for wn data sets for feature_categories: " + str(feature_categories))
+    for pos in util.POS:
+        cross_val_wn_data(pos, True, feature_categories)
+        cross_val_wn_data(pos, False, feature_categories)
+                
+def cross_val_wn_data(pos, ant_syn, feature_categories):
+    
+    df = learn.load_wn_dataset(pos, ant_syn)
+
+    y = df["rel_class"].values
+    # antonyms:1 everything else (hyponyms etc.):2
+    y[y > 1] = 2
+    
+    X, _ = learn.feature_matrix(df, feature_categories)
+    
+    clf = RandomForestClassifier(n_estimators=100)
+
+    scores = cross_validation.cross_val_score(clf, X, y, cv=10, scoring='f1_weighted', n_jobs=-1)
+    print("Cross-validation for pos:" + pos.tag + " and ant_syn:" + str(ant_syn) + ": " + str(scores.mean()))
+
+def ablation_test_wn_data_adj():
+    
+    df = learn.load_wn_dataset(util.POS.ADJ, False)
+
+    y = df["rel_class"].values
+    # antonyms:1 everything else (hyponyms etc.):2
+    y[y > 1] = 2
+    
+    all_categories = [x for x in base.FeatureCategory]
+    all_categories.remove(base.FeatureCategory.WORD_EMBED)
+    
+    print ("All features are: " + str(all_categories))
+    
+    X, _ = learn.feature_matrix(df, all_categories)
+    
+    clf = RandomForestClassifier(n_estimators=100)
+
+    scores = cross_validation.cross_val_score(clf, X, y, cv=10, scoring='f1_weighted', n_jobs=-1)
+    print("F-score for all features is " + str(scores.mean()))
+        
+    for i in range(len(all_categories)):
+        
+        removed_category = all_categories[i]
+        
+        feature_categories = list(all_categories)
+        del(feature_categories[i])
+        
+        X, _ = learn.feature_matrix(df, feature_categories)
+    
+        clf = RandomForestClassifier(n_estimators=100)
+
+        scores = cross_validation.cross_val_score(clf, X, y, cv=10, scoring='f1_weighted', n_jobs=-1)
+        print("F-score for all features without " + str(removed_category) + " is " + str(scores.mean()))
+
+def single_categorie_test_wn_adj():
+    
+    df = learn.load_wn_dataset(util.POS.ADJ, True)
+    
+    y = df["rel_class"].values
+    
+    for feature_category in base.FeatureCategory:
+        
+        X, _ = learn.feature_matrix(df, [feature_category])
+    
+        clf = RandomForestClassifier(n_estimators=100)
+
+        scores = cross_validation.cross_val_score(clf, X, y, cv=10, scoring='f1_weighted', n_jobs=-1)
+        print("F-score for only feature category " + str(feature_category) + " is " + str(scores.mean()))
+    
+if __name__ == "__main__":
+    
+    # feature_categories = [x for x in base.FeatureCategory]
+    # feature_categories = [base.FeatureCategory.WEB1T_PATTERNS]
+    # feature_categories.remove(base.FeatureCategory.WORD_EMBED)
+    # feature_categories.remove(base.FeatureCategory.JB_SIM)
+    # feature_categories.remove(base.FeatureCategory.MORPH)
+    # feature_categories.remove(base.FeatureCategory.PATTERNS)
+    
+    # gre_to_classifier_tsv()
+    # eval_turn(feature_categories)
+    # eval_lqzq(feature_categories)
+    
+    accuracy_on_gre()
+    
+    # learn.extract_features_to_files(config.path_to_res("turn_testset"), [base.FeatureCategory.PARA_COOC_PAIR])
+    # learn.extract_features_to_files(config.path_to_res("lzqz_testset"), [base.FeatureCategory.PARA_COOC_PAIR])
+    
+    # cross_val_turn()
+    
+    # ablation_test_wn_data_adj()
+    
+    # cross_val_wn(feature_categories)
+    
+    # single_categorie_test_wn_adj()

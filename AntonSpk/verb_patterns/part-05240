@@ -1,0 +1,27 @@
+get/VB paid/VBN to/TO (\w+)/VB ,/, not/RB (\w+)/VB	1
+more/JJR things/NNS (\w+)/VBP ,/, the/DT more/JJR they/PRP (\w+)/VBP they/PRP same/JJ	1
+girls/NNS want/VBP to/TO (\w+)/VB contacts/NNS to/TO (\w+)/VB	1
+can/MD (\w+)/VB and/CC try/VB not/RB to/TO (\w+)/VB it/PRP ,/, so/IN	1
+the/DT celebrations/NNS (\w+)/VB and/CC the/DT bitterness/NN (\w+)/VBP	1
+and/CC seminars/NNS (\w+)/VBP and/CC (\w+)/VBP ./.	1
+should/MD never/RB (\w+)/VB your/PRP$ bowling/NN to/TO (\w+)/VB the/DT	1
+want/VBP to/TO (\w+)/VB ,/, or/CC (\w+)/VB ,/, or/CC if/IN	1
+n't/RB (\w+)/VB this/DT opportunity/NN to/TO (\w+)/VB a/DT	1
+villager/NN wants/VBZ to/TO (\w+)/VB and/CC (\w+)/VB	1
+allow/VB participants/NNS to/TO (\w+)/VB and/CC (\w+)/VB electricity/NN on/IN either/DT	2
+,/, emotions/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN	1
+trying/VBG to/TO (\w+)/VB weight/NN to/TO (\w+)/VB from/IN being/VBG	1
+automatically/RB match/VBP (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB image-less/NNS browsing/VBG (/NNP	1
+tells/VBZ North/JJ to/TO (\w+)/VB nuclear/JJ drive/NN ,/, (\w+)/VB talks/NNS	2
+to/TO either/DT (\w+)/VB or/CC (\w+)/VB a/DT certain/JJ amount/NN	1
+I/PRP (\w+)/VBP point/NN blank/JJ to/TO (\w+)/VB that/DT ./.	2
+(\w+)/VB the/DT family/NN home/NN and/CC (\w+)/VB	5
+(\w+)/VBP been/VBN hit/VBN or/CC (\w+)/VBP	3
+people/NNS can/MD (\w+)/VB and/CC (\w+)/VB contact/NN	1
+audience/NN will/MD (\w+)/VB ,/, (\w+)/VB and/CC see/VB	1
+to/TO (\w+)/VB or/CC (\w+)/VB physical/JJ contact/NN	1
+(\w+)/VB jobs/NNS or/CC (\w+)/VB benefits/NNS	1
+such/JJ struggles/NNS (\w+)/VB and/CC (\w+)/VB ,/, Mr./NNP Smith/NNP	1
+owners/NNS (\w+)/VBP chemical/JJ lawns/NNS but/CC (\w+)/VBP	1
+People/NNS (\w+)/VB ,/, run/VB ,/, (\w+)/VB ,/, stare/VB and/CC	1

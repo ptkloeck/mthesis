@@ -1,0 +1,38 @@
+'s/POS career/NN ,/, (\w+)/VB and/CC (\w+)/VB ,/,	1
+says/VBZ (\w+)/VB low/JJ and/CC (\w+)/VB high/JJ	1
+or/CC (\w+)/VB or/CC (\w+)/VB at/IN	1
+the/DT summer/NN (\w+)/VBP we/PRP need/VBP to/TO (\w+)/VB tangible/JJ progress/NN	2
+Stahl/NNP (\w+)/VB out/RP or/CC (\w+)/VB	2
+allowed/VBN to/TO (\w+)/VB oil/NN under/IN supervision/NN and/CC (\w+)/VB goods/NNS to/TO	2
+please/VB (\w+)/VB him/PRP (\w+)/VB this/DT one/NN ,/,	1
+just/RB have/VBP to/TO (\w+)/VB a/DT mistake/NN ,/, to/TO (\w+)/VB one/CD of/IN	1
+(\w+)/VBP ,/, not/RB (\w+)/VB ,/, inches/NNS	1
+hoist/JJ rope/NN to/TO (\w+)/VB and/CC (\w+)/VB their/PRP$ hunting/NN equipment/NN	1
+encourage/VB you/PRP ,/, (\w+)/VB the/DT plunge/NN ,/, and/CC (\w+)/VB	1
+can/MD (\w+)/VB or/CC (\w+)/VB a/DT concert/NN	1
+(\w+)/VB it/PRP down/RP and/CC (\w+)/VB it/PRP simple/JJ ,/,	1
+million/CD years/NNS ,/, (\w+)/VB or/CC (\w+)/VB a/DT few/JJ ./.	1
+she/PRP decided/VBD to/TO (\w+)/VB up/RP and/CC (\w+)/VB a/DT bus/NN ./.	5
+km/NN ,/, (\w+)/VB or/CC (\w+)/VB	1
+and/CC when/WRB you/PRP (\w+)/VBP one/CD ,/, (\w+)/VB one/CD ,/,	1
+great/JJ way/NN to/TO (\w+)/VB downtown/NN (\w+)/VB the/DT understated/VBN beauty/NN	1
+,/, (\w+)/VB one/CD more/JJR picture/NN and/CC (\w+)/VB	1
+(\w+)/VB ,/, and/CC you/PRP (\w+)/VBP with/IN the/DT	1
+wo/MD n't/RB (\w+)/VB to/TO (\w+)/VB ./.	1
+(\w+)/VB a/DT moment/NN to/TO (\w+)/VB a/DT very/RB	1
+the/DT opportunity/NN would/MD (\w+)/VB ,/, I/PRP could/MD (\w+)/VB out/RP	1
+to/TO (\w+)/VB even/RB or/CC (\w+)/VB a/DT small/JJ	3
+(\w+)/VBP peat/NN ,/, people/NNS who/WP (\w+)/VBP peat/NN ,/,	1
+going/VBG to/TO (\w+)/VB on/IN those/DT lawns/NNS will/MD (\w+)/VB from/IN the/DT sky/NN	1
+(\w+)/VB and/CC (\w+)/VB abruptly/RB ,/, Williams/NNP	2
+"/`` It/PRP 's/VBZ (\w+)/VB or/CC (\w+)/VB ,/, "/''	1
+win-loss/JJ result/NN will/MD (\w+)/VB or/CC (\w+)/VB Tech/NNP 's/POS	1
+We/PRP (\w+)/VBP no/DT reason/NN to/TO (\w+)/VB it/PRP ,/,	1
+emotions/NNS will/MD (\w+)/VB and/CC (\w+)/VB	1
+let/VB 's/PRP (\w+)/VBP now/RB and/CC not/RB (\w+)/VB until/IN	1
+asked/VBN to/TO (\w+)/VB or/CC (\w+)/VB something/NN as/IN they/PRP	1
+(\w+)/VB and/CC (\w+)/VB it/PRP 100/CD times/NNS	1
+,/, involving/VBG (\w+)/VB and/CC (\w+)/VB	1
+they/PRP can/MD (\w+)/VB and/CC (\w+)/VB money/NN by/IN way/NN	2
+plate/NN ,/, to/TO (\w+)/VB the/DT tie/NN and/CC (\w+)/VB it/PRP 6-2/CD ./.	1
+(\w+)/VB and/CC (\w+)/VB that/WDT has/VBZ to/TO	1

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="load_clas" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="load_clas"/>
+			<item value="classify_file"/>
+			<item value="base.FeatureCategory"/>
+			<item value="F-score"/>
+			<item value="cross"/>
+			<item value="Standard"/>
+			<item value="np"/>
+			<item value="best"/>
+		</list>
+		<list key="replacehistory">
+			<item value="feature_extraction.FeatureCategory"/>
+			<item value="feature_extraction"/>
+			<item value="best_ant_feat"/>
+			<item value="best"/>
+			<item value="df_pos"/>
+			<item value="8"/>
+			<item value="&quot;"/>
+			<item value="/CC"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="310" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="403" key="DIALOG_HEIGHT"/>
+		<item value="935" key="DIALOG_X_ORIGIN"/>
+		<item value="83" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

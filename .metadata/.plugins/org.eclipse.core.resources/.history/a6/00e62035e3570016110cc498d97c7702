@@ -1,0 +1,529 @@
+'''
+Created on Jul 9, 2016
+
+@author: peter
+'''
+
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
+from sklearn import metrics
+from sklearn import cross_validation
+import numpy as np
+import pandas
+
+import os
+import sys
+from anton.util.util import pattern_id_to_pattern
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), os.pardir, os.pardir))
+
+from anton import config
+from anton.feature_extraction import base
+from anton.learn import learn
+from anton.util import util
+from anton.util import jobim_reader
+
+def majority_classify_wn(pos):
+    
+    feature_categories = [x for x in base.FeatureCategory]
+
+    df = learn.load_wn_dataset(pos, False)
+
+    y = df["rel_class"].values
+    y[y > 1] = 2
+    
+    X, _ = learn.feature_matrix(df, feature_categories)
+    X = StandardScaler().fit_transform(X)
+    
+    clf = RandomForestClassifier(n_estimators=100)
+    
+    y_predicted = cross_validation.cross_val_predict(clf, X, y, n_jobs=-1)
+    
+    df["predicted"] = y_predicted
+
+    df_true_positives = df[(df["rel_class"] == 1) & (df["predicted"] == 1)]
+    df_false_negatives = df[(df["rel_class"] == 1) & (df["predicted"] == 2)]
+    df_true_negatives = df[(df["rel_class"] == 2) & (df["predicted"] == 2)]
+    df_false_positives = df[(df["rel_class"] == 2) & (df["predicted"] == 1)]
+    
+    base_path = config.ws_path + "/res/" + pos.tag + "/"
+    df_true_positives.to_csv(base_path + "true_positives.tsv", sep='\t')
+    df_false_negatives.to_csv(base_path + "false_negatives.tsv", sep='\t')
+    df_true_negatives.to_csv(base_path + "true_negatives.tsv", sep='\t')
+    df_false_positives.to_csv(base_path + "false_positives.tsv", sep='\t')
+
+def majority_classifiy_turn():
+
+    data_path = config.path_to_res("turn_testset")
+    dfs = []
+    for pos in util.POS:
+        pos_data_path = data_path.replace(".tsv", "_" + pos.tag + ".tsv")
+        df_pos = learn.read_dataframe(pos_data_path)
+        dfs.append(df_pos)
+    df = pandas.concat(dfs)
+    print(len(df))
+    
+    feature_categories = [x for x in base.FeatureCategory]
+    feature_categories.remove(base.FeatureCategory.PATTERNS)
+     
+    y = df["rel_class"] 
+    X, _ = learn.feature_matrix(df, feature_categories)
+    
+    clf = RandomForestClassifier(n_estimators=100)
+
+    y_predicted = cross_validation.cross_val_predict(clf, X, y, cv=10, n_jobs=-1)
+
+    df["predicted"] = y_predicted
+    
+    for pos in util.POS:
+        
+        df_pos = df[df["pos_tag"] == str(pos.tag)]
+        df_pos_predicted = df_pos[["rel_class", "predicted"]]
+         
+        df_pos_predicted.to_csv(data_path.replace(".tsv", "_" + pos.tag + "_predicted.tsv"), sep='\t')
+    
+def inspect_classification_results(pos):
+    
+    base_path = config.ws_path + "/res/" + pos.tag + "/";
+    inspect_classification_results(base_path, pos)
+    
+def inspect_classification_results_path(base_path, pos): 
+    
+    n = 50
+    
+    most_importance_pattern_id = determine_most_importance_col_head(pos, n, [base.FeatureCategory.WEB1T_PATTERNS])
+    
+    best_pattern_ids = [importance_pattern_id[1] for importance_pattern_id in most_importance_pattern_id]
+     
+    df_true_positives = pandas.read_csv(base_path + "true_positives.tsv", sep='\t', index_col=0)
+    df_false_negatives = pandas.read_csv(base_path + "false_negatives.tsv", sep='\t', index_col=0)
+    df_true_negatives = pandas.read_csv(base_path + "true_negatives.tsv", sep='\t', index_col=0)
+    df_false_positives = pandas.read_csv(base_path + "false_positives.tsv", sep='\t', index_col=0)
+    
+    # "reconstruct predictions for metrics"
+    y_gold = []
+    y_predicted = []
+    for _ in range(len(df_true_positives)):
+        y_gold.append(1)
+        y_predicted.append(1)
+    for _ in range(len(df_false_negatives)):
+        y_gold.append(1)
+        y_predicted.append(2)
+    for _ in range(len(df_true_negatives)):
+        y_gold.append(2)
+        y_predicted.append(2)
+    for _ in range(len(df_false_positives)):
+        y_gold.append(2)
+        y_predicted.append(1)
+    print(metrics.classification_report(y_gold, y_predicted))
+    print(metrics.confusion_matrix(y_gold, y_predicted))
+       
+    for df in [df_false_negatives, df_false_positives, df_true_negatives, df_true_positives]:
+        for pattern_id in best_pattern_ids:
+            df.loc[df[pattern_id] < 0, pattern_id] = 0
+            df.loc[df[pattern_id] > 0, pattern_id] = 1
+
+            df["count_best_patterns"] = df[best_pattern_ids].sum(axis=1)
+    
+    print("False positives:")
+    for pair, _ in df_false_positives.iterrows():
+        print(pair)
+    print("False negatives")
+    for pair, _ in df_false_negatives.iterrows():
+        print(pair)
+
+    pattern_id_to_pattern = util.pattern_id_to_pattern(True)
+    for pattern_id in best_pattern_ids:
+        print(pattern_id_to_pattern[pattern_id])
+        print(df_false_positives[pattern_id].sum(axis=0))
+        
+    print("Mean/median/standard deviation of the number of lmi scores bigger than zero in the top {} features ordered in ascending order of the coefficients".format(n))
+ 
+    def print_mean_median_std(df):
+        print(df["count_best_patterns"].mean())
+        print(df["count_best_patterns"].median())
+        print(df["count_best_patterns"].std())  
+    
+    print("for true positives:")
+    print_mean_median_std(df_true_positives)
+    print("for false negatives:")
+    print_mean_median_std(df_false_negatives)
+    print("for true negatives:")
+    print_mean_median_std(df_true_negatives)
+    print("for false positives:")
+    print_mean_median_std(df_false_positives)
+
+def insepct_false_positives():
+    
+    base_path = config.ws_path + "/res/" + "adj" + "/"
+    df_false_positives = pandas.read_csv(base_path + "false_positives.tsv", sep='\t', index_col=0)
+    
+    # "web1t_pattern_10_lmi"
+    eco = df_false_positives.loc["economic economical"]
+    
+    for index, value in eco.iteritems():
+        try:
+            if float(value) > 0:
+                print("{} {}".format(index, value))
+        except ValueError:
+            pass
+
+def pred_category_split(res_id):
+    
+    for pos in util.POS:
+        
+        raw_file_path = config.path_to_res(res_id)
+        folder_path = '/'.join(raw_file_path.split('/')[:-1])
+        
+        pos_file_path = raw_file_path.replace(".tsv", "_" + pos.tag + ".tsv")
+        
+        if not os.path.isfile(pos_file_path):
+            continue
+        
+        df_pos = pandas.read_csv(pos_file_path, sep='\t', index_col=0)
+        df_pos_predicted = pandas.read_csv(pos_file_path.replace(".tsv", "_predicted.tsv"), sep='\t', index_col=0)
+        
+        df_pos["predicted"] = df_pos_predicted["predicted"]
+        
+        df_true_positives = df_pos[(df_pos["rel_class"] == 1) & (df_pos["predicted"] == 1)]
+        df_false_negatives = df_pos[(df_pos["rel_class"] == 1) & (df_pos["predicted"] == 2)]
+        df_true_negatives = df_pos[(df_pos["rel_class"] == 2) & (df_pos["predicted"] == 2)]
+        df_false_positives = df_pos[(df_pos["rel_class"] == 2) & (df_pos["predicted"] == 1)]
+    
+        df_true_positives.to_csv(folder_path + '/' + pos.tag + "/true_positives.tsv", sep='\t')
+        df_false_negatives.to_csv(folder_path + '/' + pos.tag + "/false_negatives.tsv", sep='\t')
+        df_true_negatives.to_csv(folder_path + '/' + pos.tag + "/true_negatives.tsv", sep='\t')
+        df_false_positives.to_csv(folder_path + '/' + pos.tag + "/false_positives.tsv", sep='\t')  
+           
+def determine_most_importance_col_head(pos, n, feature_categories):
+    
+    df = learn.load_wn_dataset(pos, False)
+
+    X, col_heads = learn.feature_matrix(df, [x for x in base.FeatureCategory])
+    X = StandardScaler().fit_transform(X)
+    y = df["rel_class"].values
+    
+    clf = RandomForestClassifier(n_estimators=100)
+    clf.fit(X, y)
+    
+    feature_importances = clf.feature_importances_
+    
+    most_importance_col_head = sorted(zip(feature_importances, col_heads), key=lambda tup: tup[0], reverse=True)
+    
+    requested_col_heads = []
+    for feature_category in feature_categories:
+        requested_col_heads.extend(base.make_feature_extractor(feature_category).feature_col_headers())
+    
+    most_importance_col_head = list(filter(lambda importance_col_head: importance_col_head[1] in requested_col_heads, most_importance_col_head))[:n]   
+    
+    return most_importance_col_head
+
+def print_rf_most_important_features(feature_categories, pos, n):
+    
+    web1t_pattern_id_to_pattern = util.pattern_id_to_pattern(True)
+    news105m_pattern_id_to_pattern = util.pattern_id_to_pattern(False, pos)
+    
+    most_importance_col_head = determine_most_importance_col_head(pos, n, feature_categories)
+    for importance_col_head in most_importance_col_head:
+        col_head = importance_col_head[1]
+        if col_head in web1t_pattern_id_to_pattern:
+            col_head = web1t_pattern_id_to_pattern[col_head]
+        if col_head in news105m_pattern_id_to_pattern:
+            col_head = news105m_pattern_id_to_pattern[col_head]
+        print("{:f} {}".format(importance_col_head[0], col_head))
+
+def classification_examples(res_id, pos):
+    
+    feature_categories = [base.FeatureCategory.WEB1T_PATTERNS]
+    
+    df = pandas.read_csv(config.path_to_res(res_id).replace(".tsv", "_" + pos.tag + ".tsv"), sep='\t', index_col=0)
+
+    X, col_heads = learn.feature_matrix(df, feature_categories)
+    X = StandardScaler().fit_transform(X)
+    
+    pattern_id_to_pattern = util.pattern_id_to_pattern(True)
+    
+    # FN
+    
+    # instance = "intelligence stupidity"
+    # instance = "separation union"
+    # instance = "achiever loser"
+    # instance = "difference sameness"
+    # instance = "coldness hotness"
+    # instance = "average minimum"
+    # instance = "exaggeration understatement"
+    # instance = "exodus influx"
+    # instance = "black white"
+
+    # FP
+    
+    # instance = "job task"
+    # instance = "art craft"
+    # instance = "college prison"
+    instance = "permit deny"
+    
+    for column in col_heads:
+        lmi_score = df.loc[instance, column]
+        if lmi_score > 0:
+            print("{} \t {}".format(pattern_id_to_pattern[column], lmi_score))
+    print(df.loc[instance, "web1t_instance_3_gram_freq"])
+    print(df.loc[instance, "web1t_instance_4_gram_freq"])
+    print(df.loc[instance, "web1t_instance_5_gram_freq"])
+
+def compare_freqs_fn_rest_wn(pos):
+    
+    base_path = config.ws_path + "/res/" + pos.tag + "/"
+    compare_freqs_fn_rest(base_path, pos)
+
+def compare_freqs_fn_rest(base_path, pos):
+    
+    df = pandas.read_csv(base_path + "data_all_" + pos.tag + ".tsv", sep='\t', index_col=0)
+    
+    df_ant = df[df["rel_class"] == 1]
+    
+    num_ants = df_ant.shape[0]
+    print(num_ants)
+    num_3_gram_occured = df_ant[df_ant["web1t_instance_3_gram_freq"] > 0].shape[0]   
+    print("{} {:.4f}".format(num_3_gram_occured, num_3_gram_occured / float(num_ants)))
+    num_news105_sen_occured = df_ant[df_ant["in_sen_cooc_lmi"] > 0].shape[0]
+    print("{} {:.4f}".format(num_news105_sen_occured, num_news105_sen_occured / float(num_ants)))
+
+    df_false_negatives = pandas.read_csv(base_path + "false_negatives.tsv", sep='\t', index_col=0)
+    
+    num_fn = df_false_negatives.shape[0]
+    print(num_fn)
+    num_3_gram_occured_fn = df_false_negatives[df_false_negatives["web1t_instance_3_gram_freq"] > 0].shape[0]  
+    print("{} {:.4f}".format(num_3_gram_occured_fn, num_3_gram_occured_fn / float(num_fn)))
+    num_news105_sen_occured_fn = df_false_negatives[df_false_negatives["in_sen_cooc_lmi"] > 0].shape[0]
+    print("{} {:.4f}".format(num_news105_sen_occured_fn, num_news105_sen_occured_fn / float(num_fn)))
+               
+def find_example_sentences():
+    
+    w1 = "popular"
+    w2 = "unpopular"
+    
+    ngram = "from " + w1 + " to " + w2
+    ngram2 = "from " + w2 + " to " + w1
+    ngram3 = "between " + w1 + " and " + w2
+    ngram4 = "between " + w2 + " and " + w1
+    ngram5 = "both " + w1 + " and " + w2
+    ngram6 = "both " + w2 + " and " + w1
+    
+    for line in jobim_reader.readlines(config.path_to_res("corpus_dir"), config.is_linux()):
+        
+        sentence = line.split('\t')[0]
+        
+        if ngram in sentence or ngram2 in sentence or ngram3 in sentence or ngram4 in sentence or ngram5 in sentence or ngram6 in sentence or ngram2 in sentence:
+            print(sentence)
+
+def high_precision_pattern_false_positives(pos):
+    
+    base_path = config.ws_path + "/res/" + pos.tag + "/";
+    df_false_positives = pandas.read_csv(base_path + "false_positives.tsv", sep='\t', index_col=0)
+
+    print("from X to Y")
+    print(df_false_positives[df_false_positives["web1t_pattern_76_lmi"] > 0]["web1t_pattern_76_lmi"])
+    print("both X and Y")
+    print(df_false_positives[df_false_positives["web1t_pattern_175_lmi"] > 0]["web1t_pattern_175_lmi"])
+    print("between X and Y")
+    print(df_false_positives[df_false_positives["web1t_pattern_25_lmi"] > 0]["web1t_pattern_25_lmi"])
+    print("either X or Y")
+    print(df_false_positives[df_false_positives["web1t_pattern_211_lmi"] > 0]["web1t_pattern_211_lmi"])
+    
+    if pos == util.POS.ADJ:
+        print("News105m: either X or Y")
+        print(df_false_positives[df_false_positives["bestPattern122"] > 0]["bestPattern122"])
+    elif pos == util.POS.NOUN:
+        print("News105m: between X and Y")
+        print(df_false_positives[df_false_positives["bestPattern18"] > 0]["bestPattern18"])
+        print("News105m: both X and Y")
+        print(df_false_positives[df_false_positives["bestPattern78"] > 0]["bestPattern78"])
+        print("News105m: from X to Y")
+        print(df_false_positives[df_false_positives["bestPattern26"] > 0]["bestPattern26"])
+        
+def cluster():
+    
+    from sklearn.cluster import DBSCAN
+    
+    df = learn.load_wn_dataset(util.POS.ADJ, True)
+
+    X, col_heads = learn.feature_matrix(df, [base.FeatureCategory.WEB1T_PATTERNS])
+    X = StandardScaler().fit_transform(X)
+    y = df["rel_class"].values
+    
+    db = DBSCAN(eps=0.3, min_samples=10).fit(X)
+    #from sklearn.cluster import KMeans
+    #db = KMeans(n_clusters=2).fit(X)
+    
+    labels = db.labels_
+    
+    print(labels)
+    
+    for i in range(14):
+        print(i)
+        for j, label in enumerate(labels):
+            if label == i:
+                print(df.index[j] + " " + str(y[j]))
+       
+    # Number of clusters in labels, ignoring noise if present.
+    n_clusters_ = len(set(labels)) - (1 if -1 in labels else 0)
+
+    print('Estimated number of clusters: %d' % n_clusters_)
+
+    print("Homogeneity: %0.3f" % metrics.homogeneity_score(y, labels))
+
+def num_rel_fp():
+    
+    df = pandas.read_csv(config.ws_path + "/res/noun/data_all.tsv", sep='\t', index_col=0)
+    path = config.ws_path + "/res/noun/false_positives.tsv"
+    df_false = pandas.read_csv(path, sep='\t', index_col=0)
+    
+    num_syno = 0
+    num_hypo = 0
+    num_cohyp = 0
+    num_mero = 0
+    num_unrel = 0
+    for instance, _  in df_false.iterrows():
+        
+        rel_class = df.loc[instance, "rel_class"]
+ 
+        if rel_class == 2:
+            num_syno += 1
+        elif rel_class == 3:
+            num_hypo += 1
+        elif rel_class == 4:
+            num_cohyp += 1
+        elif rel_class == 5:  
+            num_mero += 1  
+        elif rel_class == 6:  
+            num_unrel += 1 
+            
+    print("Number of synonyms: {}".format(num_syno))
+    print("Number of hyponyms: {}".format(num_hypo))
+    print("Number of cohyponyms: {}".format(num_cohyp))
+    print("Number of meronyms: {}".format(num_mero))
+    print("Number of unrelated: {}".format(num_unrel))
+
+def num_ant_web1t_cooc_gre():
+    
+    gre_file = config.path_to_res("gre_testset")
+    
+    pos_tag_to_prediction_df = learn.read_prediction_dfs(gre_file)
+
+    pos_to_df = {}
+    for pos in util.POS:
+        
+        pos_to_df[pos] = pandas.read_csv(gre_file.replace(".tsv", "_" + pos.tag + ".tsv"), sep='\t', index_col=0)
+    
+        
+    for pos in util.POS:
+        print(pos)
+        
+        prediction_df = pos_tag_to_prediction_df[pos.tag]
+        
+        print(prediction_df[prediction_df["rel_class"] == 1].shape[0])
+        
+        num = 0
+        for instance, _ in prediction_df[prediction_df["rel_class"] == 1].iterrows():
+            
+            df_data = pos_to_df[pos]
+            if not instance in df_data.index:
+                for pos in util.POS:
+                    df_data = pos_to_df[pos]
+                    if instance in df_data.index:
+                        break
+            if df_data.loc[instance, "web1t_instance_3_gram_freq"] > 0:
+                num += 1
+        
+        print(num)
+
+def compare_pos_category_patterns():
+    
+    def best_ant_feat(pos):
+        
+        df = learn.load_wn_dataset(pos, False)
+        feature_categories = [base.FeatureCategory.WEB1T_PATTERNS]
+        X, col_heads = learn.feature_matrix(df, feature_categories)
+        
+        y = df["rel_class"].values
+        y[y > 1] = 2
+        
+        clf = LogisticRegression()
+        clf.fit(X, y)
+
+        best_ant_coeff_feat = list(sorted(zip(clf.coef_[0], col_heads), key=lambda tup: tup[0]))
+        return list(map(lambda tup: tup[1], best_ant_coeff_feat)), best_ant_coeff_feat
+    
+    best_ant_feat_adj, best_ant_coeff_feat_adj = best_ant_feat(util.POS.ADJ)
+    best_ant_feat_noun, best_ant_coeff_feat_noun = best_ant_feat(util.POS.NOUN)
+    best_ant_feat_verb, best_ant_coeff_feat_verb = best_ant_feat(util.POS.VERB)
+
+    pattern_id_to_pattern = util.pattern_id_to_pattern(True)
+
+    def tex_table(best_ant_coeff_feat, pattern_id_to_pattern):
+
+        best_ant_pattern_coeff = list(map(lambda tup: (pattern_id_to_pattern[tup[1]], tup[0]), best_ant_coeff_feat))
+
+        best_ant_pattern_coeff_sub = best_ant_pattern_coeff[:20]
+        best_ant_pattern_coeff_sub.extend(best_ant_pattern_coeff[-10:])
+        
+        print(best_ant_pattern_coeff_sub)
+        
+        d = {"Pattern" : [pattern_coeff[0] for pattern_coeff in best_ant_pattern_coeff_sub],
+             "Coefficient" : [pattern_coeff[1] for pattern_coeff in best_ant_pattern_coeff_sub]}
+        
+        df = pandas.DataFrame(d)
+        
+        print(df.to_latex())
+
+    print(tex_table(best_ant_coeff_feat_adj, pattern_id_to_pattern))
+
+    n = 10
+
+    print(len(set(best_ant_feat_adj[:n]).intersection(set(best_ant_feat_noun[:n]))))
+
+#def one_classifier():
+    
+    
+          
+if __name__ == "__main__":
+    
+    # find_example_sentences()
+    
+    # majority_classify_wn(util.POS.VERB)
+    # majority_classifiy_turn()
+    
+    # pred_category_split("lzqz_testset")
+    # pred_category_split("turn_testset")
+    
+    # inspect_classification_results(util.POS.VERB)
+    
+    # turn_testset_path = config.path_to_res("turn_testset")
+    # turn_base_path = '/'.join(turn_testset_path.split('/')[:-1]) + '/'
+    # inspect_classification_results_path(turn_base_path + "/adj/", util.POS.ADJ)
+    # inspect_classification_results_path(turn_base_path + "/noun/", util.POS.NOUN)
+    # inspect_classification_results_path(turn_base_path + "/verb/", util.POS.VERB)
+    
+    # lin_testset_path = config.path_to_res("lzqz_testset")
+    # lin_base_path_noun = '/'.join(lin_testset_path.split('/')[:-1]) + "/noun/"
+    # inspect_classification_results_path(lin_base_path_noun, util.POS.NOUN)
+    
+    # high_precision_pattern_false_positives(util.POS.NOUN)
+
+    # cluster()
+    
+    # insepct_false_positives()
+    
+    # print_rf_most_important_features([x for x in base.FeatureCategory], util.POS.NOUN, 50)
+    # print_rf_most_important_features([base.FeatureCategory.WEB1T_PATTERNS], util.POS.VERB, 50)
+    
+    # num_rel_fp()
+    
+    # compare_freqs_fn_rest_wn(util.POS.NOUN)
+    
+    # num_ant_web1t_cooc_gre()
+    
+    # classification_examples("turn_testset", util.POS.VERB)
+    
+    compare_pos_category_patterns()

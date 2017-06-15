@@ -1,0 +1,116 @@
+cases/NNS ,/, good/JJ (\w+)/NN is/VBZ better/JJR than/IN (\w+)/NN ./.	1
+expectations/NNS and/CC the/DT (\w+)/NN and/CC (\w+)/NN	1
+My/PRP$ (\w+)/NN beat/VBD up/RB my/PRP$ (\w+)/NN ./. It/PRP challenged/VBD	1
+”/NNP his/PRP$ (\w+)/NN abandoned/VBD his/PRP$ (\w+)/NN	1
+-/CD point/NN (\w+)/NN into/IN a/DT 5-point/JJ (\w+)/NN (/VBG	1
+brother/NN ,/, (\w+)/NN and/CC (\w+)/NN have/VBP	1
+A/DT 38-year-old/JJ (\w+)/NN who/WP raped/VBD a/DT (\w+)/NN he/PRP	1
+the/DT (\w+)/NN and/CC (\w+)/NN during/IN each/DT trial/NN	1
+(\w+)/NN wants/VBZ girl/NN ,/, (\w+)/NN wants/VBZ boy/UH ,/,	2
+(\w+)/NN and/CC its/PRP$ (\w+)/NN held/VBD UCLA/NNP to/TO	1
+the/DT spade/JJ (\w+)/NN was/VBD ducked/VBN to/TO his/PRP$ (\w+)/NN	1
+nondescript/JJ (\w+)/NN and/CC (\w+)/NN are/VBP seen/VBN standing/VBG	1
+(\w+)/NN to/TO a/DT 59-54/CD halftime/NN (\w+)/NN	1
+the/DT (\w+)/NN and/CC now/RB need/VBP (\w+)/NN ,/,	1
+playing/VBG (\w+)/NN games/NNS after/IN (\w+)/NN games/NNS ,/,	1
+his/PRP$ (\w+)/NN had/VBD died/VBN and/CC his/PRP$ (\w+)/NN had/VBD	2
+a/DT Hispanic/JJ (\w+)/NN and/CC a/DT white/JJ (\w+)/NN in/IN a/DT	5
+(\w+)/NN disguised/VBN in/IN a/DT (\w+)/NN 's/POS	1
+(\w+)/NN and/CC (\w+)/NN letters/NNS to/TO	1
+found/VBN the/DT (\w+)/NN to/TO the/DT (\w+)/NN on/IN how/WRB to/TO	1
+-/: a/DT (\w+)/NN and/CC a/DT (\w+)/NN and/CC	1
+holes/NNS dug/VBD each/DT (\w+)/NN are/VBP filled/VBN in/IN every/DT (\w+)/NN so/IN people/NNS	1
+(\w+)/NN played/VBD piano/NN and/CC my/PRP$ (\w+)/NN ,/,	1
+address/NN ,/, the/DT (\w+)/NN and/CC (\w+)/NN period/NN was/VBD dominated/VBN	1
+(\w+)/NN and/CC (\w+)/NN ,/, the/DT recessive/NN	1
+of/IN IBM/NNP (\w+)/NN ,/, (\w+)/NN ,/,	1
+the/DT (\w+)/NN nor/CC the/DT (\w+)/NN is/VBZ required/VBN	2
+to/TO be/VB a/DT (\w+)/NN pretending/VBG to/TO be/VB a/DT (\w+)/NN singing/NN and/CC	1
+(\w+)/NN down/RB ,/, not/RB the/DT (\w+)/NN	1
+spoke/VBD with/IN the/DT (\w+)/NN of/IN another/DT (\w+)/NN Henderson/NNP	1
+he/PRP wanted/VBD a/DT (\w+)/NN and/CC (\w+)/NN for/IN Christmas/NNP ./.	1
+(\w+)/NN coupled/VBN with/IN Virginia/NNP 's/POS (\w+)/NN	1
+American/JJ (\w+)/NN and/CC a/DT Scottish/JJ (\w+)/NN ,/,	1
+Monday/NNP (\w+)/NN ,/, the/DT only/JJ (\w+)/NN the/DT pizzeria/NN is/VBZ	1
+The/DT Giants/NNPS '/POS (\w+)/NN disintegrated/VBD and/CC the/DT (\w+)/NN went/VBD cold/JJ	1
+(\w+)/NN who/WP took/VBD away/RP her/PRP$ (\w+)/NN ,/,	1
+the/DT (\w+)/NN and/CC the/DT (\w+)/NN ,/, wrote/VBD	1
+enjoy/VBP more/RBR equitable/JJ (\w+)/NN distribution/NN ,/, less/JJR (\w+)/NN	1
+tackle/VB on/IN (\w+)/NN and/CC (\w+)/NN until/IN a/DT	1
+joins/VBZ a/DT (\w+)/NN and/CC a/DT (\w+)/NN together/RB	1
+woman/NN and/CC (\w+)/NN ,/, and/CC woman/NN and/CC (\w+)/NN	1
+,/, grand-parent/NN ,/, (\w+)/NN or/CC (\w+)/NN ,/, and/CC	1
+with/IN his/PRP$ (\w+)/NN ,/, while/IN the/DT (\w+)/NN went/VBD	1
+But/CC by/IN the/DT (\w+)/NN of/IN 2009/CD or/CC (\w+)/NN of/IN 2010/CD	1
+(\w+)/NN as/IN much/RB as/IN his/PRP$ (\w+)/NN ./.	1
+run/VBP shotgun/NN style/NN (\w+)/NN to/TO (\w+)/NN	1
+to/TO the/DT (\w+)/NN ,/, veered/VBD to/TO the/DT (\w+)/NN ,/, less/JJR than/IN	1
+the/DT best/JJS (\w+)/NN is/VBZ a/DT good/JJ (\w+)/NN ,/, and/CC	2
+yes-or-no/JJ (\w+)/NN to/TO the/DT (\w+)/NN of/IN	1
+illegal/JJ (\w+)/NN and/CC (\w+)/NN	3
+by/IN his/PRP$ (\w+)/NN ,/, (\w+)/NN and/CC stepfathers/NNS	1
+11-point/JJ (\w+)/NN into/IN a/DT 28-24/JJ (\w+)/NN early/RB	1
+a/DT (\w+)/NN ,/, another/DT (\w+)/NN	1
+The/DT romantic/JJ (\w+)/NN out/RB rounded/VBD off/RP a/DT (\w+)/NN of/IN sightseeing/NN	1
+Filipino/NNP (\w+)/NN and/CC an/DT Irish-American/JJ (\w+)/NN whose/WP$	1
+(\w+)/NN and/CC (\w+)/NN from/IN regions/NNS	3
+(\w+)/NN ,/, June/NNP ,/, and/CC (\w+)/NN ,/, Stanley/NNP	1
+the/DT height/NN ,/, (\w+)/NN to/TO (\w+)/NN ,/,	1
+I/PRP am/VBP a/DT (\w+)/NN ,/, if/IN my/PRP$ (\w+)/NN	1
+the/DT game/NN ,/, (\w+)/NN and/CC (\w+)/NN ,/, and/CC	1
+father/NN and/CC (\w+)/NN ,/, "/'' said/VBD his/PRP$ (\w+)/NN ,/,	1
+A/DT 38-year-old/JJ (\w+)/NN and/CC a/DT 37-year-old/JJ (\w+)/NN were/VBD also/RB arrested/VBN	1
+a/DT (\w+)/NN or/CC (\w+)/NN ,/, increased/VBD	1
+(\w+)/NN and/CC (\w+)/NN entered/VBD the/DT couple/NN	2
+from/IN a/DT 7-point/JJ (\w+)/NN to/TO a/DT 6-point/JJ (\w+)/NN ,/, 105-99/CD	1
+(\w+)/NN and/CC (\w+)/NN and/CC ate/VBD	1
+risks/NNS of/IN (\w+)/NN while/NN being/VBG accused/VBN of/IN (\w+)/NN in/IN the/DT New/NNP	1
+womankind/JJ ,/, confuses/VBZ (\w+)/NN and/CC (\w+)/NN as/IN she/PRP rails/VBZ	1
+power/NN from/IN the/DT (\w+)/NN and/CC (\w+)/NN of/IN the/DT water/NN	1
+Lester/NNP ;/: a/DT (\w+)/NN ;/: a/DT (\w+)/NN	1
+(\w+)/NN 's/VBZ working/VBG while/IN her/PRP$ (\w+)/NN	1
+in/IN mood/NN from/IN (\w+)/NN to/TO (\w+)/NN	1
+figures/NNS at/IN (\w+)/NN ,/, but/CC by/IN (\w+)/NN they/PRP appeared/VBD	5
+literally/RB hundreds/NNS of/IN (\w+)/NN and/CC (\w+)/NN pieces/NNS that/WDT	1
+in/IN October/NNP over/IN (\w+)/NN shortages/NNS amid/IN surging/JJ world/NN (\w+)/NN	1
+and/CC (\w+)/NN ,/, into/IN situations/NNS of/IN (\w+)/NN and/CC new/JJ beginnings/NNS	1
+Lake/NNP Eloise/NNP by/IN (\w+)/NN and/CC dinner/NN cruises/NNS at/IN (\w+)/NN ./.	1
+(\w+)/NN of/IN the/DT (\w+)/NN was/VBD that/IN speech/NN	1
+Parish/NNP (\w+)/NN killed/VBD a/DT Texas/NNP (\w+)/NN in/IN	1
+end/VB up/RP a/DT (\w+)/NN or/CC a/DT (\w+)/NN after/IN	1
+,/, especially/RB a/DT (\w+)/NN ,/, a/DT (\w+)/NN	1
+(\w+)/NN would/MD cause/VB (\w+)/NN shortages/NNS in/IN the/DT	1
+(\w+)/NNS and/CC (\w+)/NNS more/RBR thoroughly/RB	1
+Staff/NNP Reporter/tsewell@suntimes.com/NNP Training/NNP (\w+)/NN turned/VBD into/IN a/DT heroic/JJ (\w+)/NN	1
+has/VBZ an/DT English/JJ (\w+)/NN and/CC a/DT South/NNP African/JJ (\w+)/NN	2
+on/IN the/DT (\w+)/NN and/CC (\w+)/NN of/IN medical/JJ apparatus/NN	1
+(\w+)/NN 's/POS and/CC (\w+)/NNP 's/POS	1
+feel/VBP the/DT (\w+)/NNS and/CC the/DT (\w+)/NNS of/IN	1
+(\w+)/NN and/CC the/DT extreme/JJ (\w+)/NN of/IN citizens/NNS in/IN	1
+search/NN for/IN a/DT (\w+)/NN who/WP sexually/RB assaulted/VBD a/DT (\w+)/NN	1
+his/PRP$ (\w+)/NN Hayato/NNP ;/: and/CC his/PRP$ (\w+)/NN ,/, Ann/NNP	1
+(\w+)/NN and/CC carrying/VBG a/DT 5-2/JJ (\w+)/NN into/IN the/DT	1
+the/DT (\w+)/NN or/CC (\w+)/NN of/IN so/RB	1
+where/WRB a/DT (\w+)/NN eyes/VBZ a/DT hunky/JJ (\w+)/NN	1
+"/`` The/DT (\w+)/NN has/VBZ supported/VBN the/DT (\w+)/NN when/WRB he/PRP was/VBD	2
+Mr./NNP Awadallah/NNP 's/POS (\w+)/NN or/CC (\w+)/NN on/IN the/DT	1
+of/IN a/DT (\w+)/NN asked/VBN to/TO describe/VB the/DT (\w+)/NN she/PRP	1
+tighter/JJR from/IN (\w+)/NN to/TO (\w+)/NN	1
+emboldened/VBN the/DT (\w+)/NN and/CC the/DT (\w+)/NN to/TO	1
+recognized/VBN as/IN a/DT (\w+)/NN or/CC (\w+)/NN on/IN	1
+eyes/NNS on/IN the/DT (\w+)/NN ,/, not/RB the/DT (\w+)/NN ./.	1
+Ms./NNP Henson/NNP 's/POS (\w+)/NN and/CC (\w+)/NN created/VBD the/DT original/JJ	1
+effective/JJ on/IN (\w+)/NN or/CC (\w+)/NN and/CC always/RB had/VBD	1
+4-point/JJ Michigan/NNP (\w+)/NN into/IN a/DT 11-point/JJ (\w+)/NN with/IN 1/CD :/:	1
+on/IN the/DT (\w+)/NN --/: with/IN (\w+)/NN and/CC right/RB determined/VBN	1
+(\w+)/NN and/CC a/DT stingy/JJ run/NN (\w+)/NN ,/,	1
+is/VBZ (\w+)/NN and/CC (\w+)/NN changed/VBN	1
+influenced/VBN by/IN (\w+)/NN and/CC (\w+)/NN ,/, began/VBD falling/VBG	1
+like/IN his/PRP$ (\w+)/NN ,/, (\w+)/NN ,/,	1
+(\w+)/NN and/CC a/DT (\w+)/NN who/WP loved/VBD the/DT	1
+created/VBN by/IN its/PRP$ (\w+)/NN ,/, New/NNP England/NNP 's/POS (\w+)/NN	1
+to/TO a/DT (\w+)/NN who/WP died/VBD alongside/IN a/DT (\w+)/NN	1
+The/DT (\w+)/NN has/VBZ given/VBN the/DT (\w+)/NN a/DT	1
+his/PRP$ (\w+)/NN and/CC (\w+)/NN each/DT	3
+Ballroom/NNP is/VBZ the/DT (\w+)/NN to/TO the/DT (\w+)/NN he/PRP	1
+or/CC vain/JJ (\w+)/NN ,/, but/CC in/IN (\w+)/NN consider/VBP others/NNS	1

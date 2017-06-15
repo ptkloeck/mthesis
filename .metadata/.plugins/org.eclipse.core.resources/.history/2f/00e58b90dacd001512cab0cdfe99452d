@@ -1,0 +1,22 @@
+'''
+Created on 07.02.2016
+
+@author: Peter
+'''
+import unittest
+import util.jobim_reader as jbr
+
+class TestJoBimReader(unittest.TestCase):
+    
+    def test_readlines(self):
+        
+        num_lines = 0
+        for line in jbr.readlines(jbr.CORPUS_DIR_HOME_UBU, True):
+            num_lines += 1
+            
+            if num_lines > 10000:
+                break
+        
+if __name__ == "__main__":
+    # import sys;sys.argv = ['', 'TestPatternCount.testName']
+    unittest.main()

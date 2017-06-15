@@ -1,0 +1,33 @@
+NBA/NNP stock/NN (\w+)/VBP or/CC (\w+)/VBP ./.	1
+to/TO (\w+)/VB or/CC (\w+)/VB with/IN ,/, plus/CC	1
+likely/JJ to/TO (\w+)/VB in/IN ,/, or/CC (\w+)/VBP	1
+who/WP can/MD magically/RB (\w+)/VB and/CC (\w+)/VB years/NNS	1
+(\w+)/VB the/DT board/NN to/TO (\w+)/VB the/DT	1
+stadium/NN ,/, (\w+)/VB or/CC (\w+)/VB ,/, Wilf/NNP	1
+200/CD )/CD to/TO (\w+)/VB ,/, (\w+)/VB ,/,	1
+intended/VBN to/TO (\w+)/VB inmates/NNS '/POS movements/NNS and/CC (\w+)/VB	1
+public/JJ passion/NN can/MD (\w+)/VB ,/, (\w+)/VB	1
+how/WRB to/TO (\w+)/VB or/CC (\w+)/VB land/NN ./.	1
+How/WRB do/VBP you/PRP (\w+)/VB potential/JJ benefits/NNS and/CC (\w+)/VB possible/JJ dangers/NNS	1
+(\w+)/VB a/DT misunderstanding/NN and/CC (\w+)/VBP the/DT communication/NN skills/NNS	1
+(\w+)/VB and/CC (\w+)/VB so/RB quickly/RB here/RB	1
+(\w+)/VB to/TO USC/VB and/CC (\w+)/VB the/DT rest/NN	1
+volunteers/NNS to/TO (\w+)/VB up/RP their/PRP$ seats/NNS and/CC (\w+)/VB a/DT later/JJ	3
+it/PRP will/MD (\w+)/VB to/TO theaters/NNS or/CC (\w+)/VB	1
+about/RB who/WP can/MD (\w+)/VB or/CC (\w+)/VB her/PRP	1
+and/CC others/NNS who/WP (\w+)/VBP and/CC (\w+)/VBP financial/JJ instruments/NNS	1
+seen/VBN movements/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN accelerating/JJ futility/NN	1
+Sometimes/RB I/PRP (\w+)/VBP to/TO (\w+)/VB	1
+(\w+)/VBP home/NN ,/, sleep/VBP ,/, (\w+)/VBP back/RB and/CC	1
+should/MD (\w+)/VB dips/NNS and/CC (\w+)/VB rallies/NNS	1
+chefs/NNS (\w+)/VB and/CC (\w+)/VB	2
+(\w+)/VB the/DT gate/NN ,/, (\w+)/VB it/PRP	1
+fast/RB as/IN they/PRP (\w+)/VBP in/RP ,/, they/PRP (\w+)/VBP	1
+will/MD still/RB (\w+)/VB and/CC (\w+)/VB from/IN	1
+Men/NNS may/MD (\w+)/VB and/CC (\w+)/VB ,/,	1
+now/RB must/MD (\w+)/VB ,/, (\w+)/VB or/CC modify/VB the/DT	1
+rates/NNS should/MD (\w+)/VB lower/JJR and/CC (\w+)/VB	1
+But/CC a/DT tower/NN (\w+)/VBN to/TO (\w+)/VB above/IN	2
+(\w+)/VBP to/TO (\w+)/VB the/DT official/JJ diagnoses/NNS	1
+(\w+)/VB and/CC (\w+)/VB vehicles/NNS via/IN online/JJ	1
+may/MD (\w+)/VB or/CC (\w+)/VB him/PRP ,/, but/CC	1

@@ -1,0 +1,23 @@
+heads/VBZ you/PRP (\w+)/VB ,/, tails/SYM I/PRP (\w+)/VBP "/'' kind/NN of/IN	1
+in/IN Florida/NNP to/TO (\w+)/VB or/CC (\w+)/VB tickets/NNS	2
+to/TO (\w+)/VB Robert/NNP 's/POS advice/NN and/CC (\w+)/VB a/DT disabled/JJ	1
+(\w+)/VB or/CC (\w+)/VB this/DT proposal/NN ,/,	2
+this/DT game/NN ,/, (\w+)/VB or/CC (\w+)/VB ,/, this/DT wasnt/VBP	1
+record/NN labels/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP ,/,	2
+if/IN you/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, "/'' he/PRP	1
+right/NN to/TO (\w+)/VB or/CC (\w+)/VB such/JJ candidates/NNS	1
+to/TO (\w+)/VB people/NNS who/WP (\w+)/VBP put/VBN	1
+who/WP (\w+)/VBP to/TO (\w+)/VB the/DT California/NNP high/JJ	1
+(\w+)/VB --/: or/CC (\w+)/VB --/: his/PRP$	1
+Andy/NNP Murray/NNP will/MD (\w+)/VB him/PRP some/DT opportunity/NN to/TO (\w+)/VB advantage/NN of/IN	1
+,/, which/WDT could/MD (\w+)/VB or/CC (\w+)/VB	10
+ballet/JJ fans/NNS (\w+)/VBP to/TO (\w+)/VB ,/, John/NNP	1
+Years/NNS (\w+)/VB and/CC (\w+)/VB	1
+do/VBP not/RB (\w+)/VB elections/NNS ;/: governments/NNS (\w+)/VBP	1
+get/VBP to/TO (\w+)/VB them/PRP or/CC (\w+)/VB them/PRP ./.	1
+,/, (\w+)/VB or/CC (\w+)/VB a/DT few/JJ years/NNS	5
+big/JJ play/NN can/MD (\w+)/VB or/CC (\w+)/VB a/DT game/NN	1
+can/MD (\w+)/VB or/CC (\w+)/VB in/IN many/JJ ways/NNS	1
+stars/NNS will/MD (\w+)/VB and/CC (\w+)/VB in/IN a/DT direction/NN	1
+(\w+)/VBP to/TO (\w+)/VB as/IN an/DT evidence/NN	1
+would/MD (\w+)/VB and/CC (\w+)/VB vertically/RB ,/,	1

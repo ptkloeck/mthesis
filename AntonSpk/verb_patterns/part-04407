@@ -1,0 +1,37 @@
+to/TO (\w+)/VB or/CC (\w+)/VB filter/NN blocks/NNS	1
+(\w+)/VB or/CC (\w+)/VB period/NN art/NN	1
+to/TO (\w+)/VB or/CC (\w+)/VB period/NN art/NN	1
+the/DT hearings/NNS (\w+)/VB this/DT month/NN and/CC (\w+)/VB before/IN the/DT	1
+(\w+)/VB ,/, (\w+)/VB or/CC transfer/VB ./.	1
+(\w+)/VBP ,/, the/DT kiddies/NNS (\w+)/VBP because/IN the/DT	1
+(\w+)/VB or/CC (\w+)/VB year/NN ''/'' for/IN	1
+firms/NNS to/TO (\w+)/VB and/CC (\w+)/VB ,/, and/CC another/DT	1
+(\w+)/VB bear/NN baiting/NN and/CC (\w+)/VB marijuana/NNP ./. EXIT/NNP	1
+that/WDT (\w+)/VB traders/NNS they/PRP need/VBP not/RB (\w+)/VB	1
+color/NN can/MD (\w+)/VB traffic/NN or/CC (\w+)/VB a/DT	1
+Gun/NNP Library/VBZ (\w+)/VB ,/, (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB -/: prisoners/RB ./.	1
+(\w+)/VB things/NNS ,/, not/RB (\w+)/VB	1
+'d/MD (\w+)/VB here/RB and/CC (\w+)/VB home/NN for/IN dinner/NN	1
+(\w+)/VB through/IN certification/NN and/CC (\w+)/VB through/RP ./.	1
+to/TO (\w+)/VB more/RBR than/IN they/PRP (\w+)/VB	1
+no-one/NN will/MD (\w+)/VB to/TO (\w+)/VB	1
+reality/NN shows/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+The/DT fish/NN would/MD (\w+)/VB in/RP to/TO shore/VB and/CC (\w+)/VB	1
+to/TO (\w+)/VB or/CC (\w+)/VB ,/, "/'' Howell/NNP	1
+(\w+)/VB aside/RP communal/JJ interests/NNS and/CC (\w+)/VB to/TO the/DT	1
+moments/NNS that/WDT can/MD (\w+)/VB and/CC (\w+)/VB ,/, but/CC	1
+(\w+)/VB transit/NN use/NN and/CC (\w+)/VB county/NN	1
+weight/NN ,/, I/PRP (\w+)/VBP out/RP I/PRP also/RB may/MD (\w+)/VB my/PRP$ protected/VBN status/NN	1
+its/PRP$ campaign/NN to/TO (\w+)/VB euros/NNS or/CC (\w+)/VB other/JJ currencies/NNS ,/,	1
+(\w+)/VB and/CC (\w+)/VB freely/RB and/CC	2
+not/RB (\w+)/VB all/PDT the/DT propositions/NNS automatically/RB (\w+)/VB ,/, even/RB if/IN	1
+"/`` When/WRB you/PRP (\w+)/VBP 31/CD ballgames/NNS and/CC only/RB (\w+)/VBP to/TO three/CD teams/NNS	1
+who/WP steadfastly/RB (\w+)/VBP to/TO (\w+)/VB the/DT use/NN	1
+Tacomas/NNP (\w+)/VBP ,/, they/PRP (\w+)/VBP in/RP and/CC they/PRP	2
+get/VBP to/TO (\w+)/VB their/PRP$ attics/NNS and/CC (\w+)/VB their/PRP$ bank/NN	1
+only/JJ people/NNS to/TO (\w+)/VB or/CC (\w+)/VB	1
+quickly/RB it/PRP can/MD (\w+)/VB and/CC (\w+)/VB ,/,	1
+would/MD (\w+)/VB him/PRP an/DT opportunity/NN to/TO (\w+)/VB	1
+evidence/NN either/CC to/TO (\w+)/VB or/CC (\w+)/VB a/DT link/NN between/IN	1
+who/WP (\w+)/VBP this/DT opportunity/NN will/MD (\w+)/VB to/TO travel/VB	1

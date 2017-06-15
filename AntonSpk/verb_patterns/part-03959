@@ -1,0 +1,42 @@
+from/IN now/RB ,/, (\w+)/VB or/CC (\w+)/VB	1
+place/NN to/TO (\w+)/VB or/CC (\w+)/VB the/DT walking/VBG	1
+to/TO (\w+)/VB and/CC (\w+)/VB in/IN western/JJ	1
+your/PRP$ cat/NN can/MD (\w+)/VB or/CC (\w+)/VB (/NNS and/CC to/TO	1
+(\w+)/VB and/CC (\w+)/VB on/IN levers/NNS	1
+past/NN ,/, to/TO (\w+)/VB rehearsing/NN and/CC to/TO (\w+)/VB talking/VBG	1
+'re/VBP going/VBG to/TO (\w+)/VB them/PRP or/CC (\w+)/VB them/PRP	1
+compelling/JJ reason/NN to/TO (\w+)/VB or/CC (\w+)/VB	1
+is/VBZ (\w+)/VBN and/CC (\w+)/VBP -/: an/DT option/NN	1
+(\w+)/VBP when/WRB interest/NN rates/NNS (\w+)/VBP ;/:	1
+(\w+)/VBP and/CC (\w+)/VBP of/IN day-to-day/JJ politics/NNS	1
+will/MD not/RB (\w+)/VB to/TO (\w+)/VB	2
+(\w+)/VB ,/, (\w+)/VB and/CC build/VB ./.	1
+(\w+)/VB pressure/NN to/TO (\w+)/VB the/DT	1
+be/VB synchronized/VBN ,/, (\w+)/VB or/CC (\w+)/VB a/DT second/JJ ./.	1
+(\w+)/VB a/DT rental/JJ property/NN ,/, (\w+)/VB another/DT ,/, rent/VB	1
+for/IN orders/NNS to/TO (\w+)/VB or/CC (\w+)/VB stocks/NNS at/IN	1
+blood/NN vessels/NNS (\w+)/VB and/CC (\w+)/VB in/IN	1
+decided/VBD to/TO (\w+)/VB actual/JJ shares/NNS and/CC (\w+)/VB index/NN futures/NNS	1
+to/TO (\w+)/VB and/CC to/TO (\w+)/VB ;/:	1
+lose/VB ,/, Rays/NNP (\w+)/VB ,/, Red/NNP Sox/NNPS (\w+)/VBP ./.	1
+couple/NN decided/VBD to/TO (\w+)/VB their/PRP$ house/NN and/CC (\w+)/VB something/NN smaller/JJR	1
+are/VBP asked/VBN to/TO (\w+)/VB more/JJR time/NN ,/, to/TO (\w+)/VB on/IN more/JJR responsibilities/NNS	1
+companies/NNS to/TO (\w+)/VB and/CC (\w+)/VB workers/NNS	13
+of/IN Japan/NNP could/MD (\w+)/VB yen/NNS and/CC (\w+)/VB	1
+someone/NN does/VBZ n't/RB (\w+)/VB evolution/NN then/RB they/PRP (\w+)/VBP all/DT science/NN	1
+always/RB was/VBD to/TO (\w+)/VB from/IN the/DT rich/JJ and/CC (\w+)/VB to/TO the/DT	1
+(\w+)/VB ,/, (\w+)/VB ,/, and/CC consume/VB	1
+will/MD (\w+)/VB us/PRP rather/RB than/IN (\w+)/VBG us/PRP	1
+bar/NN ,/, (\w+)/VB home/NN ,/, (\w+)/VB back/RB	3
+rumors/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, baseball/NN remains/VBZ	1
+are/VBP asked/VBN to/TO (\w+)/VB or/CC (\w+)/VB	2
+fading/JJ stars/NNS who/WP (\w+)/VBP to/TO (\w+)/VB	2
+can/MD (\w+)/VB and/CC (\w+)/VB industrial/JJ	3
+might/MD (\w+)/VB and/CC reconstruction/NN can/MD (\w+)/VB ./.	1
+(\w+)/VBP or/CC (\w+)/VBP _/NNP it/PRP	1
+who/WP (\w+)/VBP fled/VBN also/RB (\w+)/VBP	1
+'s/VBZ because/IN (\w+)/VBP or/CC (\w+)/VBP ,/,	1
+n't/RB so/RB much/RB (\w+)/VB the/DT war/NN as/IN (\w+)/VB its/PRP$	1
+course/NN ,/, (\w+)/VB the/DT battle/NN and/CC (\w+)/VB the/DT war/NN	1
+you/PRP (\w+)/VBP them/PRP down/RP and/CC (\w+)/VB	1
+and/CC sometimes/RB (\w+)/VB ,/, (\w+)/VB or/CC cancel/VB	1

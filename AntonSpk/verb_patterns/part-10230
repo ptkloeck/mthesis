@@ -1,0 +1,43 @@
+grow/VB ,/, (\w+)/VB ,/, (\w+)/VB	1
+it/PRP (\w+)/VB a/DT red/JJ oak/NN to/TO (\w+)/VB	1
+(\w+)/VB faster/RBR and/CC (\w+)/VB further/RBR than/IN	1
+to/TO constantly/RB (\w+)/VB up/RP and/CC (\w+)/VB couples/NNS to/TO	1
+allowed/VBN to/TO (\w+)/VB or/CC (\w+)/VB are/VBP those/DT built/VBN	1
+that/WDT both/DT (\w+)/VBP and/CC (\w+)/VBP in/IN	2
+rates/NNS could/MD help/VB (\w+)/VB or/CC (\w+)/VB	1
+write/VB (\w+)/VB or/CC (\w+)/VB tickets/NNS with/IN	2
+we/PRP can/MD either/DT (\w+)/VB off/RP or/CC (\w+)/VB in/RP	1
+said/VBD that/WDT ,/, (\w+)/VBP or/CC (\w+)/VBP	1
+will/MD (\w+)/VB or/CC (\w+)/VB bids/NNS July/NNP	1
+that/WDT (\w+)/VBP and/CC (\w+)/VBP about/IN Syntex/NNP as/IN	1
+not/RB (\w+)/VB or/CC (\w+)/VB orders/NNS	1
+satcom/NN capabilities/NNS to/TO (\w+)/VB available/JJ resources/NNS and/CC (\w+)/VB cost/NN ./.	1
+(\w+)/VB production/NN and/CC (\w+)/VB consumption/NN ,/,	2
+--/: only/RB to/TO (\w+)/VB Jason/NNP Smith/NNP (\w+)/VB	1
+think/VB he/PRP would/MD (\w+)/VB to/TO (\w+)/VB a/DT	1
+(\w+)/VB ,/, the/DT rains/NNS will/MD (\w+)/VB ,/,	1
+would/MD (\w+)/VB it/PRP down/RP and/CC (\w+)/VB sure/JJ we/PRP understood/VBD	1
+to/TO (\w+)/VB their/PRP$ extra/JJ food/NN and/CC (\w+)/VB	1
+likely/RB have/VB to/TO (\w+)/VB and/CC (\w+)/VB equally/RB well/RB	1
+construction/NN debris/NN still/RB (\w+)/VBP and/CC (\w+)/VBP ,/, and/CC	1
+to/TO (\w+)/VB and/CC trust/VB that/IN Mexico/NNP (\w+)/VBP to/TO the/DT Portuguese/NNP	1
+an/DT experience/NN to/TO (\w+)/VB ,/, to/TO (\w+)/VB	1
+and/CC hobbyists/NNS (\w+)/VB and/CC (\w+)/VB	1
+heat/NN pumps/NNS to/TO (\w+)/VB and/CC (\w+)/VB the/DT floors/NNS of/IN	1
+(\w+)/VB elections/NNS if/IN they/PRP (\w+)/VBP those/DT voters/NNS	1
+(\w+)/VB waging/VBG war/NN unless/IN we/PRP (\w+)/VBP talking/VBG seriously/RB	1
+party/NN will/MD (\w+)/VB the/DT same/JJ or/CC (\w+)/VB direction/NN under/IN	1
+to/TO (\w+)/VB more/JJR support/NN ,/, pls/NN (\w+)/VBP	1
+style/NN if/IN they/PRP (\w+)/VBP or/CC (\w+)/VBP ./.	1
+allows/VBZ investors/NNS to/TO (\w+)/VB and/CC (\w+)/VB shares/NNS in/IN 200/CD	2
+(\w+)/VB and/CC (\w+)/VB it/PRP many/JJ times/NNS	1
+(\w+)/VB it/PRP a/DT chance/NN to/TO (\w+)/VB	1
+can/MD (\w+)/VB and/CC (\w+)/VB them/PRP better/RBR ./.	2
+that/IN you/PRP (\w+)/VBP to/TO and/CC they/PRP can/MD (\w+)/VB to/TO you/PRP	1
+'ll/MD (\w+)/VB 100/CD punches/NNS to/TO (\w+)/VB one/CD ./.	1
+:/: ART/NNP revolutions/NNP (\w+)/VBP and/CC (\w+)/VBP ,/, but/CC Andrew/NNP	1
+(\w+)/VB at/IN 50/CD cents/NNS and/CC (\w+)/VB well/RB below/IN	1
+if/IN he/PRP should/MD (\w+)/VB or/CC (\w+)/VB ,/, but/CC	1
+we/PRP (\w+)/VBP ,/, we/PRP (\w+)/VBP 11.5/CD percent/NN right/RB	1
+place/NN to/TO either/RB (\w+)/VB or/CC (\w+)/VB	1
+citizens/NNS could/MD freely/RB (\w+)/VB and/CC (\w+)/VB land/NN or/CC any/DT	1

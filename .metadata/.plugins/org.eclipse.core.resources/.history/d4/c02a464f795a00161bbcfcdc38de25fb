@@ -1,0 +1,23 @@
+'''
+Created on Aug 4, 2016
+
+@author: peter
+'''
+from optparse import OptionParser
+
+import os
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), os.pardir, os.pardir))
+
+from anton.eval import eval
+
+def main():
+    parser = OptionParser()
+    parser.add_option("-f", "--file", dest="filename",
+                  help="input file with instances")
+    
+    
+if __name__ == "__main__":
+    
+    main() 

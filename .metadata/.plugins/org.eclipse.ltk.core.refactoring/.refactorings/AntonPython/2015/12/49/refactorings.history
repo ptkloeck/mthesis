@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Anton/query/jo_count.txt&apos; to &apos;antonyms_freqs.tsv&apos;" description="Rename resource &apos;jo_count.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="query/jo_count.txt" name="antonyms_freqs.tsv" stamp="1449004953235" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Anton/res/data.tsvlin&apos; to &apos;data.tsv&apos;" description="Rename resource &apos;data.tsvlin&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/data.tsvlin" name="data.tsv" stamp="1449093161945" updateReferences="true"/>
+</session>

@@ -1,0 +1,35 @@
+people/NNS who/WP (\w+)/VB —/NNS or/CC (\w+)/VB —/NNS	1
+neither/CC to/TO (\w+)/VB nor/CC to/TO (\w+)/VB	3
+plays/NNS (\w+)/VBP and/CC (\w+)/VBP ./.	1
+(\w+)/VBP and/CC (\w+)/VBP $/$ 3.77/CD billion/CD	1
+won/VBD the/DT (\w+)/VB and/CC (\w+)/VB	1
+or/CC other/JJ factors/NNS (\w+)/VBP caused/VBN him/PRP to/TO nearly/RB (\w+)/VB his/PRP$ net/NN	1
+Fisher/NNP have/VBP to/TO (\w+)/VB a/DT decision/NN that/WDT will/MD (\w+)/VB	1
+disintermediated/NN prose/NN (\w+)/VB new/JJ authors/NNS or/CC (\w+)/VB writing/VBG discipline/NN ?/.	1
+environmental/JJ concerns/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN relation/NN to/TO	1
+match/NN ,/, (\w+)/VB ,/, (\w+)/VB	1
+Lenard/NNP can/MD (\w+)/VB or/CC (\w+)/VB	1
+now/RB readily/RB (\w+)/VBP their/PRP$ livestock/NN to/TO (\w+)/VB	1
+Reg/NNP :/: Cows/NNP (\w+)/VBP (/NNP (\w+)/VBP )/VBG	1
+(\w+)/VB ,/, but/CC we/PRP 've/VBP (\w+)/VBN from/IN a/DT	1
+(\w+)/VB us/PRP a/DT spur/NN to/TO (\w+)/VB it/PRP further/RBR	1
+(\w+)/VBP to/TO (\w+)/VB meat/NN	1
+Republican/NNP that/IN Democrats/NNPS (\w+)/VBP to/TO (\w+)/VB	3
+in/IN winter/NN to/TO (\w+)/VB warm/JJ :/: You/PRP (\w+)/VBP	1
+you/PRP (\w+)/VB or/CC (\w+)/VB on/IN eBay/NN ?/.	1
+to/TO (\w+)/VB or/CC (\w+)/VB the/DT Dodgers/NNPS '/POS	1
+you/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, seemed/VBN	1
+(\w+)/VB or/CC (\w+)/VB a/DT specified/JJ quantity/NN	1
+does/VBZ n't/RB (\w+)/VB an/DT opportunity/NN to/TO (\w+)/VB Sam/NNP meet/VB none/NN	1
+his/PRP$ Jets/NNS (\w+)/VB as/IN a/DT team/NN and/CC (\w+)/VB	1
+(\w+)/VBP to/TO (\w+)/VB Paris/NNP	2
+will/MD (\w+)/VB extended/JJ time/NN after/IN being/VBG (\w+)/VBN in/IN the/DT	1
+whether/IN I/PRP (\w+)/VBP or/CC (\w+)/VBP on/IN ,/, "/''	1
+going/VBG to/TO (\w+)/VB until/IN you/PRP (\w+)/VBP ,/, so/IN there/EX	1
+(\w+)/VB or/CC (\w+)/VB a/DT person/NN 's/POS	1
+of/IN things/NNS will/MD (\w+)/VB and/CC (\w+)/VB ,/, but/CC love/NN	1
+,/, (\w+)/VB and/CC (\w+)/VB as/IN required/VBN	1
+Either/DT way/NN ,/, (\w+)/VB or/CC (\w+)/VB ,/,	1
+Governments/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, but/CC	2
+curriculum/NN because/IN volunteers/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+scheduled/VBN to/TO (\w+)/VB on/IN Oct./NNP 22/CD and/CC (\w+)/VB no/RB later/RB than/IN	1

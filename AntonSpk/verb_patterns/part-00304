@@ -1,0 +1,29 @@
+'s/POS culture/NN of/IN (\w+)/VB and/CC (\w+)/VB ./.	1
+happen/VB if/IN they/PRP (\w+)/VBP their/PRP$ jobs/NNS and/CC cant/NNS (\w+)/VB new/JJ employment/NN	1
+more/RBR likely/JJ to/TO (\w+)/VB a/DT conversation/NN than/IN (\w+)/VB one/CD	1
+bidding/NN process/NN can/MD (\w+)/VB turnaround/NN and/CC (\w+)/VB the/DT raw/JJ	1
+stocks/NNS tend/VBP to/TO (\w+)/VB and/CC (\w+)/VB at/IN different/JJ times/NNS	1
+watching/VBG Hoeppner/NNP (\w+)/VB and/CC (\w+)/VB for/IN the/DT	1
+Association/NNP ,/, (\w+)/VBP ,/, (\w+)/VBP	1
+moguls/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+things/NNS (\w+)/VB ,/, the/DT more/JJR they/PRP (\w+)/VBP the/DT same/JJ --/:	1
+cost-effective/JJ strategy/NN to/TO (\w+)/VB benefits/NNS and/CC (\w+)/VB risks/NNS	1
+and/CC legs/NNS to/TO (\w+)/VB special/JJ plays/NNS that/WDT (\w+)/VBP opponents/NNS '/POS backs/NNS	1
+the/DT options/NNS ,/, (\w+)/VB the/DT stock/NN and/CC simultaneously/RB (\w+)/VB it/PRP at/IN	1
+(\w+)/VB at/IN 11:30/CD p.m./RB and/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB ,/, ''/'' Cammarata/NNP	1
+the/DT children/NNS who/WP (\w+)/VBN into/IN public/JJ care/NN ,/, (\w+)/VB home/NN within/IN	1
+student/NN loan/NN to/TO (\w+)/VB ,/, renovate/VB and/CC (\w+)/VB a/DT home/NN	1
+simply/RB (\w+)/VB and/CC (\w+)/VB like/IN other/JJ	1
+athletes/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+n't/RB (\w+)/VB to/TO (\w+)/VB an/DT	2
+why/WRB ,/, (\w+)/VB ,/, (\w+)/VB or/CC	1
+(\w+)/VB ,/, (\w+)/VB or/CC ridicule/VB the/DT	1
+regularly/RB (\w+)/VB or/CC (\w+)/VB a/DT	4
+begin/VB ,/, they/PRP (\w+)/VBP two/CD things/NNS the/DT Democrats/NNPS (\w+)/VBP :/:	1
+Girls/NNP try/VBP to/TO (\w+)/VB themselves/PRP more/RBR than/IN (\w+)/VB ,/,	1
+about/IN intention/NN to/TO (\w+)/VB or/CC (\w+)/VB trust/NN on/IN	1
+At/IN first/JJ you/PRP (\w+)/VBP the/DT woman/NN and/CC (\w+)/VBP the/DT actress/NN	1
+55/CD to/TO (\w+)/VB their/PRP$ homes/NNS to/TO (\w+)/VB the/DT	2
+of/IN big/JJ (\w+)/VB and/CC (\w+)/VB orders/NNS to/TO	1
+guys/NNS who/WP (\w+)/VBP and/CC (\w+)/VBP in/IN every/DT	1

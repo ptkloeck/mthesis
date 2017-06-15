@@ -1,0 +1,20 @@
+of/IN players/NNS (\w+)/VB and/CC (\w+)/VB ./.	2
+,/, (\w+)/VB orders/NNS instead/RB of/IN (\w+)/VB them/PRP ,/,	1
+either/RB (\w+)/VBP it/PRP or/CC (\w+)/VBP it/PRP ,/, and/CC	1
+did/VBD n't/RB (\w+)/VB to/TO (\w+)/VB a/DT beat/NN ./.	1
+these/DT things/NNS are/VBP (\w+)/VB and/CC (\w+)/VB _/JJ	1
+who/WP (\w+)/VBP the/DT stocks/NNS and/CC (\w+)/VB	1
+The/DT bearings/NNS (\w+)/VB and/CC (\w+)/VB ;/: oiling/VBG	1
+how/WRB much/RB you/PRP (\w+)/VBP or/CC (\w+)/VB whatever/WDT	1
+March/NNP 19/CD will/MD (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VBP and/CC (\w+)/VBP from/IN it/PRP	1
+``/`` You/PRP can/MD (\w+)/VB in/IN Germany/NNP and/CC (\w+)/VB	1
+for/IN managers/NNS to/TO (\w+)/VB ,/, not/RB just/RB (\w+)/VB	1
+shareholders/NNS to/TO (\w+)/VB or/CC (\w+)/VB the/DT	1
+Fashions/NNS (\w+)/VBP and/CC (\w+)/VBP	4
+(\w+)/VB or/CC even/RB struggle/VB to/TO (\w+)/VB	1
+lawyers/NNS who/WP (\w+)/VBP or/CC (\w+)/VBP cases/NNS	1
+(\w+)/VB ,/, and/CC if/IN they/PRP (\w+)/VBP	1
+Politicians/NNP (\w+)/VBP and/CC (\w+)/VBP but/CC art/NN is/VBZ	1
+it/PRP 's/POS (\w+)/VBP 'em/PRP or/CC (\w+)/VBP 'em/PRP	1
+Cricket/NNP Australia/NNP (\w+)/VBP confirmed/VBN Clark/NNP will/MD (\w+)/VB the/DT Champions/JJ	1

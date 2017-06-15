@@ -1,0 +1,31 @@
+to/TO (\w+)/VB tomorrow/NN and/CC (\w+)/VB	1
+(\w+)/VB -/: or/CC (\w+)/VB	4
+while/IN well/RB (\w+)/VBP more/JJR votes/NNS than/IN we/PRP (\w+)/VBP	1
+encouraging/VBG clients/NNS to/TO (\w+)/VB and/CC (\w+)/VB without/IN regard/NN to/TO	1
+(\w+)/VB or/CC (\w+)/VB a/DT syndicated/JJ program/NN	1
+had/VBD to/TO (\w+)/VB or/CC (\w+)/VB 1,000/CD	3
+floor/NN brokers/NNS of/IN (\w+)/VB or/CC (\w+)/VB orders/NNS	1
+arrangement/NN of/IN bilateral/VBG (\w+)/VB and/CC (\w+)/VB would/MD not/RB be/VB	1
+(\w+)/VB and/CC (\w+)/VB with/IN adults/NNS	2
+guests/NNS (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+)/VBD (\w+)/VB and/CC (\w+)/VB onstage/RB ,/, switching/VBG	1
+that/DT ,/, (\w+)/VB or/CC (\w+)/VB a/DT	1
+matters/VBZ because/IN hits/NNS (\w+)/VBP and/CC (\w+)/VBP ./.	2
+Stamford/NNP ,/, (\w+)/VB or/CC (\w+)/VB ,/, after/IN the/DT	1
+to/TO (\w+)/VB his/PRP$ balance/NN and/CC (\w+)/VB	1
+as/IN you/PRP can/MD (\w+)/VB and/CC (\w+)/VB it/PRP	1
+letting/VBG one/CD service/NN (\w+)/VB some/DT ground/NN and/CC another/DT (\w+)/VB it/PRP	1
+(\w+)/VB and/CC (\w+)/VB "/`` pollution/NN	1
+been/VBN able/JJ to/TO (\w+)/VB or/CC (\w+)/VB the/DT share/NN	1
+(\w+)/VBN and/CC (\w+)/VB as/IN	2
+position/NN ,/, (\w+)/VBP talent/NN but/CC (\w+)/VBP	1
+n't/RB (\w+)/VB silver/NN ,/, you/PRP (\w+)/VBP gold/NN "/'' --/:	1
+(\w+)/VB Fehr/NNP something/NN substantial/JJ to/TO (\w+)/VB to/TO Phoenix/NNP	1
+(\w+)/VB hip/NN surgery/NN ,/, could/MD (\w+)/VB first/JJ Kentucky/NNP Derby/NNP	1
+not/RB to/TO (\w+)/VB instead/RB of/IN to/TO (\w+)/VB ./. ''/''	1
+many/JJ things/NNS to/TO (\w+)/VB -/: and/CC (\w+)/VB -/: from/IN	1
+(\w+)/VB him/PRP reason/NN to/TO (\w+)/VB her/PRP to/TO jail/NN	1
+go/VBP to/TO (\w+)/VB in/IN it/PRP and/CC (\w+)/VBP up/RP	1
+them/PRP I/PRP (\w+)/VBP to/TO (\w+)/VB their/PRP$	2
+Traditional/JJ speculators/NNS go/VBP (\w+)/VB and/CC (\w+)/VB	1
+the/DT attempt/NN to/TO (\w+)/VB or/CC (\w+)/VB the/DT Holy/JJ Spirit/NN	1

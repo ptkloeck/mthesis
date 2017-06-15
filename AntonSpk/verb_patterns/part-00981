@@ -1,0 +1,34 @@
+for/IN us/PRP to/TO (\w+)/VB and/CC (\w+)/VB when/WRB we/PRP	1
+of/IN Americans/NNPS (\w+)/VB ,/, (\w+)/VB	1
+total/NN of/IN executed/VBG (\w+)/VB and/CC (\w+)/VB programs/NNS	1
+if/IN I/PRP (\w+)/VB away/RB today/NN and/CC (\w+)/VB back/RB Monday/NNP	1
+,/, (\w+)/VB or/CC (\w+)/VB a/DT few/JJ complaints/NNS	1
+that/WDT (\w+)/VBP instead/RB of/IN (\w+)/VBP ./.	1
+grains/NNS (\w+)/VBP ,/, swirl/VB and/CC then/RB (\w+)/VB abruptly/RB where/WRB a/DT	1
+(\w+)/VB or/CC (\w+)/VB a/DT lease/NN ,/,	1
+aid/NN levels/NNS were/VBD (\w+)/VBN to/TO (\w+)/VB	1
+tax/NN measures/NNS would/MD (\w+)/VB or/CC (\w+)/VB	1
+traders/NNS (\w+)/VBP and/CC (\w+)/VBP stocks/NNS ,/, bonds/NNS	6
+(\w+)/VB to/TO pecan/JJ trees/NNS and/CC (\w+)/VB through/IN the/DT harvest/NN	1
+to/TO (\w+)/VB goods/NNS and/CC (\w+)/VB them/PRP back/RB home/NN	1
+to/TO (\w+)/VB ,/, process/VB oxygen/NN and/CC (\w+)/VB	2
+because/IN various/JJ injuries/NNS (\w+)/VBP forced/VBN him/PRP to/TO (\w+)/VB a/DT	1
+His/PRP$ status/NN could/MD (\w+)/VB or/CC (\w+)/VB the/DT game/NN for/IN	1
+ready/JJ to/TO (\w+)/VB or/CC (\w+)/VB if/IN	1
+(\w+)/VBP it/PRP ,/, and/CC I/PRP (\w+)/VBP n't/RB	1
+that/IN Microsoft/NNP could/MD (\w+)/VB the/DT legal/JJ battle/NN but/CC (\w+)/VBP	2
+(\w+)/VB and/CC (\w+)/VB there/RB ,/, and/CC	1
+they/PRP (\w+)/VBP the/DT opportunity/NN "/'' to/TO (\w+)/VB the/DT space/NN	2
+from/IN Friday/NNP to/TO (\w+)/VB or/CC (\w+)/VB his/PRP$ assignment/NN	1
+--/: whether/IN to/TO (\w+)/VB ,/, whether/IN to/TO (\w+)/VB ./.	1
+(\w+)/VB alive/JJ and/CC (\w+)/VB	1
+students/NNS "/`` (\w+)/VBP and/CC (\w+)/VBP "/'' on/IN	1
+where/WRB the/DT similarities/NNS (\w+)/VB and/CC (\w+)/VB as/IN Papac/NNP looks/VBZ	1
+fans/NNS (\w+)/VBP to/TO (\w+)/VB their/PRP$ teams/NNS	1
+(\w+)/VB ,/, I/PRP tried/VBD to/TO (\w+)/VB	1
+to/TO (\w+)/VB ,/, they/PRP will/MD (\w+)/VB it/PRP to/TO	1
+care/VB if/IN (\w+)/VBP or/CC (\w+)/VBP ,/,	1
+that/WDT (\w+)/VBP search/NN functions/NNS ,/, (\w+)/VBP nonworking/JJ links/NNS	1
+(\w+)/VB ital/JJ )/JJ ideas/NNS (/RB (\w+)/VB	1
+(\w+)/VB more/JJR shots/NNS and/CC (\w+)/VB	1
+'s/POS opening/NN (\w+)/VBP ,/, they/PRP did/VBD n't/RB (\w+)/VB	1

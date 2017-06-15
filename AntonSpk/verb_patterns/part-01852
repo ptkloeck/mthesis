@@ -1,0 +1,35 @@
+to/TO (\w+)/VB or/CC (\w+)/VB funding/NN	1
+resource-dependent/JJ industries/NNS (\w+)/VBP and/CC (\w+)/VBP small/JJ towns/NNS ./.	2
+(\w+)/VB gas/NN and/CC (\w+)/VB it/PRP	2
+(\w+)/VBP out/RP ,/, (\w+)/VBP	1
+competitive/JJ bidding/NN will/MD (\w+)/VB Jan./NNP 1/CD and/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB and/CC keep/VB	1
+ritual/NN of/IN (\w+)/VB and/CC (\w+)/VB that/WDT is/VBZ difficult/JJ	1
+(\w+)/VBP ,/, do/VBP n't/RB (\w+)/VB ,/,	1
+(\w+)/VB at/IN 9:30/CD a.m./RB and/CC (\w+)/VB at/IN 11:30/CD	1
+million/CD investors/NNS (\w+)/VBP and/CC (\w+)/VBP stocks/NNS electronically/RB	2
+(\w+)/VB scoring/VBG ,/, (\w+)/VB physical/JJ play/NN ,/,	1
+play/NN is/VBZ (\w+)/VBP ,/, (\w+)/VBP or/CC	1
+Elliot/NNP could/MD (\w+)/VB out/RP ,/, we/PRP 'll/MD (\w+)/VB to/TO	1
+--/: they/PRP (\w+)/VBP and/CC (\w+)/VBP more/RBR sharply/RB than/IN	1
+(\w+)/VBP to/TO (\w+)/VB the/DT changes/NNS	1
+will/MD (\w+)/VB and/CC (\w+)/VB here/RB ,/,	1
+to/TO (\w+)/VB or/CC (\w+)/VB ,/, Zillow/NNP is/VBZ	1
+might/MD (\w+)/VB to/TO (\w+)/VB the/DT result/NN	1
+voters/NNS (\w+)/VBP to/TO (\w+)/VB the/DT	2
+(\w+)/VBP or/CC (\w+)/VBP that/DT during/IN	2
+decide/VB whether/IN to/TO (\w+)/VB or/CC (\w+)/VB the/DT	16
+player/NN (\w+)/VB or/CC (\w+)/VB the/DT game/NN	1
+sales/NNS (\w+)/VBP in/IN U.S./NNP ,/, (\w+)/VB worldwide/RB	1
+authority/NN to/TO (\w+)/VB and/CC (\w+)/VB or/CC perform/VB	1
+they/PRP (\w+)/VBP and/CC (\w+)/VBP from/IN	3
+you/PRP can/MD (\w+)/VB a/DT green/NN and/CC still/RB (\w+)/VB an/DT	1
+(\w+)/VBP pathologising/JJ things/NNS and/CC (\w+)/VBP calling/VBG	1
+(\w+)/VBP been/VBN hit/VBN or/CC (\w+)/VBP ,/, with/IN one/CD	1
+(\w+)/VB is/VBZ really/RB difficult/JJ to/TO (\w+)/VB in/IN	1
+(\w+)/VBP Feb./NNP 5/CD and/CC will/MD (\w+)/VB	1
+(\w+)/VB ,/, I/PRP could/MD n't/RB (\w+)/VB ,/, and/CC I/PRP	1
+then/RB (\w+)/VB or/CC (\w+)/VB individually/RB	1
+,/, (\w+)/VB or/CC (\w+)/VB ,/, and/CC Cope/NNP	1
+Dessert/JJ fads/NNS (\w+)/VBP and/CC dessert/NN fads/NNS (\w+)/VBP _/NNP	1
+how/WRB to/TO (\w+)/VB and/CC (\w+)/VB money/NN from/IN	1

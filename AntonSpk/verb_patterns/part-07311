@@ -1,0 +1,44 @@
+Alabama/NNP -/: (\w+)/VB or/CC (\w+)/VB	1
+"/`` Politicians/NNP (\w+)/VBP and/CC (\w+)/VBP ;/:	1
+(\w+)/VB or/CC (\w+)/VB ,/, Parsons/NNP said/VBD	1
+help/VB fat/JJ children/NNS (\w+)/VB weight/NN and/CC (\w+)/VB it/PRP	1
+bad/JJ enough/RB to/TO (\w+)/VB you/PRP want/VBP to/TO (\w+)/VB things/NNS	1
+him/PRP to/TO (\w+)/VB what/WP would/MD (\w+)/VB	1
+Dec./NNP 3/CD ,/, (\w+)/VB or/CC (\w+)/VB 48/CD hours/NNS ./.	1
+Mr./NNP Clinton/NNP to/TO (\w+)/VB or/CC (\w+)/VB that/IN he/PRP gave/VBD	1
+(\w+)/VB out/RP and/CC (\w+)/VB houses/NNS elsewhere/RB	1
+to/TO (\w+)/VB and/CC (\w+)/VB unseen/JJ to/TO the/DT	1
+each/DT episode/NN (\w+)/VB and/CC (\w+)/VB in/IN a/DT musty/JJ	1
+to/TO (\w+)/VB over/RP long/RB enough/RB to/TO (\w+)/VB the/DT	1
+Council/NNP and/CC (\w+)/VB and/CC (\w+)/VB top/JJ	1
+to/TO (\w+)/VB and/CC (\w+)/VB on/IN a/DT chair/NN	1
+,/, (\w+)/VB someone/NN ,/, (\w+)/VB someone/NN	1
+those/DT homeowners/NNS who/WP (\w+)/VB and/CC (\w+)/VB a/DT	1
+able/JJ to/TO (\w+)/VB a/DT joke/NN ,/, but/CC (\w+)/VBP it/PRP out/IN	1
+Pierre/NNP Omidyar/NNP to/TO (\w+)/VB and/CC (\w+)/VB the/DT Pez/NNP candy/NN	1
+(\w+)/VBP back/RB ,/, I/PRP (\w+)/VBP through/IN	1
+then/RB has/VBZ to/TO (\w+)/VB or/CC (\w+)/VB the/DT	2
+whether/IN they/PRP (\w+)/VBP or/CC (\w+)/VBP ,/, the/DT debate/NN	2
+the/DT Rams/NNPS will/MD (\w+)/VB Jackson/NNP from/IN busting/VBG (\w+)/VB	1
+Mr./NNP Clinton/NNP would/MD (\w+)/VB pity/NN and/CC (\w+)/VB him/PRP	1
+and/CC (\w+)/VB or/CC look/VB bad/JJ and/CC (\w+)/VB ?/.	1
+message/NN is/VBZ (\w+)/VB and/CC keep/VB going/VBG or/CC (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB depending/VBG	31
+1/CD to/TO (\w+)/VB ,/, (\w+)/VB or/CC alter/VB	1
+"/`` You/PRP can/MD (\w+)/VB from/IN the/DT stable/NN and/CC (\w+)/VB	1
+they/PRP would/MD (\w+)/VB and/CC (\w+)/VB as/IN	1
+Even/RB when/WRB you/PRP (\w+)/VBP ,/, you/PRP (\w+)/VBP	2
+more/JJR we/PRP (\w+)/VBP on/RP than/IN (\w+)/VBP	1
+can/MD either/RB (\w+)/VB or/CC (\w+)/VB stocks/NNS with/IN hefty/JJ	1
+But/CC more/JJR (\w+)/VBN in/IN than/IN (\w+)/VBP out/RP ./.	1
+federal/JJ crime/NN to/TO (\w+)/VB or/CC (\w+)/VB organs/NNS for/IN transplantation/NN	4
+ways/NNS to/TO (\w+)/VB weight/NN and/CC (\w+)/VB it/PRP off/RB	1
+man/NN -/: (\w+)/VB what/WP may/MD I/PRP will/MD (\w+)/VB to/TO	1
+the/DT Red/NNP Bulls/NNPS (\w+)/VBP and/CC the/DT Wizards/NNPS (\w+)/VBP	1
+dollars/NNS to/TO (\w+)/VB or/CC (\w+)/VB	1
+either/RB (\w+)/VB or/CC (\w+)/VB you/PRP ,/, ''/''	1
+players/NNS will/MD (\w+)/VB and/CC (\w+)/VB ./.	1
+on/IN quadrillion/NN (/NNS (\w+)/VB or/CC (\w+)/VB	1
+power/NN to/TO (\w+)/VB or/CC (\w+)/VB an/DT alderman/NN	1
+We/PRP want/VBP to/TO (\w+)/VB them/PRP before/IN they/PRP (\w+)/VBP	1
+have/VB been/VBN (\w+)/VBN and/CC (\w+)/VB	1

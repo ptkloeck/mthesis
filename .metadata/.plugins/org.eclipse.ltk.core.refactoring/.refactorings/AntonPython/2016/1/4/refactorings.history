@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Anton/res/data_sen_cooc.tsv&apos; to &apos;data.tsv&apos;" description="Rename resource &apos;data_sen_cooc.tsv&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/data_sen_cooc.tsv" name="data.tsv" stamp="1454081257134" updateReferences="true"/>
+</session>

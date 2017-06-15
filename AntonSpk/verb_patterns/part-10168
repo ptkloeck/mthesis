@@ -1,0 +1,31 @@
+set/VBD out/RP to/TO (\w+)/VB and/CC (\w+)/VB beef/NN	1
+Another/DT had/VBD children/NNS (\w+)/VB or/CC (\w+)/VB their/PRP$ answers/NNS	1
+just/RB that/IN ,/, (\w+)/VB or/CC (\w+)/VB	1
+help/VB people/NNS (\w+)/VB and/CC (\w+)/VB homes/NNS ./.	2
+people/NNS who/WP (\w+)/VBP to/TO (\w+)/VB you/PRP ,/, just/RB	1
+Charley/NNP Floyd/NNP could/MD (\w+)/VB and/CC (\w+)/VB	1
+prices/NNS (\w+)/VBP or/CC (\w+)/VBP at/IN a/DT	1
+and/CC inaccuracies/NNS (\w+)/VBP caused/VBN them/PRP to/TO (\w+)/VB state-mandated/JJ deadlines/NNS for/IN	1
+Such/JJ investors/NNS (\w+)/VBP and/CC (\w+)/VBP stocks/NNS or/CC mutual/JJ	1
+automatically/RB (\w+)/VBP or/CC (\w+)/VBP in/IN	1
+would/MD like/VB to/TO (\w+)/VB or/CC (\w+)/VB	3
+When/WRB you/PRP (\w+)/VB your/PRP$ eyes/NNS and/CC (\w+)/VB your/PRP$ ears/NNS in/IN	1
+secularists/NNS wear/NN turbans/NNS (\w+)/VBP to/TO (\w+)/VB the/DT word/NN ,/,	1
+(\w+)/VBP volatile/JJ fresh/JJ foods/NNS but/CC (\w+)/VBP	2
+the/DT plaintiffs/NNS did/VBD (\w+)/VB or/CC (\w+)/VB	1
+to/TO (\w+)/VB playing/VBG politics/NNS and/CC (\w+)/VB getting/VBG	1
+that/WDT could/MD (\w+)/VB or/CC (\w+)/VB your/PRP$ year/NN	1
+their/PRP$ games/NNS --/: (\w+)/VB or/CC (\w+)/VB ./.	1
+temperatures/NNS to/TO (\w+)/VB and/CC (\w+)/VB buildings/NNS	1
+able/JJ to/TO (\w+)/VB repressed/JJ labor/NN abroad/RB and/CC (\w+)/VB free/JJ	1
+will/MD (\w+)/VB or/CC (\w+)/VB Clintons/NNP attempt/NN	1
+Hollywood/NNP (\w+)/VB and/CC (\w+)/VB ./.	1
+let/VB 's/VBZ (\w+)/VB this/DT a/DT go/NN --/: (\w+)/VB her/PRP to/TO see/VB	1
+no/RB longer/RB (\w+)/VB or/CC (\w+)/VB flu/NN vaccine/NN	1
+all/PDT the/DT (\w+)/VBP and/CC (\w+)/VBP ,/, the/DT way/NN	1
+(\w+)/VB to/TO (\w+)/VB and/CC continue/VB	1
+(\w+)/VB from/IN a/DT reservation/NN to/TO (\w+)/VB in/IN the/DT	1
+are/VBP tidy/JJ ,/, (\w+)/VB or/CC (\w+)/VB a/DT stain/NN on/IN	1
+They/PRP can/MD (\w+)/VB ,/, kneel/VB or/CC (\w+)/VB on/IN the/DT round/NN	2
+assess/VB when/WRB to/TO (\w+)/VB ,/, how/WRB to/TO (\w+)/VB	1
+(\w+)/VB nuts/NNS and/CC (\w+)/VB to/TO the/DT	1

@@ -1,0 +1,38 @@
+'s/POS day/NN ,/, (\w+)/VB or/CC (\w+)/VB a/DT few/JJ	1
+to/TO (\w+)/VB nuclear/JJ drive/NN ,/, (\w+)/VB	2
+opportunity/NN of/IN (\w+)/VB or/CC (\w+)/VB with/IN statements/NNS on/IN	1
+Dad/NNP (\w+)/VB into/IN it/PRP and/CC (\w+)/VB flying/VBG	1
+changed/VBN because/IN they/PRP (\w+)/VB together/RB and/CC (\w+)/VB	1
+Charlemagne/NNP (\w+)/VB and/CC (\w+)/VB only/RB to/TO	1
+to/TO (\w+)/VB and/CC (\w+)/VB large/JJ stakes/NNS in/IN	2
+led/VBD traders/NNS to/TO (\w+)/VB short-term/JJ instruments/NNS and/CC (\w+)/VB bonds/NNS	1
+,/, '/'' (\w+)/VBP the/DT sinner/NN ,/, (\w+)/VBP the/DT sin/NN	1
+attempt/NN to/TO (\w+)/VB or/CC (\w+)/VB the/DT Holy/JJ	1
+would/MD (\w+)/VB to/TO (\w+)/VB no/DT	1
+political/JJ (\w+)/VBP and/CC (\w+)/VBP among/IN nations/NNS ,/,	1
+do/VBP n't/RB (\w+)/VB or/CC (\w+)/VB a/DT season/NN ,/,	1
+because/IN they/PRP (\w+)/VBP to/TO (\w+)/VB their/PRP$ diabetes/NN	1
+interviewers/NNS (\w+)/VB some/DT and/CC (\w+)/VB some/DT	1
+The/DT worker/NN will/MD (\w+)/VB the/DT gate/NN ,/, (\w+)/VB it/PRP	1
+to/TO (\w+)/VB making/VBG excuses/NNS and/CC (\w+)/VB accepting/VBG responsibility/NN	1
+we/PRP have/VBP to/TO (\w+)/VB and/CC (\w+)/VB again/RB	1
+things/NNS should/MD (\w+)/VB and/CC (\w+)/VB on/IN the/DT marketplace/NN	1
+might/MD (\w+)/VB myself/PRP simply/RB do/VBP not/RB (\w+)/VB the/DT place/NN	1
+(\w+)/VB the/DT tank/NN and/CC (\w+)/VB the/DT leach/JJ	1
+to/TO (\w+)/VB and/CC (\w+)/VB a/DT garment/NN --/:	1
+perfectly/RB free/JJ to/TO (\w+)/VB or/CC (\w+)/VB "/`` with/IN the/DT	1
+(\w+)/VB _/NNP not/RB (\w+)/VB _/VBG	1
+Time/NNP to/TO (\w+)/VB talking/VBG and/CC (\w+)/VB	2
+leaders/NNS as/IN they/PRP (\w+)/VB and/CC (\w+)/VB them/PRP	1
+little/JJ (\w+)/VB and/CC (\w+)/VB ,/, mostly/RB individual/JJ	1
+(\w+)/VB June/NNP 27/CD and/CC (\w+)/VB at/IN the/DT	1
+Did/VBD they/PRP (\w+)/VB or/CC did/VBD they/PRP (\w+)/VBP ?/. ''/''	1
+(\w+)/VBP Halloween/NNP or/CC they/PRP (\w+)/VBP it/PRP	1
+(\w+)/VB the/DT securities/NNS ,/, foreigners/NNS (\w+)/VBP their/PRP$	1
+If/IN you/PRP (\w+)/VBP money/NN away/RB I/PRP will/MD (\w+)/VB it/PRP ,/, but/CC	1
+to/TO (\w+)/VB the/DT bread/NN ,/, and/CC (\w+)/VB it/PRP to/TO	1
+,/, to/TO (\w+)/VB at/IN 2/CD p.m./RB and/CC (\w+)/VB	1
+(\w+)/VB and/CC where/WRB does/VBZ it/PRP (\w+)/VB ?/.	1
+or/CC (\w+)/VB and/CC (\w+)/VB branch/NN	1
+slate/NN of/IN (\w+)/VB ,/, hold/VB ,/, and/CC (\w+)/VB	1
+base/NN of/IN (\w+)/VB ,/, hold/VB and/CC (\w+)/VB advice/NN	1

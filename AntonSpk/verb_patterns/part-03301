@@ -1,0 +1,45 @@
+prices/NNS (\w+)/VBP or/CC (\w+)/VBP -/:	1
+you/PRP (\w+)/VBP or/CC (\w+)/VBP a/DT	1
+slapstick/NN limps/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+I/PRP would/MD rather/RB (\w+)/VB playing/VBG ugly/JJ soccer/NN than/IN (\w+)/VB playing/VBG	1
+(\w+)/VB long/RB for/IN someone/NN to/TO (\w+)/VB Holmgren/NNP clarity/RB ./.	1
+but/CC most/JJS (\w+)/VBP here/RB to/TO (\w+)/VB on/IN camel/NN treks/NNS	1
+not/RB to/TO (\w+)/VB stories/NNS but/CC to/TO (\w+)/VB people/NNS informed/VBN and/CC	1
+gas/NN grill/NN ,/, (\w+)/VB the/DT temperature/NN and/CC (\w+)/VB the/DT	1
+husband/NN (\w+)/VBP or/CC (\w+)/VBP a/DT bus/NN to/TO	1
+making/VBG rhythm/NN (\w+)/VB and/CC (\w+)/VB	1
+they/PRP would/MD (\w+)/VB with/IN one/CD hand/NN and/CC (\w+)/VB away/RP	1
+negotiations/NNS that/WDT could/MD (\w+)/VB or/CC (\w+)/VB the/DT nearly/RB	1
+(\w+)/VBP to/TO (\w+)/VB the/DT rules/NNS of/IN	1
+likely/RB (\w+)/VB in/IN the/DT development/NN and/CC (\w+)/VB to/TO the/DT	1
+England/NNP '/POS you/PRP (\w+)/VBP some/DT you/PRP (\w+)/VBP some/DT	1
+even/RB (\w+)/VB unless/IN oil/NN prices/NNS (\w+)/VBP to/TO	2
+Dolans/NNPS (\w+)/VBP or/CC (\w+)/VBP in/IN	1
+Maliki/NNP to/TO (\w+)/VB or/CC (\w+)/VB	1
+and/CC programs/NNS that/WDT (\w+)/VBP to/TO (\w+)/VB their/PRP$ narrow/JJ	1
+are/VBP (\w+)/VBN to/TO (\w+)/VB to/TO the/DT	1
+(\w+)/VB and/CC (\w+)/VB to/TO revive/VB the/DT	1
+those/DT soldiers/NNS who/WP (\w+)/VBP trying/VBG to/TO (\w+)/VB down/RP	1
+,/, (\w+)/VB drop-out/JJ rates/NNS ,/, and/CC (\w+)/VB parent/NN	1
+days/NNS whether/IN to/TO (\w+)/VB or/CC (\w+)/VB the/DT	1
+certainly/RB (\w+)/VB China/NNP 's/POS leaders/NNS and/CC (\w+)/VB	1
+It/PRP would/MD (\w+)/VB again/RB and/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB teachers/NNS in/IN every/DT	2
+$/$ 9.95/CD to/TO (\w+)/VB or/CC (\w+)/VB	2
+right/NN to/TO (\w+)/VB or/CC (\w+)/VB measures/NNS like/IN the/DT	1
+can/MD (\w+)/VB or/CC (\w+)/VB his/PRP$ dreams/NNS	1
+to/TO (\w+)/VB and/CC (\w+)/VB shares/NNS once/IN full/JJ	1
+days/NNS (\w+)/VB at/IN 7/CD a.m./RB and/CC (\w+)/VB at/IN 3:30/CD	1
+the/DT 49ers/NNPS (\w+)/VBP out/RP _/NNP (\w+)/VB to/TO	1
+the/DT moment/NN you/PRP (\w+)/VBP to/TO the/DT moment/NN you/PRP (\w+)/VBP ,/, we/PRP	1
+(\w+)/VB the/DT successes/NNS and/CC (\w+)/VB the/DT	1
+to/TO Maliki/NNP to/TO (\w+)/VB or/CC (\w+)/VB	1
+can/MD (\w+)/VB in/RP or/CC (\w+)/VB out/RP "/'' without/IN	1
+and/CC either/DT (\w+)/VB the/DT election/NN or/CC (\w+)/VB	1
+to/TO (\w+)/VB and/CC (\w+)/VB Nasdaq/NNP stocks/NNS ./.	3
+(\w+)/VB the/DT president/NN and/CC (\w+)/VB the/DT	2
+(\w+)/VBP big/JJ ,/, Mularkey/NNP will/MD (\w+)/VB it/PRP hard/RB	1
+Crosby/NNP said/VBD --/: (\w+)/VB or/CC (\w+)/VB --/: opening/VBG the/DT	1
+November/NNP election/NN ,/, (\w+)/VB or/CC (\w+)/VB ./.	1
+Political/NNP (\w+)/VBP or/CC (\w+)/VBP	1
+Line/NNP used/VBN to/TO (\w+)/VB or/CC (\w+)/VB sails/NNS	1

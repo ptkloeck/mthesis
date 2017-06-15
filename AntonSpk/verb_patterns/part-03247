@@ -1,0 +1,27 @@
+is/VBZ (\w+)/VB and/CC (\w+)/VB :/: funny/JJ	1
+who/WP (\w+)/VBP and/CC (\w+)/VBP everything/NN from/IN the/DT	1
+(\w+)/VBP international/JJ experience/NN and/CC (\w+)/VBP poor/JJ financial/JJ	1
+that/IN they/PRP (\w+)/VBP and/CC (\w+)/VBP in/IN a/DT normal/JJ	1
+goalies/NNS (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB to/TO (\w+)/VB the/DT IQ/NNP test/NN	1
+and/CC making/VBG (\w+)/VB and/CC (\w+)/VB recommendations/NNS ./. "/''	2
+teams/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP	1
+not/RB (\w+)/VB practice/NN today/NN and/CC will/MD (\w+)/VB practice/NN	1
+the/DT ones/NNS you/PRP (\w+)/VBP to/TO (\w+)/VB !/.	1
+gags/NNS are/VBP (\w+)/VBN and/CC (\w+)/VBP and/CC the/DT pace/NN	1
+to/TO (\w+)/VB permission/NN to/TO (\w+)/VB part/NN	1
+(\w+)/VB that/DT battle/NN than/IN (\w+)/VB	1
+,/, (\w+)/VB or/CC (\w+)/VB ,/, running/VBG	1
+another/DT car/NN to/TO (\w+)/VB or/CC (\w+)/VB him/PRP in/IN	1
+students/NNS learn/VBP is/VBZ (\w+)/VBN or/CC (\w+)/VBP ,/, ''/'' said/VBD	1
+"/'' who/WP can/MD (\w+)/VB or/CC (\w+)/VB	1
+the/DT broker/NN to/TO (\w+)/VB or/CC (\w+)/VB at/IN	1
+--/: which/WDT (\w+)/VB and/CC (\w+)/VB the/DT	1
+of/IN Giants/NNPS will/MD (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB and/CC cruise/VBP	1
+TV/NNP stars/VBZ (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB in/IN here/RB ready/JJ to/TO (\w+)/VB	1
+that/IN the/DT winds/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+(\w+)/VBP to/TO Mass/NNP or/CC (\w+)/VBP to/TO hell/NN ./.	2
+plants/NNS (\w+)/VBP in/IN tubs/NNS ,/, which/WDT (\w+)/VBP	1
+continue/VB to/TO (\w+)/VB early/RB and/CC (\w+)/VB	1

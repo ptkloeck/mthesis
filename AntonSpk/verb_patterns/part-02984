@@ -1,0 +1,42 @@
+race/NN ,/, (\w+)/VB or/CC (\w+)/VB Mrs./NNP Bourne/NNP 's/POS	1
+I/PRP (\w+)/VB and/CC (\w+)/VB these/DT things/NNS all/PDT	1
+(\w+)/VB or/CC (\w+)/VB medical/JJ and/CC	1
+hand/NN ,/, is/VBZ (\w+)/VBN or/CC (\w+)/VBP	1
+continue/VB to/TO (\w+)/VB and/CC (\w+)/VB each/DT	2
+fail/VBP to/TO (\w+)/VB and/CC (\w+)/VB in/IN line/NN with/IN	1
+career/NN has/VBZ been/VBN (\w+)/VBN and/CC (\w+)/VBP over/RP	1
+,/, an/DT age-old/NN (\w+)/VB and/CC (\w+)/VB dressed/VBN	1
+(\w+)/VB inherited/VBN stocks/NNS and/CC (\w+)/VB fixed-income/JJ investments/NNS to/TO	1
+either/RB to/TO (\w+)/VB or/CC (\w+)/VB a/DT	1
+still/RB can/MD (\w+)/VB and/CC (\w+)/VB a/DT house/NN in/IN	1
+have/VBP to/TO (\w+)/VB some/DT eggs/NNS to/TO (\w+)/VB an/DT omelet/NN ,/,	1
+conferences/NNS have/VBP helped/VBN (\w+)/VB some/DT Presidents/NNPS and/CC (\w+)/VB	2
+You/PRP either/RB (\w+)/VBP or/CC (\w+)/VBP a/DT	1
+to/TO (\w+)/VB or/CC (\w+)/VB UTHR/NNP	1
+you/PRP want/VBP to/TO (\w+)/VB a/DT poker/NN party/NN but/CC (\w+)/VBP the/DT	1
+season/NN (\w+)/VBP and/CC (\w+)/VBP without/IN him/PRP	1
+if/IN Hrabak/NNP will/MD (\w+)/VB at/IN middle/JJ linebacker/NN or/CC (\w+)/VB to/TO outside/JJ linebacker/NN	1
+know/VB whether/IN to/TO (\w+)/VB or/CC (\w+)/VB ,/, "/'' school/NN	5
+on/IN board/NN to/TO (\w+)/VB the/DT plan/NN ,/, or/CC (\w+)/VB it/PRP	1
+her/PRP$ inability/NN to/TO (\w+)/VB the/DT incompetent/JJ ,/, (\w+)/VB the/DT competent/JJ ,/,	1
+(\w+)/VBN to/TO (\w+)/VB in/IN importance/NN ./.	1
+worry/VBP ,/, (\w+)/VBP uneasily/RB and/CC (\w+)/VBP up/RP early/RB the/DT	1
+dumb/JJ enough/RB to/TO (\w+)/VB it/PRP couldnt/NNP MTV/NNP (\w+)/VBP just/RB recreate/VB	1
+is/VBZ going/VBG to/TO (\w+)/VB or/CC (\w+)/VB themselves/PRP	3
+dont/VBP (\w+)/VB how/WRB to/TO (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB souffles/NNS ,/, meringues/NNS	1
+I/PRP (\w+)/VBP out/RP and/CC (\w+)/VB	1
+and/CC to/TO (\w+)/VB and/CC (\w+)/VB your/PRP$ home/NN ./.	1
+To/TO (\w+)/VB or/CC (\w+)/VB on/IN penalty/NN kicks/VBZ	1
+"/'' will/MD not/RB (\w+)/VB or/CC (\w+)/VB	1
+can/MD (\w+)/VB or/CC (\w+)/VB up/RP in/IN	1
+(\w+)/VB and/CC (\w+)/VB write-blocking/NN on/IN	1
+a/DT bill/NN to/TO (\w+)/VB the/DT tax/NN (\w+)/VB permanent/JJ in/IN	1
+,/, (\w+)/VBP away/RB ,/, (\w+)/VBN again/RB another/DT	1
+are/VBP (\w+)/VB or/CC (\w+)/VB ,/, ''/'' said/VBD	1
+things/NNS that/WDT (\w+)/VBP them/PRP a/DT chance/NN to/TO (\w+)/VB	1
+Gingrich/NNP to/TO (\w+)/VB him/PRP a/DT majority/NN and/CC (\w+)/VB Democrats/NNPS to/TO	1
+same/JJ industry/NN to/TO (\w+)/VB and/CC (\w+)/VB goods/NNS ,/,	2
+(\w+)/VB playing/VBG games/NNS and/CC (\w+)/VB saving/VBG	1
+to/TO (\w+)/VB or/CC (\w+)/VB jobs/NNS	1
+(\w+)/VBP and/CC (\w+)/VBP so/RB fast/RB ,/,	1

@@ -1,0 +1,28 @@
+test/NN to/TO (\w+)/VB or/CC (\w+)/VB	1
+Fourth/NNP to/TO (\w+)/VB over/RP insurance/NN issues/NNS and/CC (\w+)/VB up/RP	1
+could/MD then/RB (\w+)/VB ,/, (\w+)/VB or/CC cancel/VB the/DT	1
+and/CC influence/NN to/TO (\w+)/VB and/CC (\w+)/VB seats/NNS and/CC	1
+slow/JJ (\w+)/VB and/CC (\w+)/VB ,/,	1
+cancer/NN will/MD either/CC (\w+)/VB or/CC (\w+)/VB to/TO match/VB	1
+You/PRP (\w+)/VB some/DT ,/, you/PRP (\w+)/VBP some/DT	5
+"/'' If/IN you/PRP (\w+)/VB human/JJ beings/NNS and/CC (\w+)/VB	1
+,/, RMS/NNP (\w+)/VBP for/IN free/JJ software/NN and/CC (\w+)/VBP	1
+investors/NNS would/MD (\w+)/VB existing/JJ holdings/NNS to/TO (\w+)/VB the/DT	1
+(/VBG whether/IN to/TO (\w+)/VB or/CC (\w+)/VB the/DT	1
+that/WDT (\w+)/VB and/CC (\w+)/VB her/PRP$	1
+season/NN could/MD be/VB (\w+)/VB or/CC (\w+)/VB for/IN National/NNP	1
+the/DT right/NN to/TO (\w+)/VB or/CC (\w+)/VB certain/JJ development/NN intervention/NN	1
+(\w+)/VB and/CC (\w+)/VB the/DT plant/NN every/DT	1
+steel/NN may/MD (\w+)/VB and/CC (\w+)/VB ,/,	1
+(\w+)/VB and/CC so/RB tough/JJ to/TO (\w+)/VB	1
+the/DT ability/NN to/TO (\w+)/VB or/CC (\w+)/VB a/DT shade/NN	1
+Coaches/NNP (\w+)/VBP and/CC (\w+)/VBP and/CC	1
+(\w+)/VB or/CC (\w+)/VB hand-tallied/JJ recounts/NNS from/IN	1
+strap-on/JJ stars/NNS that/WDT (\w+)/VB and/CC (\w+)/VB ./.	1
+(\w+)/VB or/CC (\w+)/VB their/PRP$ quest/NN for/IN	1
+midnight/NN could/MD (\w+)/VB and/CC (\w+)/VB ,/, the/DT hands/NNS	1
+are/VBP allowed/VBN to/TO (\w+)/VB their/PRP$ dogs/NNS or/CC (\w+)/VB	1
+to/TO (\w+)/VB and/CC (\w+)/VB supply/NN	1
+(\w+)/VBP easy/JJ ,/, won/VBD t/NN (\w+)/VBP	1
+'/POS (\w+)/VB '/'' and/CC '/`` (\w+)/VB '/'' signals/NNS ./.	1
+a/DT crime/NN to/TO (\w+)/VB ,/, (\w+)/VB or/CC possess/VB illegally/RB	1

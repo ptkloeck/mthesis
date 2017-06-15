@@ -1,0 +1,46 @@
+'s/VBZ seen/VBN them/PRP (\w+)/VBP and/CC (\w+)/VBP through/IN a/DT	1
+all/DT Democrats/NNPS (\w+)/VBP to/TO (\w+)/VB about/IN	1
+(\w+)/VB to/TO (\w+)/VB all/PDT	1
+(\w+)/VB and/CC (\w+)/VB when/WRB he/PRP	5
+stick/VB around/RP to/TO (\w+)/VB and/CC (\w+)/VB have/VBP suffered/VBN	1
+(\w+)/VBP away/RP such/JJ assets/NNS can/MD (\w+)/VB advantage/NN	1
+(\w+)/VB and/CC then/RB (\w+)/VB ./. .../:	1
+road/NN and/CC (\w+)/VB back/RB and/CC (\w+)/VB on/IN nice/JJ run/VBP	1
+I/PRP used/VBD to/TO (\w+)/VB them/PRP salads/NNS to/TO (\w+)/VB	1
+scheduled/VBN to/TO (\w+)/VB at/IN 3:30/CD p.m./RB and/CC (\w+)/VB	3
+while/IN teams/NNS (\w+)/VB out/RP their/PRP$ rosters/NNS and/CC (\w+)/VB their/PRP$ coffers/NNS	2
+(\w+)/VB with/IN Rosh/NNP Hashana/NNP and/CC (\w+)/VB with/IN Yom/NNP	2
+Jamaicans/NNP began/VBD to/TO (\w+)/VB themselves/PRP and/CC (\w+)/VB	1
+Movies/NNS (\w+)/VBP and/CC (\w+)/VBP	3
+,/, people/NNS (\w+)/VB and/CC (\w+)/VB ,/, everyone/NN has/VBZ	1
+to/TO (\w+)/VB rights/NNS to/TO (\w+)/VB	2
+reputation/NN to/TO (\w+)/VB conventionally/RB than/IN to/TO (\w+)/VB unconventionally/RB ./. "/''	1
+would/MD (\w+)/VBN and/CC (\w+)/VBN ,/, his/PRP$	1
+gangs/NNS to/TO (\w+)/VB or/CC (\w+)/VB crack/NN ./.	1
+to/TO (\w+)/VB or/CC (\w+)/VB the/DT income/NN	1
+(\w+)/VB '/'' and/CC '/`` (\w+)/VB '/'' methods/NNS are/VBP	1
+Americans/NNPS (\w+)/VB and/CC (\w+)/VB is/VBZ expected/VBN	1
+rather/RB than/IN (\w+)/VB out/RP to/TO (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB even/RB though/IN	1
+thing/NN to/TO (\w+)/VB when/WRB school/NN districts/NNS (\w+)/VBP up/RP millions/NNS	1
+has/VBZ seen/VBN conquerors/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+the/DT singer/NN will/MD (\w+)/VB the/DT witness/NN stand/VBP to/TO (\w+)/VB his/PRP$ account/NN	1
+(\w+)/VB them/PRP or/CC we/PRP can/MD (\w+)/VB	2
+world/NN does/VBZ not/RB (\w+)/VB and/CC (\w+)/VB with/IN	1
+€/JJ ™/JJ t/NN (\w+)/VB criminals/NNS an/DT opportunity/NN to/TO (\w+)/VB advantage/NN	1
+may/MD eventually/RB (\w+)/VB companies/NNS that/WDT (\w+)/VBP products/NNS	1
+``/`` To/TO (\w+)/VB down/RP the/DT field/NN and/CC (\w+)/VB up/RB short/RB	2
+can/MD (\w+)/VB or/CC (\w+)/VB someone/NN 's/POS decisions/NNS	1
+(\w+)/VB up/RP ,/, (\w+)/VB a/DT	2
+Cars/NNS would/MD (\w+)/VB on/IN Metropolitan/NNP and/CC (\w+)/VB on/IN	1
+flat/JJ in/IN 2008/CD (\w+)/VB or/CC (\w+)/VB 5/CD	1
+you/PRP (\w+)/VB or/CC (\w+)/VB a/DT stock/NN	4
+to/TO (\w+)/VB or/CC (\w+)/VB that/IN the/DT	1
+Not/RB many/JJ people/NNS (\w+)/VB old/JJ buildings/NNS and/CC (\w+)/VB	1
+to/TO (\w+)/VB and/CC (\w+)/VB when/WRB he/PRP	4
+institutional/JJ investors/NNS who/WP (\w+)/VBP or/CC (\w+)/VBP initial/JJ public/JJ offerings/NNS	1
+(\w+)/VB their/PRP$ efforts/NNS to/TO (\w+)/VB	1
+not/RB always/RB (\w+)/VB or/CC (\w+)/VB	1
+we/PRP (\w+)/VBP money/NN ,/, but/CC we/PRP (\w+)/VBP	1
+we/PRP (\w+)/VBP ,/, sometimes/RB we/PRP (\w+)/VBP	1
+and/CC easy/JJ to/TO (\w+)/VB ,/, (\w+)/VB	1

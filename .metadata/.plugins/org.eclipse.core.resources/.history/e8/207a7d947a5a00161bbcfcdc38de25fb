@@ -1,0 +1,36 @@
+'''
+Created on Aug 4, 2016
+
+@author: peter
+'''
+import argparse
+
+import os
+import sys
+from anton.feature_extraction.base import FeatureCategory
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), os.pardir, os.pardir))
+
+from anton.eval import eval
+
+def main():
+    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser.add_argument("--extract_features", dest="extract_features", type=int, nargs='+',
+                    help="list of feature categories to extract. possible categories are: 1, 2, ..., 9")
+    parser.add_argument("--classify_features", dest="classify_features", type=int, nargs='+',
+                    help="list of feature categories to use for classification. possible categories are: 1, 2, ..., 9")
+    
+    args = parser.parse_args()
+    
+    extract_features = args.extract_features
+    
+    feature_categories = set()
+    
+    for feature_category_id in extract_features:
+        feature_categories.add(FeatureCategory(feature_category_id)) 
+    
+    
+    
+if __name__ == "__main__":
+    
+    main() 

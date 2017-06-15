@@ -1,0 +1,31 @@
+'s/POS health/NN problems/NNS (\w+)/VBP caused/VBN him/PRP to/TO (\w+)/VB 17/CD	1
+traders/NNS (\w+)/VBP and/CC (\w+)/VBP New/NNP	1
+to/TO (\w+)/VB and/CC not/RB (\w+)/VBP	5
+to/TO (\w+)/VB or/CC (\w+)/VB any/DT property/NN	1
+``/`` They/PRP (\w+)/VBP to/TO (\w+)/VB the/DT fact/NN	1
+,/, they/PRP (\w+)/VB their/PRP$ SUV/NN and/CC (\w+)/VB a/DT pickup/NN truck/NN	1
+Game/NN (\w+)/VBP if/IN he/PRP decides/VBZ to/TO (\w+)/VB pitching/NN	1
+listings/NNS to/TO (\w+)/VB ,/, (\w+)/VB	1
+will/MD (\w+)/VB and/CC (\w+)/VBP	6
+the/DT students/NNS who/WP (\w+)/VBP you/PRP or/CC (\w+)/VBP you/PRP	1
+are/VBP going/VBG to/TO (\w+)/VB Oak/NNP ,/, they/PRP (\w+)/VBP	5
+,/, deadlines/NNS (\w+)/VBP been/VBN missed/VBN they/PRP always/RB (\w+)/VBP ,/, "/'' he/PRP	1
+will/MD (\w+)/VB or/CC (\w+)/VB against/IN the/DT	1
+tyrants/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, and/CC	1
+people/NNS can/MD (\w+)/VB or/CC (\w+)/VB in/IN groups/NNS	1
+(\w+)/VBP and/CC (\w+)/VBP but/CC the/DT will/NN	1
+for/IN (\w+)/VB or/CC (\w+)/VB are/VBP	1
+back-testing/NN ,/, (\w+)/VBP working/VBG after/IN we/PRP (\w+)/VBP to/TO follow/VB them/PRP	1
+(\w+)/VB or/CC (\w+)/VB 10/CD	8
+the/DT EC/NNP to/TO (\w+)/VB to/TO (\w+)/VB further/JJ licence/NN	1
+and/CC (\w+)/VB small/JJ gifts/NNS to/TO (\w+)/VB to/TO them/PRP	1
+(\w+)/VBP to/TO (\w+)/VB excuses/NNS	1
+he/PRP would/MD (\w+)/VB taxes/NNS and/CC (\w+)/VB	1
+(\w+)/VB down/RP barriers/NNS that/WDT (\w+)/VBP media/NNS companies/NNS from/IN	1
+to/TO (\w+)/VB high-dividend/JJ stocks/NNS that/IN others/NNS (\w+)/VBP in/IN	1
+wo/MD n't/RB (\w+)/VB or/CC (\w+)/VB the/DT drainage/NN	1
+could/MD well/RB (\w+)/VB or/CC (\w+)/VB	1
+headset/NN and/CC then/RB (\w+)/VB pairing/VBG only/RB to/TO (\w+)/VB out/RP that/IN	1
+will/MD (\w+)/VB in/IN cold/JJ weather/NN and/CC (\w+)/VB in/IN	1
+measure/NN will/MD (\w+)/VB or/CC (\w+)/VB based/VBN on/IN the/DT	1
+(\w+)/VBP to/TO face/VB reality/NN and/CC (\w+)/VB the/DT	1

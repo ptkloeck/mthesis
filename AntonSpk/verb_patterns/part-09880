@@ -1,0 +1,24 @@
+did/VBD (\w+)/VBP ,/, we/PRP tried/VBD to/TO (\w+)/VB a/DT	1
+did/VBD (\w+)/VB the/DT bar/NN and/CC (\w+)/VB	1
+it/PRP will/MD be/VB (\w+)/VB or/CC (\w+)/VB ,/,	1
+;/: (\w+)/VB the/DT guitar/NN ,/, (\w+)/VB the/DT	1
+(\w+)/VB to/TO (\w+)/VB work/NN ,/,	1
+known/VBN to/TO (\w+)/VB and/CC (\w+)/VB cars/NNS	1
+to/TO (\w+)/VB and/CC (\w+)/VB people/NNS because/IN	2
+much/RB too/RB (\w+)/VBN and/CC (\w+)/VBP ,/, "/'' said/VBD	1
+can/MD (\w+)/VB or/CC (\w+)/VB its/PRP$ stage/NN ,/,	2
+time/NN could/MD (\w+)/VB or/CC (\w+)/VB the/DT chance/NN to/TO	1
+jobs/NNS that/WDT (\w+)/VBP ,/, some/DT jobs/NNS that/WDT (\w+)/VBP ./. "/''	1
+always/RB (\w+)/VBP ways/NNS to/TO (\w+)/VB	1
+which/WDT can/MD (\w+)/VB or/CC (\w+)/VB a/DT mission/NN ,/,	1
+will/MD (\w+)/VB and/CC one/CD that/WDT will/MD (\w+)/VB	1
+(\w+)/VBP is/VBZ going/VBG to/TO (\w+)/VB the/DT best/JJS	1
+whether/IN to/TO (\w+)/VB here/RB or/CC (\w+)/VB somewhere/RB	1
+(\w+)/VB The/DT Chronicle/NNP and/CC (\w+)/VB Mr./NNP Hearst/NNP	1
+sofa/NN can/MD (\w+)/VB or/CC (\w+)/VB a/DT place/NN	1
+offices/NNS will/MD (\w+)/VB and/CC (\w+)/VB with/IN them/PRP ./.	1
+had/VBD said/VBN that/IN (\w+)/VB or/CC (\w+)/VB ,/, this/DT	1
+(\w+)/VBP in/IN that/DT store/NN never/RB (\w+)/VBN out/IN carrying/VBG packages/NNS	1
+either/DT (\w+)/VB at/IN current/JJ levels/NNS or/CC (\w+)/VB lower/JJR ./.	1
+(\w+)/VB or/CC (\w+)/VB an/DT illiquid/JJ stock/NN	1
+looking/VBG to/TO (\w+)/VB players/NNS and/CC (\w+)/VB some/DT in/IN this/DT	1

@@ -1,0 +1,30 @@
+this/DT and/CC (\w+)/VB or/CC (\w+)/VB ./.	1
+his/PRP$ match/NN ,/, (\w+)/VB ,/, (\w+)/VB or/CC	1
+specifics/NNS that/WDT (\w+)/VBP or/CC (\w+)/VBP a/DT product/NN	1
+(\w+)/VB former/JJ enemy/NN countries/NNS ,/, (\w+)/VB threatening/VBG enemy/NN leaders/NNS	1
+they/PRP (\w+)/VB or/CC (\w+)/VB ./. "/''	1
+,/, â/VB they/PRP (\w+)/VB ,/, â/VB How/WRB (\w+)/VBP	1
+characters/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN a/DT	1
+that/IN you/PRP (\w+)/VBP life/NN and/CC you/PRP (\w+)/VBP it/PRP	1
+whether/IN you/PRP (\w+)/VBP or/CC (\w+)/VBP _/NNP it/PRP	1
+will/MD (\w+)/VB a/DT war/NN to/TO (\w+)/VB an/DT	1
+can/MD (\w+)/VB and/CC (\w+)/VBP the/DT door/NN	1
+would/MD (\w+)/VB to/TO (\w+)/VB the/DT competition/NN	1
+can/MD (\w+)/VB or/CC (\w+)/VB the/DT panels/NNS	1
+Club/NNP (\w+)/VBP to/TO (\w+)/VB ./.	1
+million/CD farmers/NNS (\w+)/VBN and/CC (\w+)/VB to/TO cities/NNS	1
+fever/NN (\w+)/VBP and/CC (\w+)/VBP	1
+of/IN hues/NNS may/MD (\w+)/VB and/CC (\w+)/VB ,/, but/CC	2
+(\w+)/VBP and/CC governments/NNS (\w+)/VBP	1
+to/TO (\w+)/VB ,/, (\w+)/VB down/RP	4
+take/VB decisions/NNS that/WDT (\w+)/VB risk/NN ,/, not/RB (\w+)/VB	1
+,/, foreign-owned/JJ businesses/NNS (\w+)/VB ,/, make/VB and/CC (\w+)/VB goods/NNS	1
+did/VBD helped/VBD (\w+)/VB or/CC (\w+)/VB the/DT	1
+to/TO (\w+)/VB dreaming/VBG and/CC (\w+)/VB flying/VBG ,/,	1
+contest/NN with/IN Auburn/NNP (\w+)/VBP or/CC (\w+)/VBP ,/, West/NNP	1
+have/VB to/TO (\w+)/VB out/RP and/CC I/PRP (\w+)/VBP	1
+Promoters/VBZ (\w+)/VB from/IN Europe/NNP and/CC (\w+)/VB	1
+acquisitions/NNS (\w+)/VBP them/PRP more/JJR locations/NNS to/TO (\w+)/VB advantage/NN	1
+fasts/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, master/NN	1
+will/MD not/RB (\w+)/VB or/CC (\w+)/VB with/IN	2
+would/MD (\w+)/VB ,/, I/PRP could/MD (\w+)/VB out/RP there/RB and/CC	1

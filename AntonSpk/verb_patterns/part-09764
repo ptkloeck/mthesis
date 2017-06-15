@@ -1,0 +1,33 @@
+votes/NNS :/: (\w+)/VB ,/, (\w+)/VB	1
+people/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, "/'' says/VBZ	1
+rewards/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP with/IN your/PRP$	1
+people/NNS who/WP will/MD (\w+)/VB and/CC (\w+)/VB throughout/IN the/DT	1
+We/PRP 'll/MD (\w+)/VB 50/CD before/IN we/PRP (\w+)/VBP 50/CD ./. "/''	2
+59,709/CD ,/, (\w+)/VB or/CC (\w+)/VB a/DT few/JJ coaches/NNS	1
+&mdash;/NN can/MD (\w+)/VB or/CC (\w+)/VB your/PRP$	1
+attitudes/NNS that/WDT (\w+)/VBP for/IN --/: or/CC (\w+)/VB --/: a/DT	1
+Sudan/NNP to/TO (\w+)/VB or/CC (\w+)/VB "/``	1
+(\w+)/VB "/`` The/DT Goose/NNP "/'' (\w+)/VB a/DT sweat/NN on/IN	1
+they/PRP may/MD (\w+)/VB ,/, where/WRB they/PRP may/MD (\w+)/VB and/CC what/WP they/PRP	1
+then/RB to/TO (\w+)/VB him/PRP around/RB will/MD (\w+)/VB	1
+(\w+)/VB or/CC (\w+)/VB his/PRP$ side/NN 's/POS	1
+suggested/VBD investors/NNS (\w+)/VB G.M./NNP stock/NN to/TO (\w+)/VB that/DT of/IN its/PRP$	1
+Lilly/NNP Endowments/NNP assets/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN the/DT companys/JJ	1
+on/IN whether/IN investors/NNS (\w+)/VBP or/CC (\w+)/VBP	2
+predicted/VBN will/MD (\w+)/VB and/CC (\w+)/VB	1
+want/VB to/TO (\w+)/VB Democrats/NNS any/DT ammunition/NN to/TO (\w+)/VB	1
+(\w+)/VB with/IN them/PRP and/CC (\w+)/VB instead/RB with/IN the/DT	1
+(\w+)/VB believing/VBG the/DT excuses/NNS and/CC (\w+)/VB	1
+to/TO (\w+)/VB and/CC the/DT other/JJ to/TO (\w+)/VB ,/,	1
+it/PRP intend/VB to/TO (\w+)/VB or/CC (\w+)/VB its/PRP$ stake/NN	1
+to/TO (\w+)/VB unsafe/JJ abortion/NN is/VBZ to/TO (\w+)/VB	2
+that/WDT ,/, (\w+)/VBP or/CC (\w+)/VBP against/IN	1
+(\w+)/VB and/CC (\w+)/VB more/JJR	8
+Pearl/NNP (\w+)/VBP and/CC (\w+)/VBP the/DT	1
+supposed/VBN to/TO (\w+)/VB and/CC you/PRP 'll/MD (\w+)/VB if/IN	1
+(\w+)/VBP as/IN the/DT Mets/NNPS (\w+)/VBP ?/.	1
+(\w+)/VB and/CC (\w+)/VB and/CC he/PRP	1
+Indies/NNP cricket/NN (\w+)/VB and/CC (\w+)/VB	1
+,/, to/TO (\w+)/VB the/DT Chronicle/NNP and/CC (\w+)/VB or/CC	1
+miles/NNS apart/RB --/: (\w+)/VB or/CC (\w+)/VB	1
+will/MD (\w+)/VB up/RP the/DT leaderboard/NN and/CC (\w+)/VB back/RB ./.	1

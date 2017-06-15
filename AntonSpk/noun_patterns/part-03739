@@ -1,0 +1,98 @@
+for/IN (\w+)/NN ,/, (\w+)/NN ,/, center/NN	1
+17-year-old/JJ (\w+)/NN or/CC (\w+)/NN say/NN	1
+be/VB between/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN they/PRP knew/VBD exactly/RB	1
+Paul/NNP loved/VBD his/PRP$ (\w+)/NN ,/, never/RB liked/VBD his/PRP$ (\w+)/NN and/CC hates/VBZ	1
+,/, accompanying/JJ (\w+)/NN and/CC the/DT (\w+)/NN itself/PRP ,/, MS/NNP	1
+older/JJR (\w+)/NN and/CC his/PRP$ younger/JJR (\w+)/NN	1
+our/PRP$ rich/JJ (\w+)/NNS and/CC (\w+)/NNS which/WDT we/PRP cherish/VBP	1
+(\w+)/NN ,/, Conrado/NNP ;/: (\w+)/NN	1
+his/PRP$ baby/JJ (\w+)/NN and/CC (\w+)/NN ,/, he/PRP had/VBD	1
+walk/VB (\w+)/NN and/CC (\w+)/NN ,/,	1
+than/IN generate/VB (\w+)/NN ,/, Cuba/NNP rations/VBZ (\w+)/NN	1
+a/DT sun-soaked/JJ (\w+)/NN that/WDT turned/VBD brisk/JJ at/IN (\w+)/NN	1
+County/NNP --/: A/DT (\w+)/NN and/CC a/DT (\w+)/NN died/VBD	1
+,/, her/PRP$ (\w+)/NN and/CC her/PRP$ adopted/JJ (\w+)/NN	1
+on/IN the/DT (\w+)/NN and/CC one/CD on/IN the/DT (\w+)/NN ,/, were/VBD 200-tent/JJ	1
+(\w+)/NN and/CC its/PRP$ cyclical/JJ (\w+)/NN is/VBZ likely/JJ	1
+Marshall/NNP ,/, (\w+)/NN and/CC (\w+)/NN of/IN Darius/NNP	1
+(\w+)/NN ,/, 11-year-old/JJ (\w+)/NN and/CC 5-year-old/JJ boy/NN	1
+10-year-old/JJ (\w+)/NN and/CC three-year-old/JJ (\w+)/NN were/VBD	2
+Expo/NNP celebrates/VBZ (\w+)/NN and/CC (\w+)/NN	1
+got/VBN an/DT (\w+)/NN to/TO the/DT main/JJ (\w+)/NN :/: do/VBP they/PRP	1
+a/DT (\w+)/NN or/CC (\w+)/NN has/VBZ taken/VBN over/IN	1
+off/IN a/DT (\w+)/NN of/IN 5,956.64/CD and/CC a/DT (\w+)/NN of/IN 5,879.08/CD	2
+get/VBP a/DT younger/JJR (\w+)/NN or/CC (\w+)/NN	1
+(\w+)/NN to/TO (\w+)/NN ,/, encourages/VBZ	1
+(\w+)/NN the/DT (\w+)/NN ,/, each/DT	1
+But/CC like/IN a/DT (\w+)/NN and/CC (\w+)/NN headed/VBN for/IN an/DT	4
+the/DT (\w+)/NN with/IN her/PRP$ (\w+)/NN 's/POS sperm/NN	1
+searched/VBD my/PRP$ (\w+)/NN 's/POS boyfriend/NN and/CC my/PRP$ (\w+)/NN	1
+her/PRP$ eight-year-old/NN (\w+)/NN and/CC nine-year-old/JJ (\w+)/NN	1
+for/IN the/DT (\w+)/NN argued/VBD that/IN the/DT (\w+)/NN	1
+for/IN a/DT (\w+)/NN who/WP robbed/VBN a/DT (\w+)/NN at/IN gunpoint/NN	2
+(\w+)/NN ,/, meet/VB the/DT (\w+)/NN of/IN	1
+p.m./NN discovering/VBG (\w+)/NNS and/CC (\w+)/NNS along/IN the/DT	1
+integrated/VBN (\w+)/NN and/CC (\w+)/NN solution/NN	5
+pushes/VBZ the/DT (\w+)/NN from/IN the/DT (\w+)/NN ,/,	1
+ranked/VBD worse/JJR on/IN (\w+)/NN and/CC better/JJR on/IN (\w+)/NN than/IN the/DT opponents/NNS	1
+The/DT (\w+)/NN ,/, (\w+)/NN and/CC daughter/NN have/VBP	1
+sat/VBD with/IN their/PRP$ (\w+)/NN in/IN their/PRP$ (\w+)/NN 's/POS darkened/JJ ,/,	1
+"/`` small-town/JJ (\w+)/NN versus/IN big-city/JJ (\w+)/NN "/'' dichotomy/NN ./.	1
+'s/VBZ the/DT (\w+)/NN to/TO the/DT (\w+)/NN you/PRP	1
+at/IN any/DT (\w+)/NN ,/, (\w+)/NN	1
+As/IN his/PRP$ old/JJ (\w+)/NN and/CC former/JJ (\w+)/NN Muhammad/NNP Ali/NNP	1
+firm/NN by/IN (\w+)/NN and/CC by/IN (\w+)/NN	1
+a/DT second/JJ (\w+)/NN is/VBZ 21/CD and/CC a/DT (\w+)/NN is/VBZ	2
+an/DT (\w+)/NN in/IN dopamine/NN and/CC a/DT (\w+)/NN in/IN serotonin/NN ./.	1
+jobs/NNS for/IN his/PRP$ (\w+)/NN and/CC (\w+)/NN	2
+(\w+)/NN and/CC (\w+)/NN rates/NNS varying/VBN	1
+annual/JJ (\w+)/NN to/TO the/DT linguists/NNS '/POS (\w+)/NN ,/,	1
+a/DT (\w+)/NN ,/, not/RB an/DT (\w+)/NN to/TO the/DT investigation/NN	1
+the/DT (\w+)/NN and/CC (\w+)/NN killdeer/NN shrieked/VBD ,/,	1
+low-key/JJ (\w+)/NN and/CC its/PRP$ fatal/JJ (\w+)/NN ,/,	1
+face/VBP problems/NNS like/IN (\w+)/NN bugs/NNS and/CC incompatible/JJ (\w+)/NN ,/, going/VBG to/TO	1
+product/NN information/NN across/IN (\w+)/NN and/CC (\w+)/NN chains/NNS	1
+dim/JJ _/JJ (\w+)/NN and/CC (\w+)/NN _/NNS	1
+sooner/RB the/DT (\w+)/NN discovers/IN the/DT (\w+)/NN 's/POS	2
+Shinn/NNP ,/, (\w+)/NN Emily/NNP Schockmel/NNP and/CC (\w+)/NN Charles/NNP Shinn/NNP in/IN	1
+my/PRP$ (\w+)/NN )/NN loved/VBD (/VBG my/PRP$ (\w+)/NN	1
+(\w+)/NN and/CC bikini/NN (\w+)/NN helps/VBZ camouflage/VBG the/DT	1
+to/TO tell/VB the/DT (\w+)/NN about/IN the/DT (\w+)/NN she/PRP never/RB knew/VBD	1
+(\w+)/NN or/CC a/DT (\w+)/NN does/VBZ could/MD	1
+in/IN split/NN (\w+)/NN and/CC (\w+)/NN sessions/NNS	1
+The/DT Economist/NN (\w+)/NN to/TO (\w+)/NN and/CC	1
+(\w+)/NN scores/NNS more/JJR than/IN the/DT (\w+)/NN	1
+(\w+)/NN and/CC (\w+)/NN whose/WP$ marriage/NNS	2
+,/, (\w+)/NN and/CC little/JJ (\w+)/NN	1
+trek/NN from/IN the/DT (\w+)/NN of/IN Alaska/NNP to/TO the/DT (\w+)/NN of/IN Argentina/NNP isn/NNP	1
+short/JJ of/IN (\w+)/NN to/TO meet/VB their/PRP$ (\w+)/NN	1
+from/IN signing/VBG a/DT (\w+)/NN treaty/NN ending/VBG the/DT (\w+)/NN ./.	1
+the/DT (\w+)/NN had/VBD forced/VBN his/PRP$ (\w+)/NN into/IN sex/NN ./.	1
+had/VBD chased/VBD a/DT (\w+)/NN and/CC a/DT (\w+)/NN ./.	1
+disappeared/VBN and/CC the/DT (\w+)/NN and/CC (\w+)/NN	1
+more/JJR like/IN his/PRP$ (\w+)/NN than/IN his/PRP$ (\w+)/NN	2
+as/IN surging/JJ consumer/NN (\w+)/NN outstripped/VBD the/DT (\w+)/NN of/IN electricity/NN	1
+in/IN (\w+)/NN and/CC bar/NN in/IN the/DT (\w+)/NN ,/, separated/VBN by/IN	1
+perhaps/RB only/RB a/DT (\w+)/NN can/MD manage/VB a/DT (\w+)/NN	1
+from/IN the/DT (\w+)/NN and/CC the/DT (\w+)/NN ,/, from/IN academia/NN	1
+(\w+)/NN and/CC (\w+)/NN is/VBZ installed/VBN	3
+report/NN of/IN a/DT (\w+)/NN and/CC a/DT (\w+)/NN	1
+the/DT (\w+)/NN and/CC presumptive/NN (\w+)/NN ./.	1
+taken/VBN his/PRP$ (\w+)/NN and/CC (\w+)/NN and/CC dozens/NNS of/IN	1
+and/CC another/DT (\w+)/NN beat/VBD and/CC raped/VBD the/DT (\w+)/NN they/PRP tried/VBD to/TO	1
+and/CC (\w+)/NN and/CC (\w+)/NN design/NN centers/NNS	1
+without/IN a/DT Soviet/JJ (\w+)/NN to/TO the/DT German/JJ (\w+)/NN ,/,	1
+she/PRP took/VBD any/DT (\w+)/NN or/CC (\w+)/NN cards/NNS with/IN her/PRP	1
+(\w+)/NN to/TO (\w+)/NN and/CC include/VB	1
+gender/NN and/CC (\w+)/NN and/CC (\w+)/NN and/CC order/NN	1
+of/IN limited/JJ (\w+)/NN and/CC ferocious/JJ (\w+)/NN from/IN	1
+between/IN (\w+)/NN and/CC (\w+)/NN ,/, "/'' Li/NNP	1
+and/CC the/DT (\w+)/NN and/CC (\w+)/NN suck/VBP as/RB	1
+neither/CC (\w+)/NN nor/CC (\w+)/NN makes/VBZ	1
+disengagement/JJ plan/NN ,/, (\w+)/NN and/CC (\w+)/NN are/VBP pitted/VBN in/IN	1
+(\w+)/NN and/CC Salvadoran/JJ (\w+)/NN ,/,	2
+,/, and/CC my/PRP$ (\w+)/NN ,/, (\w+)/NN	2
+like/IN (\w+)/NN and/CC (\w+)/NN ,/, their/PRP$	1
+,/, stepfather/NN ,/, (\w+)/NN and/CC (\w+)/NN to/TO be/VB	1
+be/VB a/DT (\w+)/NN and/CC a/DT (\w+)/NN to/TO them/PRP all/DT	1
+as/IN each/DT successive/JJ (\w+)/NN takes/VBZ his/PRP$ turn/NN the/DT (\w+)/NN is/VBZ increasingly/RB seen/VBN	1

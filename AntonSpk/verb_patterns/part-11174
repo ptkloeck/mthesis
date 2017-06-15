@@ -1,0 +1,50 @@
+fair/JJ chance/NN to/TO (\w+)/VB or/CC (\w+)/VB ./.	1
+_/NNP ``/`` (\w+)/VB ,/, (\w+)/VB or/CC	1
+want/VB to/TO (\w+)/VB what/WP China/NNP wants/VBZ to/TO (\w+)/VB ./.	2
+real-estate/NN projects/NNS (\w+)/VB rather/RB than/IN (\w+)/VB	1
+with/IN power/NN to/TO (\w+)/VB ,/, (\w+)/VB	2
+(\w+)/VB advice/NN than/IN to/TO (\w+)/VB it/PRP yourself/PRP	1
+we/PRP (\w+)/VBP to/TO (\w+)/VB "/'' on/IN the/DT	1
+who/WP (\w+)/VB —/NNS or/CC (\w+)/VB —/NNS through/IN	1
+their/PRP$ sons/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN Marine/NNP	1
+his/PRP$ pitch/NN location/NN (\w+)/VBP and/CC (\w+)/VBP	1
+they/PRP (\w+)/VBP the/DT lead/NN and/CC (\w+)/VBP	1
+campaigns/NNS to/TO (\w+)/VB federal/JJ regulation/NN ,/, (\w+)/VB patent/NN protections/NNS	1
+when/WRB can/MD we/PRP (\w+)/VB dreaming/VBG and/CC (\w+)/VB buying/VBG true/JJ alt-energy/JJ	1
+sign/VB autographs/NNS ,/, (\w+)/VB pictures/NNS and/CC (\w+)/VB out/RP hugs/NNS	1
+(\w+)/VBP to/TO (\w+)/VB common/JJ civil/JJ code/NN	1
+Cooper/NNP used/VBD to/TO (\w+)/VB some/DT and/CC (\w+)/VB some/DT ,/, so/CC	1
+Pakistan/NNP Cricket/NNP Board/NNP (\w+)/VBP maturity/NN as/IN they/PRP (\w+)/VBP	1
+44,000/CD people/NNS ,/, (\w+)/VB or/CC (\w+)/VB several/JJ hundred/CD	1
+also/RB (\w+)/VB counties/NNS the/DT authority/NN to/TO (\w+)/VB a/DT	1
+to/TO (\w+)/VB or/CC (\w+)/VB and/CC can/MD	1
+definition/NN ,/, (\w+)/VBP or/CC (\w+)/VBP ,/,	1
+smarter/RBR ,/, (\w+)/VB doors/NNS and/CC (\w+)/VB	1
+(\w+)/VB on/IN April/NNP 28/CD and/CC (\w+)/VB on/IN October/NNP 10/CD	1
+cost/VBD to/TO (\w+)/VB and/CC (\w+)/VB a/DT 2,550-square-foot/JJ	1
+,/, (\w+)/VB or/CC (\w+)/VB ,/, and/CC LSU/NNP	1
+and/CC nothing/NN to/TO (\w+)/VB ,/, and/CC nothing/NN to/TO (\w+)/VB to/TO anybody/NN ./.	2
+four/CD (\w+)/VBP or/CC (\w+)/VBP ,/, they/PRP will/MD	1
+get/VB better/RBR ,/, (\w+)/VB and/CC (\w+)/VB in/IN this/DT	1
+institutional/JJ investors/NNS to/TO (\w+)/VB and/CC (\w+)/VB over-the-counter/JJ	1
+who/WP (\w+)/VBP classes/NNS in/IN September/NNP often/RB (\w+)/VBP	1
+will/MD (\w+)/VB two/CD workout/NN days/NNS to/TO (\w+)/VB	1
+can/MD (\w+)/VB or/CC (\w+)/VB Web/NNP sites/NNS	3
+you/PRP can/MD (\w+)/VB and/CC (\w+)/VB recording/NN at/IN any/DT	1
+period/NN will/MD (\w+)/VB today/NN and/CC (\w+)/VB on/IN	1
+company/NN (\w+)/VBP and/CC (\w+)/VBP	1
+utility/NN 's/POS rates/NNS (\w+)/VBP and/CC (\w+)/VBP between/IN peak/JJ	1
+(\w+)/VB ,/, store/VB and/CC (\w+)/VB consumer/NN data/NNS ./.	3
+the/DT toll/NN was/VBD (\w+)/VBN to/TO (\w+)/VB :/:	1
+game/NN wo/MD n't/RB (\w+)/VB and/CC (\w+)/VB	1
+managers/NNS (\w+)/VBP and/CC (\w+)/VBP but/CC we/PRP have/VBP	2
+But/CC (\w+)/VB him/PRP or/CC (\w+)/VB him/PRP ,/, Mason/NNP	1
+that/WDT (\w+)/VBP rather/RB than/IN (\w+)/VBP	1
+,/, let/VB 's/PRP (\w+)/VBP to/TO (\w+)/VB on/IN this/DT point/NN	1
+mood/NNS seems/VBZ to/TO (\w+)/VB and/CC (\w+)/VB with/IN the/DT number/NN	1
+you/PRP push/VBP to/TO (\w+)/VB and/CC pull/VB to/TO (\w+)/VB ,/, and/CC is/VBZ	1
+Rose/NNP Bowl/NNP would/MD (\w+)/VB or/CC (\w+)/VB	1
+(\w+)/VB pension/NN benefits/NNS if/IN they/PRP (\w+)/VBP	1
+.../: make/VB us/PRP (\w+)/VB Russia/NNP and/CC (\w+)/VB the/DT	1
+is/VBZ supposed/VBN to/TO (\w+)/VB and/CC (\w+)/VB	1
+They/PRP do/VBP n't/RB (\w+)/VB ,/, they/PRP (\w+)/VBP over/IN time/NN	1

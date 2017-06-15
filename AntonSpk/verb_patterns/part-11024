@@ -1,0 +1,30 @@
+I/PRP (\w+)/VBP ,/, I/PRP (\w+)/VBP to/TO think/VB about/IN	1
+(\w+)/VB and/CC (\w+)/VB your/PRP$ home/NN --/:	1
+door/NN ,/, (\w+)/VBP and/CC (\w+)/VBP	1
+Characters/NNS (\w+)/VBP ,/, (\w+)/VBP	1
+they/PRP (\w+)/VBP ,/, and/CC (\w+)/VBP every/DT	1
+you/PRP (\w+)/VB it/PRP or/CC (\w+)/VB it/PRP on/IN a/DT	1
+'s/POS just/RB (\w+)/VBP to/TO (\w+)/VB	1
+Companies/NNS like/IN Dell/NNP (\w+)/VBP and/CC (\w+)/VBP every/DT other/JJ	1
+presidents/NNS (\w+)/VBP and/CC (\w+)/VBP	10
+swerved/VBD to/TO (\w+)/VB the/DT rolling/JJ truck/NN and/CC (\w+)/VB a/DT guard/NN rail/NN	1
+traditional/JJ commands/NNS to/TO (\w+)/VB ,/, stay/VB ,/, and/CC (\w+)/VB	1
+help/VB you/PRP (\w+)/VB ,/, (\w+)/VB ,/, rent/VB or/CC	1
+Lastly/RB ,/, (\w+)/VB or/CC (\w+)/VB ,/, the/DT	1
+they/PRP see/VBP police/NNS (\w+)/VBP ,/, they/PRP (\w+)/VBP ,/, "/''	1
+,/, hope/VBP they/PRP (\w+)/VBP ,/, and/CC (\w+)/VBP	1
+you/PRP (\w+)/VB fat/NN and/CC sweetness/NN and/CC (\w+)/VB filler/NN	1
+(\w+)/VB your/PRP$ family/NN you/PRP (\w+)/VBP to/TO	1
+(\w+)/VB participants/NNS ideas/NNS to/TO (\w+)/VB back/RP	1
+consecutive/JJ losses/NNS to/TO (\w+)/VB last/JJ year/NN and/CC (\w+)/VB	1
+here/RB in/IN Tampa/NNP (\w+)/VB 2009/CD -/: (\w+)/VB ahead/RB ,/,	1
+(\w+)/VBP to/TO (\w+)/VB ,/, now/RB	2
+to/TO (\w+)/VB being/VBG a/DT milquetoast/NN and/CC (\w+)/VB treating/VBG Mr./NNP Netanyahu/NNP	1
+,/, he/PRP would/MD (\w+)/VB states/NNS to/TO (\w+)/VB increased/VBN	1
+each/DT diaper/NN (\w+)/VBP to/TO (\w+)/VB	1
+the/DT "/`` easy/JJ (\w+)/VBN ,/, easy/RB (\w+)/VB "/`` things/NNS --/:	1
+,/, (\w+)/VB your/PRP$ legs/NNS and/CC (\w+)/VB ./.	1
+(\w+)/VB its/PRP$ position/NN and/CC (\w+)/VB Euroatlantic/JJ ties/NNS ./.	1
+could/MD (\w+)/VB off/RP some/DT coins/NNS to/TO (\w+)/VB others/NNS	1
+easier/RBR to/TO (\w+)/VB or/CC (\w+)/VB	2
+(\w+)/VB with/IN print/NN and/CC not/RB (\w+)/VB onto/IN the/DT airwaves/NNS	1

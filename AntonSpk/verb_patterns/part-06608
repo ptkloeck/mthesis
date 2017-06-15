@@ -1,0 +1,22 @@
+to/TO (\w+)/VB for/IN another/DT to/TO (\w+)/VB	1
+literally/RB (\w+)/VB or/CC (\w+)/VB a/DT	2
+will/MD not/RB (\w+)/VB or/CC (\w+)/VB "/`` the/DT PS3/NNP	1
+makeup/NN colors/NNS (\w+)/VB and/CC (\w+)/VB	1
+rather/RB them/PRP (\w+)/VBP to/TO me/PRP and/CC we/PRP (\w+)/VBP	1
+and/CC I/PRP still/RB (\w+)/VBP when/WRB my/PRP$ shareholders/NNS (\w+)/VBP ./.	1
+decided/VBN whether/IN to/TO (\w+)/VB elsewhere/RB ,/, (\w+)/VB	2
+the/DT contracts/NNS can/MD (\w+)/VB or/CC (\w+)/VB in/IN a/DT day/NN	1
+to/TO (\w+)/VB the/DT bite/NN and/CC (\w+)/VB	1
+(\w+)/VBP insurance/NN and/CC (\w+)/VBP no/DT family/NN doctor/NN	1
+(\w+)/VB a/DT header/NN just/RB to/TO (\w+)/VB him/PRP a/DT	2
+(\w+)/VBP to/TO (\w+)/VB French/NNP	1
+want/VB to/TO (\w+)/VB stocks/NNS ,/, (\w+)/VB them/PRP bonds/NNS	1
+effectively/RB (\w+)/VB and/CC (\w+)/VB	1
+can/MD not/RB just/RB (\w+)/VB still/RB ,/, (\w+)/VB still/RB _/JJ	1
+to/TO (\w+)/VB ill-advised/JJ penalties/NNS and/CC to/TO (\w+)/VB away/RP the/DT puck/NN	1
+the/DT Rocky/NNP Mountains/NNPS (\w+)/VBP or/CC (\w+)/VBP at/IN PDX/NNP	1
+:/: "/`` I/PRP (\w+)/VB that/IN we/PRP (\w+)/VBP here/RB ,/,	1
+Car/NN types/NNS (\w+)/VBP and/CC (\w+)/VBP in/IN	2
+(\w+)/VBP the/DT light/NN (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB --/: it/PRP implies/VBZ	1
+to/TO him/PRP to/TO (\w+)/VB campaigning/NN and/CC (\w+)/VB governing/VBG ./. "/''	1

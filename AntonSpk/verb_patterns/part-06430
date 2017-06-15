@@ -1,0 +1,36 @@
+will/MD (\w+)/VB June/NNP 22/CD and/CC (\w+)/VB June/NNP	1
+help/VB you/PRP (\w+)/VB your/PRP$ financial/JJ return/NN and/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB races/NNS with/IN	1
+'s/VBZ very/RB (\w+)/VBN or/CC (\w+)/VBP ./.	1
+(/NNP (\w+)/VBP ital/JJ )/JJ splat/NN (/NNS (\w+)/VB ital/JJ )/NNS	1
+to/TO (\w+)/VB and/CC (\w+)/VB ,/, along/RB	1
+(\w+)/VBP and/CC (\w+)/VBP 28/CD feet/NNS limit/VBP	1
+to/TO (\w+)/VB future/JJ mine/NN disasters/NNS ,/, (\w+)/VBD 's/PRP	1
+activities/NNS will/MD (\w+)/VB at/IN 10/CD a.m./RB and/CC (\w+)/VB at/IN 6/CD	1
+,/, and/CC (\w+)/VB and/CC (\w+)/VB money/NN on/IN	1
+white/JJ (\w+)/VBP and/CC (\w+)/VBP	1
+does/VBZ is/VBZ (\w+)/VB or/CC (\w+)/VB	1
+usually/RB (\w+)/VBP musicals/NNS ,/, should/MD (\w+)/VB the/DT music/NN :/:	1
+those/DT who/WP (\w+)/VBP resources/NNS or/CC security/NN guards/NNS (\w+)/VBP not/RB been/VBN	2
+can/MD (\w+)/VB to/TO (\w+)/VB	41
+party/NN (\w+)/VBP and/CC (\w+)/VBP	1
+that/IN financial/JJ fashions/NNS (\w+)/VBP and/CC (\w+)/VBP ,/, but/CC the/DT	2
+book/NN you/PRP (\w+)/VBP to/TO put/VB down/RP but/CC (\w+)/VBP to/TO pick/VB	1
+,/, they/PRP can/MD (\w+)/VB and/CC (\w+)/VB	4
+you/PRP (\w+)/VBP it/PRP or/CC (\w+)/VBP it/PRP ,/, abstract/JJ	1
+,/, letting/VBG it/PRP (\w+)/VB and/CC (\w+)/VB between/IN pods/NNS of/IN	1
+descent/NN ,/, then/RB (\w+)/VB the/DT wings/NNS and/CC finally/RB (\w+)/VB	2
+(\w+)/VB you/PRP the/DT opportunity/NN to/TO (\w+)/VB control/NN	1
+an/DT inanimate/JJ object/NN (\w+)/VBN to/TO life/NN and/CC (\w+)/VB on/IN a/DT	1
+games/NNS ,/, (\w+)/VBP or/CC (\w+)/VBP ,/, over/RB	1
+(\w+)/VB partisanship/NN (\w+)/VB	1
+'ll/MD (\w+)/VB it/PRP ,/, you/PRP (\w+)/VBP it/PRP	1
+Their/PRP$ campaigns/NNS could/MD (\w+)/VB and/CC (\w+)/VB based/VBN	1
+welfare/NN rolls/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+(\w+)/VB something/NN they/PRP sometimes/RB (\w+)/VBP :/: a/DT touch/NN	1
+Motivation/NNP can/MD (\w+)/VB and/CC (\w+)/VB	1
+'re/VBP going/VBG to/TO (\w+)/VB nine/CD games/NNS and/CC then/RB (\w+)/VB	1
+which/WDT guests/NNS can/MD (\w+)/VB and/CC (\w+)/VB at/IN their/PRP$ leisure/NN	1
+€/JJ ™/JJ t/NN (\w+)/VB criminals/NNS an/DT opportunity/NN to/TO (\w+)/VB	1
+people/NNS to/TO (\w+)/VB and/CC (\w+)/VB stock/NN by/IN putting/VBG	1
+speeches/NNS (\w+)/VB and/CC (\w+)/VB the/DT film/NN making/VBG	1

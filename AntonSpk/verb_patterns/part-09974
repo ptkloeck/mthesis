@@ -1,0 +1,26 @@
+match/VBP ,/, (\w+)/VB and/CC (\w+)/VB orders/NNS ,/,	1
+sensor/NN to/TO (\w+)/VB and/CC (\w+)/VB more/RBR complex/JJ genetic/JJ	1
+can/MD (\w+)/VB to/TO the/DT gym/NN and/CC (\w+)/VB back/RP	1
+players/NNS to/TO (\w+)/VB and/CC (\w+)/VB items/NNS	1
+law/NN does/VBZ n't/RB (\w+)/VB the/DT EPA/NNP jurisdiction/NN to/TO (\w+)/VB further/JJ action/NN ./.	1
+we/PRP 'll/MD (\w+)/VB to/TO (\w+)/VB ./. ''/''	1
+,/, (\w+)/VB or/CC (\w+)/VB a/DT few/JJ bucks/NNS	2
+(\w+)/VB by/IN nine/CD ,/, and/CC (\w+)/VBP by/IN	1
+(\w+)/VB hospitals/NNS to/TO (\w+)/VB	1
+not/RB (\w+)/VB or/CC (\w+)/VB an/DT	1
+(\w+)/VB Adelphia/NNP ,/, then/RB (\w+)/VB part/NN of/IN	1
+trains/NNS (\w+)/VB and/CC (\w+)/VB air/NN	1
+(\w+)/VB laps/NNS ,/, (\w+)/VB cats/NNS and/CC	1
+they/PRP (\w+)/VB it/PRP back/RB and/CC (\w+)/VB me/PRP a/DT	1
+gasoline/NN inventories/NNS will/MD (\w+)/VB or/CC (\w+)/VB	1
+best/JJS years/NNS (\w+)/VB and/CC (\w+)/VB ?/.	1
+is/VBZ gong/VBG to/TO (\w+)/VB the/DT violence/NN and/CC (\w+)/VB the/DT chance/NN	1
+,/, which/WDT can/MD (\w+)/VB or/CC (\w+)/VB it/PRP in/IN	1
+have/VB him/PRP (\w+)/VB ,/, (\w+)/VB face/NN down/RP	1
+resulted/VBD (\w+)/VB and/CC (\w+)/VB the/DT show/NN	1
+survival/NN strategy/NN :/: (\w+)/VB economic/JJ gain/NN and/CC (\w+)/VB	1
+,/, (\w+)/VB and/CC (\w+)/VB content/NN	3
+will/MD (\w+)/VB from/IN Hollywood/NNP and/CC (\w+)/VB in/IN Kissimmee/NNP	1
+that/WDT can/MD (\w+)/VB or/CC (\w+)/VB the/DT final/JJ	1
+Flyer/NN (\w+)/VB and/CC (\w+)/VB the/DT head/NN	1
+have/VB limitations/NNS that/WDT (\w+)/VBP and/CC (\w+)/VBP ,/, depending/VBG	1

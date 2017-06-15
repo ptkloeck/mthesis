@@ -1,0 +1,27 @@
+dancer/NN one/CD will/MD (\w+)/VB or/CC (\w+)/VB	1
+wheel/NN chairs/VBZ (\w+)/VB and/CC (\w+)/VB and/CC	1
+market/NN to/TO (\w+)/VB his/PRP$ produce/NN and/CC (\w+)/VB some/DT basic/JJ	1
+(\w+)/VB and/CC (\w+)/VB in/IN intensity/NN and/CC	1
+aid/NN (\w+)/VBN to/TO (\w+)/VB	3
+he/PRP would/MD not/RB (\w+)/VB to/TO (\w+)/VB any/DT of/IN	2
+will/MD (\w+)/VB or/CC (\w+)/VB performance/NN stars/NNS ,/,	1
+The/DT meeting/NN will/MD (\w+)/VB at/IN 5:30/CD p.m./RB and/CC (\w+)/VB	1
+a/DT (/NN (\w+)/VBP ital/JJ )/JJ reasonable/JJ (/NNS (\w+)/VB ital/JJ )/JJ	2
+and/CC residents/NNS (\w+)/VBP and/CC (\w+)/VBP with/IN backpacks/NNS	1
+wooly/JJ creatures/NNS (\w+)/VBP together/RB and/CC (\w+)/VB	1
+(\w+)/VB in/IN cash/NN ,/, they/PRP (\w+)/VBP in/IN	1
+'s/VBZ better/JJR to/TO (\w+)/VB a/DT shot/NN than/IN to/TO (\w+)/VB a/DT	1
+(\w+)/VBP or/CC (\w+)/VBP ,/, Wellington/NNP said/VBD	1
+it/PRP would/MD n't/RB (\w+)/VB or/CC (\w+)/VB my/PRP$	1
+in/IN English/NNP to/TO (\w+)/VB and/CC (\w+)/VB	1
+(\w+)/VB and/CC (\w+)/VB opportunities/NNS that/WDT	1
+,/, (\w+)/VB or/CC (\w+)/VB the/DT complications/NNS	1
+win/VBP and/CC (\w+)/VBP a/DT fortune/NN but/CC seldom/RB (\w+)/VBP joy/NN	3
+were/VBD first/JJ to/TO (\w+)/VB and/CC last/VB to/TO (\w+)/VB the/DT	1
+international/JJ students/NNS that/WDT (\w+)/VBP here/RB (\w+)/VBP to/TO	1
+will/MD (\w+)/VB school/NN prayer/NN ,/, (\w+)/VB	1
+captain/NN if/IN they/PRP (\w+)/VBP ;/: no-one/VBP if/IN they/PRP (\w+)/VBP )/NNS ./.	1
+order/NN to/TO (\w+)/VB ,/, they/PRP must/MD first/RB (\w+)/VB up/RP	1
+more/JJR (\w+)/VB and/CC (\w+)/VB ,/, "/''	2
+(\w+)/VB or/CC (\w+)/VB the/DT present/JJ	2
+the/DT kids/NNS (\w+)/VB on/RP and/CC (\w+)/VB	1

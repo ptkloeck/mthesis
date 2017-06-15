@@ -1,0 +1,36 @@
+Those/DT players/NNS (\w+)/VBP and/CC then/RB (\w+)/VB	1
+snow/NN storms/NNS (\w+)/VBP and/CC (\w+)/VBP ,/,	1
+a/DT bit/NN (\w+)/VBD and/CC (\w+)/VBP	1
+may/MD (\w+)/VB to/TO (\w+)/VB but/CC	1
+counter/JJ )/NN ,/, (\w+)/VB and/CC (\w+)/VB 2,000/CD mutual/JJ	1
+nationals/NNS who/WP (\w+)/VBP United/NNP States/NNPS visas/NNS but/CC (\w+)/VBP	1
+we/PRP (\w+)/VBP on/RP than/IN (\w+)/VBP on/RP ,/,	1
+--/: (\w+)/VB or/CC (\w+)/VB --/: and/CC	1
+idols/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+investors/NNS to/TO (\w+)/VB gold/NN ,/, and/CC later/RB (\w+)/VB	1
+did/VBD (\w+)/VB the/DT rumor/NN and/CC (\w+)/VB (/NNS	1
+(\w+)/VB close/JJ games/NNS ,/, they/PRP (\w+)/VBP close/JJ games/NNS ./.	1
+that/IN one/PRP can/MD (\w+)/VB or/CC (\w+)/VB	2
+like/VB it/PRP but/CC (\w+)/VBP to/TO (\w+)/VB	1
+having/VBG Brandt/NNP (\w+)/VB ,/, rather/RB than/IN (\w+)/VBP ,/, to/TO thank/VB	1
+"/`` (\w+)/VB early/RB and/CC prepare/VB to/TO (\w+)/VB late/RB ,/,	1
+not/RB (\w+)/VB the/DT agency/NN to/TO (\w+)/VB	1
+'s/VBZ better/JJR to/TO (\w+)/VB or/CC (\w+)/VB during/IN the/DT seventh-inning/JJ	1
+the/DT workers/NNS not/RB (\w+)/VB ,/, that/IN they/PRP (\w+)/VB from/IN selling/VBG	1
+planning/VBG to/TO (\w+)/VB or/CC (\w+)/VB a/DT home/NN anytime/RB	1
+penalty/NN (\w+)/VBP could/MD (\w+)/VB proved/VBN costly/JJ for/IN	1
+hospitals/NNS (\w+)/VBP and/CC (\w+)/VBP	1
+a/DT lack/NN of/IN (\w+)/VB and/CC (\w+)/VB --/: that/WDT is/VBZ	1
+inviting/VBG home-seekers/NNS to/TO (\w+)/VB up/RP plots/NNS at/IN (\w+)/VB away/RP prices/NNS	1
+Bowls/NNP (\w+)/VBP and/CC (\w+)/VBP ,/, but/CC	2
+Confidence/NNP can/MD (\w+)/VB and/CC (\w+)/VB like/IN the/DT	1
+(\w+)/VBP and/CC (\w+)/VBP as/IN the/DT mystery/NN	1
+to/TO (\w+)/VB --/: or/CC (\w+)/VB --/: to/TO	2
+city/NN hopes/VBZ to/TO (\w+)/VB or/CC (\w+)/VB ./.	1
+car/NN and/CC (\w+)/VB the/DT bus/NN ,/, (\w+)/VB up/RP the/DT	1
+to/TO (\w+)/VB or/CC (\w+)/VB together/RB ./. "/''	1
+to/TO have/VB (\w+)/VB the/DT lap/NN which/WDT would/MD (\w+)/VB meant/VBN I/PRP would/MD	1
+Software/NNP people/NNS (\w+)/VBP people/NN ./. Lawyers/NNP (\w+)/VB people/NNS ./. "/''	1
+is/VBZ scheduled/VBN to/TO (\w+)/VB in/IN the/DT fall/NN and/CC (\w+)/VB in/IN	1
+could/MD only/RB (\w+)/VB or/CC (\w+)/VB	3
+to/TO (\w+)/VB his/PRP$ own/JJ foot/NN to/TO (\w+)/VB the/DT slipper/NN	1
